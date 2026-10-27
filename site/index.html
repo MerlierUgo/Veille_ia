@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>La Veille</title>
+  <meta name="robots" content="noindex">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%232335A8'/><text x='16' y='23' font-family='Georgia' font-size='20' fill='white' text-anchor='middle'>V</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,400&family=IBM+Plex+Sans+Condensed:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="masthead">
+    <div class="masthead-top">
+      <p id="edition-date" class="meta">Chargement de l'édition…</p>
+      <label class="archive meta">
+        <span>Édition</span>
+        <select id="archive-select" aria-label="Choisir une édition précédente"></select>
+      </label>
+    </div>
+    <h1 class="title">La Veille</h1>
+    <p class="tagline">Intelligence artificielle, recherche et outils — l'édition du matin</p>
+    <p id="edition-stats" class="meta stats"></p>
+  </header>
+
+  <main>
+    <section id="tldr" class="tldr" aria-labelledby="tldr-h">
+      <div class="section-head">
+        <h2 id="tldr-h">L'essentiel en cinq minutes</h2>
+        <p id="tldr-headline" class="tldr-headline"></p>
+      </div>
+      <ol id="tldr-list" class="tldr-list"></ol>
+    </section>
+
+    <section id="news" aria-labelledby="news-h">
+      <div class="section-head"><h2 id="news-h">Actualités</h2></div>
+      <div id="news-lead" class="news-lead"></div>
+      <div id="news-grid" class="news-grid"></div>
+    </section>
+
+    <section id="videos" aria-labelledby="videos-h">
+      <div class="section-head"><h2 id="videos-h">À regarder</h2></div>
+      <div id="video-grid" class="video-grid"></div>
+    </section>
+
+    <div class="research">
+      <section id="papers" aria-labelledby="papers-h">
+        <div class="section-head">
+          <h2 id="papers-h">Prépublications du jour</h2>
+          <p class="section-note">Tendances Hugging Face et nouveautés arXiv proches de tes sujets.</p>
+        </div>
+        <div id="paper-list"></div>
+      </section>
+
+      <aside id="classics" class="classics" aria-labelledby="classics-h">
+        <div class="section-head">
+          <h2 id="classics-h">Les classiques</h2>
+          <p class="section-note">Les papiers fondateurs sur lesquels s'appuie la recherche du jour.</p>
+        </div>
+        <div id="classic-list"></div>
+      </aside>
+    </div>
+  </main>
+
+  <footer class="colophon meta">
+    <p id="colophon-text"></p>
+  </footer>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <dialog id="secret-dialog" class="dialog">
+    <form method="dialog">
+      <h3>Code d'accès aux POC</h3>
+      <p>La génération de notebooks est réservée à toi. Saisis le code défini dans la variable <code>POC_SECRET</code> sur Netlify. Il sera mémorisé dans ce navigateur.</p>
+      <input id="secret-input" type="password" autocomplete="off" required>
+      <p id="secret-error" class="field-error" hidden>Saisis le code avant de continuer.</p>
+      <div class="dialog-actions">
+        <button value="cancel" class="btn ghost" formnovalidate>Annuler</button>
+        <button value="ok" class="btn" id="secret-ok">Enregistrer</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

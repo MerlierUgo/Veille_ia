@@ -1,0 +1,42 @@
+name: Veille quotidienne
+
+on:
+  schedule:
+    - cron: "17 4 * * *"   # UTC → 5h17 à Paris en hiver, 6h17 en été
+  workflow_dispatch:        # bouton « Run workflow » pour lancer à la main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-branch        # partagé avec poc.yml : jamais deux écritures en même temps
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: pipeline/requirements.txt
+
+      - name: Installer les dépendances
+        run: pip install -r pipeline/requirements.txt
+
+      - name: Récupérer la branche data
+        run: ./.github/scripts/checkout-data.sh
+
+      - name: Lancer le pipeline
+        env:
+          OUT_DIR: ${{ github.workspace }}/out
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          S2_API_KEY: ${{ secrets.S2_API_KEY }}
+        run: python pipeline/main.py
+
+      - name: Publier
+        run: ./.github/scripts/push-data.sh "Veille du $(date -u +%F)"

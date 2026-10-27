@@ -1,0 +1,78 @@
+# ─────────────────────────────────────────────────────────────
+#  Configuration de la veille IA — c'est le seul fichier à éditer
+#  pour changer tes sources et tes sujets.
+# ─────────────────────────────────────────────────────────────
+
+# Modèle Gemini (free tier). Si Google renomme ses modèles, change juste cette ligne.
+# Liste à jour : https://ai.google.dev/gemini-api/docs/models
+gemini_model: "gemini-3.8-flash"
+
+# Tes sujets d'intérêt : servent au scoring des news, vidéos et papiers.
+keywords:
+  - llm
+  - transformer
+  - agent
+  - reasoning
+  - diffusion
+  - multimodal
+  - rag
+  - fine-tuning
+  - rlhf
+  - mixture of experts
+  - inference
+  - benchmark
+  - open source
+  - quantization
+  - interpretability
+
+# ── News ─────────────────────────────────────────────────────
+# Un flux en panne n'arrête jamais le pipeline : il est juste signalé dans les logs.
+news_feeds:
+  - { name: "OpenAI",            url: "https://openai.com/news/rss.xml" }
+  - { name: "Google DeepMind",   url: "https://deepmind.google/blog/rss.xml" }
+  - { name: "Google Research",   url: "https://research.google/blog/rss/" }
+  - { name: "Hugging Face",      url: "https://huggingface.co/blog/feed.xml" }
+  - { name: "BAIR",              url: "https://bair.berkeley.edu/blog/feed.xml" }
+  - { name: "MIT Tech Review",   url: "https://www.technologyreview.com/topic/artificial-intelligence/feed" }
+  - { name: "The Verge",         url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml" }
+  - { name: "TechCrunch",        url: "https://techcrunch.com/category/artificial-intelligence/feed/" }
+  - { name: "Ars Technica",      url: "https://arstechnica.com/ai/feed/" }
+  - { name: "Import AI",         url: "https://importai.substack.com/feed" }
+  - { name: "Simon Willison",    url: "https://simonwillison.net/atom/everything/" }
+  - { name: "r/MachineLearning", url: "https://www.reddit.com/r/MachineLearning/top/.rss?t=day" }
+
+news_max_age_hours: 36
+hackernews_min_points: 60
+
+# ── Vidéos ───────────────────────────────────────────────────
+# Pour trouver un channel_id : ouvre la chaîne → « Partager la chaîne » → « Copier l'ID de la chaîne ».
+youtube_channels:
+  - { name: "Two Minute Papers",          id: "UCbfYPyITQ-7l4upoX8nvctg" }
+  - { name: "Yannic Kilcher",             id: "UCZHmQk67mSJgfCCTn7xBfew" }
+  - { name: "AI Explained",               id: "UCNJ1Ymd5yFuUPtn21xtRbbw" }
+  - { name: "Andrej Karpathy",            id: "UCXUPKJO5MZQN11PqgIvyuvQ" }
+  - { name: "Machine Learning Street Talk", id: "UCMLtBahI5DMrt0NPvDSoIRQ" }
+  - { name: "Google DeepMind",            id: "UCP7jMXSY2xbc3KCAE0MHQ-A" }
+  - { name: "3Blue1Brown",                id: "UCYO_jab_esuFRV4b17AJtAw" }
+
+videos_max_age_days: 4
+videos_max: 12
+
+# ── Papiers ──────────────────────────────────────────────────
+arxiv_categories: ["cs.LG", "cs.CL", "cs.AI", "cs.CV", "stat.ML"]
+arxiv_max_results: 150
+papers_max: 15            # nombre de papiers affichés dans « arXiv tendance »
+fulltext_max: 15          # nombre de papiers dont on extrait le texte intégral
+
+# ── Classiques recommandés ───────────────────────────────────
+classics_max: 8
+# Filet de sécurité si Semantic Scholar ne répond pas : identifiants arXiv de papiers fondateurs.
+classics_fallback:
+  - "1706.03762"   # Attention Is All You Need
+  - "1810.04805"   # BERT
+  - "2005.14165"   # GPT-3
+  - "2106.09685"   # LoRA
+  - "2203.15556"   # Chinchilla
+  - "2201.11903"   # Chain-of-Thought
+  - "2005.11401"   # RAG
+  - "2203.02155"   # InstructGPT

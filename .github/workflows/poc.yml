@@ -1,0 +1,47 @@
+name: Générer un POC
+
+run-name: POC ${{ inputs.arxiv_id }}
+
+on:
+  workflow_dispatch:
+    inputs:
+      arxiv_id:
+        description: "Identifiant arXiv (ex. 2510.12345)"
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-branch
+  cancel-in-progress: false
+
+jobs:
+  poc:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: pipeline/requirements.txt
+
+      - name: Installer les dépendances
+        run: pip install -r pipeline/requirements.txt
+
+      - name: Récupérer la branche data
+        run: ./.github/scripts/checkout-data.sh
+
+      - name: Générer le notebook
+        env:
+          OUT_DIR: ${{ github.workspace }}/out
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ARXIV_ID: ${{ inputs.arxiv_id }}
+        run: python pipeline/generate_poc.py "$ARXIV_ID" || true   # l'erreur est écrite dans un fichier lu par la page
+
+      - name: Publier
+        run: ./.github/scripts/push-data.sh "POC ${{ inputs.arxiv_id }}"
