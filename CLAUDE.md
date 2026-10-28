@@ -9,8 +9,9 @@ Chaque choix d'architecture découle de ça. Ne pas proposer de service payant s
   jamais redéployée chaque jour : elle lit ses données depuis GitHub. Regrouper les modifications de
   `site/` et `netlify/` avant de pousser sur `main`.
 - **LLM = Gemini free tier** (modèle dans `pipeline/config.yaml`). Pas d'API Claude (payante).
-  L'intégration Claude passe par le bouton « Discuter dans Claude » : copie l'article complet + un prompt
-  dans le presse-papiers et ouvre claude.ai (gratuit avec l'abonnement).
+  L'intégration Claude passe par le bouton « Discuter dans Claude » : ouvre claude.ai/new?q=… avec le
+  prompt pré-rempli (article inclus s'il est court, sinon lien vers le Markdown sur la branche `data`)
+  et copie aussi l'article complet dans le presse-papiers (gratuit avec l'abonnement).
 
 ## Architecture
 - `pipeline/` (Python) — lancé par `.github/workflows/daily.yml` vers 5h (Paris) :

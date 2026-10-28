@@ -151,19 +151,40 @@
   }
 
   // ── Discuter dans Claude ─────────────────────────────
-  const CLAUDE_PROMPT = (title, body) =>
-`Je suis data scientist et je veux comprendre en profondeur l'article « ${title} ». Son texte complet est ci-dessous.
+  // claude.ai/new?q=... pré-remplit le message : il suffit d'appuyer sur Entrée. L'URL a une taille
+  // limitée, donc l'article n'y est inclus en entier que s'il est court ; sinon le prompt pointe vers
+  // le texte intégral sur GitHub (dépôt public, lisible par Claude) et l'article reste dans le presse-papiers.
+  const CLAUDE_URL_MAX = 12000;
+  const RAW = `https://raw.githubusercontent.com/${CFG.repo}/${CFG.dataBranch || "data"}`;
 
-Commence par :
-1. L'idée centrale en 5 lignes, sans jargon inutile.
-2. Ce qui est vraiment nouveau par rapport à l'état de l'art, et les papiers sur lesquels il s'appuie.
-3. Les résultats clés et leurs limites (taille des expériences, baselines, ce qui n'est pas testé).
-4. Ce que je pourrais en tirer concrètement dans mon travail.
+  const CLAUDE_PROMPT = (p, source) =>
+`Tu es un chercheur senior en machine learning et un excellent pédagogue. Tu m'accompagnes dans la lecture d'un article scientifique.
 
-Ensuite, attends mes questions. Si je te demande du code, écris-le en PyTorch.
+## Qui je suis
+Data scientist medior (3-4 ans d'expérience). À l'aise avec Python, PyTorch, scikit-learn, les statistiques et les bases du deep learning (backprop, CNN, transformers, attention, fine-tuning). Moins à l'aise avec les preuves très formelles et les sous-domaines pointus. Je lis pour comprendre en profondeur et savoir si je peux m'en servir, pas pour survoler.
 
-=== TEXTE DE L'ARTICLE ===
-${body}`;
+## L'article
+« ${p.title} »${p.authors ? ` — ${p.authors}` : ""}
+arXiv : https://arxiv.org/abs/${p.id}
+${source}
+
+## Ce que j'attends de ta première réponse
+1. **En une phrase** : le problème attaqué et la réponse apportée.
+2. **L'intuition** : l'idée centrale expliquée simplement, avec une analogie ou un petit exemple si ça aide. Pas de jargon gratuit.
+3. **Le contexte** : ce qui existait avant, ce qui coinçait, et les 2-3 travaux sur lesquels l'article s'appuie.
+4. **La méthode pas à pas** : l'architecture ou l'algorithme, en reprenant les équations clés. Pour chaque équation, dis ce que représente chaque terme et pourquoi elle a cette forme. Si un pseudo-code PyTorch rend les choses plus claires, mets-en un court.
+5. **Les résultats** : chiffres clés, baselines, datasets. Sont-ils convaincants ?
+6. **Regard critique** : limites, hypothèses fortes, ce qui n'est pas testé, risques de surinterprétation.
+7. **Pour moi en pratique** : dans quels cas l'utiliser, coût de mise en œuvre, code ou modèles disponibles, et une petite expérience que je pourrais reproduire en une après-midi.
+8. **Pour aller plus loin** : 3 questions à me poser pour vérifier que j'ai compris, et 2-3 lectures complémentaires.
+
+## Règles
+- Réponds en français, garde les termes techniques anglais usuels (loss, embedding, attention…).
+- Appuie-toi sur le texte de l'article. Distingue clairement ce que dit l'article de ton propre avis, et dis-le si une information n'y figure pas plutôt que de l'inventer.
+- Utilise des titres et du LaTeX pour les maths.
+- Ensuite, attends mes questions. Si je te demande du code, écris-le en PyTorch, commenté.`;
+
+  const claudeUrl = (q) => `https://claude.ai/new?q=${encodeURIComponent(q)}`;
 
   async function copyText(textPromise) {
     // ClipboardItem accepte une promesse : la copie reste liée au clic même si le fetch prend du temps.
@@ -181,17 +202,26 @@ ${body}`;
     const all = [...DATA.papers, ...DATA.classics];
     const p = all.find((x) => x.id === id);
     btn.disabled = true;
-    const textPromise = fetch(`${BASE}/data/papers/${id}.md`)
-      .then((r) => (r.ok ? r.text() : `${p.title}\n\n${p.abstract}\n\nLien : ${p.url}`))
-      .then((body) => CLAUDE_PROMPT(p.title, body));
+    let hasFull = false;
+    const bodyPromise = fetch(`${BASE}/data/papers/${id}.md`)
+      .then((r) => { hasFull = r.ok; return r.ok ? r.text() : `${p.title}\n\n${p.abstract}`; });
+    const textPromise = bodyPromise.then((body) =>
+      CLAUDE_PROMPT(p, `\n=== TEXTE DE L'ARTICLE ===\n${body}\n=== FIN DU TEXTE ===`));
     try {
       const text = await copyText(textPromise);
-      const win = window.open("https://claude.ai/new", "_blank"); // « noopener » renverrait toujours null
+      const linked = CLAUDE_PROMPT(p, hasFull
+        ? `Texte intégral (Markdown) : ${RAW}/data/papers/${id}.md\nCommence par lire ce texte intégral (à défaut, le PDF : https://arxiv.org/pdf/${id}).`
+        : `Commence par lire l'article : https://arxiv.org/pdf/${id}`);
+      const inline = claudeUrl(text);
+      const url = inline.length <= CLAUDE_URL_MAX ? inline : claudeUrl(linked);
+      const win = window.open(url, "_blank"); // « noopener » renverrait toujours null
       if (win) win.opener = null;
       const k = Math.round(text.length / 1000);
-      toast(win
-        ? `Article copié (${k} k caractères). Colle-le dans Claude avec Ctrl+V ou Cmd+V.`
-        : `Article copié (${k} k caractères). <a href="https://claude.ai/new" target="_blank" rel="noopener">Ouvrir Claude</a> puis colle-le.`, 7000);
+      toast(!win
+        ? `Article copié (${k} k caractères). <a href="${esc(url)}" target="_blank" rel="noopener">Ouvrir Claude</a> puis appuie sur Entrée.`
+        : url === inline
+          ? "Prompt et article pré-remplis dans Claude : appuie sur Entrée."
+          : `Prompt pré-rempli avec le lien vers l'article : appuie sur Entrée. L'article complet (${k} k caractères) est aussi copié, au cas où Claude ne pourrait pas lire le lien.`, 9000);
     } catch (e) {
       console.error(e);
       toast("Copie impossible : ton navigateur a refusé l'accès au presse-papiers. Réessaie en restant sur cet onglet.");
