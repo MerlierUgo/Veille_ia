@@ -1,4 +1,4 @@
-"""Orchestrateur du matin : collecte → dédup → reco → texte intégral → TL;DR → JSON.
+"""Orchestrateur du matin : collecte → dédup → résumés des news → reco → texte intégral → TL;DR → JSON.
 
 Usage local :  OUT_DIR=./out GEMINI_API_KEY=... python pipeline/main.py
 """
@@ -15,6 +15,7 @@ import collect_videos
 import dedup
 import extract_fulltext
 import recommend
+import summarize_news
 import tldr
 from common import OUT_DIR, load_config, log, now_utc, write_json
 
@@ -52,7 +53,9 @@ def main() -> int:
     log.info("Sortie : %s", OUT_DIR)
 
     raw_news = safe("news", collect_news.collect, cfg)
-    news = safe("dédup", dedup.rank, raw_news, cfg["keywords"])
+    news = safe("dédup", dedup.rank, raw_news, cfg["keywords"], cfg.get("news_max", 10))
+    news.sort(key=lambda n: n["published"], reverse=True)  # les plus importantes, affichées de la plus récente à la plus ancienne
+    news = safe("résumés news", summarize_news.summarize, news, cfg, default=news)
     videos = safe("vidéos", collect_videos.collect, cfg)
     papers = safe("papiers", collect_papers.collect, cfg)
     classics = safe("classiques", recommend.recommend, papers, cfg)

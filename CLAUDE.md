@@ -14,8 +14,10 @@ Chaque choix d'architecture découle de ça. Ne pas proposer de service payant s
   et copie aussi l'article complet dans le presse-papiers (gratuit avec l'abonnement).
 
 ## Architecture
-- `pipeline/` (Python) — lancé par `.github/workflows/daily.yml` vers 5h (Paris) :
-  collecte RSS + Hacker News → dédup TF-IDF (`dedup.py`) → vidéos (RSS YouTube, sans clé)
+- `pipeline/` (Python) — lancé par `.github/workflows/daily.yml`, déclenché chaque matin par la fonction
+  planifiée Netlify `daily-trigger.mjs` (4h05 UTC) ; les crons GitHub du workflow servent de filet :
+  collecte RSS + Hacker News → dédup TF-IDF (`dedup.py`, garde `news_max` stories) → résumé FR de
+  chaque news (`summarize_news.py` : trafilatura + un seul appel Gemini) → vidéos (RSS YouTube, sans clé)
   → papiers (HF Daily Papers + API arXiv) → classiques (références des papiers tendance via
   Semantic Scholar, `recommend.py`) → texte intégral en Markdown (`extract_fulltext.py`)
   → TL;DR 5 points via Gemini (`tldr.py`) → `data/latest.json`, `data/archive/AAAA-MM-JJ.json`.

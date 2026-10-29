@@ -6,6 +6,9 @@
 # Modèle Gemini (free tier). Si Google renomme ses modèles, change juste cette ligne.
 # Liste à jour : https://ai.google.dev/gemini-api/docs/models
 gemini_model: "gemini-3.8-flash"
+# Modèle pour les résumés d'actualités (tâche simple) : tu peux mettre une version « flash-lite »
+# du free tier pour garder le quota du modèle principal. Ligne absente = gemini_model.
+gemini_model_news: "gemini-3.8-flash"
 
 # Tes sujets d'intérêt : servent au scoring des news, vidéos et papiers.
 keywords:
@@ -41,7 +44,8 @@ news_feeds:
   - { name: "Simon Willison",    url: "https://simonwillison.net/atom/everything/" }
   - { name: "r/MachineLearning", url: "https://www.reddit.com/r/MachineLearning/top/.rss?t=day" }
 
-news_max_age_hours: 36
+news_max_age_hours: 24
+news_max: 10              # nombre d'actualités affichées, chacune avec son résumé
 hackernews_min_points: 60
 
 # ── Vidéos ───────────────────────────────────────────────────

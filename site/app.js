@@ -89,6 +89,11 @@
   const byline = (n) => `<div class="byline"><strong>${esc(n.source)}</strong> · ${ago(n.published)}` +
     (n.also?.length ? `<span class="badge">${n.also.length + 1} sources</span>` : "") + `</div>`;
 
+  // Résumé IA s'il existe, sinon l'extrait RSS (éditions plus anciennes ou Gemini indisponible).
+  const newsSummary = (n) => n.ai_summary
+    ? `<p class="summary">${esc(n.ai_summary)}</p>`
+    : n.summary ? `<p class="summary">${esc(n.summary)}</p>` : "";
+
   function renderNews(list) {
     if (!list.length) {
       $("#news-lead").innerHTML = "";
@@ -100,11 +105,11 @@
     lc.classList.toggle("no-image", !lead.image);
     lc.innerHTML = `<div>${byline(lead)}
         <h3><a href="${safeUrl(lead.url)}" target="_blank" rel="noopener">${esc(lead.title)}</a></h3>
-        <p class="summary">${esc(lead.summary)}</p>${sourcesLine(lead)}</div>` +
+        ${newsSummary(lead)}${sourcesLine(lead)}</div>` +
       (lead.image ? `<figure><img src="${safeUrl(lead.image)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.closest('figure').remove();document.querySelector('#news-lead').classList.add('no-image')"></figure>` : "");
     $("#news-grid").innerHTML = rest.map((n) => `<article class="story">${byline(n)}
         <h3><a href="${safeUrl(n.url)}" target="_blank" rel="noopener">${esc(n.title)}</a></h3>
-        ${n.summary ? `<p class="summary">${esc(n.summary)}</p>` : ""}${sourcesLine(n)}</article>`).join("");
+        ${newsSummary(n)}${sourcesLine(n)}</article>`).join("");
   }
 
   function renderVideos(list) {

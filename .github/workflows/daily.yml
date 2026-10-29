@@ -1,13 +1,20 @@
 name: Veille quotidienne
 
 on:
+  # Déclencheur principal : la fonction planifiée Netlify « daily-trigger » (4h05 UTC), plus fiable.
+  # Les crons GitHub ci-dessous ne servent que de filet de sécurité.
   schedule:
-    - cron: "17 4 * * *"   # run principal : 5h17 à Bruxelles en hiver, 6h17 en été
-    - cron: "45 5 * * *"   # rattrapage : 6h45 en hiver, 7h45 en été (s'arrête si l'édition existe déjà)
-  workflow_dispatch:        # bouton « Run workflow » : force toujours une nouvelle édition
+    - cron: "17 4 * * *"
+    - cron: "45 5 * * *"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Régénérer même si l'édition du jour existe déjà"
+        type: boolean
+        default: true
 
 permissions:
-  contents: write
+  contents: write           # nécessaire pour pousser sur la branche data
 
 concurrency:
   group: data-branch        # partagé avec poc.yml : jamais deux écritures en même temps
@@ -27,7 +34,8 @@ jobs:
         id: check
         run: |
           TODAY=$(date -u +%F)
-          if [ "${{ github.event_name }}" = "schedule" ] && [ -f "out/data/archive/$TODAY.json" ]; then
+          FORCE="${{ github.event_name == 'workflow_dispatch' && inputs.force || 'false' }}"
+          if [ "$FORCE" != "true" ] && [ -f "out/data/archive/$TODAY.json" ]; then
             echo "Édition du $TODAY déjà publiée : rien à faire."
             echo "skip=true" >> "$GITHUB_OUTPUT"
           else
