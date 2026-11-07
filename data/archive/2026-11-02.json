@@ -1,0 +1,580 @@
+{
+ "generated_at": "2026-11-02T09:01:29.263929+00:00",
+ "date": "2026-11-02",
+ "tldr": {
+  "headline": "Les titres du jour",
+  "points": [
+   {
+    "title": "How to handle object deduplication across multiple camera angles using YOLO (especially for tiny 20x22px crops) across isolated user sessions? [D]",
+    "text": "I’m building a computer vision pipeline where users upload multiple photos of the same physical scene taken from different angles (front view, side view, close-up) to build a clean list of unique objects and their attributes. I’m running YOLO for object detection to extract bounding boxes and crop each detected object into lightweight ⁠.webp⁠ images. Because the same physical object appears…",
+    "ref": "news:54542b87b190"
+   },
+   {
+    "title": "[R] There is no free lunch in RLVR: under strategy specialization, every pass@1 gain provably costs some prompt, and the pass@k crossover has a tight bound [R]",
+    "text": "Paper: https://arxiv.org/abs/2610.39295 Code + verification package (every number in the paper is checked by a script): https://github.com/yliusci/no-free-lunch-rlvr Browser diagnostic: https://huggingface.co/spaces/yliusci/passk-price I kept running into the same pattern in RLVR papers: the RL model wins at pass@1 and the base model catches up or wins at large k (Yue et al. 2025 and many…",
+    "ref": "news:501d7205b81a"
+   },
+   {
+    "title": "[D] Self-Promotion Thread",
+    "text": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link shorteners, link aggregator websites , or auto-subscribe links. -- Any abuse of trust will lead to bans. Encourage others who create new posts for questions to post here instead! Thread will stay…",
+    "ref": "news:b91a53cdbef2"
+   },
+   {
+    "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
+    "text": "82 points · 71 commentaires",
+    "ref": "news:bf4bb9141e9a"
+   },
+   {
+    "title": "Benchmarking: Qwen 27B, 35B, QFN180B; Nemotron Bolt 74B, Flint40B & Clover 35B (Q4) on M5 Max 2026 on Kapitsa with KFlash [P]",
+    "text": "https://preview.redd.it/260fkihtk3zh1.png?width=2400&format=png&auto=webp&s=a80b6861abdeee3c9a4e705b6ad9b337be005722 hey folks, I'm Ye, one of the contributors to Kapitsa, an open-source inference engine optimized specifically for Apple Silicon to run Qwen, Nemotron, Flint and Clover models locally. Our custom-written Metal kernels let us tune for each chip and each model.…",
+    "ref": "news:951481474f5e"
+   }
+  ],
+  "generated": false
+ },
+ "news": [
+  {
+   "id": "54542b87b190",
+   "title": "How to handle object deduplication across multiple camera angles using YOLO (especially for tiny 20x22px crops) across isolated user sessions? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xloo4i/how_to_handle_object_deduplication_across/",
+   "source": "r/MachineLearning",
+   "published": "2026-11-02T05:15:50+00:00",
+   "summary": "I’m building a computer vision pipeline where users upload multiple photos of the same physical scene taken from different angles (front view, side view, close-up) to build a clean list of unique objects and their attributes. I’m running YOLO for object detection to extract bounding boxes and crop each detected object into lightweight ⁠.webp⁠ images. Because the same physical object appears…",
+   "image": null,
+   "signal": 0,
+   "score": -0.18,
+   "also": []
+  },
+  {
+   "id": "501d7205b81a",
+   "title": "[R] There is no free lunch in RLVR: under strategy specialization, every pass@1 gain provably costs some prompt, and the pass@k crossover has a tight bound [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xlnu1y/r_there_is_no_free_lunch_in_rlvr_under_strategy/",
+   "source": "r/MachineLearning",
+   "published": "2026-11-02T04:30:11+00:00",
+   "summary": "Paper: https://arxiv.org/abs/2610.39295 Code + verification package (every number in the paper is checked by a script): https://github.com/yliusci/no-free-lunch-rlvr Browser diagnostic: https://huggingface.co/spaces/yliusci/passk-price I kept running into the same pattern in RLVR papers: the RL model wins at pass@1 and the base model catches up or wins at large k (Yue et al. 2025 and many…",
+   "image": null,
+   "signal": 0,
+   "score": -0.22,
+   "also": []
+  },
+  {
+   "id": "b91a53cdbef2",
+   "title": "[D] Self-Promotion Thread",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xlmffv/d_selfpromotion_thread/",
+   "source": "r/MachineLearning",
+   "published": "2026-11-02T03:15:07+00:00",
+   "summary": "Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Please do not post link shorteners, link aggregator websites , or auto-subscribe links. -- Any abuse of trust will lead to bans. Encourage others who create new posts for questions to post here instead! Thread will stay…",
+   "image": null,
+   "signal": 0,
+   "score": -0.28,
+   "also": []
+  },
+  {
+   "id": "bf4bb9141e9a",
+   "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
+   "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+   "source": "Hacker News",
+   "published": "2026-11-02T01:47:07+00:00",
+   "summary": "82 points · 71 commentaires",
+   "image": null,
+   "signal": 82,
+   "discussion": "https://news.ycombinator.com/item?id=50332086",
+   "score": 3.18,
+   "also": []
+  },
+  {
+   "id": "951481474f5e",
+   "title": "Benchmarking: Qwen 27B, 35B, QFN180B; Nemotron Bolt 74B, Flint40B & Clover 35B (Q4) on M5 Max 2026 on Kapitsa with KFlash [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xljter/benchmarking_qwen_27b_35b_qfn180b_nemotron_bolt/",
+   "source": "r/MachineLearning",
+   "published": "2026-11-02T01:05:33+00:00",
+   "summary": "https://preview.redd.it/260fkihtk3zh1.png?width=2400&format=png&auto=webp&s=a80b6861abdeee3c9a4e705b6ad9b337be005722 hey folks, I'm Ye, one of the contributors to Kapitsa, an open-source inference engine optimized specifically for Apple Silicon to run Qwen, Nemotron, Flint and Clover models locally. Our custom-written Metal kernels let us tune for each chip and each model.…",
+   "image": "https://external-preview.redd.it/lD506kUiZbfR2XmsJJ8yNSBVY6lCisMuJn2qf-Dfx7s.png?width=140&height=70&auto=webp&s=d3781be07761f18fd70c3cf16dc245eb19de2a79",
+   "signal": 0,
+   "score": 1.11,
+   "also": []
+  },
+  {
+   "id": "ffb30fef9594",
+   "title": "If in doubt, delete the uv.lock file",
+   "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+   "source": "Simon Willison",
+   "published": "2026-11-01T23:24:22+00:00",
+   "summary": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries which don't include a uv.lock file, since it's rude for a library dependency to lock versions for anything else that uses it. Running uv run pytest etc tends to leave uv.lock files…",
+   "image": null,
+   "signal": 0,
+   "score": -0.47,
+   "also": []
+  },
+  {
+   "id": "71334093a413",
+   "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+   "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+   "source": "Hacker News",
+   "published": "2026-11-01T22:10:45+00:00",
+   "summary": "223 points · 220 commentaires",
+   "image": null,
+   "signal": 223,
+   "discussion": "https://news.ycombinator.com/item?id=50330456",
+   "score": 3.8,
+   "also": []
+  },
+  {
+   "id": "990d0da30a70",
+   "title": "So I guess everyone uses LLMs to think now",
+   "url": "https://eva.ac/blog/llms/",
+   "source": "Hacker News",
+   "published": "2026-11-01T21:49:04+00:00",
+   "summary": "70 points · 111 commentaires",
+   "image": null,
+   "signal": 70,
+   "discussion": "https://news.ycombinator.com/item?id=50330253",
+   "score": 2.86,
+   "also": []
+  },
+  {
+   "id": "2fe1a46c58aa",
+   "title": "It wasn't AI that flipped Proton's charge",
+   "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
+   "source": "Hacker News",
+   "published": "2026-11-01T18:53:55+00:00",
+   "summary": "155 points · 87 commentaires",
+   "image": null,
+   "signal": 155,
+   "discussion": "https://news.ycombinator.com/item?id=50328488",
+   "score": 3.34,
+   "also": []
+  },
+  {
+   "id": "8f7e0709d34e",
+   "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+   "source": "Hacker News",
+   "published": "2026-11-01T13:47:24+00:00",
+   "summary": "167 points · 80 commentaires",
+   "image": null,
+   "signal": 167,
+   "discussion": "https://news.ycombinator.com/item?id=50325662",
+   "score": 4.65,
+   "also": []
+  }
+ ],
+ "videos": [
+  {
+   "id": "yW_ngvMFlYs",
+   "title": "Why Leibniz Couldn't Find the Mind Inside the Mill (Joscha Bach)",
+   "url": "https://www.youtube.com/watch?v=yW_ngvMFlYs",
+   "channel": "Machine Learning Street Talk",
+   "published": "2026-11-02T03:04:11+00:00",
+   "thumbnail": "https://i2.ytimg.com/vi/yW_ngvMFlYs/hqdefault.jpg",
+   "views": 5773,
+   "description": "Joscha Bach is a cognitive scientist and the founder of the California Institute for Machine Consciousness. SPONSOR: --- Parallel is a single platform for all your agentic research: web search built for AI agents, with…",
+   "relevance": 0
+  },
+  {
+   "id": "CWdTBLsbaQs",
+   "title": "OpenAI Claims It Just Did The Impossible",
+   "url": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
+   "channel": "Two Minute Papers",
+   "published": "2026-10-30T15:57:16+00:00",
+   "thumbnail": "https://i4.ytimg.com/vi/CWdTBLsbaQs/hqdefault.jpg",
+   "views": 448861,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 OpenAI's paper is available here:…",
+   "relevance": 0
+  }
+ ],
+ "papers": [
+  {
+   "id": "2610.37381",
+   "title": "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations",
+   "authors": "Hanqing Wang, Zhaotian Cai, Ruichuan An, Bohan Zeng et al.",
+   "abstract": "Vision--Language--Action (VLA) models generate robot actions from visual observations and language instructions, but their understanding of physical dynamics remains limited. Video world models can capture scene dynamics, yet generating future videos introduces high latency into the control loop. We introduce PDRVLA, whose lightweight Physical Dynamics Module extracts physical tokens from vision--language features to condition action generation without online video generation. The module learns through direct prediction of future RGB, depth, and optical-flow features, with auxiliary supervision through a frozen pretrained video world model. Training relies entirely on publicly available data, expanded through human-to-robot synthesis, subtask annotation, and embodied chain-of-thought (ECoT) annotation. Across four simulation benchmarks, PDRVLA achieves success rates of 99.3% on LIBERO, 89.9% on LIBERO-Plus, 93.6% on RoboTwin~2.0, and 81.5% on SimplerEnv. Ablations show improved future prediction with world-model supervision and evaluate how subtask conditioning, future object-pose…",
+   "published": "2026-10-27T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.37381",
+   "pdf": "https://arxiv.org/pdf/2610.37381",
+   "upvotes": 158,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "PDRVLA improves robot action generation by integrating a lightweight physical dynamics module that predicts future visual features with world-model supervision, avoiding online video generation latency.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.35684",
+   "title": "OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images",
+   "authors": "Junyeong Ahn, Geonwoo Kim, Kinam Kim, Gihwi Kim et al.",
+   "abstract": "Generating videos of a specific subject from a few reference images remains challenging when the camera reveals surfaces that are not visible in the input. Early subject-to-video (S2V) methods condition on a single reference image and must therefore infer the subject's unseen appearance and geometry as the viewpoint changes. To address this limitation, recent methods extend S2V to multiple reference views, providing more information about the subject from different viewpoints. However, they do not explicitly specify the 3D structure that connects these observations. In addition, existing training data do not guarantee that viewpoint changes preserve the same underlying 3D subject. We present OmniShowcase, built on two components: (i) a fully automated data synthesis pipeline that produces training videos along diverse camera trajectories, with viewpoint variation driven by underlying subject geometry, even spanning full 360-degree orbits; and (ii) a geometry-conditioning method that provides the video model with a turntable of surface-normal maps reconstructed from the reference…",
+   "published": "2026-10-26T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.35684",
+   "pdf": "https://arxiv.org/pdf/2610.35684",
+   "upvotes": 139,
+   "github": "https://github.com/justin4ai/OmniShowcase",
+   "origin": "hf",
+   "ai_summary": "OmniShowcase improves subject-to-video generation by using geometry-driven training data and surface-normal conditioning to maintain 3D consistency across novel viewpoints.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.32749",
+   "title": "Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes",
+   "authors": "Wendi Sang, Kai Li, Yifan Li, Jianqiang Huang et al.",
+   "abstract": "Streaming audio-visual target speaker extraction (AVTSE) is essential for latency-sensitive applications. However, current causal systems face two coupled gaps. First, standard benchmarks fix the number of speakers at two and ignore the near-/far-field interference, reverberation, and sudden noise of real scenes. Second, high-performance causal architectures are too heavy for edge deployment. Lightweight alternatives try to reclaim capacity by repeatedly invoking a small separator, which offsets the savings. To address the first gap, we release RealSSA, a realistic AVTSE benchmark consisting of RealSSA-Sim and RealSSA-Real. RealSSA-Sim provides controllable simulated scenes with 1--5 dynamic near-field interfering speakers; scenes with far-field interference additionally include 10--15 far-field interfering speakers. RealSSA-Real provides a held-out real-recorded evaluation set. To address the second gap, we propose Falcon, a causal AVTSE method. Its Separator performs multi-scale time-frequency separation in a single encoder--decoder pass. We train Falcon with an encoder-space…",
+   "published": "2026-10-23T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.32749",
+   "pdf": "https://arxiv.org/pdf/2610.32749",
+   "upvotes": 136,
+   "github": "https://github.com/JusperLee/Falcon",
+   "origin": "hf",
+   "ai_summary": "Falcon is a lightweight causal audio-visual target speaker extraction method that achieves high quality with drastically reduced parameters and latency, supported by the realistic RealSSA benchmark.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.36671",
+   "title": "Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs",
+   "authors": "Donghyeon Cho, Joowon Kim, Seungho Shin, Eunho Yang",
+   "abstract": "Diffusion vision-language models (DVLMs) process their entire input at every denoising step. Since visual tokens make up 89-97% of this input on the benchmarks we study, most of the decoding computation is spent repeatedly processing the same image. Visual token pruning methods partially relieve this burden by removing part of the visual tokens, but they lose the removed information and still process the remaining image at every step. To measure how often the image is actually needed, we compare LLaDA-V's predictions with and without the image at every decoding step and find that removing the image changes a token being unmasked at only 22.8% of steps on average and at as few as 7.9%. We therefore propose LOWN, a decoding method that decides at every step whether to process the image and how many tokens to unmask. LOWN predicts the masked tokens without the image and processes the image only when this prediction disagrees with the last image-conditioned prediction. Agreement certifies the earlier prediction for reuse, and the number of certified tokens sets how many are unmasked in…",
+   "published": "2026-10-27T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.36671",
+   "pdf": "https://arxiv.org/pdf/2610.36671",
+   "upvotes": 110,
+   "github": "https://github.com/hyeon9698/LOWN",
+   "origin": "hf",
+   "ai_summary": "LOWN adaptively skips image processing during diffusion vision-language model decoding when predictions agree, reducing computation while preserving accuracy.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.37230",
+   "title": "TAO: Tool-Aware Joint Scheduling for LLM-Based Agentic Serving",
+   "authors": "Shuhuai Li, Shengdong Ye, Dongdong Ge, Yinyu Ye et al.",
+   "abstract": "Agentic services alternate between model inference on clustered GPUs and external tools on distributed CPUs. In this scenario, existing systems (1) overlook tool-return readiness in service evaluation, wasting limited resources, and (2) use heuristic strategies to decide admission and placement on GPUs, resulting in suboptimal scheduling decisions. To bridge this gap, we present TAO, a tool-aware joint scheduling framework for LLM-based agentic serving. Its value interface combines near-term tool readiness, node-specific cache credit with time-aware decay, and token footprint; a dynamic program jointly selects and places waiting sessions under capacity constraints. Across the 12 reported model-workload-concurrency settings, TAO reduces latency by up to 26.8%, reduces mean time to first token (TTFT) by up to 36.3%, and increases decode throughput by up to 29.5% relative to the best evaluated state-of-the-art baseline for each metric.",
+   "published": "2026-10-27T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.37230",
+   "pdf": "https://arxiv.org/pdf/2610.37230",
+   "upvotes": 95,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "TAO improves scheduling for LLM agent services by considering tool readiness and using dynamic programming to place sessions, reducing latency and increasing throughput.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.38568",
+   "title": "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement",
+   "authors": "Yu Liu, Youxing Li, Yuedong Tan, Zhiwei Yang et al.",
+   "abstract": "Recursive self-improvement requires models not only to acquire useful training experience, but also to decide when their current experience has ceased to be useful. Existing methods often focus on what experience to generate next, while paying less attention to when fresh experience should be introduced. Many also construct training targets through self-consistency or majority voting, making supervision depend on the model's own uncertain predictions. We address these two questions separately: training dynamics determine when to acquire new experience, while the answers to new tasks remain independently checkable. A-RSI monitors reward variation and accuracy in training logs to refresh a task pool when its learning signal declines, without consulting validation or test scores. A static library of model-authored programs produces multimodal questions and derives their reference answers; we specify the task-generation contract, automatically verify chosen properties of the reward and refresh rules, and separately audit the generated answers. The training loop uses no external training…",
+   "published": "2026-10-28T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.38568",
+   "pdf": "https://arxiv.org/pdf/2610.38568",
+   "upvotes": 76,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "A-RSI improves recursive self-improvement by refreshing training tasks based on declining learning signals and using independently verifiable program-generated answers, raising benchmark performance without external labels.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.39302",
+   "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+   "authors": "Randall Balestriero, Yann LeCun",
+   "abstract": "Whether models trained on different modalities converge to the same representation of the world is central to AI. The Platonic Representation Hypothesis (PRH) conjectures that they do as they scale, but without a proof it offers neither a guarantee nor a recipe. We turn the hypothesis into a theorem. First, we prove a Platonic Representation Theorem: Joint-Embedding Predictive Architectures (JEPAs) trained separately on any number of modalities learn the same representation up to one rotation whenever their positive pairs are two observations of one scene--good views--and their misalignment is bounded otherwise. Second, we show that next-token prediction is a JEPA with bad views, parts of a single document, which explains why language models align with vision only through scale. Third, we validate the theory from 145k captions to the texts of 940M web images, and uncover a scaling law of alignment that predicts unseen runs within seed noise. Good views need 42 times fewer training samples than next-token prediction on the same corpus to reach the same alignment, and a 109M-parameter…",
+   "published": "2026-10-29T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.39302",
+   "pdf": "https://arxiv.org/pdf/2610.39302",
+   "upvotes": 66,
+   "github": "https://github.com/galilai-group/prh-proof",
+   "origin": "hf",
+   "ai_summary": "Joint-embedding predictive architectures trained on aligned multi-modal observations converge to shared representations with far greater efficiency than next-token prediction, demonstrating that positive view design—not scale alone—drives cross-modal alignment.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.37161",
+   "title": "WorkFactory: Turning Professional Intents into Executable Work for Scalable Agent Training",
+   "authors": "Ziyang Zeng, Tingyang Chen, Jia Deng, Qiyao Wang et al.",
+   "abstract": "Scaling supervised training for working agents requires diverse professional tasks that yield reliable expert demonstrations. However, missing or inconsistent task information can obstruct teacher execution and weaken the resulting supervision. We propose WorkFactory, a scalable framework for constructing coherent and executable professional tasks. Starting from professional intents, information-level planning builds an information support graph to guide task instantiation, explicitly representing the dependencies and locations of information required for the intended outputs. Probe executions then identify support failures and guide repairs while preserving the intended work. We construct 112,686 tasks spanning 612 occupations and use the collected teacher trajectories to fine-tune Qwen models at 4B, 27B, and 35B-A3B scales, yielding the WorkPilot family. All three models improve over their respective base models across four professional-work benchmarks, with WorkPilot-35B-A3B improving from 879 to 1565 Elo on GDPval-AA v2.1. Scaling analyses reveal model-dependent diminishing…",
+   "published": "2026-10-27T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.37161",
+   "pdf": "https://arxiv.org/pdf/2610.37161",
+   "upvotes": 57,
+   "github": "https://github.com/IQuestLab/WorkFactory",
+   "origin": "hf",
+   "ai_summary": "WorkFactory builds coherent professional tasks via information planning and repair, yielding WorkPilot models that improve expert-level agent performance across benchmarks.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.31670",
+   "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+   "authors": "Yunfei Xie, Howard H. Qian, Shiyi Lan, Kaiyu Hang et al.",
+   "abstract": "Robot foundation models are typically evaluated through costly closed-loop rollouts, motivating low-cost offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests that as representations improve, modalities such as vision and language converge toward a shared statistical model of reality. We ask whether motion trajectories form another such modality: as embodied models become more capable, should their sensory representations converge toward the structure of physical motion? To test this, we propose Sensorimotor Alignment (S^2), a training-free offline metric that measures how well a model's sensory representation aligns with the geometry of physical motion. We find that S^2 correlates positively with downstream robot task success across model families, making it a low-cost offline proxy for prioritizing models before closed-loop evaluation. S^2 can also identify promising vision-language model (VLM) backbones before costly fine-tuning into vision-language-action models (VLAs). Beyond this correlation, S^2 offers representation-level explanations…",
+   "published": "2026-10-23T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.31670",
+   "pdf": "https://arxiv.org/pdf/2610.31670",
+   "upvotes": 56,
+   "github": "https://github.com/yunfeixie233/sensorimotor-alignment",
+   "origin": "hf",
+   "ai_summary": "Sensorimotor alignment measures how sensory representations match physical motion geometry, serving as a low-cost offline predictor of robot model performance.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.39497",
+   "title": "Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?",
+   "authors": "Qi Wang, Yun Qu, Lizhou Cai, Heming Zou et al.",
+   "abstract": "Progress toward artificial general intelligence (AGI) has largely relied on scaling a resource-intensive executive, System-2, through larger models, more data and compute, longer reasoning, and more agents. We ask whether the next stage may come instead from co-designing it with System-1, a lightweight, semantically aware predictor that evaluates candidate interactions before execution, so that System-2 acts only on those worth their cost. Our answer is a qualified yes. We study conditional interaction, a predict--gate--execute--update loop: System-1 estimates each candidate's utility, System-2 executes those admitted by an adaptive threshold, and the outcomes update System-1. The loop spans training, test-time reasoning, adaptive decision-making, and agentic tool use, with utility and cost defined by the application. Under ideal screening and equal execution costs, execution compute falls by a factor approaching 1/ρ_u, where ρ_u is the density of utility-relevant interactions (cost-weighted when costs differ); prediction errors, exploration, and distribution shift reduce the…",
+   "published": "2026-10-29T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.39497",
+   "pdf": "https://arxiv.org/pdf/2610.39497",
+   "upvotes": 52,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "Co-designing a resource-heavy reasoning system with a lightweight predictive evaluator can reduce execution costs by filtering interactions, with efficiency governed by the density of useful interactions.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.42148",
+   "title": "Flide: Accelerating Decision Inference with Exact State Forking",
+   "authors": "Bobo Li, Jiajia Song, Hao Fei, Wynne Hsu et al.",
+   "abstract": "Decision models such as Jev have emerged as a highly promising paradigm for LLM agent systems, providing lightweight and reliable categorical reasoning for rapid System One execution. However, existing generation-oriented inference engines fail to support these workloads effectively, suffering from severe prefix recomputation overheads or distorted output probabilities. To address this challenge, we propose Flide, an efficient and exact inference engine that decouples the logical tree structure of a decision request from its physical execution within a single flattened token stream. Through ForkAttention, Flide navigates request dependencies using GPU-resident indices across both standard attention and recurrent Gated DeltaNet layers, guaranteeing in exact arithmetic that every query branch evaluates identically to an isolated forward pass. By expressing branch topologies directly in GPU-resident metadata, Flide accommodates diverse request mixtures with a compact set of pre-recorded execution graphs while enabling expanding agent histories to resume from checkpoints saved in…",
+   "published": "2026-10-30T17:59:38Z",
+   "url": "https://arxiv.org/abs/2610.42148",
+   "pdf": "https://arxiv.org/pdf/2610.42148",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CL"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.42028",
+   "title": "CausalXRL: Explainable Reinforcement Learning through Causal Graph Reasoning",
+   "authors": "Yanming Zhang, Eric Papenhausen, Klaus Mueller",
+   "abstract": "Reinforcement learning is a powerful paradigm for training autonomous agents and has achieved impressive performance in complex environments. However, this success often comes at the cost of interpretability, diminishing trust and complicating efforts to debug and improve agent behavior. To address these challenges, we introduce CausalXRL, a novel framework for explainable reinforcement learning (XRL). A key feature of CausalXRL is its use of causal graph reasoning, which provides transparent, structured, multi-level explanations of agent decision-making. We validate CausalXRL through comprehensive case studies and a two-part evaluation: (1) a quantitative analysis of explanation fidelity and causal-structure learning efficiency in benchmark RL environments, and (2) a qualitative expert study assessing explainability in the real-time strategy (RTS) benchmark MicroRTS. The quantitative results show that CausalXRL can provide faithful explanations while efficiently learning causal structures, and the qualitative expert study suggests that participants found CausalXRL useful for…",
+   "published": "2026-10-30T16:55:46Z",
+   "url": "https://arxiv.org/abs/2610.42028",
+   "pdf": "https://arxiv.org/pdf/2610.42028",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.LG"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.41885",
+   "title": "How Much Can Tool Calls Reveal About You? Privacy Leakage from Tool-Call Traces",
+   "authors": "Donghang Duan, Qingyu Liu, Yifei Liu, Na Zou et al.",
+   "abstract": "Large language model (LLM)-based agents interact with external tools through protocols such as the Model Context Protocol (MCP), producing tool-call traces that may expose behavioral signals about users. In this work, we systematically study the risk of user-profile inference from MCP tool-call traces, where observers infer user attributes from protocol-valid tool interactions without access to user conversations. We introduce PrivacyTrace, a benchmark containing 1,000 synthetic user profiles and 4,000 agent trajectories across four domains, generated with real MCP tools from 25 servers. Experiments with four mainstream LLM attackers show that tool-call traces enable a 26.25% attack success rate for profile inference, compared with 17.97% from prior-based guessing. Further analysis reveals that tool arguments and returned results provide the main trace-grounded evidence, while linking traces across sessions further amplifies profiling risk. These findings demonstrate that MCP tool-call traces can act as effective behavioral side channels for user profiling, motivating the…",
+   "published": "2026-10-30T15:30:23Z",
+   "url": "https://arxiv.org/abs/2610.41885",
+   "pdf": "https://arxiv.org/pdf/2610.41885",
+   "upvotes": 0,
+   "github": "https://github.com/AI45Lab/PrivacyTrace",
+   "origin": "arxiv",
+   "categories": [
+    "cs.CR",
+    "cs.CL"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.41754",
+   "title": "Multimodal In-Context Learning with Explicit Rule Induction",
+   "authors": "Yuquan Li, Xinyang Jiang, Yuhao Xue, Cairong Zhao",
+   "abstract": "A central challenge in multimodal in-context learning (MICL) arises from tasks that are ill-defined without context and require uncovering the underlying rules from demonstrations. Existing methods predominantly treat MICL as direct input-output mapping, overlooking the importance of explicitly inducing and reasoning over such rules, limiting both performance and interpretability. We propose ERIM, Explicit Rule-Induction for Multimodal In-Context Learning, a unified framework that enhances MICL by explicitly inducing the latent rules governing demonstration samples. Leveraging the reasoning ability of multi-modal large language model (MLLM), ERIM constructs rule-centric MICL datasets, introduces explicit supervision for rule induction, and fine-tunes MLLM to perform explicit rule-induction via a two-stage training strategy that combines mixed cold-start supervised fine-tuning with reinforcement learning. Extensive experiments show consistent performance improvements across diverse MICL settings and demonstrate that correctly inducing underlying rules directly leads to stronger and…",
+   "published": "2026-10-30T13:57:30Z",
+   "url": "https://arxiv.org/abs/2610.41754",
+   "pdf": "https://arxiv.org/pdf/2610.41754",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.AI"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.42149",
+   "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
+   "authors": "Byungwoo Jeon, Yoonwoo Jeong, Hyunseok Lee, Minsu Cho et al.",
+   "abstract": "Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought reasoning for image generation. As a result, existing reasoning-augmented UMMs often fail to inherit the test-time scaling and fine-grained controllability observed in large language models. We attribute this failure to a fundamental modality mismatch: reasoning is performed in a discrete token space, whereas image generation operates in a continuous space. To bridge this gap, we introduce a Latent Reasoning framework in Continuous space (LARC), which alleviates the token-level bottleneck by reasoning over continuous hidden states. Specifically, the training framework consists of two stages: (i) curriculum supervised fine-tuning (SFT), and (ii) information-gain reinforcement learning (RL). First, the curriculum SFT stage gradually converts token-level reasoning into latent reasoning. Subsequently, the information-gain RL stage self-evolves latent reasoning without ground truth…",
+   "published": "2026-10-30T17:59:43Z",
+   "url": "https://arxiv.org/abs/2610.42149",
+   "pdf": "https://arxiv.org/pdf/2610.42149",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CV",
+    "cs.CL",
+    "cs.LG"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "classics": [
+  {
+   "id": "2010.11929",
+   "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+   "year": 2020,
+   "authors": "A. Dosovitskiy, Lucas Beyer, Alexander Kolesnikov et al.",
+   "abstract": "While the Transformer architecture has become the de-facto standard for natural language processing tasks, its applications to computer vision remain limited. In vision, attention is either applied in conjunction with convolutional networks, or used to replace certain components of convolutional networks while keeping their overall structure in place. We show that this reliance on CNNs is not necessary and a pure transformer applied directly to sequences of image patches can perform very well on image classification tasks. When pre-trained on large amounts of data and transferred to multiple mid-sized or small image recognition benchmarks (ImageNet, CIFAR-100, VTAB, etc.), Vision…",
+   "citations": 73354,
+   "url": "https://arxiv.org/abs/2010.11929",
+   "cited_by": [
+    "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+    "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2311.16502",
+   "title": "MMMU: A Massive Multi-Discipline Multimodal Understanding and Reasoning Benchmark for Expert AGI",
+   "year": 2023,
+   "authors": "Xiang Yue, Yuansheng Ni, Tian-Yu Zheng et al.",
+   "abstract": "We introduce MMMU: a new benchmark designed to evaluate multimodal models on massive multi-discipline tasks demanding college-level subject knowledge and deliberate reasoning. MMMU includes 11.5K meticulously collected multimodal questions from college exams, quizzes, and text-books, covering six core disciplines: Art & Design, Busi-ness, Science, Health & Medicine, Humanities & Social Science, and Tech & Engineering. These questions span 30 subjects and 183 subfields, comprising 30 highly het-erogeneous image types, such as charts, diagrams, maps, tables, music sheets, and chemical structures. Unlike existing benchmarks, MMMU focuses on advanced perception and reasoning with…",
+   "citations": 2818,
+   "url": "https://arxiv.org/abs/2311.16502",
+   "cited_by": [
+    "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement",
+    "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2307.06281",
+   "title": "MMBench: Is Your Multi-modal Model an All-around Player?",
+   "year": 2023,
+   "authors": "Yuan Liu, Haodong Duan, Yuan-Han Zhang et al.",
+   "abstract": "Large vision-language models (VLMs) have recently achieved remarkable progress, exhibiting impressive multimodal perception and reasoning abilities. However, effectively evaluating these large VLMs remains a major challenge, hindering future development in this domain. Traditional benchmarks like VQAv2 or COCO Caption provide quantitative performance measurements but lack fine-grained ability assessment and robust evaluation metrics. Meanwhile, subjective benchmarks, such as OwlEval, offer comprehensive evaluations of a model's abilities by incorporating human labor, which is not scalable and may display significant bias. In response to these challenges, we propose MMBench, a bilingual…",
+   "citations": 2694,
+   "url": "https://arxiv.org/abs/2307.06281",
+   "cited_by": [
+    "Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs",
+    "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1910.10897",
+   "title": "Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning",
+   "year": 2019,
+   "authors": "Tian-He Yu, Deirdre Quillen, Zhan-Peng He et al.",
+   "abstract": "Meta-reinforcement learning algorithms can enable robots to acquire new skills much more quickly, by leveraging prior experience to learn how to learn. However, much of the current research on meta-reinforcement learning focuses on task distributions that are very narrow. For example, a commonly used meta-reinforcement learning benchmark uses different running velocities for a simulated robot as different tasks. When policies are meta-trained on such narrow task distributions, they cannot possibly generalize to more quickly acquire entirely new tasks. Therefore, if the aim of these methods is to enable faster acquisition of entirely new behaviors, we must evaluate them on task distributions…",
+   "citations": 1905,
+   "url": "https://arxiv.org/abs/1910.10897",
+   "cited_by": [
+    "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations",
+    "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2403.12945",
+   "title": "DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset",
+   "year": 2024,
+   "authors": "Alexander Khazatsky, Karl Pertsch, S. Nair et al.",
+   "abstract": "The creation of large, diverse, high-quality robot manipulation datasets is an important stepping stone on the path toward more capable and robust robotic manipulation policies. However, creating such datasets is challenging: collecting robot manipulation data in diverse environments poses logistical and safety challenges and requires substantial investments in hardware and human labour. As a result, even the most general robot manipulation policies today are mostly trained on data collected in a small number of environments with limited scene and task diversity. In this work, we introduce DROID (Distributed Robot Interaction Dataset), a diverse robot manipulation dataset with 76k…",
+   "citations": 1296,
+   "url": "https://arxiv.org/abs/2403.12945",
+   "cited_by": [
+    "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations",
+    "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2308.12952",
+   "title": "BridgeData V2: A Dataset for Robot Learning at Scale",
+   "year": 2023,
+   "authors": "H. Walke, Kevin Black, Abraham Lee et al.",
+   "abstract": "We introduce BridgeData V2, a large and diverse dataset of robotic manipulation behaviors designed to facilitate research on scalable robot learning. BridgeData V2 contains 60,096 trajectories collected across 24 environments on a publicly available low-cost robot. BridgeData V2 provides extensive task and environment variability, leading to skills that can generalize across environments, domains, and institutions, making the dataset a useful resource for a broad range of researchers. Additionally, the dataset is compatible with a wide variety of open-vocabulary, multi-task learning methods conditioned on goal images or natural language instructions. In our experiments, we train 6…",
+   "citations": 969,
+   "url": "https://arxiv.org/abs/2308.12952",
+   "cited_by": [
+    "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations",
+    "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2103.00020",
+   "title": "Learning Transferable Visual Models From Natural Language Supervision",
+   "year": 2021,
+   "authors": "A. Radford, Jong Wook Kim, Chris Hallacy et al.",
+   "abstract": "State-of-the-art computer vision systems are trained to predict a fixed set of predetermined object categories. This restricted form of supervision limits their generality and usability since additional labeled data is needed to specify any other visual concept. Learning directly from raw text about images is a promising alternative which leverages a much broader source of supervision. We demonstrate that the simple pre-training task of predicting which caption goes with which image is an efficient and scalable way to learn SOTA image representations from scratch on a dataset of 400 million (image, text) pairs collected from the internet. After pre-training, natural language is used to…",
+   "citations": 59255,
+   "url": "https://arxiv.org/abs/2103.00020",
+   "cited_by": [
+    "OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images",
+    "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+    "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success"
+   ],
+   "why": "Cité par 3 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2405.05941",
+   "title": "Evaluating Real-World Robot Manipulation Policies in Simulation",
+   "year": 2024,
+   "authors": "Xuanlin Li, Kyle Hsu, Jia-Yuan Gu et al.",
+   "abstract": "The field of robotics has made significant advances towards generalist robot manipulation policies. However, real-world evaluation of such policies is not scalable and faces reproducibility challenges, which are likely to worsen as policies broaden the spectrum of tasks they can perform. We identify control and visual disparities between real and simulated environments as key challenges for reliable simulated evaluation and propose approaches for mitigating these gaps without needing to craft full-fidelity digital twins of real-world environments. We then employ these approaches to create SIMPLER, a collection of simulated environments for manipulation policy evaluation on common real robot…",
+   "citations": 642,
+   "url": "https://arxiv.org/abs/2405.05941",
+   "cited_by": [
+    "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations",
+    "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "stats": {
+  "raw_news": 18,
+  "stories": 10,
+  "videos": 2,
+  "papers": 15,
+  "classics": 8,
+  "seconds": 657
+ }
+}

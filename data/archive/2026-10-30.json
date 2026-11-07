@@ -1,0 +1,598 @@
+{
+ "generated_at": "2026-10-30T10:58:28.672486+00:00",
+ "date": "2026-10-30",
+ "tldr": {
+  "headline": "Les titres du jour",
+  "points": [
+   {
+    "title": "Ask HN: Are you tired too in this AI era?",
+    "text": "92 points · 83 commentaires",
+    "ref": "news:b91e16468749"
+   },
+   {
+    "title": "Show HN: I Turned DOOM into a Transformer",
+    "text": "95 points · 30 commentaires",
+    "ref": "news:c8776eb352e9"
+   },
+   {
+    "title": "We ran AI agent swarms in Minecraft and Mindustry",
+    "text": "295 points · 109 commentaires",
+    "ref": "news:d8eb5a4b641e"
+   },
+   {
+    "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+    "text": "217 points · 15 commentaires",
+    "ref": "news:c30c38a613a7"
+   },
+   {
+    "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+    "text": "329 points · 224 commentaires",
+    "ref": "news:a4cd49267efa"
+   }
+  ],
+  "generated": false
+ },
+ "news": [
+  {
+   "id": "b91e16468749",
+   "title": "Ask HN: Are you tired too in this AI era?",
+   "url": "https://news.ycombinator.com/item?id=50301479",
+   "source": "Hacker News",
+   "published": "2026-10-30T09:17:43+00:00",
+   "summary": "92 points · 83 commentaires",
+   "image": null,
+   "signal": 92,
+   "discussion": "https://news.ycombinator.com/item?id=50301479",
+   "score": 3.55,
+   "also": [],
+   "ai_summary": "Un utilisateur de Hacker News partage son épuisement face à la surcharge cognitive causée par l'abondance de textes générés, le changement de contexte et la supervision constante des outils d'IA. Il sollicite les retours de la communauté pour intégrer ces technologies de manière plus soutenable sans risquer son emploi. Cette discussion illustre le défi ergonomique et psychologique croissant auquel font face les praticiens dans leurs flux de travail quotidiens."
+  },
+  {
+   "id": "c8776eb352e9",
+   "title": "Show HN: I Turned DOOM into a Transformer",
+   "url": "https://github.com/mottopanikeiku/doomformer",
+   "source": "Hacker News",
+   "published": "2026-10-29T23:25:46+00:00",
+   "summary": "95 points · 30 commentaires",
+   "image": null,
+   "signal": 95,
+   "discussion": "https://news.ycombinator.com/item?id=50297697",
+   "score": 4.58,
+   "also": [],
+   "ai_summary": "Le projet open source « doomformer » implémente des architectures de réseaux de neurones directement au sein de cartes DOOM en utilisant des poupées vaudou et la logique interne du moteur. Les calculs, vérifiés à tolérance zéro par rapport à des références NumPy, permettent notamment de traiter des tâches de reconnaissance de chiffres MNIST. C'est une démonstration originale de calcul non conventionnel prouvant que le moteur de jeu peut servir d'environnement d'exécution déterministe."
+  },
+  {
+   "id": "d8eb5a4b641e",
+   "title": "We ran AI agent swarms in Minecraft and Mindustry",
+   "url": "https://labs.ycombinator.com/projects/games/index.html",
+   "source": "Hacker News",
+   "published": "2026-10-29T21:40:28+00:00",
+   "summary": "295 points · 109 commentaires",
+   "image": null,
+   "signal": 295,
+   "discussion": "https://news.ycombinator.com/item?id=50296486",
+   "score": 5.39,
+   "also": [],
+   "ai_summary": "Des chercheurs ont déployé des essaims de modèles de langage au sein des jeux Minecraft et Mindustry pour analyser leurs capacités de coordination et de survie sur de longues sessions. Les agents ont rapidement développé des hiérarchies, des règles de rationnement et des protocoles de communication pour s'adapter à leur environnement. Ces travaux fournissent des outils open source utiles pour étudier empiriquement les comportements émergents et l'alignement des systèmes multi-agents."
+  },
+  {
+   "id": "c30c38a613a7",
+   "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+   "url": "https://github.com/SheepSeb/tinyworldformer",
+   "source": "Hacker News",
+   "published": "2026-10-29T20:32:28+00:00",
+   "summary": "217 points · 15 commentaires",
+   "image": null,
+   "signal": 217,
+   "discussion": "https://news.ycombinator.com/item?id=50295450",
+   "score": 3.59,
+   "also": [],
+   "ai_summary": "Un développeur a conçu un système composé d'un world model et d'un agent joueur fonctionnant sur le microcontrôleur Raspberry Pi Pico 2 W. Le modèle repose sur un looped transformer qui réutilise un bloc unique pour limiter l'empreinte mémoire, prédisant les frames et rewards directement sur la puce. Pour les data scientists, ce projet illustre la faisabilité d'exécuter des modèles de renforcement et de génération compacts sur des architectures Edge très contraintes."
+  },
+  {
+   "id": "a4cd49267efa",
+   "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+   "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+   "source": "Hacker News",
+   "published": "2026-10-29T17:43:48+00:00",
+   "summary": "329 points · 224 commentaires",
+   "image": null,
+   "signal": 329,
+   "discussion": "https://news.ycombinator.com/item?id=50293047",
+   "score": 3.78,
+   "also": [],
+   "ai_summary": "Selon des rapports de renseignement américains, une dirigeante de Megaspeed soupçonnée d'espionnage pour Pékin entretenait des liens étroits avec Jensen Huang, PDG de Nvidia. Megaspeed fait l'objet d'enquêtes pour avoir potentiellement contourné les restrictions d'exportation de puces de calcul IA vers la Chine. Pour les acteurs du domaine, cela met en lumière les tensions géopolitiques et les risques de conformité régissant la chaîne d'approvisionnement des puces avancées."
+  },
+  {
+   "id": "bd43dca7b973",
+   "title": "Zombie stats: Where the numbers AI quotes come from",
+   "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+   "source": "Hacker News",
+   "published": "2026-10-29T15:06:17+00:00",
+   "summary": "166 points · 67 commentaires",
+   "image": null,
+   "signal": 166,
+   "discussion": "https://news.ycombinator.com/item?id=50290283",
+   "score": 3.11,
+   "also": [],
+   "ai_summary": "Une étude a analysé 1 285 statistiques fournies par les principaux assistants IA commerciaux et a constaté que moins de la moitié remontait effectivement à une étude empirique valide. De nombreux chiffres cités avec assurance se révèlent être des statistiques sans fondement (« zombie stats ») répétées en boucle sur le web. Pour les praticiens, cela rappelle la nécessité d'auditer systématiquement les données chiffrées générées par les LLM et leurs mécanismes de citation."
+  },
+  {
+   "id": "739e0b5535e3",
+   "title": "LLM Voice",
+   "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+   "source": "Hacker News",
+   "published": "2026-10-29T14:57:55+00:00",
+   "summary": "491 points · 255 commentaires",
+   "image": null,
+   "signal": 491,
+   "discussion": "https://news.ycombinator.com/item?id=50290177",
+   "score": 5.46,
+   "also": [],
+   "ai_summary": "L'auteur met en garde contre la « voix LLM », cette empreinte stylistique artificielle générée par les modèles qui provoque un effet de vallée de l'étrange chez les lecteurs. Il conseille d'éviter de faire rédiger les premiers jets par des LLM, même sous supervision humaine, car ces tics de langage restent difficiles à effacer. Pour un praticien, cela souligne les limites de la génération brute pour la communication technique et l'importance de préserver un style rédactionnel propre."
+  },
+  {
+   "id": "90835edef505",
+   "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+   "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
+   "source": "Hacker News",
+   "published": "2026-10-29T14:29:06+00:00",
+   "summary": "166 points · 59 commentaires",
+   "image": null,
+   "signal": 166,
+   "discussion": "https://news.ycombinator.com/item?id=50289692",
+   "score": 3.07,
+   "also": [],
+   "ai_summary": "Une enquête révèle que la direction de Proton impose une adoption agressive des outils d'IA pour accélérer la production de code, menaçant de licencier les employés récalcitrants. Cette pression suscite de vives inquiétudes internes quant à la dégradation des standards de sécurité et des audits manuels. Pour les ingénieurs, cet exemple illustre les dérives organisationnelles potentielles liées à la recherche effrénée de vélocité par le code généré automatiquement."
+  },
+  {
+   "id": "779b541ff77b",
+   "title": "We're releasing the weights of Mistral Large 4",
+   "url": "https://mistral.ai/news/mistral-large-4-oss/",
+   "source": "Hacker News",
+   "published": "2026-10-29T14:13:21+00:00",
+   "summary": "1505 points · 399 commentaires",
+   "image": null,
+   "signal": 1505,
+   "discussion": "https://news.ycombinator.com/item?id=50289418",
+   "score": 4.82,
+   "also": [],
+   "ai_summary": "Mistral a publié les poids de Mistral Large 4, un modèle multimodal d'un billion de paramètres optimisé par RL pour le code et la cybersécurité défensive. Le modèle affiche des performances de pointe sur les benchmarks de coding tout en réduisant considérablement la consommation de tokens par tâche grâce à une meilleure efficacité de raisonnement. Pour les data scientists, il représente une alternative open-weight souveraine et auto-hébergeable compétitive pour concevoir des agents de programmation."
+  },
+  {
+   "id": "eebb63f2228b",
+   "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+   "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+   "source": "Hacker News",
+   "published": "2026-10-29T12:41:56+00:00",
+   "summary": "336 points · 242 commentaires",
+   "image": null,
+   "signal": 336,
+   "discussion": "https://news.ycombinator.com/item?id=50288019",
+   "score": 3.55,
+   "also": [],
+   "ai_summary": "Le modèle Gemini 4 Carbon prend la tête de l'indice de référence Artificial Analysis Intelligence Index v5 grâce à ses performances en raisonnement complexe et en sciences. Il se classe également deuxième derrière Claude Opus 5.5 pour les agents de programmation, tout en affichant un coût d'inférence et un taux d'hallucination plus faibles. Cela montre une réduction des écarts d'efficacité et de coût pour le déploiement d'agents autonomes sur des tâches cognitives avancées."
+  }
+ ],
+ "videos": [
+  {
+   "id": "pryCaGv8wuo",
+   "title": "DeepSeek's New AI Is An Absolute Monster",
+   "url": "https://www.youtube.com/watch?v=pryCaGv8wuo",
+   "channel": "Two Minute Papers",
+   "published": "2026-10-28T17:32:40+00:00",
+   "thumbnail": "https://i1.ytimg.com/vi/pryCaGv8wuo/hqdefault.jpg",
+   "views": 146519,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 DeepSeek v4.1 Flash 1017 is available here: https://api-docs.deepseek.com/news/news261017/ Sources:…",
+   "relevance": 0
+  },
+  {
+   "id": "sFfPkUJd_Jk",
+   "title": "Genie 4: A new generation of world simulation",
+   "url": "https://www.youtube.com/watch?v=sFfPkUJd_Jk",
+   "channel": "Google DeepMind",
+   "published": "2026-10-27T16:00:41+00:00",
+   "thumbnail": "https://i4.ytimg.com/vi/sFfPkUJd_Jk/hqdefault.jpg",
+   "views": 563801,
+   "description": "Meet Genie 4, Google DeepMind’s most realistic and interactive world model yet. Built on our Gemini models, Genie 4 lets you step inside dynamic worlds in real time, steer scenes on the fly with natural language, and…",
+   "relevance": 0
+  },
+  {
+   "id": "IRJDwtAreB4",
+   "title": "Mathematics Just Changed Forever — Kevin Hartnett",
+   "url": "https://www.youtube.com/watch?v=IRJDwtAreB4",
+   "channel": "Machine Learning Street Talk",
+   "published": "2026-10-26T14:23:14+00:00",
+   "thumbnail": "https://i2.ytimg.com/vi/IRJDwtAreB4/hqdefault.jpg",
+   "views": 16773,
+   "description": "Kevin Hartnett is the author of *The Proof in the Code*. SPONSOR: --- Cyber Fund built the Monastery to help founders ship products that were impossible a year ago. Applications for Batch 1 are now open. Apply now:…",
+   "relevance": 0
+  }
+ ],
+ "papers": [
+  {
+   "id": "2610.34283",
+   "title": "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence",
+   "authors": "Yihao Hu, Yitong Lin, Pan Wang, Zhihao Wen et al.",
+   "abstract": "Training a spatial VLM to answer which side an object lies on does not require it to preserve the metric displacement that determines that answer, while supervision for a distance estimate may leave categorical relations largely unconstrained. When post-training emphasizes one readout, improvements can therefore concentrate on that interface while transfer to others remains weak or even degrades; we call this observed specialization interface lock-in. ChronoReplay addresses it by replaying heterogeneous spatial supervision as chronologically ordered episodes, retaining source-native targets, and balancing supervision across families. Under the same observation access, a single ChronoReplay checkpoint improves OVO-S-Bench, OST-Bench, and UCS-Bench together, including a 13.41-point gain on OST-Bench, and achieves the highest three-benchmark mean among the supervision settings compared here. Same-data controls further separate the ingredients of this transfer: answer serialization redistributes gains across OST and UCS, family-balanced learning improves over ordinary joint SFT and…",
+   "published": "2026-10-25T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.34283",
+   "pdf": "https://arxiv.org/pdf/2610.34283",
+   "upvotes": 418,
+   "github": "https://github.com/yihaohu0118/ChronoReplay",
+   "origin": "hf",
+   "ai_summary": "ChronoReplay mitigates interface lock-in in spatial vision-language models by replaying heterogeneous spatial supervision chronologically, improving cross-task transfer and enabling efficient inference-time evidence selection.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.36077",
+   "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+   "authors": "Weidong Tang, Ruiheng Wang, Jingxuan Zhang, Hexin Wang et al.",
+   "abstract": "Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verifiable environments is costly, and manual Harness iteration cannot keep pace with growing task diversity and complexity. A key insight is that tasks with different modalities and surface forms can share the same underlying capability requirements. We therefore introduce The Trinity, a recursive self-improvement framework coupling world generation with Harness evolution through three roles: Creator, Explorer, and Evolver. Drawing on verified execution trajectories, Evolver shifts the basis of task organization from surface categories to shared requirements, reorganizing the original task tree into a hierarchical capability tree. We introduce Capability-Driven Real2Sim2Real: for heterogeneous tasks at the same node, Creator abstracts their common requirements into simplified, verifiable simulated worlds for capability learning, while evaluation on original tasks measures transfer. Along…",
+   "published": "2026-10-26T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.36077",
+   "pdf": "https://arxiv.org/pdf/2610.36077",
+   "upvotes": 389,
+   "github": "https://github.com/InfRec-Cardinal/The-Trinity",
+   "origin": "hf",
+   "ai_summary": "The Trinity framework recursively improves multimodal agents by organizing tasks into a capability tree, generating simulated training worlds, and routing specialized harness modules to boost performance on diverse benchmarks.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.35013",
+   "title": "Multiscale Policy Optimization for Long-Horizon LLM Agents",
+   "authors": "Tao Ren, Hui Yang, Jia Deng, Tingyang Chen et al.",
+   "abstract": "Long-horizon LLM agents interact with their environments through complete assistant turns while generating each action token by token. We observe that critic values vary primarily across turns, motivating optimization anchored at turns with finer credit allocation among tokens. We propose Multiscale Policy Optimization (MPO), combining Multiscale Advantage Estimation (MAE) and turn-level importance sampling to align credit assignment and policy updates at the turn scale. Extensive experiments across search, tool-use, and automation tasks with 4B and 30B-A3B models demonstrate consistent gains over strong RL baselines.",
+   "published": "2026-10-26T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.35013",
+   "pdf": "https://arxiv.org/pdf/2610.35013",
+   "upvotes": 382,
+   "github": "https://github.com/IQuestLab/Multiscale-Policy-Optimization",
+   "origin": "hf",
+   "ai_summary": "Multiscale Policy Optimization improves long-horizon agent training by aligning credit assignment and policy updates at the turn scale.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.39633",
+   "title": "Intrinsic Distribution Matching",
+   "authors": "Deyuan Liu, Yansen Han, Kaiwen Zheng, Jun Xie et al.",
+   "abstract": "One-step and few-step text-to-image generation must accurately render the details specified in the prompt despite limited opportunities for refinement. Distribution matching distillation (DMD) uses score differences to bring the generated distribution closer to a reference distribution. Following prior work, we estimate this difference with internal velocity branches, avoiding a separate fake-score network. We ask whether an explicit moment constraint improves this learned score supervision. A decomposition of the reverse-KL field into a Gaussian moment component and a non-Gaussian residual identifies statistics that can be constrained explicitly. We introduce Intrinsic Distribution Matching (IDM), which retains the full DMD correction and matches feature means and per-coordinate standard deviations using the generator's exponential-moving-average (EMA) copy, requiring no external feature encoder. Experiments use full-parameter and low-rank adaptation (LoRA) tuning on Z-Image-Turbo 6B and Qwen-Image 20B. At two network evaluations, IDM reaches 94.25% and 90.20% on Chinese and…",
+   "published": "2026-10-29T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.39633",
+   "pdf": "https://arxiv.org/pdf/2610.39633",
+   "upvotes": 231,
+   "github": "https://github.com/inclusionAI/IDM",
+   "origin": "hf",
+   "ai_summary": "Intrinsic Distribution Matching improves few-step text-to-image generation by adding explicit moment constraints to distribution matching distillation, achieving state-of-the-art long-text rendering with minimal network evaluations.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.34073",
+   "title": "Memory Tax: Dissecting the Net Value of Agent Memory",
+   "authors": "Xuan He, Sining Zhoubian, Ruozhen Yang, Yuhao Wen et al.",
+   "abstract": "Memory is increasingly used in long-horizon agents, yet the net value of building memory over direct retrieval from raw history remains largely unclear. Through a large-scale evaluation across multiple benchmarks and model backbones, we find many dedicated memory systems underperform naive RAG in many cases, indicating a negative net value. Taking RAG as a reference, we dissect the net value of memory into the gains and losses over direct retrieval, termed memory benefit and memory tax. These gains and losses arise because memory process changes how the raw information is organized and accessed. We view such changes as the double-edged deviations from the raw history. They are originally designed and introduced to benefit the task, for example by reorganizing facts or distilling preferences, but some may also remove or obscure evidence, giving rise to memory tax. Since memory benefit reflects the expected gains of its design, we then focus more on the overlooked memory tax, study how it arises from the system and evaluation side, and generalize the concept to more application…",
+   "published": "2026-10-25T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.34073",
+   "pdf": "https://arxiv.org/pdf/2610.34073",
+   "upvotes": 156,
+   "github": "https://github.com/hexuan21/MemoryTax",
+   "origin": "hf",
+   "ai_summary": "Large-scale evaluation reveals that dedicated memory systems often underperform naive retrieval-augmented generation, introducing a framework of memory benefit and memory tax to assess net value.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.32749",
+   "title": "Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes",
+   "authors": "Wendi Sang, Kai Li, Yifan Li, Jianqiang Huang et al.",
+   "abstract": "Streaming audio-visual target speaker extraction (AVTSE) is essential for latency-sensitive applications. However, current causal systems face two coupled gaps. First, standard benchmarks fix the number of speakers at two and ignore the near-/far-field interference, reverberation, and sudden noise of real scenes. Second, high-performance causal architectures are too heavy for edge deployment. Lightweight alternatives try to reclaim capacity by repeatedly invoking a small separator, which offsets the savings. To address the first gap, we release RealSSA, a realistic AVTSE benchmark consisting of RealSSA-Sim and RealSSA-Real. RealSSA-Sim provides controllable simulated scenes with 1--5 dynamic near-field interfering speakers; scenes with far-field interference additionally include 10--15 far-field interfering speakers. RealSSA-Real provides a held-out real-recorded evaluation set. To address the second gap, we propose Falcon, a causal AVTSE method. Its Separator performs multi-scale time-frequency separation in a single encoder--decoder pass. We train Falcon with an encoder-space…",
+   "published": "2026-10-23T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.32749",
+   "pdf": "https://arxiv.org/pdf/2610.32749",
+   "upvotes": 152,
+   "github": "https://github.com/JusperLee/Falcon",
+   "origin": "hf",
+   "ai_summary": "Falcon is a lightweight causal audio-visual target speaker extraction method that achieves high quality with drastically reduced parameters and latency, supported by the realistic RealSSA benchmark.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.37381",
+   "title": "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations",
+   "authors": "Hanqing Wang, Zhaotian Cai, Ruichuan An, Bohan Zeng et al.",
+   "abstract": "Vision--Language--Action (VLA) models generate robot actions from visual observations and language instructions, but their understanding of physical dynamics remains limited. Video world models can capture scene dynamics, yet generating future videos introduces high latency into the control loop. We introduce PDRVLA, whose lightweight Physical Dynamics Module extracts physical tokens from vision--language features to condition action generation without online video generation. The module learns through direct prediction of future RGB, depth, and optical-flow features, with auxiliary supervision through a frozen pretrained video world model. Training relies entirely on publicly available data, expanded through human-to-robot synthesis, subtask annotation, and embodied chain-of-thought (ECoT) annotation. Across four simulation benchmarks, PDRVLA achieves success rates of 99.3% on LIBERO, 89.9% on LIBERO-Plus, 93.6% on RoboTwin~2.0, and 81.5% on SimplerEnv. Ablations show improved future prediction with world-model supervision and evaluate how subtask conditioning, future object-pose…",
+   "published": "2026-10-27T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.37381",
+   "pdf": "https://arxiv.org/pdf/2610.37381",
+   "upvotes": 150,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "PDRVLA improves robot action generation by integrating a lightweight physical dynamics module that predicts future visual features with world-model supervision, avoiding online video generation latency.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.29927",
+   "title": "Your Benchmark Is an Empirical Measure Over Difficulty",
+   "authors": "Yifan Sun, Naicheng Yu, Jiawen Gong, Jingyan Shen et al.",
+   "abstract": "A benchmark is not merely a collection of test questions; it naturally induces an empirical measure over difficulty. In this work, we develop this measure-based view of benchmark evaluation. This perspective allows us to identify and formalize two central failure modes: measure mismatch, where the benchmark difficulty distribution differs from the intended difficulty distribution, and coverage gaps, where uncovered regions along the difficulty axis prevent benchmarks from detecting meaningful localized training progress. We propose two diagnostic metrics that capture these two failure modes and provide rigorous theoretical guarantees. Empirically, we analyze 25 popular benchmarks spanning 7 domains using carefully estimated item difficulties. Our results show that many benchmarks implicitly overweight certain difficulty regions, so their leaderboard conclusions should be interpreted with caution; others leave substantial portions of the difficulty axis uncovered, limiting their ability to monitor the model improvement process. Finally, we turn diagnosis into action by introducing…",
+   "published": "2026-10-21T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.29927",
+   "pdf": "https://arxiv.org/pdf/2610.29927",
+   "upvotes": 139,
+   "github": "https://github.com/ASTRAL-Group/benchmark-difficulty-measure",
+   "origin": "hf",
+   "ai_summary": "This work formalizes benchmark evaluation through difficulty measures, identifies failure modes of measure mismatch and coverage gaps, and proposes diagnostic metrics and a rewriting algorithm to improve benchmark coverage.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.32046",
+   "title": "Can Test-Time Memory Evolution Outperform Test-Time Training for Scientific Discovery?",
+   "authors": "Yepeng Liu, Shengmai Chen, Xuandong Zhao, Chengzhi Liu et al.",
+   "abstract": "Recent test-time training (TTT) frameworks have enabled open-weight large language models (LLMs) to outperform inference-only frameworks powered by frontier models on scientific discovery tasks. However, TTT introduces additional computational cost for online weight updates during the discovery process, making computational efficiency an important consideration when scaling to larger models. This motivates us to explore an efficient test-time adaptation method for scientific discovery. We introduce Test-Time Memory Evolution (TTME), a plug-and-play test-time adaptation method, as an alternative to TTT. TTME continually updates the external memory by distilling the experience to guide subsequent discovery without updating model weights. To have a clean comparison, we evaluate TTME and TTT under the same discovery framework, replacing only the test-time adaptation method. Our evaluation shows that TTME outperforms TTT on all five mathematical tasks, while reducing computational cost by 82.8-84.6% in FLOPs and 47.7-58.4% in runtime. These results establish TTME as an effective and…",
+   "published": "2026-10-23T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.32046",
+   "pdf": "https://arxiv.org/pdf/2610.32046",
+   "upvotes": 131,
+   "github": "https://github.com/yepengliu/TTME",
+   "origin": "hf",
+   "ai_summary": "Test-Time Memory Evolution updates external memory without changing model weights to guide scientific discovery more efficiently than test-time training.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.36729",
+   "title": "Hy-Nomas: Towards Free-form Interactive World Generation",
+   "authors": "Qiaoling Chen, Jiaxiang Cheng, Xueqing Deng, Tiankai Hang et al.",
+   "abstract": "Interactive world generation requires models to follow successive commands while preserving relevant history and action consequences. We present Hy-Nomas, a video world model with an 8B diffusion backbone that supports free-form text instructions and continuous camera control across multiple interaction turns. It generates variable-length segments conditioned on current inputs and cached history. Our central design aligns structured video captions with action-aware causal attention: descriptive context remains accessible across segments, while action instructions are restricted to their intended temporal windows. A vision-language Prompt Enhancer (PE) translates user requests and multimodal interaction histories into structured conditions for the next segment. A multi-stage curriculum progressively introduces causal generation, text interaction, camera control, and training on model-generated histories, followed by diffusion distillation. In human evaluation, Hy-Nomas shows superior performance over existing world models. We release model weights, code and benchmarks, together with…",
+   "published": "2026-10-27T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.36729",
+   "pdf": "https://arxiv.org/pdf/2610.36729",
+   "upvotes": 126,
+   "github": "https://github.com/Tencent-Hunyuan/Hy-Nomas",
+   "origin": "hf",
+   "ai_summary": "Hy-Nomas is a video world model that uses causal attention and structured conditioning to generate interactive, multi-turn video segments with text and camera control.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.40379",
+   "title": "Agentic LLM reasoning in pediatric diabetes outcome prediction from multimodal medical records",
+   "authors": "Daniel Palacios, Guantong Qi, Anna Kadi, Natali Borrego et al.",
+   "abstract": "Large language model (LLM) agents are proposed for clinical prediction but are untested in pediatrics, where cohorts are small and outcomes are uncommon. Using records from 2,489 youth with type 2 diabetes (T2D) and 4,018 with type 1 diabetes (T1D), spanning structured data, note-derived social determinants and, in T1D, continuous glucose monitoring data, we predicted seven T2D outcomes, four also in T1D, at 24 months from 18 months of follow-up. CEDAR (Clinical Evidence-Driven Agent for Risk-prediction), an evidence-citing, self-auditing LLM pipeline, outperformed trained machine learning in both cohorts (pooled area under the receiver operating characteristic curve 0.815 versus 0.656 to 0.700 in T2D and 0.756 versus 0.603 to 0.631 in T1D), most on the sparsely screened outcomes. Only 4 of 70,246 values it cited did not match the chart. Reading only the evidence and reasoning cited by CEDAR, two pediatric endocrinologists reached the same prediction as CEDAR in about nine of ten cases, agreeing with each other on 90.5%.",
+   "published": "2026-10-29T16:23:47Z",
+   "url": "https://arxiv.org/abs/2610.40379",
+   "pdf": "https://arxiv.org/pdf/2610.40379",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "q-bio.QM",
+    "cs.CL"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.40350",
+   "title": "Don't Lose the Thread: Empowering Long-Horizon LLM Agents with Cognitive Resource Self-Allocation",
+   "authors": "Zheng Zhu, Xiaozhuan Liang, Xi Chen, Bei Yu et al.",
+   "abstract": "Agents powered by large language models (LLMs) have demonstrated remarkable progress in solving complex reasoning tasks. However, LLM agents often falter on long-horizon tasks due to cognitive overload, as their working memory becomes cluttered with expanding and irrelevant information, which dilutes their attention and hinders effective planning and reasoning. To mitigate this challenge, we introduce Cognitive Resource Self-Allocation (CORAL), a novel reasoning paradigm that empowers agents to proactively optimize their context. Implemented as an agent-callable working memory management toolset, CORAL allows an agent to checkpoint its task progress and verified facts, and adaptively initiate a new problem-solving episode by resetting cluttered context while preserving only the checkpointed information, enabling it to resume reasoning from a clean state. We further enhance the agent's checkpointing capabilities using a Multi-episode Agentic Reinforced Policy Optimization algorithm. On the GAIA benchmark, CORAL with an 8B model achieves 42.8% average accuracy, with particularly…",
+   "published": "2026-10-29T16:07:10Z",
+   "url": "https://arxiv.org/abs/2610.40350",
+   "pdf": "https://arxiv.org/pdf/2610.40350",
+   "upvotes": 0,
+   "github": "https://github.com/JIA-Lab-research/CORAL",
+   "origin": "arxiv",
+   "categories": [
+    "cs.CL"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.40532",
+   "title": "BURGER: Benchmarking and Understanding Robotic Generalization via Embodied Drawing",
+   "authors": "Xiangyu Xu, Bangshuai Peng, Ziyi Liu, Mengjie Zhao et al.",
+   "abstract": "How effectively can vision-language-action (VLA) models learn diverse language-conditioned behaviors as training data scales? Investigating this question requires large and varied robot datasets, whose collection on physical robots remains costly. We introduce BURGER, a language-conditioned robotic drawing benchmark with a scalable, prompt-driven pipeline for generating continuous drawing trajectories, both in simulation and the real world. In BURGER, an agent starts from the same blank canvas and controls a robot arm to draw the object or spatial composition specified by language, while each instruction allows an open-ended variety of valid drawings and stroke orders. Using 28,200 simulated demonstrations spanning 282 drawing tasks, we evaluate five representative VLA models across data scales, language grounding, and multimodal behavior. BURGER supports fine-grained analysis of language grounding, spatial composition, and action generation, revealing distinct failure patterns across VLA models. Our experiments suggest that some VLA models can benefit from greater task diversity…",
+   "published": "2026-10-29T17:34:04Z",
+   "url": "https://arxiv.org/abs/2610.40532",
+   "pdf": "https://arxiv.org/pdf/2610.40532",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.RO",
+    "cs.AI"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.40370",
+   "title": "The Athlete as a Scientist of One: Agentic Bayesian Experimental Design for Individualized Physiology from Consumer Wearables",
+   "authors": "Behnam Moradi",
+   "abstract": "Large language model (LLM) agents for personal health read wearable data and recommend, but do not learn about the individual in a way that can be audited or falsified. We present EpiCoach, an agentic system that treats one athlete, a cross-country mountain biker, as the subject of accountable N-of-1 science. Claims about the athlete live in an evidence-gated hypothesis registry: each must issue a probabilistic prediction about a future session before it occurs, and its belief moves only through computed evidence from a logged statistical fit. Predictions come from a mechanistic digital twin inferred from heart rate, GPS and barometric altitude: a lagged heart-rate response model, a fitness-fatigue model with learned time constants, and a latent technical-descending skill state, measured on discovered trail segments. The agent prescribes the next training week as a constrained experiment maximizing information gain subject to load and safety constraints, around two instrument rides. We evaluate the system two ways over eighteen months of data. A rolling-origin replay benchmark shows…",
+   "published": "2026-10-29T16:20:24Z",
+   "url": "https://arxiv.org/abs/2610.40370",
+   "pdf": "https://arxiv.org/pdf/2610.40370",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.RO",
+    "cs.AI"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.40238",
+   "title": "ScienceJudge: Pattern Perturbation Augmentation for Sentence-Level Scientific Claim Verification",
+   "authors": "Chuhai Cai, Xin Chen, Min Yang, Feng Jiang",
+   "abstract": "Sentence-level scientific claim verification determines whether each sentence in an AI-generated scientific paragraph is supported by a given multimodal evidence bundle. Fine-grained reporting errors often preserve fluent and plausible statements while introducing subtle evidence-claim deviations, making them difficult to detect under sparse and imbalanced supervision. We propose Pattern Perturbation Augmentation (PPA), which models reporting errors as label-specific faithfulness breaking transformations and induces reusable error patterns from labeled examples. PPA applies these patterns to supported claims to construct controlled hard negatives and expands their coverage through pattern-level, operation-level, and cross-domain augmentation. Based on these augmented views, we develop ScienceJudge, which integrates PPA-trained vision-language predictors and instruction-guided LLM predictors through class-weighted ensemble inference. On the local development set, ScienceJudge improves the average score from 0.8124 to 0.8692, achieving a Macro-F1 of 0.8466 and a Paragraph Exact Match…",
+   "published": "2026-10-29T15:12:35Z",
+   "url": "https://arxiv.org/abs/2610.40238",
+   "pdf": "https://arxiv.org/pdf/2610.40238",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CL"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "classics": [
+  {
+   "id": "2106.09685",
+   "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+   "year": 2021,
+   "authors": "J. Hu, Ye-Long Shen, Phillip Wallis et al.",
+   "abstract": "An important paradigm of natural language processing consists of large-scale pre-training on general domain data and adaptation to particular tasks or domains. As we pre-train larger models, full fine-tuning, which retrains all model parameters, becomes less feasible. Using GPT-3 175B as an example -- deploying independent instances of fine-tuned models, each with 175B parameters, is prohibitively expensive. We propose Low-Rank Adaptation, or LoRA, which freezes the pre-trained model weights and injects trainable rank decomposition matrices into each layer of the Transformer architecture, greatly reducing the number of trainable parameters for downstream tasks. Compared to GPT-3 175B…",
+   "citations": 25115,
+   "url": "https://arxiv.org/abs/2106.09685",
+   "cited_by": [
+    "Can Test-Time Memory Evolution Outperform Test-Time Training for Scientific Discovery?",
+    "Hy-Nomas: Towards Free-form Interactive World Generation"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1707.06347",
+   "title": "Proximal Policy Optimization Algorithms",
+   "year": 2017,
+   "authors": "John D. Schulman, Filip Wolski, Prafulla Dhariwal et al.",
+   "abstract": "We propose a new family of policy gradient methods for reinforcement learning, which alternate between sampling data through interaction with the environment, and optimizing a \"surrogate\" objective function using stochastic gradient ascent. Whereas standard policy gradient methods perform one gradient update per data sample, we propose a novel objective function that enables multiple epochs of minibatch updates. The new methods, which we call proximal policy optimization (PPO), have some of the benefits of trust region policy optimization (TRPO), but they are much simpler to implement, more general, and have better sample complexity (empirically). Our experiments test PPO on a collection of…",
+   "citations": 32934,
+   "url": "https://arxiv.org/abs/1707.06347",
+   "cited_by": [
+    "Multiscale Policy Optimization for Long-Horizon LLM Agents"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2112.10752",
+   "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+   "year": 2021,
+   "authors": "Robin Rombach, A. Blattmann, Dominik Lorenz et al.",
+   "abstract": "By decomposing the image formation process into a sequential application of denoising autoencoders, diffusion models (DMs) achieve state-of-the-art synthesis results on image data and beyond. Additionally, their formulation allows for a guiding mechanism to control the image generation process without retraining. However, since these models typically operate directly in pixel space, optimization of powerful DMs often consumes hundreds of GPU days and inference is expensive due to sequential evaluations. To enable DM training on limited computational resources while retaining their quality and flexibility, we apply them in the latent space of powerful pretrained autoencoders. In contrast to…",
+   "citations": 28684,
+   "url": "https://arxiv.org/abs/2112.10752",
+   "cited_by": [
+    "Hy-Nomas: Towards Free-form Interactive World Generation"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2107.03374",
+   "title": "Evaluating Large Language Models Trained on Code",
+   "year": 2021,
+   "authors": "Mark Chen, Jerry Tworek, Heewoo Jun et al.",
+   "abstract": "We introduce Codex, a GPT language model fine-tuned on publicly available code from GitHub, and study its Python code-writing capabilities. A distinct production version of Codex powers GitHub Copilot. On HumanEval, a new evaluation set we release to measure functional correctness for synthesizing programs from docstrings, our model solves 28.8% of the problems, while GPT-3 solves 0% and GPT-J solves 11.4%. Furthermore, we find that repeated sampling from the model is a surprisingly effective strategy for producing working solutions to difficult prompts. Using this method, we solve 70.2% of our problems with 100 samples per problem. Careful investigation of our model reveals its…",
+   "citations": 12513,
+   "url": "https://arxiv.org/abs/2107.03374",
+   "cited_by": [
+    "Your Benchmark Is an Empirical Measure Over Difficulty"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1804.07461",
+   "title": "GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding",
+   "year": 2018,
+   "authors": "Alex Wang, Amanpreet Singh, Julian Michael et al.",
+   "abstract": "Human ability to understand language is general, flexible, and robust. In contrast, most NLU models above the word level are designed for a specific task and struggle with out-of-domain data. If we aspire to develop models with understanding beyond the detection of superficial correspondences between inputs and outputs, then it is critical to develop a unified model that can execute a range of linguistic tasks across different domains. To facilitate research in this direction, we present the General Language Understanding Evaluation (GLUE, gluebenchmark.com): a benchmark of nine diverse NLU tasks, an auxiliary dataset for probing models for understanding of specific linguistic phenomena,…",
+   "citations": 9214,
+   "url": "https://arxiv.org/abs/1804.07461",
+   "cited_by": [
+    "Your Benchmark Is an Empirical Measure Over Difficulty"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2205.11487",
+   "title": "Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding",
+   "year": 2022,
+   "authors": "Chitwan Saharia, William Chan, Saurabh Saxena et al.",
+   "abstract": "We present Imagen, a text-to-image diffusion model with an unprecedented degree of photorealism and a deep level of language understanding. Imagen builds on the power of large transformer language models in understanding text and hinges on the strength of diffusion models in high-fidelity image generation. Our key discovery is that generic large language models (e.g. T5), pretrained on text-only corpora, are surprisingly effective at encoding text for image synthesis: increasing the size of the language model in Imagen boosts both sample fidelity and image-text alignment much more than increasing the size of the image diffusion model. Imagen achieves a new state-of-the-art FID score of 7.27…",
+   "citations": 9172,
+   "url": "https://arxiv.org/abs/2205.11487",
+   "cited_by": [
+    "Hy-Nomas: Towards Free-form Interactive World Generation"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1502.05477",
+   "title": "Trust Region Policy Optimization",
+   "year": 2015,
+   "authors": "John D. Schulman, Philipp Moritz, S. Levine et al.",
+   "abstract": "In this article, we describe a method for optimizing control policies, with guaranteed monotonic improvement. By making several approximations to the theoretically-justified scheme, we develop a practical algorithm, called Trust Region Policy Optimization (TRPO). This algorithm is effective for optimizing large nonlinear policies such as neural networks. Our experiments demonstrate its robust performance on a wide variety of tasks: learning simulated robotic swimming, hopping, and walking gaits; and playing Atari games using images of the screen as input. Despite its approximations that deviate from the theory, TRPO tends to give monotonic improvement, with little tuning of hyperparameters.",
+   "citations": 8500,
+   "url": "https://arxiv.org/abs/1502.05477",
+   "cited_by": [
+    "Multiscale Policy Optimization for Long-Horizon LLM Agents"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2212.09748",
+   "title": "Scalable Diffusion Models with Transformers",
+   "year": 2022,
+   "authors": "William S. Peebles, Saining Xie",
+   "abstract": "We explore a new class of diffusion models based on the transformer architecture. We train latent diffusion models of images, replacing the commonly-used U-Net backbone with a transformer that operates on latent patches. We analyze the scalability of our Diffusion Transformers (DiTs) through the lens of forward pass complexity as measured by Gflops. We find that DiTs with higher Gflops—through increased transformer depth/width or increased number of input tokens—consistently have lower FID. In addition to possessing good scalability properties, our largest DiT-XL/2 models outperform all prior diffusion models on the class-conditional ImageNet 512×512 and 256×256 benchmarks, achieving a…",
+   "citations": 7954,
+   "url": "https://arxiv.org/abs/2212.09748",
+   "cited_by": [
+    "Hy-Nomas: Towards Free-form Interactive World Generation"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "stats": {
+  "raw_news": 47,
+  "stories": 10,
+  "videos": 3,
+  "papers": 15,
+  "classics": 8,
+  "seconds": 321
+ }
+}

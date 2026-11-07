@@ -1,0 +1,569 @@
+{
+ "generated_at": "2026-11-07T11:14:16.746591+00:00",
+ "date": "2026-11-07",
+ "tldr": {
+  "headline": "Les titres du jour",
+  "points": [
+   {
+    "title": "The AI sell-off compared to well-known stock market crashes",
+    "text": "64 points · 64 commentaires",
+    "ref": "news:3128af5441e3"
+   },
+   {
+    "title": "AI is dramatically accelerating AI research",
+    "text": "315 points · 268 commentaires",
+    "ref": "news:5072f0d6af00"
+   },
+   {
+    "title": "Muir: Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout (Google Research, 10M tokens in 25MB state) [R]",
+    "text": "Paper: https://arxiv.org/abs/2611.08376 | HF: https://huggingface.co/papers/2611.08376 At 10M tokens, a 1.3B Transformer needs 2.1 TB of KV cache (0.32 TB even at 2.5-bit quantization). Channel-wise gated delta models (like Gated DeltaNet-2 / GDN-2) compress history into a fixed 25 MB state, but hit three bottlenecks across 100B-token training that Muir resolves: 100x slow-channel glare ->…",
+    "ref": "news:0b78f915fada"
+   },
+   {
+    "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+    "text": "99 points · 18 commentaires",
+    "ref": "news:fdf35b5ad24c"
+   },
+   {
+    "title": "Memorilla: Latent Semantic Memory for LLMs",
+    "text": "105 points · 13 commentaires",
+    "ref": "news:e086e2a5c605"
+   }
+  ],
+  "generated": false
+ },
+ "news": [
+  {
+   "id": "3128af5441e3",
+   "title": "The AI sell-off compared to well-known stock market crashes",
+   "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+   "source": "Hacker News",
+   "published": "2026-11-07T02:20:06+00:00",
+   "summary": "64 points · 64 commentaires",
+   "image": null,
+   "signal": 64,
+   "discussion": "https://news.ycombinator.com/item?id=50401029",
+   "score": 2.9,
+   "also": []
+  },
+  {
+   "id": "5072f0d6af00",
+   "title": "AI is dramatically accelerating AI research",
+   "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+   "source": "Hacker News",
+   "published": "2026-11-06T20:27:23+00:00",
+   "summary": "315 points · 268 commentaires",
+   "image": null,
+   "signal": 315,
+   "discussion": "https://news.ycombinator.com/item?id=50397994",
+   "score": 3.87,
+   "also": []
+  },
+  {
+   "id": "0b78f915fada",
+   "title": "Muir: Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout (Google Research, 10M tokens in 25MB state) [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xplbuu/muir_linear_attention_with_sensitivityallocated/",
+   "source": "r/MachineLearning",
+   "published": "2026-11-06T19:10:08+00:00",
+   "summary": "Paper: https://arxiv.org/abs/2611.08376 | HF: https://huggingface.co/papers/2611.08376 At 10M tokens, a 1.3B Transformer needs 2.1 TB of KV cache (0.32 TB even at 2.5-bit quantization). Channel-wise gated delta models (like Gated DeltaNet-2 / GDN-2) compress history into a fixed 25 MB state, but hit three bottlenecks across 100B-token training that Muir resolves: 100x slow-channel glare ->…",
+   "image": "https://external-preview.redd.it/q3evP6JeDpAC2MdSQHWYxnCYTqbJkElIQsLFqVSdkss.png?width=140&height=81&auto=webp&s=d39c4c208d55b26179446aa55ac5f84224359090",
+   "signal": 0,
+   "score": 2.2,
+   "also": []
+  },
+  {
+   "id": "fdf35b5ad24c",
+   "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+   "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
+   "source": "Hacker News",
+   "published": "2026-11-06T18:04:06+00:00",
+   "summary": "99 points · 18 commentaires",
+   "image": null,
+   "signal": 99,
+   "discussion": "https://news.ycombinator.com/item?id=50395933",
+   "score": 2.83,
+   "also": []
+  },
+  {
+   "id": "e086e2a5c605",
+   "title": "Memorilla: Latent Semantic Memory for LLMs",
+   "url": "https://arxiv.org/abs/2610.21375",
+   "source": "Hacker News",
+   "published": "2026-11-06T18:03:33+00:00",
+   "summary": "105 points · 13 commentaires",
+   "image": null,
+   "signal": 105,
+   "discussion": "https://news.ycombinator.com/item?id=50395919",
+   "score": 2.88,
+   "also": []
+  },
+  {
+   "id": "eb4a2c6a7253",
+   "title": "Perplexity launches AI agents for work",
+   "url": "https://www.perplexity.ai/en-GB/hub/blog/teammates-are-agents-for-complex-ongoing-work",
+   "source": "Hacker News",
+   "published": "2026-11-06T17:59:41+00:00",
+   "summary": "61 points · 54 commentaires",
+   "image": null,
+   "signal": 61,
+   "discussion": "https://news.ycombinator.com/item?id=50395866",
+   "score": 2.45,
+   "also": []
+  },
+  {
+   "id": "60a18250dfd4",
+   "title": "Anthropic IPO valuation talks drop to $1.3T",
+   "url": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors",
+   "source": "Hacker News",
+   "published": "2026-11-06T17:21:15+00:00",
+   "summary": "93 points · 2 commentaires",
+   "image": null,
+   "signal": 93,
+   "discussion": "https://news.ycombinator.com/item?id=50395318",
+   "score": 2.75,
+   "also": []
+  },
+  {
+   "id": "28c2d038c17b",
+   "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+   "source": "Hacker News",
+   "published": "2026-11-06T16:54:36+00:00",
+   "summary": "282 points · 565 commentaires",
+   "image": null,
+   "signal": 282,
+   "discussion": "https://news.ycombinator.com/item?id=50394906",
+   "score": 3.61,
+   "also": []
+  },
+  {
+   "id": "c63019ae7846",
+   "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+   "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+   "source": "Hacker News",
+   "published": "2026-11-06T14:13:09+00:00",
+   "summary": "129 points · 59 commentaires",
+   "image": null,
+   "signal": 129,
+   "discussion": "https://news.ycombinator.com/item?id=50392499",
+   "score": 2.85,
+   "also": []
+  },
+  {
+   "id": "63c3d56bc72b",
+   "title": "Gemini Omni 1.2 Flash",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+   "source": "Hacker News",
+   "published": "2026-11-06T13:35:27+00:00",
+   "summary": "339 points · 231 commentaires",
+   "image": null,
+   "signal": 339,
+   "discussion": "https://news.ycombinator.com/item?id=50392118",
+   "score": 3.59,
+   "also": []
+  }
+ ],
+ "videos": [
+  {
+   "id": "XgC1QTs6A2U",
+   "title": "The Future of AI Is Absolutely Incredible (Spencer Huang)",
+   "url": "https://www.youtube.com/watch?v=XgC1QTs6A2U",
+   "channel": "Two Minute Papers",
+   "published": "2026-11-06T07:27:02+00:00",
+   "thumbnail": "https://i1.ytimg.com/vi/XgC1QTs6A2U/hqdefault.jpg",
+   "views": 34533,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Chapters: 00:00 Intro 02:40 Why Robots Are Hard 08:16 The Perfect Data Diet 16:05 Intelligence Density 20:13 Building AI Worlds 22:10…",
+   "relevance": 0
+  }
+ ],
+ "papers": [
+  {
+   "id": "2611.08449",
+   "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
+   "authors": "Yu-Cheng Chou, Shihao Wang, Jin Huang, Chi-Pin Huang et al.",
+   "abstract": "Models for physical AI tasks, such as robotics and autonomous driving, need not reason solely in language. They can use visual plans--points, bounding boxes, and trajectories--to represent spatial goals and anticipate motion. However, autoregressive vision-language models generate these plans one coordinate token at a time, making richer predictions increasingly costly. We introduce VFlash, a method for fast, accurate visual planning through Flash Primitive Decoding. VFlash exploits the known structure of visual primitives to predict their coordinates jointly, using a lightweight drafter that generates an entire primitive in one forward pass. The layout adapts to the primitive's type, dimensionality, and length, supporting compact boxes and long, variable-length trajectories. Crucially, spatial accuracy need not require reproducing an autoregressive model's exact token sequence. VFlash therefore trains on annotated primitives and directly accepts structurally valid predictions without target-token agreement. Across the evaluated 2D and 3D robot trajectory tasks, VFlash consistently…",
+   "published": "2026-11-05T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.08449",
+   "pdf": "https://arxiv.org/pdf/2611.08449",
+   "upvotes": 96,
+   "github": null,
+   "origin": "hf",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.06728",
+   "title": "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit",
+   "authors": "Shuai Dong, Kanghui Tian, Linghan Chen, Wenqi Shao et al.",
+   "abstract": "Streaming video understanding requires models to repeatedly decide whether to respond or continue observing. Recently, Group Relative Policy Optimization (GRPO) has been applied to this setting, with existing approaches emphasizing reward design while retaining a single trajectory-level advantage across turns. Such shared credit can reinforce redundant replies after earlier successes and discourage useful follow-ups after earlier failures. We propose TurnWise, a turn-level GRPO framework that aligns learning with individual streaming decisions. TurnWise addresses the mismatch between trajectory-level feedback and turn-level interaction, promoting informative responses and reducing redundancy. Specifically, turn-level credit assignment uses silence-completed prefix scoring to construct group-relative advantages from each decision's remaining return, separating its learning signal from earlier rewards. Turn-mean policy optimization averages token losses within each turn and then across turns, giving response and waiting decisions equal weight regardless of output length. These…",
+   "published": "2026-11-04T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.06728",
+   "pdf": "https://arxiv.org/pdf/2611.06728",
+   "upvotes": 89,
+   "github": "https://github.com/XD111ds/turn-wise-rl",
+   "origin": "hf",
+   "ai_summary": "TurnWise improves streaming video understanding by assigning turn-level credit and balancing decision weights in group relative policy optimization.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.02075",
+   "title": "Decoupled Predictive Decision Making: A Shared Conditional Predictor for Agents",
+   "authors": "Lang Mo, Xingxuan Zhang, Qi Wang, Mingchao Hao et al.",
+   "abstract": "Agent decisions depend on empirical relationships that deployment observations reveal and task descriptions alone may leave unresolved. We introduce Decoupled Predictive Decision Making (DPDM), an architecture that formulates heterogeneous agent decisions as conditional prediction with a shared pretrained learner. Language models provide semantic representations of current and historical records, while a general-purpose conditional predictor predicts task-defined targets from the represented evidence. Pretraining supplies reusable inference capability; deployment evidence instantiates problem-specific predictions without updating either model's neural parameters. Tool judgments, candidate preferences, and reasoning assessments share an evidence-and-query interface, with predictions mapped to choices by a decision rule. This architecture establishes complementary sources of agent capability: semantic knowledge acquired through language pretraining and empirical inference acquired through structured-data pretraining. A single frozen LimiX-2 predictor serves all five task categories.…",
+   "published": "2026-11-01T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.02075",
+   "pdf": "https://arxiv.org/pdf/2611.02075",
+   "upvotes": 79,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "DPDM improves agent decision accuracy by combining frozen language-model representations with a shared pretrained conditional predictor that learns from deployment evidence without parameter updates.",
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.08373",
+   "title": "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training",
+   "authors": "Fuhao Li, Wenxuan Song, Qizhou Huang, Ziyang Zhou et al.",
+   "abstract": "Reliable robotic manipulation requires both semantic understanding and precise control in three-dimensional space. However, vision-language-action (VLA) foundations largely inherit visual representations from 2D vision-language pre-training, while spatial supervision is often introduced only during task-specific adaptation. Developing spatial understanding as a transferable foundation-model capability therefore calls for learning from broader robot experience. We present SLA, a Spatial-Language-Action Model that scales implicit spatial alignment to continual pre-training and maintains it during downstream post-training. Initialized from a pretrained pi05 policy, SLA jointly optimizes action prediction and alignment between intermediate visual embeddings and spatial representations from a frozen 3D perception model. We curate and unify heterogeneous robot datasets to support spatial learning across diverse embodiments, tasks, and scenes. To accommodate this diversity, we introduce feature-dependent gates that adaptively aggregate visual embeddings from multiple VLA layers for spatial…",
+   "published": "2026-11-05T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.08373",
+   "pdf": "https://arxiv.org/pdf/2611.08373",
+   "upvotes": 76,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "SLA is a spatial-language-action model that continually pre-trains and post-trains a pretrained VLA policy with spatial alignment to a frozen 3D perception model, using feature-dependent gates and probabilistic state dropout to improve spatial understanding across diverse robot data while preserving inference architecture.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.04814",
+   "title": "Think Less, Locally: Local Preference Learning for Reasoning Compression",
+   "authors": "Muyao Yuan, Liyan Xu, Weizhan Zhang, Muyan Jiao et al.",
+   "abstract": "Large reasoning models achieve strong performance on challenging tasks, but their long chain-of-thought often incurs substantial inference costs by continuing to deliberate after sufficient information has been obtained. Existing reasoning compression methods primarily operate on reasoning trajectories, paying less attention to the local decision of whether further reasoning is necessary given the current state. We propose LoCo, a local preference learning method for reasoning compression. LoCo detects candidate overthinking states from the model's own traces, freezes the corresponding reasoning prefixes, regenerates shorter verified continuations from the same states, and trains on the resulting state-conditioned preference pairs with DPO. This formulation teaches the model when to continue reasoning and when to conclude, rather than simply encouraging shorter trajectories overall. We construct training data entirely from self-generated mathematical traces and evaluate LoCo on five mathematical and three code generation benchmarks. LoCo reduces completion length by 41.7\\%--45.4\\%…",
+   "published": "2026-11-03T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.04814",
+   "pdf": "https://arxiv.org/pdf/2611.04814",
+   "upvotes": 60,
+   "github": "https://github.com/MuyaoYuan/LoCo",
+   "origin": "hf",
+   "ai_summary": "LoCo uses local preference learning to teach reasoning models when to stop deliberating, reducing output length substantially while preserving or improving accuracy across math and code tasks.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.06918",
+   "title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
+   "authors": "Weichen Fan, Haiwen Diao, Penghao Wu, Siyuan Hu et al.",
+   "abstract": "Vision-language-action models are typically built on a simple premise: perception is first compressed by visual encoders, and action reasoning begins only afterwards. Yet manipulation often hinges on precisely the visual signals most vulnerable to this abstraction, e.g., local geometry, boundaries, depth, and subtle state changes. This raises a fundamental question: should action policies inherit a fixed visual endpoint, or directly access evolving visual computation? We introduce NEO-VLA, a structurally encoder-free vision-language-action framework. Images are tokenized by lightweight patch convolutional layers and evolve jointly with language throughout the backbone, allowing a flow-matching action expert to draw from instruction-conditioned visual representations at different depths. This simple change reveals a consistent pattern. Native architectures outperform encoder-based counterparts under controlled comparisons; full fine-tuning reduces but does not erase the gap, and additional scale alone cannot recover it. More strikingly, layer-wise probing shows that the…",
+   "published": "2026-11-04T18:59:58.000Z",
+   "url": "https://arxiv.org/abs/2611.06918",
+   "pdf": "https://arxiv.org/pdf/2611.06918",
+   "upvotes": 59,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "NEO-VLA eliminates fixed visual encoders to let action policies access evolving visual representations across network depths, improving manipulation robustness.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.04277",
+   "title": "Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training",
+   "authors": "Kangning Zhang, Wenxiang Jiao, Bowen Fang, Shuai Shao et al.",
+   "abstract": "Harness evolution from a common base exhibits Locality, Complementarity, and Nonstationarity: variants repair different failures, and their utility changes as the policy learns. Rather than seeking a universally superior harness, we introduce Harness-S to selectively rescue failures of a base execution system through sibling harnesses and transfer the resulting capabilities into a single policy that remains effective under the original harness. Directional Harness Evolution develops specialized sibling harnesses along distinct repair directions, forming a reusable Sibling Harness Pool that remains fixed during policy training. Complementary Harness Rescue Training invokes this pool only when all initial attempts under the base harness fail. The same policy generates fresh rollouts under selected auxiliary harnesses, and these trajectories replace the failed group for reinforcement learning. An Adaptive Harness Router selects the Top-k variants using Harness Behavior Profiles and voting across multiple LLMs. Policy-aware profile re-anchoring refreshes this evidence as the policy…",
+   "published": "2026-11-03T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.04277",
+   "pdf": "https://arxiv.org/pdf/2611.04277",
+   "upvotes": 58,
+   "github": "https://github.com/DeepExperience/Harness-S",
+   "origin": "hf",
+   "ai_summary": "A selective harness-rescue training method uses specialized sibling harnesses to replace failed reinforcement learning rollouts and transfer their benefits into a single policy that performs better under the original base harness.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.05377",
+   "title": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",
+   "authors": "Jisoo Kim, Chaehyun Kim, Junsu Kim, Jiho Park et al.",
+   "abstract": "Learning a universal action representation from video requires modeling dynamics that are consistent across different executions of the same action yet invariant to changes in embodiment and appearance. Existing latent action models infer actions from visual transitions, but their representations often entangle the underlying action with irrelevant visual variations, limiting transfer across embodiments. We introduce DreamX, which repurposes a pretrained video diffusion model as a universal latent action learner. Our approach extracts compact latent actions from the video model's rich spatiotemporal features, compressing each latent video frame by 300times (1{,200 rightarrow 4} tokens). In addition, by leveraging the video model's generative prior, these latent actions capture action-relevant dynamics disentangled from visual appearance. The resulting latent space serves as a shared action interface across embodiments (human and robot), environments, and action parameterizations. On LARY-Bench, DreamX achieves state-of-the-art performance among latent action models. Moreover,…",
+   "published": "2026-11-03T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.05377",
+   "pdf": "https://arxiv.org/pdf/2611.05377",
+   "upvotes": 57,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "DreamX leverages a pretrained video diffusion model to learn compact, appearance-invariant latent actions that enable cross-embodiment transfer and efficient policy learning.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.06910",
+   "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+   "authors": "Bingran You, Wenjun Ke, Ria Rosenauer, Bo Liu et al.",
+   "abstract": "AI agents are playing an increasingly important role in physics research. However, existing physics benchmarks only evaluate fixed questions, isolated sub-tasks, or paper reproduction with given solutions, and rarely check research quality alongside correctness. We introduce FrontierPhysics, an end-to-end benchmark with 56 tasks made by 42 physicists based on their own research, covering nine domains across theoretical, computational, and experimental physics. Each task requires agents to review the literature, develop a research plan, conduct research and experiments, and produce structured outputs and scientific manuscripts. Combining deterministic verifiers with expert-authored rubrics, FrontierPhysics evaluates whether agents' research is correct and publishable. Across 22 models in 26 configurations, no configuration passes more than 46 of its 168 rollouts. Manual review of agent trajectories shows that frontier agents' main weaknesses are insufficiently rigorous reasoning and limited expert intuition, rather than gaps in physics knowledge or execution errors.",
+   "published": "2026-11-04T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.06910",
+   "pdf": "https://arxiv.org/pdf/2611.06910",
+   "upvotes": 54,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "FrontierPhysics is an end-to-end benchmark of 56 expert-designed physics tasks that evaluates AI agents on literature review, research planning, experimentation, and manuscript production using deterministic verifiers and expert rubrics.",
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.05193",
+   "title": "Factorized MLLM Embeddings for Composed Image Retrieval",
+   "authors": "WonJun Moon, Seongchan Kim, Dahun Kim, Seungryong Kim",
+   "abstract": "Composed Image Retrieval (CIR) aims to retrieve a target image given a reference image and a modification text. Although recent approaches leveraging Multimodal Large Language Models (MLLMs) have shown significant progress, we argue that the MLLM's compositional understanding remains underutilized. This stems from directly mapping composed queries into a retrieval embedding via contrastive supervision alone, without explicitly resolving the intended visual modifications. In this work, we introduce Factorized MLLM Embeddings (FactEmbed), which decouples compositional query comprehension from building discriminative embeddings. Rather than directly projecting the composed query into a single embedding without internal reasoning, FactEmbed employs a set of factorized latents that simulate the intended visual modifications via an intermediate target imagination objective. This process encourages the latents to ground into target semantics before forming discriminative representations for retrieval. Subsequently, to propagate these factorized representations throughout the model for…",
+   "published": "2026-11-03T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.05193",
+   "pdf": "https://arxiv.org/pdf/2611.05193",
+   "upvotes": 47,
+   "github": "https://github.com/cvlab-kaist/FactEmbed",
+   "origin": "hf",
+   "ai_summary": "FactEmbed improves composed image retrieval by decoupling query understanding from embedding construction through factorized latents that simulate visual modifications before retrieval.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.08231",
+   "title": "From Twisted Facts to Rogue Agents: Can LLMs Reliably Detect Multi-Dimensional Hallucinations?",
+   "authors": "Hanyu Qiu, Ze Liu, Zhe Zhao, Kuang Xiong et al.",
+   "abstract": "Large language models (LLMs) are widely used for information access, content production, and agent-based task execution, but their outputs remain vulnerable to subtle, high-risk hallucinations. To systematically evaluate and advance post-generation hallucination detection, we introduce HaluCheck, a large-scale, bilingual benchmark comprising over 42k instances spanning both factual hallucinations in text and faithfulness hallucinations in agent trajectories. HaluCheck features fine-grained, multi-level annotations for detection, localization, and correction, covering different tasks and perturbation degrees. Experiments on fourteen LLMs reveal that, while models show basic sample-level detection ability, they struggle with fine-grained localization, correction, and agent hallucination detection. Further analysis demonstrates that thinking, web search, and supervised fine-tuning each offer partial improvements, but none fully solve the problem. HaluCheck thus provides a solid basis for benchmarking and diagnosing LLM reliability across text and agent scenarios.",
+   "published": "2026-11-05T16:15:18Z",
+   "url": "https://arxiv.org/abs/2611.08231",
+   "pdf": "https://arxiv.org/pdf/2611.08231",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CL"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.08153",
+   "title": "A Generative Foundation Model for Multimodal Tokamak Tasks",
+   "authors": "Yingshuai Ji, Haodong Feng, Guohong Deng, Gelin Bian et al.",
+   "abstract": "Tokamak experiments record diverse measurements, including waveforms, profiles, fields, and scalars, which are used to reconstruct the plasma, forecast its evolution, recover associated control signals, and estimate disruption risk. Most models are built separately for one task and a fixed set of inputs and outputs, and each relies on a prescribed subset of diagnostics rather than structuring the full multimodal observation set to extract global, cross-signal information about the discharge. These limitations motivate a reusable foundation model that adapts to each task's input-output schema and models heterogeneous target signals jointly, rather than retraining a separate model for every configuration. In this work, we extend the TokaMark benchmark with two groups of tasks for actuator action inversion and disruption prediction, yielding 20 MAST tasks in six groups with explicit schemas and evaluation protocols. Then, we introduce GenToka, a generative tokamak foundation model that jointly generates schema-selected targets through a shared conditional diffusion Transformer, with…",
+   "published": "2026-11-05T15:13:48Z",
+   "url": "https://arxiv.org/abs/2611.08153",
+   "pdf": "https://arxiv.org/pdf/2611.08153",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.AI",
+    "cs.CE"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.08369",
+   "title": "NPCBench: A Clinical Apprenticeship Benchmark for Multimodal Care-Pathway Reasoning in Nasopharyngeal Carcinoma",
+   "authors": "Pengkai Wang, Wei-Wei Zhang, Yan Li, Min Tang et al.",
+   "abstract": "Current medical benchmarks typically break down clinical competence into isolated factual questions, single-image tasks, or static case vignettes. These tests score individual answers, but reveal less about whether a model can integrate subspecialty knowledge with multimodal evidence and track a patient's condition throughout a course of care. To close this gap, we introduce NPCBench, a clinical apprenticeship benchmark for nasopharyngeal carcinoma (NPC). NPCBench mirrors specialist training, from guideline and foundational knowledge to case planning, longitudinal review, CarePath integration, and open-ended consultation. It contains 4,777 component and consultation items and a 100-patient CarePath cohort with 417 scored diagnostic and care tasks. The episode-level evaluation tests whether diagnostic and care answers are jointly correct within a care pathway. By linking stepwise tasks to patient-level care trajectories, NPCBench evaluates whether models ground decisions in visual evidence, interpret changes in patient state, and meet clinical requirements in consultation. Across 30…",
+   "published": "2026-11-05T17:48:55Z",
+   "url": "https://arxiv.org/abs/2611.08369",
+   "pdf": "https://arxiv.org/pdf/2611.08369",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.AI"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.08363",
+   "title": "StrataFlux: Memory-Hierarchy-Native Low-Bit LLM Inference",
+   "authors": "Jake Hyun, Ziyu Zhao, Jae-sun Seo, Mohamed S. Abdelfattah",
+   "abstract": "Quantization reduces the memory and bandwidth demands of large language model (LLM) inference but can degrade accuracy; offloading higher-precision data can instead stall generation. We introduce StrataFlux, a framework that challenges this tradeoff by recovering accuracy lost to low-bit weight and key-value (KV) cache quantization while retaining quantization's memory and speed advantages. StrataFlux co-designs refinement representation, selection, and delivery to make host RAM and solid-state drives useful sources of additional precision. Its selective precision streaming reduces transfer volume, overlaps delivery with computation, and reuses fetched precision across decoding steps so generation need not wait for every transfer. We evaluate 2-4-bit weights and 2-3-bit KV-cache on dedicated GPUs and unified-memory platforms. For 2-bit Llama-3.1-8B-Instruct weights, StrataFlux reduces WikiText-2 perplexity from 9.46 to 8.40 while maintaining 95.4% of the quantized base's throughput on RTX 5090. With 2-bit weights and KV, StrataFlux raises Qwen3-8B's AIME 2024/2025 accuracy from…",
+   "published": "2026-11-05T17:42:06Z",
+   "url": "https://arxiv.org/abs/2611.08363",
+   "pdf": "https://arxiv.org/pdf/2611.08363",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.LG",
+    "cs.DC"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.08281",
+   "title": "Multimodal-SEA: Benchmarking AI Agent Security under Multimodal Social Engineering Attacks",
+   "authors": "Zhitao He, Chi Him Zhang, Chengru Han, Yi R Fung",
+   "abstract": "Personal AI agents face social engineering attacks supported by forged multimodal content, but existing evaluations mainly focus on text-based dialogue, leaving their intrinsic security under such attacks insufficiently studied. We introduce Multimodal-SEA, an interactive benchmark comprising 608 expert-designed tasks grounded in real-world fraud cases, covering 14 domains and 152 attack scenarios with prepared multimodal content. The tasks span four difficulty levels and reflect the distinct social and cultural contexts of Chinese and English environments. Agents inspect content, verify requests, and execute actions in simulated applications, with attack outcomes grounded in verifiable tool execution logs. To enable controlled red teaming of personal agents, we design a multimodal attack harness that integrates task information, attack progression control, and multimodal content construction to evaluate their intrinsic security against adaptive social engineering attacks in simulated environments. Evaluating seven widely used multimodal models across six dimensions reveals that all…",
+   "published": "2026-11-05T16:46:31Z",
+   "url": "https://arxiv.org/abs/2611.08281",
+   "pdf": "https://arxiv.org/pdf/2611.08281",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CL"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "classics": [
+  {
+   "id": "2305.20050",
+   "title": "Let's Verify Step by Step",
+   "year": 2023,
+   "authors": "H. Lightman, V. Kosaraju, Yura Burda et al.",
+   "abstract": "In recent years, large language models have greatly improved in their ability to perform complex multi-step reasoning. However, even state-of-the-art models still regularly produce logical mistakes. To train more reliable models, we can turn either to outcome supervision, which provides feedback for a final result, or process supervision, which provides feedback for each intermediate reasoning step. Given the importance of training reliable models, and given the high cost of human feedback, it is important to carefully compare the both methods. Recent work has already begun this comparison, but many questions still remain. We conduct our own investigation, finding that process supervision…",
+   "citations": 5370,
+   "url": "https://arxiv.org/abs/2305.20050",
+   "cited_by": [
+    "Decoupled Predictive Decision Making: A Shared Conditional Predictor for Agents",
+    "Think Less, Locally: Local Preference Learning for Reasoning Compression"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2403.12945",
+   "title": "DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset",
+   "year": 2024,
+   "authors": "Alexander Khazatsky, Karl Pertsch, S. Nair et al.",
+   "abstract": "The creation of large, diverse, high-quality robot manipulation datasets is an important stepping stone on the path toward more capable and robust robotic manipulation policies. However, creating such datasets is challenging: collecting robot manipulation data in diverse environments poses logistical and safety challenges and requires substantial investments in hardware and human labour. As a result, even the most general robot manipulation policies today are mostly trained on data collected in a small number of environments with limited scene and task diversity. In this work, we introduce DROID (Distributed Robot Interaction Dataset), a diverse robot manipulation dataset with 76k…",
+   "citations": 1334,
+   "url": "https://arxiv.org/abs/2403.12945",
+   "cited_by": [
+    "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
+    "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training",
+    "From Pixels to Actions - Towards Native Vision-Language-Action Policies"
+   ],
+   "why": "Cité par 4 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2307.00595",
+   "title": "RH20T: A Comprehensive Robotic Dataset for Learning Diverse Skills in One-Shot",
+   "year": 2023,
+   "authors": "Haoshu Fang, Hong-Jie Fang, Zhenyu Tang et al.",
+   "abstract": "A key challenge for robotic manipulation in open domains is how to acquire diverse and generalizable skills for robots. Recent progress in one-shot imitation learning and robotic foundation models have shown promise in transferring trained policies to new tasks based on demonstrations. This feature is attractive for enabling robots to acquire new skills and improve their manipulative ability. However, due to limitations in the training dataset, the current focus of the community has mainly been on simple cases, such as push or pick-place tasks, relying solely on visual guidance. In reality, there are many complex skills, some of which may even require both visual and tactile perception to…",
+   "citations": 309,
+   "url": "https://arxiv.org/abs/2307.00595",
+   "cited_by": [
+    "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training",
+    "From Pixels to Actions - Towards Native Vision-Language-Action Policies"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2412.13877",
+   "title": "RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation",
+   "year": 2024,
+   "authors": "Kun Wu, Cheng-Kai Hou, Jia-Ming Liu et al.",
+   "abstract": "In this paper, we introduce RoboMIND (Multi-embodiment Intelligence Normative Data for Robot Manipulation), a dataset containing 107k demonstration trajectories across 479 diverse tasks involving 96 object classes. RoboMIND is collected through human teleoperation and encompasses comprehensive robotic-related information, including multi-view observations, proprioceptive robot state information, and linguistic task descriptions. To ensure data consistency and reliability for imitation learning, RoboMIND is built on a unified data collection platform and a standardized protocol, covering four distinct robotic embodiments: the Franka Emika Panda, the UR5e, the AgileX dual-arm robot, and a…",
+   "citations": 278,
+   "url": "https://arxiv.org/abs/2412.13877",
+   "cited_by": [
+    "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training",
+    "From Pixels to Actions - Towards Native Vision-Language-Action Policies"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2005.14165",
+   "title": "Language Models are Few-Shot Learners",
+   "year": 2020,
+   "authors": "Tom B. Brown, Benjamin Mann, Nick Ryder et al.",
+   "abstract": "Recent work has demonstrated substantial gains on many NLP tasks and benchmarks by pre-training on a large corpus of text followed by fine-tuning on a specific task. While typically task-agnostic in architecture, this method still requires task-specific fine-tuning datasets of thousands or tens of thousands of examples. By contrast, humans can generally perform a new language task from only a few examples or from simple instructions - something which current NLP systems still largely struggle to do. Here we show that scaling up language models greatly improves task-agnostic, few-shot performance, sometimes even reaching competitiveness with prior state-of-the-art fine-tuning approaches.…",
+   "citations": 66257,
+   "url": "https://arxiv.org/abs/2005.14165",
+   "cited_by": [
+    "Decoupled Predictive Decision Making: A Shared Conditional Predictor for Agents"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1405.0312",
+   "title": "Microsoft COCO: Common Objects in Context",
+   "year": 2014,
+   "authors": "Tsung-Yi Lin, M. Maire, Serge J. Belongie et al.",
+   "abstract": "We present a new dataset with the goal of advancing the state-of-the-art in object recognition by placing the question of object recognition in the context of the broader question of scene understanding. This is achieved by gathering images of complex everyday scenes containing common objects in their natural context. Objects are labeled using per-instance segmentations to aid in precise object localization. Our dataset contains photos of 91 objects types that would be easily recognizable by a 4 year old. With a total of 2.5 million labeled instances in 328k images, the creation of our dataset drew upon extensive crowd worker involvement via novel user interfaces for category detection,…",
+   "citations": 57362,
+   "url": "https://arxiv.org/abs/1405.0312",
+   "cited_by": [
+    "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1503.02531",
+   "title": "Distilling the Knowledge in a Neural Network",
+   "year": 2015,
+   "authors": "Geoffrey E. Hinton, O. Vinyals, Jeffrey Dean",
+   "abstract": "A very simple way to improve the performance of almost any machine learning algorithm is to train many different models on the same data and then to average their predictions. Unfortunately, making predictions using a whole ensemble of models is cumbersome and may be too computationally expensive to allow deployment to a large number of users, especially if the individual models are large neural nets. Caruana and his collaborators have shown that it is possible to compress the knowledge in an ensemble into a single model which is much easier to deploy and we develop this approach further using a different compression technique. We achieve some surprising results on MNIST and we show that we…",
+   "citations": 27632,
+   "url": "https://arxiv.org/abs/1503.02531",
+   "cited_by": [
+    "Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2406.09246",
+   "title": "OpenVLA: An Open-Source Vision-Language-Action Model",
+   "year": 2024,
+   "authors": "Moo Jin Kim, Karl Pertsch, Siddharth Karamcheti et al.",
+   "abstract": "Large policies pretrained on a combination of Internet-scale vision-language data and diverse robot demonstrations have the potential to change how we teach robots new skills: rather than training new behaviors from scratch, we can fine-tune such vision-language-action (VLA) models to obtain robust, generalizable policies for visuomotor control. Yet, widespread adoption of VLAs for robotics has been challenging as 1) existing VLAs are largely closed and inaccessible to the public, and 2) prior work fails to explore methods for efficiently fine-tuning VLAs for new tasks, a key component for adoption. Addressing these challenges, we introduce OpenVLA, a 7B-parameter open-source VLA trained on…",
+   "citations": 4348,
+   "url": "https://arxiv.org/abs/2406.09246",
+   "cited_by": [
+    "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training",
+    "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
+    "DreamX: Video Diffusion Model is a Universal Latent Action Learner"
+   ],
+   "why": "Cité par 3 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "stats": {
+  "raw_news": 50,
+  "stories": 10,
+  "videos": 1,
+  "papers": 15,
+  "classics": 8,
+  "seconds": 503
+ }
+}
