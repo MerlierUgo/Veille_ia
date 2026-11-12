@@ -1,7 +1,8 @@
 # Veille IA — contexte du projet
 
 Page personnelle de veille IA style journal, mise à jour chaque matin. Utilisateur : data scientist,
-francophone. Toute l'interface et les textes générés sont en français.
+francophone. Interface et textes générés en français par défaut, avec un bouton FR/EN : le pipeline
+produit chaque texte Gemini dans les deux langues dans le même appel (`ai_summary_en`, `tldr_en`).
 
 ## Contrainte principale : budget 0 €/mois
 Chaque choix d'architecture découle de ça. Ne pas proposer de service payant sans le signaler clairement.

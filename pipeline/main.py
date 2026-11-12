@@ -65,13 +65,15 @@ def main() -> int:
     for p in papers + classics:
         p["notebook"] = (OUT_DIR / "notebooks" / f"{p['id']}.ipynb").exists()
 
-    brief = safe("tldr", tldr.build, news, papers, videos, cfg, default={"headline": "", "points": []})
+    brief = safe("tldr", tldr.build, news, papers, videos, cfg,
+                 default={"fr": {"headline": "", "points": []}, "en": {"headline": "", "points": []}})
 
     now = now_utc()
     payload = {
         "generated_at": now.isoformat(),
         "date": now.date().isoformat(),
-        "tldr": brief,
+        "tldr": brief["fr"],
+        "tldr_en": brief["en"],
         "news": news,
         "videos": videos,
         "papers": papers,

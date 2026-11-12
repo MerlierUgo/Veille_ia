@@ -1,7 +1,7 @@
-"""Résumé en français de chaque actualité, affiché sous son titre.
+"""Résumé en français et en anglais de chaque actualité, affiché sous son titre.
 
 On récupère le texte de l'article (trafilatura), puis un seul appel Gemini résume toutes les
-actualités d'un coup pour ménager le quota gratuit. Si une page est bloquée, on résume l'extrait
+actualités d'un coup, dans les deux langues, pour ménager le quota gratuit. Si une page est bloquée, on résume l'extrait
 RSS ; si Gemini ne répond pas, la page affiche l'extrait RSS comme avant.
 """
 from __future__ import annotations
@@ -16,12 +16,13 @@ from common import gemini, http_get, log
 ARTICLE_CHARS = 3000  # par article : assez pour un résumé, et 10 articles tiennent dans un appel
 
 PROMPT = """Tu résumes des actualités IA pour un data scientist francophone.
-Pour chaque article ci-dessous, écris un résumé en français de 2 à 3 phrases factuelles :
+Pour chaque article ci-dessous, écris un résumé de 2 à 3 phrases factuelles :
 ce qui s'est passé, puis pourquoi ça compte pour un praticien. Pas de superlatifs creux,
 garde les termes techniques anglais usuels, et n'invente rien qui ne soit pas dans le texte.
 Si le texte est trop pauvre pour résumer, résume simplement ce que dit le titre en une phrase.
+Donne chaque résumé en français ("fr") et sa version anglaise naturelle ("en").
 
-Réponds uniquement avec ce JSON : {{"<id>": "<résumé>", ...}}
+Réponds uniquement avec ce JSON : {{"<id>": {{"fr": "<résumé>", "en": "<summary>"}}, ...}}
 
 ARTICLES
 {items}
@@ -44,7 +45,7 @@ def summarize(news: list[dict], cfg: dict) -> list[dict]:
         blocks.append(f"[{n['id']}] {n['title']} — {n['source']}\n{_article_text(n)}")
         time.sleep(1)
     raw = gemini(PROMPT.format(items="\n\n".join(blocks)), model=cfg.get("gemini_model_news", cfg["gemini_model"]),
-                 json_mode=True, temperature=0.2, max_tokens=4096)
+                 json_mode=True, temperature=0.2, max_tokens=8192)
     if not raw:
         return news
     try:
@@ -54,7 +55,12 @@ def summarize(news: list[dict], cfg: dict) -> list[dict]:
         return news
     for n in news:
         s = summaries.get(n["id"]) if isinstance(summaries, dict) else None
-        if isinstance(s, str) and s.strip():
-            n["ai_summary"] = s.strip()
+        if isinstance(s, str):  # ancien format : français seul
+            s = {"fr": s}
+        if not isinstance(s, dict):
+            continue
+        for lang, key in (("fr", "ai_summary"), ("en", "ai_summary_en")):
+            if isinstance(s.get(lang), str) and s[lang].strip():
+                n[key] = s[lang].strip()
     log.info("Actualités résumées : %d/%d", sum("ai_summary" in n for n in news), len(news))
     return news

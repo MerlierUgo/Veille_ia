@@ -45,6 +45,13 @@ img { max-width: 100%; display: block; }
 .masthead { padding-top: 22px; text-align: center; }
 .masthead-top { display: flex; justify-content: space-between; align-items: center; gap: 16px; text-align: left; }
 .archive { display: flex; align-items: center; gap: 8px; }
+.masthead-controls { display: flex; align-items: center; gap: 12px; }
+.lang-toggle {
+  color: var(--blue); background: transparent; cursor: pointer;
+  border: 1px solid var(--blue); border-radius: 4px; padding: 3px 9px;
+  font-weight: 600; letter-spacing: .06em;
+}
+.lang-toggle:hover { background: var(--blue-soft); }
 .archive select {
   font: inherit; color: var(--ink); background: transparent;
   border: 1px solid var(--rule); border-radius: 4px; padding: 3px 6px;

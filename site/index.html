@@ -14,50 +14,53 @@
 <body>
   <header class="masthead">
     <div class="masthead-top">
-      <p id="edition-date" class="meta">Chargement de l'édition…</p>
-      <label class="archive meta">
-        <span>Édition</span>
-        <select id="archive-select" aria-label="Choisir une édition précédente"></select>
-      </label>
+      <p id="edition-date" class="meta" data-i18n="loading">Chargement de l'édition…</p>
+      <div class="masthead-controls">
+        <label class="archive meta">
+          <span data-i18n="edition">Édition</span>
+          <select id="archive-select" data-i18n-aria="archiveAria" aria-label="Choisir une édition précédente"></select>
+        </label>
+        <button id="lang-toggle" class="lang-toggle meta" type="button" aria-label="Switch to English" title="Switch to English">EN</button>
+      </div>
     </div>
     <h1 class="title">La Veille</h1>
-    <p class="tagline">Intelligence artificielle, recherche et outils — l'édition du matin</p>
+    <p class="tagline" data-i18n="tagline">Intelligence artificielle, recherche et outils — l'édition du matin</p>
     <p id="edition-stats" class="meta stats"></p>
   </header>
 
   <main>
     <section id="tldr" class="tldr" aria-labelledby="tldr-h">
       <div class="section-head">
-        <h2 id="tldr-h">L'essentiel en cinq minutes</h2>
+        <h2 id="tldr-h" data-i18n="tldrH">L'essentiel en cinq minutes</h2>
         <p id="tldr-headline" class="tldr-headline"></p>
       </div>
       <ol id="tldr-list" class="tldr-list"></ol>
     </section>
 
     <section id="news" aria-labelledby="news-h">
-      <div class="section-head"><h2 id="news-h">Actualités</h2></div>
+      <div class="section-head"><h2 id="news-h" data-i18n="newsH">Actualités</h2></div>
       <div id="news-lead" class="news-lead"></div>
       <div id="news-grid" class="news-grid"></div>
     </section>
 
     <section id="videos" aria-labelledby="videos-h">
-      <div class="section-head"><h2 id="videos-h">À regarder</h2></div>
+      <div class="section-head"><h2 id="videos-h" data-i18n="videosH">À regarder</h2></div>
       <div id="video-grid" class="video-grid"></div>
     </section>
 
     <div class="research">
       <section id="papers" aria-labelledby="papers-h">
         <div class="section-head">
-          <h2 id="papers-h">Prépublications du jour</h2>
-          <p class="section-note">Tendances Hugging Face et nouveautés arXiv proches de tes sujets.</p>
+          <h2 id="papers-h" data-i18n="papersH">Prépublications du jour</h2>
+          <p class="section-note" data-i18n="papersNote">Tendances Hugging Face et nouveautés arXiv proches de tes sujets.</p>
         </div>
         <div id="paper-list"></div>
       </section>
 
       <aside id="classics" class="classics" aria-labelledby="classics-h">
         <div class="section-head">
-          <h2 id="classics-h">Les classiques</h2>
-          <p class="section-note">Les papiers fondateurs sur lesquels s'appuie la recherche du jour.</p>
+          <h2 id="classics-h" data-i18n="classicsH">Les classiques</h2>
+          <p class="section-note" data-i18n="classicsNote">Les papiers fondateurs sur lesquels s'appuie la recherche du jour.</p>
         </div>
         <div id="classic-list"></div>
       </aside>
@@ -72,13 +75,13 @@
 
   <dialog id="secret-dialog" class="dialog">
     <form method="dialog">
-      <h3>Code d'accès aux POC</h3>
-      <p>La génération de notebooks est réservée à toi. Saisis le code défini dans la variable <code>POC_SECRET</code> sur Netlify. Il sera mémorisé dans ce navigateur.</p>
+      <h3 data-i18n="secretH">Code d'accès aux POC</h3>
+      <p data-i18n-html="secretP">La génération de notebooks est réservée à toi. Saisis le code défini dans la variable <code>POC_SECRET</code> sur Netlify. Il sera mémorisé dans ce navigateur.</p>
       <input id="secret-input" type="password" autocomplete="off" required>
-      <p id="secret-error" class="field-error" hidden>Saisis le code avant de continuer.</p>
+      <p id="secret-error" class="field-error" data-i18n="secretErr" hidden>Saisis le code avant de continuer.</p>
       <div class="dialog-actions">
-        <button value="cancel" class="btn ghost" formnovalidate>Annuler</button>
-        <button value="ok" class="btn" id="secret-ok">Enregistrer</button>
+        <button value="cancel" class="btn ghost" formnovalidate data-i18n="cancel">Annuler</button>
+        <button value="ok" class="btn" id="secret-ok" data-i18n="save">Enregistrer</button>
       </div>
     </form>
   </dialog>
