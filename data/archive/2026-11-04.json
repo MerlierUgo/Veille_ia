@@ -1,0 +1,574 @@
+{
+ "generated_at": "2026-11-04T08:09:33.214777+00:00",
+ "date": "2026-11-04",
+ "tldr": {
+  "headline": "Les titres du jour",
+  "points": [
+   {
+    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+    "text": "327 points · 50 commentaires",
+    "ref": "news:edbf4ed1a954"
+   },
+   {
+    "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+    "text": "338 points · 142 commentaires",
+    "ref": "news:f3900be82c6f"
+   },
+   {
+    "title": "The AI Boom May Be Sowing Seeds of Another Financial Crisis",
+    "text": "73 points · 76 commentaires",
+    "ref": "news:86d5692015d2"
+   },
+   {
+    "title": "How I use AI (Oct 2026)",
+    "text": "153 points · 135 commentaires",
+    "ref": "news:c9173a71ad3b"
+   },
+   {
+    "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+    "text": "1207 points · 394 commentaires",
+    "ref": "news:da9a5824109f"
+   }
+  ],
+  "generated": false
+ },
+ "news": [
+  {
+   "id": "edbf4ed1a954",
+   "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+   "url": "https://arxiv.org/abs/2605.29713",
+   "source": "Hacker News",
+   "published": "2026-11-03T21:40:53+00:00",
+   "summary": "327 points · 50 commentaires",
+   "image": null,
+   "signal": 327,
+   "discussion": "https://news.ycombinator.com/item?id=50358582",
+   "score": 4.12,
+   "also": []
+  },
+  {
+   "id": "f3900be82c6f",
+   "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+   "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+   "source": "Hacker News",
+   "published": "2026-11-03T21:26:44+00:00",
+   "summary": "338 points · 142 commentaires",
+   "image": null,
+   "signal": 338,
+   "discussion": "https://news.ycombinator.com/item?id=50358422",
+   "score": 4.13,
+   "also": []
+  },
+  {
+   "id": "86d5692015d2",
+   "title": "The AI Boom May Be Sowing Seeds of Another Financial Crisis",
+   "url": "https://www.bloomberg.com/opinion/articles/2026-11-03/ai-investment-boom-demands-stronger-financial-oversight",
+   "source": "Hacker News",
+   "published": "2026-11-03T21:25:48+00:00",
+   "summary": "73 points · 76 commentaires",
+   "image": null,
+   "signal": 73,
+   "discussion": "https://news.ycombinator.com/item?id=50358414",
+   "score": 2.91,
+   "also": []
+  },
+  {
+   "id": "c9173a71ad3b",
+   "title": "How I use AI (Oct 2026)",
+   "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+   "source": "Hacker News",
+   "published": "2026-11-03T18:11:11+00:00",
+   "summary": "153 points · 135 commentaires",
+   "image": null,
+   "signal": 153,
+   "discussion": "https://news.ycombinator.com/item?id=50355767",
+   "score": 3.34,
+   "also": []
+  },
+  {
+   "id": "da9a5824109f",
+   "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+   "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+   "source": "Hacker News",
+   "published": "2026-11-03T17:22:37+00:00",
+   "summary": "1207 points · 394 commentaires",
+   "image": null,
+   "signal": 1207,
+   "discussion": "https://news.ycombinator.com/item?id=50354960",
+   "score": 4.94,
+   "also": []
+  },
+  {
+   "id": "6857dc224a41",
+   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+   "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+   "source": "Simon Willison",
+   "published": "2026-11-03T16:29:48+00:00",
+   "summary": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a \"blog post\", but it's paper-shaped) found that frontier models, in particular GPT-6 Astra, can both interpret and modify the raw weights of a machine learning model - literally a…",
+   "image": null,
+   "signal": 589,
+   "discussion": "https://news.ycombinator.com/item?id=50355251",
+   "score": 4.33,
+   "also": []
+  },
+  {
+   "id": "97b6ac5fec21",
+   "title": "AI is destroying my CS degree",
+   "url": "https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/",
+   "source": "Hacker News",
+   "published": "2026-11-03T15:35:06+00:00",
+   "summary": "123 points · 112 commentaires",
+   "image": null,
+   "signal": 123,
+   "discussion": "https://news.ycombinator.com/item?id=50353300",
+   "score": 3.03,
+   "also": []
+  },
+  {
+   "id": "eadaa378c2b5",
+   "title": "Google will turn off search for schools that reject AI",
+   "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+   "source": "Hacker News",
+   "published": "2026-11-03T15:25:47+00:00",
+   "summary": "606 points · 429 commentaires",
+   "image": null,
+   "signal": 606,
+   "discussion": "https://news.ycombinator.com/item?id=50353192",
+   "score": 4.3,
+   "also": []
+  },
+  {
+   "id": "605a80a50559",
+   "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+   "url": "https://news.ycombinator.com/item?id=50352757",
+   "source": "Hacker News",
+   "published": "2026-11-03T14:53:41+00:00",
+   "summary": "470 points · 144 commentaires",
+   "image": null,
+   "signal": 470,
+   "discussion": "https://news.ycombinator.com/item?id=50352757",
+   "score": 4.07,
+   "also": []
+  },
+  {
+   "id": "6de44976057c",
+   "title": "Just a little AI resistance, as a treat",
+   "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
+   "source": "Hacker News",
+   "published": "2026-11-03T14:14:12+00:00",
+   "summary": "173 points · 108 commentaires",
+   "image": null,
+   "signal": 173,
+   "discussion": "https://news.ycombinator.com/item?id=50352257",
+   "score": 3.24,
+   "also": []
+  }
+ ],
+ "videos": [
+  {
+   "id": "0Kw6_DTZPrY",
+   "title": "‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon",
+   "url": "https://www.youtube.com/watch?v=0Kw6_DTZPrY",
+   "channel": "AI Explained",
+   "published": "2026-11-02T17:02:16+00:00",
+   "thumbnail": "https://i1.ytimg.com/vi/0Kw6_DTZPrY/hqdefault.jpg",
+   "views": 114869,
+   "description": "You know what, by AI standards, it might not have been the craziest week, but that doesn’t mean several headline-worthy things happened - from Altman and Anthropic implying they would release models they can’t control,…",
+   "relevance": 0
+  },
+  {
+   "id": "yW_ngvMFlYs",
+   "title": "Why Consciousness Might Not Be Hard At All (Joscha Bach)",
+   "url": "https://www.youtube.com/watch?v=yW_ngvMFlYs",
+   "channel": "Machine Learning Street Talk",
+   "published": "2026-11-02T03:04:11+00:00",
+   "thumbnail": "https://i2.ytimg.com/vi/yW_ngvMFlYs/hqdefault.jpg",
+   "views": 42658,
+   "description": "Joscha Bach is a cognitive scientist and the founder of the California Institute for Machine Consciousness. SPONSOR: --- Parallel is a single platform for all your agentic research: web search built for AI agents, with…",
+   "relevance": 0
+  }
+ ],
+ "papers": [
+  {
+   "id": "2611.01860",
+   "title": "Advances in Agentic Computer Graphics",
+   "authors": "Hengyu Liu, Jihyeon Je, Ruiqi Wang, Mingxuan Wu et al.",
+   "abstract": "Computer graphics is built on code. Large language model (LLM) agents can now generate graphics code and iteratively refine it through various feedback. This capability opens the door to a potentially new paradigm of computer graphics, with graphics algorithms increasingly built around agentic systems to automate progressively complex tasks. Over the past years, research on agentic graphics has expanded rapidly across a diverse range of tasks. This rapid growth makes it increasingly difficult for manual literature reviews to keep pace with new developments. At the same time, similar ideas are often described using different terminology across these tasks, further complicating efforts to develop a systematic understanding of the field. In this report, we address these challenges through two contributions. First, we introduce a unified taxonomy for characterizing agentic systems across diverse computer graphics tasks. Second, we develop an agentic literature system that can assist human researchers in analyzing existing and newly published papers at scale. Building on these…",
+   "published": "2026-11-01T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.01860",
+   "pdf": "https://arxiv.org/pdf/2611.01860",
+   "upvotes": 124,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "This report proposes a unified taxonomy and literature system for agentic computer graphics driven by large language models, analyzing trends and open challenges in human-agent collaboration and long-horizon planning.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.00859",
+   "title": "Wave Forcing: Towards Speed-of-Light Streaming Video Generation",
+   "authors": "Yijie Jin, Yuxuan Liu, Jiajun Xu, Ye Huang et al.",
+   "abstract": "Real-time long-video generation requires continuous output with consistent appearance and natural motion. Existing chunk-wise autoregressive methods face challenges in both generation efficiency and long-video quality: serialized denoising and history-cache refresh require two forward passes even with one-step denoising, and longer rollouts can degrade quality and cause camera drift. We propose Wave Forcing (WF), which co-designs generation, training, and execution for continuous video output with multi-step denoising. WF uses chunk-wise causal attention to access earlier, cleaner chunks before their denoising is complete, and distributes staggered denoising and cache-refresh stages across full-model replicas to achieve 1F1C: one output chunk per concurrent forward round after pipeline fill. To adapt the model to this continuous generation process, we develop a three-stage training procedure that successively introduces mixed-noise denoising, motion supervision, and causal adaptation using self-generated history. To execute this process efficiently, Wave Runtime (WaveRT) uses Wave…",
+   "published": "2026-10-31T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.00859",
+   "pdf": "https://arxiv.org/pdf/2611.00859",
+   "upvotes": 120,
+   "github": "https://github.com/SJTU-DENG-Lab/WaveForcing",
+   "origin": "hf",
+   "ai_summary": "Wave Forcing enables efficient continuous long-video generation with consistent appearance and natural motion through co-designed generation, training, and execution, achieving high throughput and quality.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.03126",
+   "title": "CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements",
+   "authors": "Xinlei Yu, Gen Li, Ji Zhao, Zhangquan Chen et al.",
+   "abstract": "Despite recent advances in CUAs, their development remains constrained by the limited diversity, controllability, and reliability of interaction data. Moreover, conventional optimization pipelines lack iterative feedback, while existing recursive improvement approaches often rely on self-generated experiences, limiting ability expansion and yielding diminishing returns. To address these challenges, we introduce CUA-Master, a nested double-loop recursive improvement framework. At the system level, an outer world-data-model flywheel continuously incorporates open-world corpus and leverages evolving model weaknesses to guide subsequent data construction and optimization iterations. At the data level, an inner flywheel couples open-world seeding and autocatalytic propagation. The former mines authentic workflows as seed tasks from instructional videos, and employs visual-semantic dual-path trajectory reconstruction; The latter transforms these seeds into reusable primitives for controllable synthesis of diverse, complex, and verifiable tasks. To enable efficient and reliable trajectory…",
+   "published": "2026-11-02T13:41:14.000Z",
+   "url": "https://arxiv.org/abs/2611.03126",
+   "pdf": "https://arxiv.org/pdf/2611.03126",
+   "upvotes": 97,
+   "github": "https://github.com/xlyu0106/CUA-Master",
+   "origin": "hf",
+   "ai_summary": "CUA-Master uses nested recursive loops with open-world data and feedback-driven retries to continuously improve computer-use agents across diverse benchmarks.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.03178",
+   "title": "CoworkOS:Scaling Agent Coworkers for Real-world Automation",
+   "authors": "Jiajie Jin, Guanting Dong, Chengjun Pan, Xin Deng et al.",
+   "abstract": "Rapid advances in cowork agents are shifting human-AI collaboration toward real-world automation, delivering software, designs, and other artifacts. However, such productivity work demands both high-quality delivery on complex productivity tasks and continued monitoring and decision-making over long horizons, a combination that remains an open challenge. We introduce CoworkOS, a general-purpose harness for long-horizon work that separates task strategy from execution management: the model decides actions, delegation, and acceptance, while the runtime maintains state and feedback. Its three-layer architecture enables direct execution or delegation to Subagents, synchronously or asynchronously, under stable responsibilities. Through a shared application layer, humans and agents inspect and revise the same evolving documents, presentations, CAD models, and Blender scenes, so human-in-the-loop participation can enter both through conversation and through direct modification of the work itself. To sustain continuity across agents and sessions, CoworkOS further introduces hierarchical…",
+   "published": "2026-11-02T14:15:11.000Z",
+   "url": "https://arxiv.org/abs/2611.03178",
+   "pdf": "https://arxiv.org/pdf/2611.03178",
+   "upvotes": 91,
+   "github": "https://github.com/RUC-NLPIR/CoworkOS",
+   "origin": "hf",
+   "ai_summary": "CoworkOS is a long-horizon agent harness that separates strategy from execution, supports human-in-the-loop collaboration via shared artifacts, and improves model performance through sustained automated post-training.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.40191",
+   "title": "Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement",
+   "authors": "Liaoyuan Fan, Yuhao Zheng, Dongxing Mao, Hangyu Ran et al.",
+   "abstract": "Video generation is shifting from end-to-end synthesis toward agentic generation, where planning, tool use, and feedback enable coherent, controllable multi-shot videos. In parallel, video world models provide action-conditioned observations and predicted futures, serving as interactive environments for agents. We study their intersection through the agent harness: an executable runtime that constructs context, exposes tools, maintains state, routes feedback, and manages budgets around video models. This report examines three directions. First, agentic video generation, where harnesses coordinate scripting, shot planning, asset management, production, and editing, alongside the evaluation challenges of these systems. Second, agentic world modeling, where harnesses mediate observation, control, execution, and state. We discuss hybrid designs in which game engines or agent-written programs maintain world state while video models render observations, and how agents and world models can mutually evaluate and improve one another. Third, recursive self-improvement (RSI) in video model…",
+   "published": "2026-10-29T14:47:39.000Z",
+   "url": "https://arxiv.org/abs/2610.40191",
+   "pdf": "https://arxiv.org/pdf/2610.40191",
+   "upvotes": 73,
+   "github": "https://github.com/agentic-videogen/awesome-agentic-videogen",
+   "origin": "hf",
+   "ai_summary": "Agent harnesses integrate video generation and world models to enable planning, tool use, and recursive self-improvement for autonomous multi-shot video production.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.05275",
+   "title": "Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems",
+   "authors": "Pengfei Zhou, Yixing Ma, Hexin Wang, Weidong Tang et al.",
+   "abstract": "Artificial general intelligence (AGI) requires a method that can understand, generate, reason, and act across diverse domains and modalities. Rather than relying on a single model to master every capability, a promising path toward AGI now is to orchestrate a heterogeneous ecosystem of specialized models, tools, and policies (candidates) into a unified AI system. At the heart of this vision lies a fundamental question: how can an AI system dynamically select and coordinate the most capable candidate for each task while balancing performance and computational cost? In this work, we present Route Anything, a unified framework for studying model and policy routing across general-purpose AI systems. We develop a unified theoretical foundation that characterizes optimal routing under quality--cost trade-offs and establishes how the information available to a router determines its attainable performance. To systematically investigate routing across diverse capabilities, we first construct an omni-modal trajectory matrix spanning 25 benchmarks across language understanding, image, video,…",
+   "published": "2026-11-03T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.05275",
+   "pdf": "https://arxiv.org/pdf/2611.05275",
+   "upvotes": 44,
+   "github": "https://github.com/InfRec-Cardinal/route-anything",
+   "origin": "hf",
+   "ai_summary": "Route Anything is a framework for dynamically selecting and coordinating specialized AI models and policies across diverse tasks to improve performance and efficiency.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.01560",
+   "title": "Democratizing Robot-Use Agents: A Unified Harness with Open Models",
+   "authors": "Jiarui Yuan, Yuxin Zuo, Xiaoyu Huang, Wenbo Zhang et al.",
+   "abstract": "Robot-use Agents (RUAs) have shown promising zero-shot manipulation capabilities, but reliance on frontier, proprietary models limits research into further training. To democratize RUA research, we introduce uni-robot-agent, a unified harness for competitive open-weight robot use that supports further training. Without privileged inputs, an out-of-the-box Qwen3.8-Flash-Next achieves a RoboDojo Score of 31.39, surpassing the published GPT-6 Astra-RoboProbe result of 28.97 and many VLA/WAM baselines, and performs competitively on 19 real-world tasks. Our analysis across model generations, families, and sizes links effective robot use to four general capabilities, suggesting that future RUA training should develop them jointly.",
+   "published": "2026-11-01T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.01560",
+   "pdf": "https://arxiv.org/pdf/2611.01560",
+   "upvotes": 43,
+   "github": "https://github.com/Open-RUA/uni-robot-agent",
+   "origin": "hf",
+   "ai_summary": "Uni-robot-agent enables open-weight robot-use agents to surpass proprietary models in zero-shot manipulation and suggests joint development of four core capabilities for future training.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.04916",
+   "title": "Behind Video Generation: Observations and Insights on Multimodal Understanding from Kling",
+   "authors": "Kling Team, Dong Chen, Jialu Chen, Xinlong Chen et al.",
+   "abstract": "Video generation has progressed from isolated clips to coherent short-form audiovisual sequences, and the bottleneck is shifting from rendering to semantic control. This report summarizes the observations and insights on multimodal understanding gained from successive generations of Kling. We argue that generation quality is the projection of multimodal understanding through the entire data--conditioning--alignment--evaluation chain, and we examine this chain module by module. Kling-MLLM, a shared multimodal foundation model that unifies image, video, audio, synchronized audio--video, and interleaved inputs, is specialized for each downstream module. Because a DiT is trained on far fewer training samples than a language model, we treat captioning as a semantic contract that maximizes description density, and extend it to reference-grounded captioning that makes reference bindings explicit. Prompt enhancement translates user intent into this caption distribution: basic PE is derived from captions of compelling videos and refined with text-level and generator-in-the-loop reinforcement…",
+   "published": "2026-11-03T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.04916",
+   "pdf": "https://arxiv.org/pdf/2611.04916",
+   "upvotes": 42,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "Kling's multimodal understanding stack links caption density, perceptual text encoding, reward modeling, and evaluation protocols to improve controllable video generation.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.02074",
+   "title": "SWE-Trail: History-Guided Trajectory Collection for Coding Agent Training",
+   "authors": "Ziming Li, Lu Yu, Jiatan Huang, Qing Cui et al.",
+   "abstract": "Coding agents solve repository issues through long sequences of exploration, editing, and validation. These trajectories are increasingly used as post-training data, so how they are collected shapes what the trained model learns. A common approach is to sample multiple trajectories independently for each issue and then select or curate them. However, as more trajectories are sampled independently, later trajectories become increasingly redundant, even though earlier trajectories could guide where subsequent collection effort should be spent. A natural way to use this history is to expose it to the coding agent as advice. But training on such trajectories can make the model rely on advice that is unavailable at test time, creating a train-test mismatch. Instead, we argue that history should guide where collection effort is spent, while the coding agent decides what to generate. We introduce SWE-Trail, a trajectory collector that uses earlier trajectories to guide subsequent collection while keeping that history outside the coding agent's context. During a new rollout, SWE-Trail uses…",
+   "published": "2026-11-01T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.02074",
+   "pdf": "https://arxiv.org/pdf/2611.02074",
+   "upvotes": 36,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "SWE-Trail improves trajectory collection for coding agents by using past rollouts to guide exploration without exposing history to the agent, yielding better-trained student models.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.02737",
+   "title": "MoviEdit: Long-form Multi-Shot Video Editing Made Easy",
+   "authors": "Suhyeon Lee, Zhengang Li, Soo Ye Kim, Peihao Zhu et al.",
+   "abstract": "Long-form multi-shot video editing requires an intended edit to remain coherent across abrupt changes in scene, viewpoint, and subject appearance, while processing substantially longer visual context than conventional single-shot editors. We introduce MoviEdit, an end-to-end framework for scalable long-form multi-shot video editing that jointly addresses the challenges of data, modeling, and evaluation. To provide cross-shot supervision data at scale, we develop automatic data-generation pipelines spanning synchronized multi-view footage, real-world multi-shot videos, and generated multi-shot content, yielding 87K paired editing videos without manual annotation. Architecturally, MoviEdit employs a cascaded bidirectional-autoregressive design: a lightweight bidirectional stage first establishes a globally coherent editing draft over a spatiotemporally compressed representation, which is then autoregressively propagated and refined over the full video. We further introduce MoviEdit-Bench, a dedicated benchmark for systematic evaluation of long-form multi-shot video editing. Extensive…",
+   "published": "2026-11-02T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.02737",
+   "pdf": "https://arxiv.org/pdf/2611.02737",
+   "upvotes": 35,
+   "github": "https://github.com/adobe-research/MoviEdit-Bench",
+   "origin": "hf",
+   "ai_summary": "MoviEdit is an end-to-end framework for long-form multi-shot video editing that uses cascaded bidirectional-autoregressive modeling and a new benchmark to maintain coherence across scenes while reducing manual data annotation.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.04948",
+   "title": "PATTS: Parallel-Aware Test-Time Scaling for Thought-Image Generation in Multimodal Discrete Diffusion LLMs",
+   "authors": "Yasong Dai, Zeeshan Hayder, David Ahmedt-Aristizabal, Hongdong Li",
+   "abstract": "Test-time scaling (TTS) improves generative models by allocating additional inference-time computation to sampling, search, and verification. Existing image generation approaches, however, typically rank completed images or image-centric intermediate states. We study TTS for parallel multimodal discrete diffusion language models, in which reasoning tokens and image tokens are decoded jointly within a single generation trajectory. We first diagnose a limitation of conventional final-image selection: on GenEval, a CLIP-style image-prompt score is weakly aligned with within-prompt compositional correctness, leaving substantial headroom between verifier selection and oracle selection. We then propose PATTS, a novel parallel-aware TTS framework that searches over intermediate thought-image states using cross-modal verifier signals. PATTS uses a state-dependent reliability weight, derived from model-internal trajectory diagnostics, to modulate the influence of external semantic verification during generation. In the fixed N=32 evaluation on MMaDA-Parallel, the PATTS reaches a GenEval…",
+   "published": "2026-11-03T14:10:56Z",
+   "url": "https://arxiv.org/abs/2611.04948",
+   "pdf": "https://arxiv.org/pdf/2611.04948",
+   "upvotes": 0,
+   "github": "https://github.com/Ringo-Star/PATTS.git",
+   "origin": "arxiv",
+   "categories": [
+    "cs.CV"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.05325",
+   "title": "CATF: A Manager-Worker Framework for Context-Aware Time-Series Forecasting",
+   "authors": "Yueqiao Chen, Dongyu Liu",
+   "abstract": "We study context-aware time-series forecasting, in which a single target variable is predicted from its own history and a set of contextual variables, such as weather and calendar information. As the context becomes more diverse, a single model struggles to capture all of its regimes, while ensemble learning and Mixture-of-Experts approaches rely on manual data partitioning or soft routing, which increases the inference cost and hinders interpretability. We propose CATF, a Context-Aware Time-Series Forecasting framework built on a Manager-Worker architecture: a Transformer-based Manager routes each input to a single Worker based on the context, using hard routing during both training and inference. The Workers thus specialize without manual data partitioning, and any single-model forecaster can serve as a Worker. On five context-rich datasets, four horizons, and two normalization schemes, CATF improves over its standalone counterpart in 162 of 200 comparisons, the best CATF-enhanced model outperforms the best standalone baseline in 19 of 20 settings, and it outperforms the zero-shot…",
+   "published": "2026-11-03T18:28:04Z",
+   "url": "https://arxiv.org/abs/2611.05325",
+   "pdf": "https://arxiv.org/pdf/2611.05325",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.LG"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.05280",
+   "title": "YANAMI: A Large-Scale Multimodal Dataset and Benchmark for Multiturn Stateful Interaction",
+   "authors": "Shengyu Wang, Tengyue Nong, Junming Liu, Haosong Peng et al.",
+   "abstract": "Unified Multimodal Models (UMMs) integrate visual understanding, generation, and editing within a single unified framework. However, existing unified multimodal datasets and benchmarks remain dominated by single-turn tasks. Even in recent multi-turn datasets, many turns can be solved independently without tracking information across turns. Consequently, they provide limited supervision and evaluation for multimodal stateful interaction, which requires models to understand, maintain, update, and faithfully realize evolving dialogue states across turns. To address this gap, we introduce YANAMI, the first large-scale multimodal dialogue dataset and benchmark for stateful interaction, comprising YANAMI-400K and YANAMI-Bench. YANAMI-400K contains 400K multi-turn multimodal dialogues, with more than 2M images and 2.6M dialogue turns. The dialogues span four representative scenarios: Multi-Image Fusion, Image Editing, World Modeling, and Visual Reasoning, and require models to continuously track, preserve, and revise evolving multimodal dialogue states across turns. YANAMI-Bench comprises…",
+   "published": "2026-11-03T17:59:36Z",
+   "url": "https://arxiv.org/abs/2611.05280",
+   "pdf": "https://arxiv.org/pdf/2611.05280",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CV"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.05207",
+   "title": "Multi-Objective Generative Optimization via Expected Hypervolume Fine-Tuning",
+   "authors": "Juan Guevara, Riccardo De Santi, Andreas Krause, Raul Astudillo",
+   "abstract": "Scientific discovery requires plausible designs spanning useful trade-offs among competing properties: a molecule with strong binding affinity, for example, may be difficult to synthesize. Pretrained generative models, e.g., flow and diffusion generators, provide a foundation for proposing such designs, but steering them toward high-quality, complementary trade-offs remains challenging. Inference-time search incurs high per-sample costs, while fine-tuning typically relies on fixed per-candidate rewards that do not capture how designs complement one another. We introduce Hypervolume Fine-Tuning (HVFT), which adapts a single pretrained generator to maximize the expected hypervolume of its samples while controlling departure from the pretrained distribution. Expected hypervolume jointly rewards candidate quality and collective trade-off coverage. Nonetheless, we show that it cannot be expressed as the expectation of a fixed per-candidate reward and therefore cannot be optimized directly with standard techniques. A key observation of this work is that its first variation corresponds to…",
+   "published": "2026-11-03T16:55:58Z",
+   "url": "https://arxiv.org/abs/2611.05207",
+   "pdf": "https://arxiv.org/pdf/2611.05207",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.LG"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.05181",
+   "title": "What Does the Model See? Representation Validity in Multimodal LLM-Based Video Analysis",
+   "authors": "Christian Pipal, Eva-Maria Vogel, Morgan Wack",
+   "abstract": "Multimodal large language models (MLLMs) allow social scientists to analyze video at scale, but researchers must decide which parts of a video to provide as input. We use the term representation validity to examine how text, audio, video, and combined inputs affect measurement and subsequent analysis. We compare input representations across six open-weight MLLMs and three human-annotated video datasets. No representation consistently performs best. On seven news-related constructs, native-video performance varies little across models (macro-F1 = .70-.77), while extracted-text performance ranges from .52 to .80. Three models perform better with text and three with video. Combining inputs rarely improves performance. Higher classification accuracy also does not reliably produce estimates closer to those based on human codes. The highest-F1 representation best reproduces human-coded regression coefficients in 17 of 42 comparisons. Even when each model uses its highest-F1 deployable representation, 45% of sample-prevalence estimates differ from the human-coded benchmark by more than ten…",
+   "published": "2026-11-03T16:42:49Z",
+   "url": "https://arxiv.org/abs/2611.05181",
+   "pdf": "https://arxiv.org/pdf/2611.05181",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CV",
+    "cs.CL"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "classics": [
+  {
+   "id": "1801.03924",
+   "title": "The Unreasonable Effectiveness of Deep Features as a Perceptual Metric",
+   "year": 2018,
+   "authors": "Richard Zhang, Phillip Isola, Alexei A. Efros et al.",
+   "abstract": "While it is nearly effortless for humans to quickly assess the perceptual similarity between two images, the underlying processes are thought to be quite complex. Despite this, the most widely used perceptual metrics today, such as PSNR and SSIM, are simple, shallow functions, and fail to account for many nuances of human perception. Recently, the deep learning community has found that features of the VGG network trained on ImageNet classification has been remarkably useful as a training loss for image synthesis. But how perceptual are these so-called \"perceptual losses\"? What elements are critical for their success? To answer these questions, we introduce a new dataset of human perceptual…",
+   "citations": 21266,
+   "url": "https://arxiv.org/abs/1801.03924",
+   "cited_by": [
+    "MoviEdit: Long-form Multi-Shot Video Editing Made Easy"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2302.05543",
+   "title": "Adding Conditional Control to Text-to-Image Diffusion Models",
+   "year": 2023,
+   "authors": "Lvmin Zhang, Anyi Rao, Maneesh Agrawala",
+   "abstract": "We present ControlNet, a neural network architecture to add spatial conditioning controls to large, pretrained text-to-image diffusion models. ControlNet locks the production-ready large diffusion models, and reuses their deep and robust encoding layers pretrained with billions of images as a strong backbone to learn a diverse set of conditional controls. The neural architecture is connected with \"zero convolutions\" (zero-initialized convolution layers) that progressively grow the parameters from zero and ensure that no harmful noise could affect the finetuning. We test various conditioning controls, e.g., edges, depth, segmentation, human pose, etc., with Stable Diffusion, using single or…",
+   "citations": 8205,
+   "url": "https://arxiv.org/abs/2302.05543",
+   "cited_by": [
+    "MoviEdit: Long-form Multi-Shot Video Editing Made Easy"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2307.15818",
+   "title": "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control",
+   "year": 2023,
+   "authors": "Anthony Brohan, Noah Brown, Justice Carbajal et al.",
+   "abstract": "We study how vision-language models trained on Internet-scale data can be incorporated directly into end-to-end robotic control to boost generalization and enable emergent semantic reasoning. Our goal is to enable a single end-to-end trained model to both learn to map robot observations to actions and enjoy the benefits of large-scale pretraining on language and vision-language data from the web. To this end, we propose to co-fine-tune state-of-the-art vision-language models on both robotic trajectory data and Internet-scale vision-language tasks, such as visual question answering. In contrast to other approaches, we propose a simple, general recipe to achieve this goal: in order to fit…",
+   "citations": 5034,
+   "url": "https://arxiv.org/abs/2307.15818",
+   "cited_by": [
+    "Democratizing Robot-Use Agents: A Unified Harness with Open Models"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2406.09246",
+   "title": "OpenVLA: An Open-Source Vision-Language-Action Model",
+   "year": 2024,
+   "authors": "Moo Jin Kim, Karl Pertsch, Siddharth Karamcheti et al.",
+   "abstract": "Large policies pretrained on a combination of Internet-scale vision-language data and diverse robot demonstrations have the potential to change how we teach robots new skills: rather than training new behaviors from scratch, we can fine-tune such vision-language-action (VLA) models to obtain robust, generalizable policies for visuomotor control. Yet, widespread adoption of VLAs for robotics has been challenging as 1) existing VLAs are largely closed and inaccessible to the public, and 2) prior work fails to explore methods for efficiently fine-tuning VLAs for new tasks, a key component for adoption. Addressing these challenges, we introduce OpenVLA, a 7B-parameter open-source VLA trained on…",
+   "citations": 4296,
+   "url": "https://arxiv.org/abs/2406.09246",
+   "cited_by": [
+    "Democratizing Robot-Use Agents: A Unified Harness with Open Models"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2204.01691",
+   "title": "Do As I Can, Not As I Say: Grounding Language in Robotic Affordances",
+   "year": 2022,
+   "authors": "Brian Ichter, Anthony Brohan, Yevgen Chebotar et al.",
+   "abstract": "Large language models can encode a wealth of semantic knowledge about the world. Such knowledge could be extremely useful to robots aiming to act upon high-level, temporally extended instructions expressed in natural language. However, a significant weakness of language models is that they lack real-world experience, which makes it difficult to leverage them for decision making within a given embodiment. For example, asking a language model to describe how to clean a spill might result in a reasonable narrative, but it may not be applicable to a particular agent, such as a robot, that needs to perform this task in a particular environment. We propose to provide real-world grounding by means…",
+   "citations": 4100,
+   "url": "https://arxiv.org/abs/2204.01691",
+   "cited_by": [
+    "Democratizing Robot-Use Agents: A Unified Harness with Open Models"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2006.16236",
+   "title": "Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention",
+   "year": 2020,
+   "authors": "Angelos Katharopoulos, Apoorv Vyas, Nikolaos Pappas et al.",
+   "abstract": "Transformers achieve remarkable performance in several tasks but due to their quadratic complexity, with respect to the input's length, they are prohibitively slow for very long sequences. To address this limitation, we express the self-attention as a linear dot-product of kernel feature maps and make use of the associativity property of matrix products to reduce the complexity from $\\mathcal{O}\\left(N^2\\right)$ to $\\mathcal{O}\\left(N\\right)$, where $N$ is the sequence length. We show that this formulation permits an iterative implementation that dramatically accelerates autoregressive transformers and reveals their relationship to recurrent neural networks. Our linear transformers achieve…",
+   "citations": 3409,
+   "url": "https://arxiv.org/abs/2006.16236",
+   "cited_by": [
+    "MoviEdit: Long-form Multi-Shot Video Editing Made Easy"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2403.07974",
+   "title": "LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code",
+   "year": 2024,
+   "authors": "Naman Jain, King Han, Alex Gu et al.",
+   "abstract": "Large Language Models (LLMs) applied to code-related applications have emerged as a prominent field, attracting significant interest from both academia and industry. However, as new and improved LLMs are developed, existing evaluation benchmarks (e.g., HumanEval, MBPP) are no longer sufficient for assessing their capabilities. In this work, we propose LiveCodeBench, a comprehensive and contamination-free evaluation of LLMs for code, which continuously collects new problems over time from contests across three competition platforms, namely LeetCode, AtCoder, and CodeForces. Notably, our benchmark also focuses on a broader range of code related capabilities, such as self-repair, code…",
+   "citations": 2571,
+   "url": "https://arxiv.org/abs/2403.07974",
+   "cited_by": [
+    "Democratizing Robot-Use Agents: A Unified Harness with Open Models"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2108.01073",
+   "title": "SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations",
+   "year": 2021,
+   "authors": "Chenlin Meng, Yutong He, Yang Song et al.",
+   "abstract": "Guided image synthesis enables everyday users to create and edit photo-realistic images with minimum effort. The key challenge is balancing faithfulness to the user input (e.g., hand-drawn colored strokes) and realism of the synthesized image. Existing GAN-based methods attempt to achieve such balance using either conditional GANs or GAN inversions, which are challenging and often require additional training data or loss functions for individual applications. To address these issues, we introduce a new image synthesis and editing method, Stochastic Differential Editing (SDEdit), based on a diffusion model generative prior, which synthesizes realistic images by iteratively denoising through…",
+   "citations": 2544,
+   "url": "https://arxiv.org/abs/2108.01073",
+   "cited_by": [
+    "MoviEdit: Long-form Multi-Shot Video Editing Made Easy"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "stats": {
+  "raw_news": 50,
+  "stories": 10,
+  "videos": 2,
+  "papers": 15,
+  "classics": 8,
+  "seconds": 372
+ }
+}

@@ -1,0 +1,636 @@
+{
+ "generated_at": "2026-11-14T11:37:13.087477+00:00",
+ "date": "2026-11-14",
+ "tldr": {
+  "headline": "Les titres du jour",
+  "points": [
+   {
+    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+    "text": "628 points · 367 commentaires",
+    "ref": "news:c6caa4d4f0b0"
+   },
+   {
+    "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
+    "text": "203 points · 47 commentaires",
+    "ref": "news:7039aca8dbba"
+   },
+   {
+    "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+    "text": "89 points · 85 commentaires",
+    "ref": "news:a9dc79e6aa5b"
+   },
+   {
+    "title": "No AI Slop: A Manifesto",
+    "text": "200 points · 117 commentaires",
+    "ref": "news:f0632826eee2"
+   },
+   {
+    "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+    "text": "355 points · 194 commentaires",
+    "ref": "news:406adb72e894"
+   }
+  ],
+  "generated": false
+ },
+ "tldr_en": {
+  "headline": "Today's headlines",
+  "points": [
+   {
+    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+    "text": "628 points · 367 commentaires",
+    "ref": "news:c6caa4d4f0b0"
+   },
+   {
+    "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
+    "text": "203 points · 47 commentaires",
+    "ref": "news:7039aca8dbba"
+   },
+   {
+    "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+    "text": "89 points · 85 commentaires",
+    "ref": "news:a9dc79e6aa5b"
+   },
+   {
+    "title": "No AI Slop: A Manifesto",
+    "text": "200 points · 117 commentaires",
+    "ref": "news:f0632826eee2"
+   },
+   {
+    "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+    "text": "355 points · 194 commentaires",
+    "ref": "news:406adb72e894"
+   }
+  ],
+  "generated": false
+ },
+ "news": [
+  {
+   "id": "c6caa4d4f0b0",
+   "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+   "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+   "source": "Hacker News",
+   "published": "2026-11-14T02:52:59+00:00",
+   "summary": "628 points · 367 commentaires",
+   "image": null,
+   "signal": 628,
+   "discussion": "https://news.ycombinator.com/item?id=50493251",
+   "score": 4.72,
+   "also": []
+  },
+  {
+   "id": "7039aca8dbba",
+   "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
+   "source": "Hacker News",
+   "published": "2026-11-14T02:21:36+00:00",
+   "summary": "203 points · 47 commentaires",
+   "image": null,
+   "signal": 203,
+   "discussion": "https://news.ycombinator.com/item?id=50492993",
+   "score": 3.8,
+   "also": []
+  },
+  {
+   "id": "a9dc79e6aa5b",
+   "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+   "url": "https://claude.com/resources/articles/projects-redesigned",
+   "source": "Hacker News",
+   "published": "2026-11-14T00:28:11+00:00",
+   "summary": "89 points · 85 commentaires",
+   "image": null,
+   "signal": 89,
+   "discussion": "https://news.ycombinator.com/item?id=50492141",
+   "score": 3.05,
+   "also": []
+  },
+  {
+   "id": "f0632826eee2",
+   "title": "No AI Slop: A Manifesto",
+   "url": "https://www.slopmanifesto.com/",
+   "source": "Hacker News",
+   "published": "2026-11-13T19:51:56+00:00",
+   "summary": "200 points · 117 commentaires",
+   "image": null,
+   "signal": 200,
+   "discussion": "https://news.ycombinator.com/item?id=50488769",
+   "score": 3.46,
+   "also": []
+  },
+  {
+   "id": "406adb72e894",
+   "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+   "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+   "source": "Hacker News",
+   "published": "2026-11-13T18:40:44+00:00",
+   "summary": "355 points · 194 commentaires",
+   "image": null,
+   "signal": 355,
+   "discussion": "https://news.ycombinator.com/item?id=50487864",
+   "score": 3.86,
+   "also": []
+  },
+  {
+   "id": "ea0776201252",
+   "title": "After 600 experiments, here's what I discovered about JEPA world models",
+   "url": "https://haddyalchaer.com/jepa",
+   "source": "Hacker News",
+   "published": "2026-11-13T17:55:28+00:00",
+   "summary": "264 points · 44 commentaires",
+   "image": null,
+   "signal": 264,
+   "discussion": "https://news.ycombinator.com/item?id=50487185",
+   "score": 3.59,
+   "also": []
+  },
+  {
+   "id": "d6f57ed8e4d1",
+   "title": "OpenAI disbands its robotics team as its general models start running robots",
+   "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+   "source": "Hacker News",
+   "published": "2026-11-13T17:55:23+00:00",
+   "summary": "167 points · 71 commentaires",
+   "image": null,
+   "signal": 167,
+   "discussion": "https://news.ycombinator.com/item?id=50487184",
+   "score": 3.22,
+   "also": []
+  },
+  {
+   "id": "e940fd987572",
+   "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+   "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+   "source": "Hacker News",
+   "published": "2026-11-13T17:30:10+00:00",
+   "summary": "395 points · 101 commentaires",
+   "image": null,
+   "signal": 395,
+   "discussion": "https://news.ycombinator.com/item?id=50486748",
+   "score": 3.89,
+   "also": []
+  },
+  {
+   "id": "5f1afeeb96c0",
+   "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+   "url": "https://text.npr.org/nx-s1-6029408",
+   "source": "Hacker News",
+   "published": "2026-11-13T15:29:10+00:00",
+   "summary": "185 points · 175 commentaires",
+   "image": null,
+   "signal": 185,
+   "discussion": "https://news.ycombinator.com/item?id=50484960",
+   "score": 3.18,
+   "also": []
+  },
+  {
+   "id": "4f5b4ce8cb48",
+   "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+   "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+   "source": "Hacker News",
+   "published": "2026-11-13T15:08:44+00:00",
+   "summary": "314 points · 395 commentaires",
+   "image": null,
+   "signal": 314,
+   "discussion": "https://news.ycombinator.com/item?id=50484658",
+   "score": 3.58,
+   "also": []
+  }
+ ],
+ "videos": [
+  {
+   "id": "x7iwI6WfWS0",
+   "title": "Funkiest Zoom meeting EVER (Surprise video)",
+   "url": "https://www.youtube.com/watch?v=x7iwI6WfWS0",
+   "channel": "Two Minute Papers",
+   "published": "2026-11-14T08:40:55+00:00",
+   "thumbnail": "https://i1.ytimg.com/vi/x7iwI6WfWS0/hqdefault.jpg",
+   "views": 4082,
+   "description": "After finishing this song, it took me 3 months to gather the courage to stand in front of the camera to record it. Hope you Fellow Scholars enjoy it! Thank you so much for the amazing musicians for their help! - Vocals:…",
+   "relevance": 0
+  },
+  {
+   "id": "gPNiuyYirfw",
+   "title": "DeepMind’s AI Just Did The Impossible",
+   "url": "https://www.youtube.com/watch?v=gPNiuyYirfw",
+   "channel": "Two Minute Papers",
+   "published": "2026-11-12T13:41:41+00:00",
+   "thumbnail": "https://i4.ytimg.com/vi/gPNiuyYirfw/hqdefault.jpg",
+   "views": 286027,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The DeepMind paper AlphaProof Code is available here: https://deepmind.google/blog/introducing-alphaproof-code/…",
+   "relevance": 0
+  },
+  {
+   "id": "uND6iY2qp_c",
+   "title": "AlphaGenome 2: Teaching AI to read the entire human genome",
+   "url": "https://www.youtube.com/watch?v=uND6iY2qp_c",
+   "channel": "Google DeepMind",
+   "published": "2026-11-11T18:00:31+00:00",
+   "thumbnail": "https://i2.ytimg.com/vi/uND6iY2qp_c/hqdefault.jpg",
+   "views": 86695,
+   "description": "98% of human DNA doesn't build proteins—it controls how our cells work, and holds vital clues to why diseases happen and why 90% of new drugs fail in clinical trials. Understanding the genome at the molecular level is…",
+   "relevance": 0
+  },
+  {
+   "id": "583ThJIqQ7k",
+   "title": "Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)",
+   "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
+   "channel": "AI Explained",
+   "published": "2026-11-10T23:11:36+00:00",
+   "thumbnail": "https://i2.ytimg.com/vi/583ThJIqQ7k/hqdefault.jpg",
+   "views": 200868,
+   "description": "I’ve read the full Fable 5.2 report at 264 pages, the 30 page METR RSI report, and tested Gemini Carbon and Fable 5.2 hundreds of times. There’s too much to cover in one video, but let’s explore everything from how fast…",
+   "relevance": 0
+  }
+ ],
+ "papers": [
+  {
+   "id": "2611.14033",
+   "title": "Few-Step Streaming Video Generation via Condition Shifting",
+   "authors": "Deyuan Liu, Jungang Li, Kaiwen Zheng, Kai Jiang et al.",
+   "abstract": "Few-step sampling reduces the cost of streaming video generation. Distribution Matching Distillation (DMD) supervises few-step generators with a separate fake-score network, which adds training memory and computation and must track the evolving generator. We extend APEX to streaming video by using condition shifting to estimate the velocity field of the generated distribution within the generator. The original text condition selects generation, while a shifted condition selects fake estimation using the same parameters. This removes the independent fake network while retaining S2-Avatar's frozen reference teacher, Self-Replay Forcing, and perceptual regularization. We evaluate APEX on 180-second videos using three backbone evaluations per block and a one-step spatial Refiner, with a 70-case human study and a 320-case StreamAV-Bench comparison. Compared with S2-Avatar, APEX achieves higher video instruction fulfillment on the Progressive track (3.856 versus 3.831) and higher visual aesthetics across both tracks (0.641898 versus 0.632606). Human raters favor APEX most strongly on…",
+   "published": "2026-11-10T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.14033",
+   "pdf": "https://arxiv.org/pdf/2611.14033",
+   "upvotes": 88,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "APEX extends a streaming video generation method by replacing a separate fake-score network with condition shifting to estimate the generated distribution’s velocity field, improving instruction following and visual aesthetics while reducing memory and iteration time relative to DMD.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.15777",
+   "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
+   "authors": "Lichen Li, Ziping Dong, Sicheng Feng, Qi Li et al.",
+   "abstract": "System One models promise fast, general-purpose decision-making without lengthy token generation. However, understanding their capability spectrum and decision reliability requires more than aggregate performance on current benchmarks. Existing evaluations often provide limited insight into the breadth of model capabilities and the reliability of their decisions. We introduce SO-Arena, a benchmark characterizing the capability spectrum and decision reliability of System One models across 11 domains and five capability families. For the capability spectrum, SO-Arena offers evidence-grounded evaluation through reliable sources and manual verification of reference labels against model-visible inputs; fine-grained capability assessment through domain-specific difficulty criteria; and realistic interactive evaluation, where models iteratively execute actions in sandboxes. Reasoning-intensive tasks further enable system one-two comparison. Beyond accuracy, SO-Arena assesses decision reliability through two complementary measures: decision stability under controlled option-set changes and…",
+   "published": "2026-11-11T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.15777",
+   "pdf": "https://arxiv.org/pdf/2611.15777",
+   "upvotes": 83,
+   "github": "https://github.com/holdrain/SO-Arena",
+   "origin": "hf",
+   "ai_summary": "SO-Arena evaluates System One models across domains and capability families, revealing that scaling and reasoning gains vary and that high overall accuracy does not ensure reliable decision-making.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.14320",
+   "title": "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents",
+   "authors": "Yukyeong Lee, Yumin Choi, Jinheon Baek, Sung Ju Hwang",
+   "abstract": "External memory enables LLM agents to improve from experience by distilling trajectories of past tasks into concise lessons for new tasks. However, memory can also lead to memory-induced degradation, where an agent fails on tasks it would solve without memory, often because it follows a lesson that is incorrect, or misapplies or misreads a valid one. This is because lessons are inferred from trajectories labeled only with task success or failure, yet are typically provided without the trajectories they came from, leaving the agent no way to check them. To address this, we introduce WikiTrace, an evidence-linked memory system designed to let agents check each lesson against its original trajectory. Specifically, motivated by the finding that a trajectory often still holds the evidence needed to catch an erroneous lesson, WikiTrace stores each lesson as a concise insight linked to a summary of why its trajectory succeeded or failed and to the raw trajectory itself. Then, on a new task, the agent starts from all insights and, whenever one lacks details needed to act, conflicts with…",
+   "published": "2026-11-10T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.14320",
+   "pdf": "https://arxiv.org/pdf/2611.14320",
+   "upvotes": 70,
+   "github": "https://github.com/yukyeongleee/wikitrace",
+   "origin": "hf",
+   "ai_summary": "WikiTrace links each distilled lesson to its source trajectory and rationale, enabling LLM agents to verify and correct memories before acting, improving performance and reducing memory-induced degradation across agentic benchmarks.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.12885",
+   "title": "World In-Context Learning for Agentic Robot Manipulation",
+   "authors": "Heng Fang, Zehui Guo, Yuehan Zhang, Mingyang Du et al.",
+   "abstract": "Trained action policies write manipulation skill into network weights, tying what is learned to the distribution it is learned from. In-context learning (ICL) avoids this coupling but has not matched trained policies, because a demonstration recorded in another scene carries no feedback from the world the robot currently faces. We observe that what an agent learns in context is semantic, recording task steps and object roles rather than visual appearance, so experience gathered in one world transfers to another. Based on this insight, we propose World In-Context Learning (WICL), a paradigm in which a frozen model starts from a demonstration, rehearses the task in a world such as a simulator, and writes the feedback into its context rather than its weights. We build RoboScript, a modular infrastructure that implements WICL for agentic manipulation. From a single demonstration, RoboScript learns each task through rehearsal in simulation, freezes the learned knowledge as a Task Memory, and deploys the frozen memory on new scenes with data isolation that ensures every deployment input…",
+   "published": "2026-11-09T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.12885",
+   "pdf": "https://arxiv.org/pdf/2611.12885",
+   "upvotes": 57,
+   "github": "https://github.com/ArcheOne-AI/RoboScript",
+   "origin": "hf",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.11995",
+   "title": "Infrathon: Benchmarking Language Agents for Real-World, Long-Horizon AI Infra Optimization",
+   "authors": "Zhengyu Hu, Zheyuan Xiao, Yike Wang, Hamish Ivison et al.",
+   "abstract": "In this work, we study whether frontier agent can continually improve real-world AI infrastructure over long horizons. We introduce Infrathon, a benchmark of diverse, long-horizon AI infrastructure optimization tasks across different levels. We evaluate six models across 150 runs with 24-hour budgets, totaling over 10,000 GPU-hours. Our results show that model rankings vary with the evaluation horizon, while 135 of the 150 runs achieve further improvements during the second half of their budgets. These findings indicate that shorter evaluations can overlook both optimization gains and changes in relative model performance. We also find agents can discover solutions that outperform human-designed baselines: Claude Opus 5.5 increases the mean KV-cache compression ratio from 6.82% with the human-designed Quant-VideoGen codec to 19.86%. Analysis of agent trajectories identifies task violations, unreliable testing, and premature completion as barriers to sustained improvement. Together, Our Infrathon framework provide resources for constructing long-horizon tasks, evaluating frontier…",
+   "published": "2026-11-09T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.11995",
+   "pdf": "https://arxiv.org/pdf/2611.11995",
+   "upvotes": 51,
+   "github": "https://github.com/InfrathonX/Infrathon",
+   "origin": "hf",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.14815",
+   "title": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
+   "authors": "Junyoung Seo, Jaewoo Seo, Seungryong Kim, Laura Leal-Taixé et al.",
+   "abstract": "Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle motion from perspective video alone is challenging because motion is entangled with appearance and vehicles can be occluded. Prior work therefore conditions video generation on layouts that specify vehicle motion, providing control over surrounding vehicles but requiring their future trajectories as inputs. We introduce BirdDreams, an autoregressive driving world model that jointly generates perspective video and a schematic bird's-eye-view (BEV) video, making scene layout part of the predicted future. The BEV, rendered from scene annotations for training, depicts roads and vehicles as simple shapes at a fixed metric scale, providing a top-down view of their positions and motion with reduced occlusion between vehicles. Perspective video, by contrast, retains scene details that the BEV omits, such as traffic signals and object appearance. Joint attention between two video diffusion…",
+   "published": "2026-11-10T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.14815",
+   "pdf": "https://arxiv.org/pdf/2611.14815",
+   "upvotes": 49,
+   "github": null,
+   "origin": "hf",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.40394",
+   "title": "Scaling Mathematical Proof Supervision from Structured Textbooks",
+   "authors": "Youqing Fang, Zhouqi Hua, Yinhao Tang, Yuzhe Gu et al.",
+   "abstract": "Mathematical supervision for language models is typically flattened into isolated problem-solution pairs, discarding the curricular organization and evidential structure of the original sources. We introduce TOME-Math (Textbook-Oriented Mathematical Evidence), a large-scale corpus that converts 2,118 textbooks spanning the core areas of university-level mathematics subjects into approximately 380K structured proof-supervision records while preserving chapter order, proposition-proof links, dependency references, and source provenance. Leveraging these structural signals, we explore curriculum learning across multiple mathematical subjects and characterize scaling patterns with supervision volume and source breadth. At full scale, fine-tuning on TOME-Math raises the unweighted mean score across our held-out evaluations and established public benchmarks by 16.7 percentage points over the base model, while exceeding all three public instruction-data baselines evaluated in aggregate. Our findings highlight structured textbooks as both a scalable source of mathematical supervision and an…",
+   "published": "2026-10-29T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.40394",
+   "pdf": "https://arxiv.org/pdf/2610.40394",
+   "upvotes": 45,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "A large-scale corpus of structured proof-supervision records derived from university mathematics textbooks improves language model mathematical reasoning by 16.7 percentage points over a base model when used for fine-tuning.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.14210",
+   "title": "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits",
+   "authors": "Hadi Salloum, Ammar Ali",
+   "abstract": "Weight-space programming, introduced in recent MIT work by Takehi et al., enables a frontier LLM agent to read a network's weights and write a repair. Their GPT-6 Astra agent corrected the reasoning loops of Qwen3.5-0.8B without gradients, using 158 agent turns, 89.7 million tokens, and 50 forward-pass requests. Our method, Tree-Ising, casts this repair as a sparse discrete optimization problem over the model's own BF16 weights. Forward statistics define an objective that weakens a loop direction, strengthens a concluding direction, and preserves the layer's output on productive tokens. Within a state-tree representation, where lossless BF16 storage acts as a special case, the admissible edits are sign flips and exponent shifts that preserve all shared group exponents and mantissas. We decompose this objective exactly into independent QUBO (Ising) problems, one per output row, which we solve on a GPU using simulated annealing or quantum-inspired simulated bifurcation. On the agent's two layers, Tree-Ising achieves 54.6% on MATH-500, outperforming the agent's edit (51.7%) under the…",
+   "published": "2026-11-10T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.14210",
+   "pdf": "https://arxiv.org/pdf/2611.14210",
+   "upvotes": 45,
+   "github": "https://github.com/TheQuantumGOAT/Tree-Ising",
+   "origin": "hf",
+   "ai_summary": "Tree-Ising repairs reasoning loops in LLM weights by solving sparse Ising/QUBO problems over BF16 parameters, improving math benchmark accuracy with fewer weight edits and no gradient or LLM-token cost.",
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.16748",
+   "title": "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models",
+   "authors": "Yuxuan Chen, Xiaojie Li, Hao Chen, Juncheng Ma et al.",
+   "abstract": "Video generation models produce visually realistic videos but still struggle with physical dynamics and causal consistency. Learning from generated videos requires fine-grained physical supervision, yet reliable quality judgments, correction pairs, and controlled variations are difficult to obtain. Large language models (LLMs) possess physical knowledge, but struggle to reliably guide video generation models in producing their training videos. We present PhysLoop, a unified harness designed to support physically grounded self-improvement in video generation models. The harness guides and constrains LLMs throughout video generation, selection, and correction, distilling their physical knowledge into physically consistent videos. The framework supports controllable training-data construction and inference-time video repair. By identifying and correcting failures, PhysLoop marks a key milestone toward recursive self-improvement (RSI) in video generation models with limited human intervention. We release 100K videos spanning diverse, realistic indoor and outdoor scenes, along with…",
+   "published": "2026-11-12T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.16748",
+   "pdf": "https://arxiv.org/pdf/2611.16748",
+   "upvotes": 44,
+   "github": "https://github.com/DAGroup-PKU/PhysLoop",
+   "origin": "hf",
+   "ai_summary": "PhysLoop leverages large language models to guide video generation, selection, and correction, enabling physically consistent self-improvement and controllable data construction for video models.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.13004",
+   "title": "G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation",
+   "authors": "Xu Huang, Ye Huang, Xiaotong Li, Zhengrong Yue et al.",
+   "abstract": "Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, while aggressive spatial compression reduces representation capacity. Based on product quantization, we show that, under a fixed nominal information budget, group size should scale quadratically with the per-axis spatial compression factor. Building on this principle, we propose GSTAR, a spatial--group co-scaling framework that enables \\(32\\times\\) and even effective \\(64\\times\\) compression while preserving strong reconstruction, understanding, and generation performance. Since larger groups introduce intra-group dependencies that must be modeled efficiently, we analyze their impact on inference latency and generation quality and introduce a semi-autoregressive decoder that combines parallel feature computation with lightweight causal modeling. With these designs, our highly compressed models perform competitively with leading models across five representative text-to-image benchmarks…",
+   "published": "2026-11-08T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.13004",
+   "pdf": "https://arxiv.org/pdf/2611.13004",
+   "upvotes": 42,
+   "github": "https://github.com/DAGroup-PKU/G-STAR",
+   "origin": "hf",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.17332",
+   "title": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+   "authors": "Jie Wang, Tong Zhu, JiaHao Kuang, Zhe Xu et al.",
+   "abstract": "Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSeek, Qwen, and Kimi routinely introduce architectural innovations, yet public reports rarely document which ideas succeeded, which were abandoned, and why. In academia, limited compute and inconsistent baselines often restrict evaluations to small-scale, single-point comparisons, making it difficult to establish whether improvements hold at larger scales or translate into broader impact. ArchSpace addresses both gaps as a public platform for Recording, Reviewing, and Referencing Architecture Researc}: each proposal is recorded with its experiments and reasoning, reviewed by the community, and referenced by later work. To evaluate ideas before costly large-scale training, ArchSpace leverages scaling laws to predict model loss at larger scales from smaller experiments, a practice widely adopted in industry. We provide initial references that make the platform usable: Qwen3.5 and OLMo3…",
+   "published": "2026-11-12T18:59:52Z",
+   "url": "https://arxiv.org/abs/2611.17332",
+   "pdf": "https://arxiv.org/pdf/2611.17332",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CL",
+    "cs.LG"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.17324",
+   "title": "K2V: Generative Keyframing For Physically Plausible Video Generation",
+   "authors": "Felix O'Mahony, Daniel Olmeda Reino, Roberto Cipolla, Ayush Tewari",
+   "abstract": "Video diffusion models are able to generate samples with high-quality appearance and textural qualities. However, content produced by these methods is known to exhibit significant physical errors. This is because, in a classical video generation setting, all physical reasoning must take place simultaneously and exclusively within the diffusion process.We propose to resolve these issues by redistributing the task of physical reasoning onto a language model-backed keyframe generation module, which allows for explicit reasoning in language, and fine-grained control over the appearance of the video at important moments in the video. We then condition a video generation model with these keyframes, reducing the role of the diffusion model to the simpler task of interpolating between physically-correct intermediate states, rather than inferring an entire sequence with diffusion. Results demonstrate that our approach significantly outperforms existing approaches, achieving state-of-the-art performance on the Physics-IQ Verified benchmark and PhyGenBench.",
+   "published": "2026-11-12T18:59:09Z",
+   "url": "https://arxiv.org/abs/2611.17324",
+   "pdf": "https://arxiv.org/pdf/2611.17324",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CV"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.17320",
+   "title": "Learning When Diffusion Language Models Should Regenerate",
+   "authors": "Minhae Oh, Jeonghye Kim, Jinwoo Koo, Yeongoon Kim et al.",
+   "abstract": "Remasking allows diffusion language models to revisit generated text, but effective correction requires knowing when and what to revise. Our diagnosis on Sudoku reveals two gaps. Hidden states contain error information that token confidence does not reliably expose, and remasking an isolated error usually reproduces it when the surrounding context remains fixed. These findings motivate DiVR , a verifier that predicts whether a partially generated sequence will reach a correct answer. Trained on the final correctness of the model's own trajectories, DiVR decides when to regenerate a block and which alternative to retain, while the generator itself stays unchanged. On five reasoning benchmarks with LLaDA-8B-Base, DiVR raises the average accuracy of the fine-tuned generator from 35.3\\% to 43.4\\% at $1.9$-$3.5\\times$ the cost of greedy decoding, above search baselines that use $3.8$-$7.4\\times$. It also complements post-training such as supervised fine-tuning and reinforcement learning, and generalizes to other generators, including Dream.",
+   "published": "2026-11-12T18:58:50Z",
+   "url": "https://arxiv.org/abs/2611.17320",
+   "pdf": "https://arxiv.org/pdf/2611.17320",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CL"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.17220",
+   "title": "Scalable Conversational Assessment: Chat-Based Exams with a Two-Agent LLM Pipeline",
+   "authors": "Geoffrey Challen, Craig Zilles",
+   "abstract": "Oral exams are compelling because (1) students can be asked to provide their reasoning for an answer and (2) their interactive nature permits follow-up questions to resolve ambiguous answers. But oral exams scale poorly. In this paper, we present scalable conversational assessment, an LLM-based system that conducts interactive text-based conversations with students to assess their ability to make and support an argument. We use a two-agent architecture to separate concerns and reduce the likelihood that answers are leaked to the student: the interviewer interacts directly with the student, but only receives guidance about the next question to ask the student; the hidden evaluator knows the goals of the whole activity, tracks the student's progress using a rubric, and guides the interviewer on when to follow-up on the current question or proceed to the next question. The system was first tested using a collection of simulated students with LLM personas of a particular ability level or adversarial tactic (e.g., answer-extractors, prompt-injectors, confident fabricators). A novel…",
+   "published": "2026-11-12T18:16:37Z",
+   "url": "https://arxiv.org/abs/2611.17220",
+   "pdf": "https://arxiv.org/pdf/2611.17220",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CY",
+    "cs.AI"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.17052",
+   "title": "Auditing AI peer reviewers: a benchmark on real scientific papers",
+   "authors": "Íñigo Zubeldia, Boris Bolliet, Francisco Villaescusa-Navarro, Pablo Villanueva-Domingo et al.",
+   "abstract": "LLM-based peer review is now used at production scale, but its evaluation remains limited. We introduce a benchmark that injects objective, localisable errors of four types (general issues, mathematics, numerics, citations) at three severity levels into real papers and measures each reviewer's detection rate by error type and severity, together with its false-positive rate on clean copies. We also present Skepthical, a multi-agent reviewer that verifies citation-backed claims by retrieving the cited papers, mathematics with computer algebra, and numerical claims with executed code. We apply the benchmark to two corpora of 15 recent arXiv preprints each, one in astrophysics and one in machine learning (ML), injecting a total of 357 errors, and evaluate twelve reviewer systems: six single-LLM reviewers, two Claude Code configurations, three publicly available reviewers, and Skepthical. The choice of model has the largest impact on detection rate: given the same prompt, three frontier LLMs differ by about 50 percentage points in total detection on both corpora. Tools and scaffolding…",
+   "published": "2026-11-12T16:33:51Z",
+   "url": "https://arxiv.org/abs/2611.17052",
+   "pdf": "https://arxiv.org/pdf/2611.17052",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CL",
+    "astro-ph.IM",
+    "cs.AI",
+    "cs.DL"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "classics": [
+  {
+   "id": "2410.13720",
+   "title": "Movie Gen: A Cast of Media Foundation Models",
+   "year": 2024,
+   "authors": "Adam Polyak, Amit Zohar, Andrew Brown et al.",
+   "abstract": "We present Movie Gen, a cast of foundation models that generates high-quality, 1080p HD videos with different aspect ratios and synchronized audio. We also show additional capabilities such as precise instruction-based video editing and generation of personalized videos based on a user's image. Our models set a new state-of-the-art on multiple tasks: text-to-video synthesis, video personalization, video editing, video-to-audio generation, and text-to-audio generation. Our largest video generation model is a 30B parameter transformer trained with a maximum context length of 73K video tokens, corresponding to a generated video of 16 seconds at 16 frames-per-second. We show multiple technical…",
+   "citations": 737,
+   "url": "https://arxiv.org/abs/2410.13720",
+   "cited_by": [
+    "Infrathon: Benchmarking Language Agents for Real-World, Long-Horizon AI Infra Optimization",
+    "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
+    "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models"
+   ],
+   "why": "Cité par 3 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2305.20050",
+   "title": "Let's Verify Step by Step",
+   "year": 2023,
+   "authors": "H. Lightman, V. Kosaraju, Yuri Burda et al.",
+   "abstract": "In recent years, large language models have greatly improved in their ability to perform complex multi-step reasoning. However, even state-of-the-art models still regularly produce logical mistakes. To train more reliable models, we can turn either to outcome supervision, which provides feedback for a final result, or process supervision, which provides feedback for each intermediate reasoning step. Given the importance of training reliable models, and given the high cost of human feedback, it is important to carefully compare the both methods. Recent work has already begun this comparison, but many questions still remain. We conduct our own investigation, finding that process supervision…",
+   "citations": 5481,
+   "url": "https://arxiv.org/abs/2305.20050",
+   "cited_by": [
+    "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
+    "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2311.17982",
+   "title": "VBench: Comprehensive Benchmark Suite for Video Generative Models",
+   "year": 2023,
+   "authors": "Zi-Qi Huang, Yi-Nan He, Jia-Shuo Yu et al.",
+   "abstract": "Video generation has witnessed significant advance-ments, yet evaluating these models remains a challenge. A comprehensive evaluation benchmark for video generation is indispensable for two reasons: 1) Existing metrics do not fully align with human perceptions; 2) An ideal eval-uation system should provide insights to inform future de-velopments of video generation. To this end, we present VBench, a comprehensive benchmark suite that dissects “video generation quality” into specific, hierarchical, and disentangled dimensions, each with tailored prompts and evaluation methods. VBench has three appealing proper-ties: 1) Comprehensive Dimensions: VBench comprises 16 dimensions in video…",
+   "citations": 2314,
+   "url": "https://arxiv.org/abs/2311.17982",
+   "cited_by": [
+    "Infrathon: Benchmarking Language Agents for Real-World, Long-Horizon AI Infra Optimization",
+    "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2110.14168",
+   "title": "Training Verifiers to Solve Math Word Problems",
+   "year": 2021,
+   "authors": "K. Cobbe, V. Kosaraju, Mo Bavarian et al.",
+   "abstract": "State-of-the-art language models can match human performance on many tasks, but they still struggle to robustly perform multi-step mathematical reasoning. To diagnose the failures of current models and support research, we introduce GSM8K, a dataset of 8.5K high quality linguistically diverse grade school math word problems. We find that even the largest transformer models fail to achieve high test performance, despite the conceptual simplicity of this problem distribution. To increase performance, we propose training verifiers to judge the correctness of model completions. At test time, we generate many candidate solutions and select the one ranked highest by the verifier. We demonstrate…",
+   "citations": 12170,
+   "url": "https://arxiv.org/abs/2110.14168",
+   "cited_by": [
+    "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
+    "Infrathon: Benchmarking Language Agents for Real-World, Long-Horizon AI Infra Optimization",
+    "Scaling Mathematical Proof Supervision from Structured Textbooks"
+   ],
+   "why": "Cité par 4 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2406.12045",
+   "title": "τ-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+   "year": 2024,
+   "authors": "Shun-Yu Yao, Noah Shinn, Pedram Razavi et al.",
+   "abstract": "Existing benchmarks do not test language agents on their interaction with human users or ability to follow domain-specific rules, both of which are vital for deploying them in real world applications. We propose $\\tau$-bench, a benchmark emulating dynamic conversations between a user (simulated by language models) and a language agent provided with domain-specific API tools and policy guidelines. We employ an efficient and faithful evaluation process that compares the database state at the end of a conversation with the annotated goal state. We also propose a new metric (pass^k) to evaluate the reliability of agent behavior over multiple trials. Our experiments show that even…",
+   "citations": 1789,
+   "url": "https://arxiv.org/abs/2406.12045",
+   "cited_by": [
+    "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
+    "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2308.10144",
+   "title": "ExpeL: LLM Agents Are Experiential Learners",
+   "year": 2023,
+   "authors": "Andrew Zhao, Daniel Huang, Quentin Xu et al.",
+   "abstract": "The recent surge in research interest in applying large language models (LLMs) to decision-making tasks has flourished by leveraging the extensive world knowledge embedded in LLMs. While there is a growing demand to tailor LLMs for custom decision-making tasks, finetuning them for specific tasks is resource-intensive and may diminish the model's generalization capabilities. Moreover, state-of-the-art language models like GPT-4 and Claude are primarily accessible through API calls, with their parametric weights remaining proprietary and unavailable to the public. This scenario emphasizes the growing need for new methodologies that allow learning from agent experiences without requiring…",
+   "citations": 1330,
+   "url": "https://arxiv.org/abs/2308.10144",
+   "cited_by": [
+    "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents",
+    "World In-Context Learning for Agentic Robot Manipulation"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2407.01392",
+   "title": "Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion",
+   "year": 2024,
+   "authors": "Boyuan Chen, Diego Marti Monso, Yilun Du et al.",
+   "abstract": "This paper presents Diffusion Forcing, a new training paradigm where a diffusion model is trained to denoise a set of tokens with independent per-token noise levels. We apply Diffusion Forcing to sequence generative modeling by training a causal next-token prediction model to generate one or several future tokens without fully diffusing past ones. Our approach is shown to combine the strengths of next-token prediction models, such as variable-length generation, with the strengths of full-sequence diffusion models, such as the ability to guide sampling to desirable trajectories. Our method offers a range of additional capabilities, such as (1) rolling-out sequences of continuous tokens, such…",
+   "citations": 896,
+   "url": "https://arxiv.org/abs/2407.01392",
+   "cited_by": [
+    "Few-Step Streaming Video Generation via Condition Shifting",
+    "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2005.14165",
+   "title": "Language Models are Few-Shot Learners",
+   "year": 2020,
+   "authors": "Tom B. Brown, Benjamin Mann, N. Ryder et al.",
+   "abstract": "Recent work has demonstrated substantial gains on many NLP tasks and benchmarks by pre-training on a large corpus of text followed by fine-tuning on a specific task. While typically task-agnostic in architecture, this method still requires task-specific fine-tuning datasets of thousands or tens of thousands of examples. By contrast, humans can generally perform a new language task from only a few examples or from simple instructions - something which current NLP systems still largely struggle to do. Here we show that scaling up language models greatly improves task-agnostic, few-shot performance, sometimes even reaching competitiveness with prior state-of-the-art fine-tuning approaches.…",
+   "citations": 66602,
+   "url": "https://arxiv.org/abs/2005.14165",
+   "cited_by": [
+    "World In-Context Learning for Agentic Robot Manipulation"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "stats": {
+  "raw_news": 42,
+  "stories": 10,
+  "videos": 4,
+  "papers": 15,
+  "classics": 8,
+  "seconds": 460
+ }
+}

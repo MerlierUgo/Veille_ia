@@ -1,0 +1,593 @@
+{
+ "generated_at": "2026-11-11T12:11:43.492852+00:00",
+ "date": "2026-11-11",
+ "tldr": {
+  "headline": "Les titres du jour",
+  "points": [
+   {
+    "title": "LLMs Play Zachtronics' TIS-100",
+    "text": "75 points · 15 commentaires",
+    "ref": "news:c0a7d4957512"
+   },
+   {
+    "title": "Tracking Anthropic-discovered vulnerabilities",
+    "text": "410 points · 197 commentaires",
+    "ref": "news:ae3c6c28ceab"
+   },
+   {
+    "title": "Apple has new Mac app coming to make running local AI models easy",
+    "text": "292 points · 262 commentaires",
+    "ref": "news:168143ea4218"
+   },
+   {
+    "title": "What objective is reasoning solving?",
+    "text": "147 points · 67 commentaires",
+    "ref": "news:b2a06dfbc2e9"
+   },
+   {
+    "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+    "text": "383 points · 122 commentaires",
+    "ref": "news:5175b6a2b765"
+   }
+  ],
+  "generated": false
+ },
+ "news": [
+  {
+   "id": "c0a7d4957512",
+   "title": "LLMs Play Zachtronics' TIS-100",
+   "url": "https://tis-100.wincon.dev/",
+   "source": "Hacker News",
+   "published": "2026-11-11T00:37:05+00:00",
+   "summary": "75 points · 15 commentaires",
+   "image": null,
+   "signal": 75,
+   "discussion": "https://news.ycombinator.com/item?id=50448340",
+   "score": 2.9,
+   "also": []
+  },
+  {
+   "id": "ae3c6c28ceab",
+   "title": "Tracking Anthropic-discovered vulnerabilities",
+   "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+   "source": "Hacker News",
+   "published": "2026-11-10T22:17:56+00:00",
+   "summary": "410 points · 197 commentaires",
+   "image": null,
+   "signal": 410,
+   "discussion": "https://news.ycombinator.com/item?id=50447074",
+   "score": 4.14,
+   "also": []
+  },
+  {
+   "id": "168143ea4218",
+   "title": "Apple has new Mac app coming to make running local AI models easy",
+   "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+   "source": "Hacker News",
+   "published": "2026-11-10T21:25:03+00:00",
+   "summary": "292 points · 262 commentaires",
+   "image": null,
+   "signal": 292,
+   "discussion": "https://news.ycombinator.com/item?id=50446520",
+   "score": 3.82,
+   "also": []
+  },
+  {
+   "id": "b2a06dfbc2e9",
+   "title": "What objective is reasoning solving?",
+   "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
+   "source": "Hacker News",
+   "published": "2026-11-10T19:25:14+00:00",
+   "summary": "147 points · 67 commentaires",
+   "image": null,
+   "signal": 147,
+   "discussion": "https://news.ycombinator.com/item?id=50445013",
+   "score": 4.67,
+   "also": []
+  },
+  {
+   "id": "5175b6a2b765",
+   "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+   "url": "https://github.com/GoogleChrome/modern-web-guidance",
+   "source": "Hacker News",
+   "published": "2026-11-10T18:01:15+00:00",
+   "summary": "383 points · 122 commentaires",
+   "image": null,
+   "signal": 383,
+   "discussion": "https://news.ycombinator.com/item?id=50443812",
+   "score": 5.37,
+   "also": []
+  },
+  {
+   "id": "a5749ddac123",
+   "title": "An Open Field Guide to Inference Engineering",
+   "url": "https://docs.modelplane.ai/guides/inference-guide",
+   "source": "Hacker News",
+   "published": "2026-11-10T17:55:07+00:00",
+   "summary": "89 points · 9 commentaires",
+   "image": null,
+   "signal": 89,
+   "discussion": "https://news.ycombinator.com/item?id=50443714",
+   "score": 4.2,
+   "also": []
+  },
+  {
+   "id": "7737e173e31a",
+   "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+   "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+   "source": "Hacker News",
+   "published": "2026-11-10T17:55:07+00:00",
+   "summary": "242 points · 173 commentaires",
+   "image": null,
+   "signal": 242,
+   "discussion": "https://news.ycombinator.com/item?id=50443716",
+   "score": 3.5,
+   "also": []
+  },
+  {
+   "id": "dfad3e6674c2",
+   "title": "Life on Claude Nine",
+   "url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
+   "source": "Hacker News",
+   "published": "2026-11-10T17:44:44+00:00",
+   "summary": "109 points · 71 commentaires",
+   "image": null,
+   "signal": 109,
+   "discussion": "https://news.ycombinator.com/item?id=50443587",
+   "score": 2.85,
+   "also": []
+  },
+  {
+   "id": "0b2e1c02de47",
+   "title": "Gemini 4 Carbon is now available",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "source": "Google DeepMind",
+   "published": "2026-11-10T16:03:47+00:00",
+   "summary": "",
+   "image": null,
+   "signal": 0,
+   "score": 6.53,
+   "also": [
+    {
+     "source": "Hacker News",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+    }
+   ],
+   "discussion": "https://news.ycombinator.com/item?id=50442303"
+  },
+  {
+   "id": "6719652bbfeb",
+   "title": "Anthropic to Seek $1.3T Valuation in IPO",
+   "url": "https://www.wsj.com/finance/stocks/anthropic-to-seek-1-3-trillion-valuation-in-ipo-8337b669",
+   "source": "Hacker News",
+   "published": "2026-11-10T12:49:32+00:00",
+   "summary": "60 points · 85 commentaires",
+   "image": null,
+   "signal": 60,
+   "discussion": "https://news.ycombinator.com/item?id=50439616",
+   "score": 2.14,
+   "also": []
+  }
+ ],
+ "videos": [
+  {
+   "id": "583ThJIqQ7k",
+   "title": "Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)",
+   "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
+   "channel": "AI Explained",
+   "published": "2026-11-10T23:11:36+00:00",
+   "thumbnail": "https://i2.ytimg.com/vi/583ThJIqQ7k/hqdefault.jpg",
+   "views": 85111,
+   "description": "I’ve read the full Fable 5.2 report at 264 pages, the 30 page METR RSI report, and tested Gemini Carbon and Fable 5.2 hundreds of times. There’s too much to cover in one video, but let’s explore everything from how fast…",
+   "relevance": 0
+  },
+  {
+   "id": "vug73goPJaM",
+   "title": "Is Software Over?",
+   "url": "https://www.youtube.com/watch?v=vug73goPJaM",
+   "channel": "Two Minute Papers",
+   "published": "2026-11-10T10:15:57+00:00",
+   "thumbnail": "https://i3.ytimg.com/vi/vug73goPJaM/hqdefault.jpg",
+   "views": 151199,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The papers and sources are available here: MirrorCode: https://arxiv.org/abs/2606.30182 REMEND:…",
+   "relevance": 0
+  },
+  {
+   "id": "GJ6PMUm5oTA",
+   "title": "OpenAI's Astra Just Opened The Black Box Of AI",
+   "url": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
+   "channel": "Two Minute Papers",
+   "published": "2026-11-07T16:24:47+00:00",
+   "thumbnail": "https://i4.ytimg.com/vi/GJ6PMUm5oTA/hqdefault.jpg",
+   "views": 226889,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The Weight Space Programming work is available here: https://rikiyat.github.io/blog/weight-space-programming/ 🙏 We would like to…",
+   "relevance": 0
+  }
+ ],
+ "papers": [
+  {
+   "id": "2611.12806",
+   "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+   "authors": "Bing Han, Yichuan Peng, Haoyu Dong, Yuanmeng Hu et al.",
+   "abstract": "Tactile sensing is an indispensable modality for contact-rich dexterous manipulation, a capability that hints at the ultimate frontiers of embodied intelligence. However, commercially available tactile sensors are still at a relatively early stage of development, with each type of sensor offering irreplaceable strengths alongside its own drawbacks. A key challenge is thus to free tactile understanding from sensor-specific physics, so that embodied models can effectively leverage heterogeneous tactile data. To this end, we develop LingBot-Touch, a tactile foundation model characterized by the following properties. (i) Our model yields a unified representation across different tactile sensors (i.e., piezoresistive, magnetic, and visuotactile sensors), and is easily extensible to new sensor types. (ii) The resulting tactile tokens are plug-and-play: they can be seamlessly integrated into policy models across paradigms, from diffusion policy to vision-language-action (VLA) models such as π_{0.5} and LingBot-VLA, consistently enhancing manipulation dexterity. (iii) Extensive experiments,…",
+   "published": "2026-11-09T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.12806",
+   "pdf": "https://arxiv.org/pdf/2611.12806",
+   "upvotes": 96,
+   "github": "https://github.com/Robbyant/lingbot-touch",
+   "origin": "hf",
+   "ai_summary": "LingBot-Touch is a tactile foundation model that learns a unified, extensible representation across heterogeneous tactile sensors, yielding plug-and-play tactile tokens that consistently enhance manipulation policies such as diffusion policy and VLA models.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.06043",
+   "title": "Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription",
+   "authors": "Daniel Huang, Qi He, Shaoxiong Duan, Yingjie Li et al.",
+   "abstract": "Streaming speech recognition is increasingly consumed by machines, such as translators and voice agents, that act on each token as it appears. A token that is later revised costs wasted work or a wrong action. In this work, we present Confucius4-R2T2 (short for Real Real-Time Transcription), a stable-prefix streaming ASR model that never modifies its earlier output while maintaining high accuracy and low latency. R2T2 is obtained by post-training Qwen3-ASR-1.7B on 1,500 hours of Chinese and English audio while freezing its pre-trained audio encoder and projector. The adaptation is based on the concept of Longest Stable Prefix (LSP), a new notion that we introduce in this work. We prove that LSP is monotone under the prefix order, consistent with the full-audio output, and maximal among labels that equal a whole earlier output. Learning from LSP labels converts a full-context model into a stable-prefix streaming one without any architectural change. Extensive evaluations show that R2T2 brings streaming recognition close to the base model's full-context quality while delivering stable…",
+   "published": "2026-11-04T06:46:50.000Z",
+   "url": "https://arxiv.org/abs/2611.06043",
+   "pdf": "https://arxiv.org/pdf/2611.06043",
+   "upvotes": 90,
+   "github": "https://github.com/netease-youdao/Confucius4-R2T2",
+   "origin": "hf",
+   "ai_summary": "A full-context speech recognizer is adapted to emit immutable streaming transcripts with near full-context accuracy and low latency by learning longest stable prefix labels.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.08264",
+   "title": "SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes",
+   "authors": "Hao Yu, Zhenwei Wang, Yongzhen Hu, Yuning Gong et al.",
+   "abstract": "We identify a key limitation of existing feed-forward 3DGS methods: Gaussian attributes are typically predicted in a radial-distance-normalized space that canonicalizes a global radial statistic of the reconstructed geometry, while the spacing between neighboring Gaussian centers can still vary substantially across scene scales and camera configurations. This mismatch induces systematic shifts in Gaussian-scale targets, leading to ambiguous supervision. To address this, we propose SplatAnything with Gaussian Spacing Normalization (GSNorm), which canonicalizes a robust scene-level statistic of Gaussian spacing to provide a more consistent spatial reference for Gaussian prediction. To rigorously assess our method, we further establish a systematic benchmark spanning diverse datasets, input sparsity levels, and challenging extrapolated viewpoints. Extensive experiments demonstrate that SplatAnything achieves state-of-the-art performance, with particularly strong gains under substantial variations in scene scale and viewpoint.",
+   "published": "2026-11-05T16:37:29.000Z",
+   "url": "https://arxiv.org/abs/2611.08264",
+   "pdf": "https://arxiv.org/pdf/2611.08264",
+   "upvotes": 70,
+   "github": "https://github.com/zju3dv/SplatAnything",
+   "origin": "hf",
+   "ai_summary": "SplatAnything applies Gaussian Spacing Normalization to canonicalize scene-level Gaussian spacing, yielding more consistent supervision and improved feed-forward 3D Gaussian Splatting under varying scene scales and viewpoints.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.03953",
+   "title": "P^2-MOPD: Accelerating Multi-Teacher On-Policy Distillation via Parameter Priors",
+   "authors": "Sinuo Wang, Jiacheng Lu, Zeyu Zhang, Maojia Song et al.",
+   "abstract": "Multi-teacher on-policy distillation consolidates expert capabilities by supervising student-generated trajectories, whereas task arithmetic offers a training-free alternative through linear parameter combinations. We view the linear combination of student and expert parameters as a single differentiable model and propose P^2-MOPD, which jointly optimizes the mixing coefficients and the student weights under the same on-policy distillation objective. Unlike task arithmetic, which stays within the span of the frozen student and expert parameters for any choice of merging coefficients, P^2-MOPD keeps the student trainable, so the experts act as parameter priors without confining it to this span. Across four domains at 1.7B and 4B scales, P^2-MOPD achieves faster and more balanced recovery than MOPD from the same initialization, surpassing its final average recovery in half the training steps. At the end of training, our 1.7B model reaches 94.7% average recovery, versus 80.9% for MOPD.",
+   "published": "2026-11-02T20:53:15.000Z",
+   "url": "https://arxiv.org/abs/2611.03953",
+   "pdf": "https://arxiv.org/pdf/2611.03953",
+   "upvotes": 59,
+   "github": "https://github.com/SinuoWang/P2-MOPD",
+   "origin": "hf",
+   "ai_summary": "P^2-MOPD jointly optimizes mixing coefficients and student weights under an on-policy distillation objective, enabling faster and more balanced recovery than MOPD by treating experts as parameter priors while keeping the student trainable.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.10771",
+   "title": "WorldFoundry: Towards Unified Infrastructure for World Intelligence",
+   "authors": "Juanxi Tian, Jiadong Hou, Baiang Li, Xin Lin et al.",
+   "abstract": "Visual generative models increasingly blur the line between synthesizing observations and simulating environments. Yet visual plausibility alone does not constitute successful world modeling: compelling outputs may lack persistent state, physical dynamics, or causally consistent responses to interactions. We define a generative world model as a predictive dynamical system that maintains a persistent, history-conditioned representation of an environment, updates that representation in response to actions or interventions, and generates temporally coherent trajectories that reflect outcomes under observed and counterfactual interventions. From this definition, we derive an intelligence-oriented framework spanning perceptual grounding, persistent state modeling, controllable transformation, dynamics-aware prediction, and closed-loop interaction. We present WorldFoundry, open-source infrastructure for reproducible inference and evaluation across video, 3D and 4D, embodied action, and interactive world systems. WorldFoundry unifies model and benchmark discovery, runtime and asset…",
+   "published": "2026-11-07T14:59:22.000Z",
+   "url": "https://arxiv.org/abs/2611.10771",
+   "pdf": "https://arxiv.org/pdf/2611.10771",
+   "upvotes": 55,
+   "github": "https://github.com/OpenEnvision/WorldFoundry",
+   "origin": "hf",
+   "ai_summary": "WorldFoundry offers open-source infrastructure for reproducible inference and evaluation of generative world models across video, 3D/4D, embodied action, and interactive systems, with traceable evidence and benchmarks.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.12762",
+   "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
+   "authors": "Weida Wang, Benteng Chen, Yigeng Jiang, Shuchen Pu et al.",
+   "abstract": "We introduce Sage-Taiyi, a metacognition-inspired architecture that uses accumulated scientific understanding to guide what to investigate next and how to investigate it. Through explicit monitoring and control, the system revises its understanding of evidence, assumptions, and unresolved questions, then uses these assessments to adapt research targets and select reusable reasoning methods. On Taiyi-Bench, an AI co-scientist ideation benchmark comprising 265 tasks from 50 papers across ten disciplines, Sage-Taiyi ranks first on all eight metrics of historical rediscovery and open-ended ideation, achieving an Overall score of 54.0 compared with 47.9 for the strongest baseline, AI Scientist-v2. It also performs well on two external scientific ideation benchmarks. Five expert-guided collaborations further connect its proposals to experimental and computational validation across chemistry, materials science, and engineering. In chemistry, reaction-condition optimization raises the yield of cobalt-catalyzed carbonylation from trace amounts to 84% and photocatalytic allylic amination from…",
+   "published": "2026-11-09T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.12762",
+   "pdf": "https://arxiv.org/pdf/2611.12762",
+   "upvotes": 54,
+   "github": "https://github.com/Alpha-Innovator/Sage-Taiyi",
+   "origin": "hf",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.09124",
+   "title": "Toward the Era of Agentic Embodied Intelligence",
+   "authors": "Chao Liang, Ke Chen, Fengxiaoxiao Li, Shibo Huang et al.",
+   "abstract": "Foundation models increasingly guide robot actions, yet sustained autonomy requires efficient control and failure recovery. We introduce A2-MEAS, an embodied multi-agent framework built around code as a scaling interface. Learned correction codes combine corrective language, spatial evidence, execution history, and action proposals. MetaBrain provides training supervision and runtime guidance. A correction encoder and adapter absorb this knowledge into policy weights during training, while fresh codes adapt behavior with frozen weights at deployment. The action model, A2-WLA, adds motion-aware history and a latent world model to a vision-language-action policy. Surprisingly, this simple design with action pretraining and task specialization reaches 0.5755 Q-score on the 50-task BEHAVIOR 2026 public subset before online correction, 2.21x the 2025 winner's reported 0.2605 across different benchmark editions and training configurations. On all 100 BEHAVIOR 2026 public tasks, A2-MEAS achieves 0.6411 Q-score and 45.40% task success. On RoboTwin 2.0, A2-WLA achieves 93.98% average…",
+   "published": "2026-11-06T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.09124",
+   "pdf": "https://arxiv.org/pdf/2611.09124",
+   "upvotes": 50,
+   "github": "https://github.com/AutoLab-SAI-SJTU/A2MEAS",
+   "origin": "hf",
+   "ai_summary": "An embodied multi-agent framework uses learned correction codes and a vision-language-action model with motion-aware history and latent world modeling to improve robot control, failure recovery, and training efficiency.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.14320",
+   "title": "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents",
+   "authors": "Yukyeong Lee, Yumin Choi, Jinheon Baek, Sung Ju Hwang",
+   "abstract": "External memory enables LLM agents to improve from experience by distilling trajectories of past tasks into concise lessons for new tasks. However, memory can also lead to memory-induced degradation, where an agent fails on tasks it would solve without memory, often because it follows a lesson that is incorrect, or misapplies or misreads a valid one. This is because lessons are inferred from trajectories labeled only with task success or failure, yet are typically provided without the trajectories they came from, leaving the agent no way to check them. To address this, we introduce WikiTrace, an evidence-linked memory system designed to let agents check each lesson against its original trajectory. Specifically, motivated by the finding that a trajectory often still holds the evidence needed to catch an erroneous lesson, WikiTrace stores each lesson as a concise insight linked to a summary of why its trajectory succeeded or failed and to the raw trajectory itself. Then, on a new task, the agent starts from all insights and, whenever one lacks details needed to act, conflicts with…",
+   "published": "2026-11-10T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.14320",
+   "pdf": "https://arxiv.org/pdf/2611.14320",
+   "upvotes": 41,
+   "github": "https://github.com/yukyeongleee/wikitrace",
+   "origin": "hf",
+   "ai_summary": "WikiTrace links each distilled lesson to its source trajectory and rationale, enabling LLM agents to verify and correct memories before acting, improving performance and reducing memory-induced degradation across agentic benchmarks.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.08175",
+   "title": "PCBRouteAgent: How Close Are LLM Agents to Becoming PCB Routing Engineers?",
+   "authors": "Yue Zhang, Jilei Sun, Liqiang Jing, Yijie Wei et al.",
+   "abstract": "Automating printed circuit board (PCB) routing requires coordinating board-level connectivity decisions with geometric execution under strict design rules. Although recent agents can interact with native routing tools, reliable routing on complex boards remains challenging. We present PCBRouteAgent, a multimodal PCB routing agent inspired by how human engineers coordinate global strategy with local execution. A Global Routing Planner combines board images and structured electrical and geometric information to specify connection topology, routing order, corridors, and layer transitions. A Detailed Routing Executor realizes these guides through KiCad's native routing engine and performs bounded local recovery. Unresolved failures are returned as structured feedback, enabling targeted guide revisions while preserving accepted routes. We evaluate PCBRouteAgent on 247 synthetic and real-world boards from four PCBWorld-Bench test splits. It achieves clean-pass rates of 100%, 94.9%, 100%, and 40% on D2, D3-A, D3-B, and D3-C, respectively. On the three real-world subsets, PCBRouteAgent…",
+   "published": "2026-11-05T15:31:15.000Z",
+   "url": "https://arxiv.org/abs/2611.08175",
+   "pdf": "https://arxiv.org/pdf/2611.08175",
+   "upvotes": 41,
+   "github": "https://github.com/chip-ai-agent/PCBRouteAgent",
+   "origin": "hf",
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.04720",
+   "title": "OneTrans-GSR: A Generative Slate Ranking Paradigm Unifying Reranking and Mix-Ranking with One Autoregressive Transformer",
+   "authors": "Feng Cheng, Yu-Hsuan Huang, Fengyi Wang, Chaofan Zhou et al.",
+   "abstract": "Industrial recommender systems allocate substantial computation to pointwise candidate scoring, yet separate reranking and mix-ranking stages still assemble the final exposure slate using hand-crafted rules and specialized low-capacity models. Mix-ranking combines product cards, short videos, livestreams, and advertising cards supplied by distinct upstream business channels. Although these rules and models encode valuable domain knowledge, they are inherently limited in leveraging additional data and computation. They constrain the combinatorial space of candidate slates and determine objective trade-offs through manual tuning. To enable scalable and effective slate generation, we reformulate reranking and mix-ranking as a unified learning problem whose performance can improve with computation. Specifically, we instantiate this formulation across the reranking and mix-ranking stages and propose OneTrans-GSR, a single decoder-only policy that extends our deployed OneTrans backbone to generate the exposure slate end-to-end. During training, a reward model evaluates complete slates and…",
+   "published": "2026-11-03T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.04720",
+   "pdf": "https://arxiv.org/pdf/2611.04720",
+   "upvotes": 39,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "A unified decoder-only policy guided by reward-model-based reinforcement learning generates recommendation exposure slates end-to-end, improving business metrics and reducing reranking and mix-ranking latency in a large-scale system.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.14419",
+   "title": "Evaluating LLM-Generated World Models for Neuro-Symbolic Reasoning",
+   "authors": "Souhaila Djaffal, Amna Jamal, Gagana Madhugiri Devaraja, Anidipta Pal et al.",
+   "abstract": "Formal world models can support planning, verification, and safety reasoning, but constructing them from open-ended natural-language situations is difficult, particularly in multi-agent settings where several formalizations may be plausible. We study whether five LLMs can generate such world models as partially observable stochastic games and whether mechanical validity is sufficient to establish that the resulting model faithfully represents the intended decision problem. We introduce a benchmark of 44 scenarios spanning game, situational, and cultural settings and evaluate generated world models along three dimensions: mechanical validity, reference-relative structural agreement, and semantic criteria. Across three empirical tracks, we analyze 410 first-pass generations. In the reference-backed game track, 134/135 generated world models pass a strict mechanical audit, yet mean permutation-invariant structural F1 is only 0.366, with just 28/134 mechanically valid models exactly matching the authored reference. In the cultural track, explicitly naming the country changes the…",
+   "published": "2026-11-10T17:58:12Z",
+   "url": "https://arxiv.org/abs/2611.14419",
+   "pdf": "https://arxiv.org/pdf/2611.14419",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.AI"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.14122",
+   "title": "Hx2Dx: From Anamnesis to Diagnosis - A Multimodal Arena for Conversational Clinical Reasoning in LLMs",
+   "authors": "Federico Ravenda, Mirko Cesarini, Daniele Montagnani, Volodymyr Karpenko et al.",
+   "abstract": "Large language models (LLMs) achieve expert-level diagnostic accuracy in static evaluations, where the model receives a curated vignette or case report that already condenses the diagnostically relevant findings. Such evaluations measure inference over already selected evidence; the evaluations do not account for the inquiry used to obtain it. In clinical practice, however, diagnosis is an iterative process of inquiry. Clinicians take the patient's history, or anamnesis (Hx), through targeted questioning, examine the patient, and request and interpret tests, progressively narrowing the differential until they reach a final diagnosis (Dx). We introduce Hx2Dx ARENA, an interactive benchmark of 1'000 clinical cases from the New England Journal of Medicine (NEJM). Each case is a simulated encounter that proceeds from initial presentation through history taking and physical examination to diagnostic workup. We evaluate open- and closed-source LLMs under multiple configurations. Performance varies considerably across models in the interactive setting, and every model loses diagnostic…",
+   "published": "2026-11-10T14:09:33Z",
+   "url": "https://arxiv.org/abs/2611.14122",
+   "pdf": "https://arxiv.org/pdf/2611.14122",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.AI"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.14511",
+   "title": "Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
+   "authors": "Megha Srivastava, Michael H. Lim, Allison M. Keys, Pranav Murugan et al.",
+   "abstract": "Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains challenging. We introduce Pyrite, a pairwise pose-ranking benchmark comprising 1,500 pose pairs across diverse protein-ligand complexes. Expert chemists equipped with 3D visualization tools and physics-based scores perform near chance, highlighting the difficulty of interpreting available chemical signals. To investigate automated ranking, we introduce PyriteRep, a structured representation of molecular geometry, protein-ligand interactions, and physicochemical scores, and develop two LLM-based agents: PyriteReasoner, which directly compares poses through text-based reasoning, and PyriteFeaturizer, which generates executable code to construct features for logistic regression, optionally incorporating features derived from LLM subcalls. These agents achieve up to 67% and 74% accuracy, respectively, exceeding observed expert performance. LLM-guided feature discovery generally outperforms…",
+   "published": "2026-11-10T18:56:32Z",
+   "url": "https://arxiv.org/abs/2611.14511",
+   "pdf": "https://arxiv.org/pdf/2611.14511",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.LG",
+    "q-bio.QM"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.14492",
+   "title": "ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows",
+   "authors": "Kaiyuan Hou, Yang Ping Kuo, Indranil Bhattacharya, Rohith Nama et al.",
+   "abstract": "Business process automation runs the same Standard Operating Procedure (SOP) again and again on new inputs. Large Language Model (LLM) agents can follow an SOP written in natural language, but they call an LLM to choose every step of every run, which adds latency and cost at scale. We present ReTrace, which turns an SOP and a few logged agent runs into a reusable workflow in which code, not an LLM, selects the next step. The agent's reasoning, the explanation it writes with each tool call, often states why it took an action; the tool calls alone do not. ReTrace extracts the condition behind each step, merges these conditions across runs into a compact rule document, and generates an executable workflow from it. Only this last stage depends on the platform, so rule documents can be compiled for different orchestration platforms. On $79$ procedures from our production platform, ReTrace workflows reach $93.8\\%$ completion, against $96.8\\%$ for the agent, at $24\\%$ lower cost per task. On $τ^2$-Bench, they reach $75.8\\%$ task success (agent: $80.6\\%$) and run in $1.3$s instead of…",
+   "published": "2026-11-10T18:49:47Z",
+   "url": "https://arxiv.org/abs/2611.14492",
+   "pdf": "https://arxiv.org/pdf/2611.14492",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.AI",
+    "cs.LG",
+    "cs.MA"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.14309",
+   "title": "MMDM: Measuring Massive Multitask Decision Making",
+   "authors": "Junhao Shen, Qing Zong, Yue Guo, Zhanqiu Zhang et al.",
+   "abstract": "System-1 Decision Models directly make structured probabilistic decisions over query-specified options given a state in a single forward pass, without autoregressively generating reasoning trajectories or textual responses. Recent evaluations cover diverse tasks but often rely on existing benchmarks, where prior exposure to test material can obscure generalization. Moreover, real-world decision making often involves long contexts, large option spaces, and complex logical dependencies, challenges that existing benchmarks do not adequately capture together. Thus, we introduce MMDM (Massive Multitask Decision Making), a benchmark of 5,448 high-quality questions across 16 task categories, combining newly constructed tasks with source-grounded recompositions and rewrites for single-select, multi-select, and soft-label decision making in fresh contexts. It covers realistic scenarios such as agent state tracking, tool and skill selection, preference judgments, and rubric scoring, with option spaces ranging from 2 to 1,024 and inputs extending to 64,817 tokens. With MMDM, we conduct a…",
+   "published": "2026-11-10T16:40:50Z",
+   "url": "https://arxiv.org/abs/2611.14309",
+   "pdf": "https://arxiv.org/pdf/2611.14309",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.LG",
+    "cs.CL"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "classics": [
+  {
+   "id": "2312.14132",
+   "title": "DUSt3R: Geometric 3D Vision Made Easy",
+   "year": 2023,
+   "authors": "Shuzhe Wang, Vincent Leroy, Yohann Cabon et al.",
+   "abstract": "Multi-view stereo reconstruction (MVS) in the wild re-quires to first estimate the camera intrinsic and extrinsic parameters. These are usually tedious and cumbersome to obtain, yet they are mandatory to triangulate corresponding pixels in 3D space, which is at the core of all best performing MVS algorithms. In this work, we take an opposite stance and introduce DUSt3R, a radically novel paradigm for Dense and Unconstrained Stereo 3D Reconstruction of arbitrary image collections, operating without prior infor-mation about camera calibration nor viewpoint poses. We cast the pairwise reconstruction problem as a regression of pointmaps, relaxing the hard constraints of usual projective camera…",
+   "citations": 2169,
+   "url": "https://arxiv.org/abs/2312.14132",
+   "cited_by": [
+    "SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes",
+    "WorldFoundry: Towards Unified Infrastructure for World Intelligence"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1310.4546",
+   "title": "Distributed Representations of Words and Phrases and their Compositionality",
+   "year": 2013,
+   "authors": "Tomas Mikolov, I. Sutskever, Kai Chen et al.",
+   "abstract": "The recently introduced continuous Skip-gram model is an efficient method for learning high-quality distributed vector representations that capture a large number of precise syntactic and semantic word relationships. In this paper we present several extensions that improve both the quality of the vectors and the training speed. By subsampling of the frequent words we obtain significant speedup and also learn more regular word representations. We also describe a simple alternative to the hierarchical softmax called negative sampling. An inherent limitation of word representations is their indifference to word order and their inability to represent idiomatic phrases. For example, the meanings…",
+   "citations": 36733,
+   "url": "https://arxiv.org/abs/1310.4546",
+   "cited_by": [
+    "OneTrans-GSR: A Generative Slate Ranking Paradigm Unifying Reranking and Mix-Ranking with One Autoregressive Transformer"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2203.02155",
+   "title": "Training language models to follow instructions with human feedback",
+   "year": 2022,
+   "authors": "Long Ouyang, Jeff Wu, Xu Jiang et al.",
+   "abstract": "Making language models bigger does not inherently make them better at following a user's intent. For example, large language models can generate outputs that are untruthful, toxic, or simply not helpful to the user. In other words, these models are not aligned with their users. In this paper, we show an avenue for aligning language models with user intent on a wide range of tasks by fine-tuning with human feedback. Starting with a set of labeler-written prompts and prompts submitted through the OpenAI API, we collect a dataset of labeler demonstrations of the desired model behavior, which we use to fine-tune GPT-3 using supervised learning. We then collect a dataset of rankings of model…",
+   "citations": 25894,
+   "url": "https://arxiv.org/abs/2203.02155",
+   "cited_by": [
+    "OneTrans-GSR: A Generative Slate Ranking Paradigm Unifying Reranking and Mix-Ranking with One Autoregressive Transformer"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2304.02643",
+   "title": "Segment Anything",
+   "year": 2023,
+   "authors": "Alexander Kirillov, Eric Mintun, Nikhila Ravi et al.",
+   "abstract": "We introduce the Segment Anything (SA) project: a new task, model, and dataset for image segmentation. Using our efficient model in a data collection loop, we built the largest segmentation dataset to date (by far), with over 1 billion masks on 11M licensed and privacy respecting images. The model is designed and trained to be promptable, so it can transfer zero-shot to new image distributions and tasks. We evaluate its capabilities on numerous tasks and find that its zero-shot performance is impressive – often competitive with or even superior to prior fully supervised results. We are releasing the Segment Anything Model (SAM) and corresponding dataset (SA-1B) of 1B masks and 11M images at…",
+   "citations": 16838,
+   "url": "https://arxiv.org/abs/2304.02643",
+   "cited_by": [
+    "Toward the Era of Agentic Embodied Intelligence"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2111.06377",
+   "title": "Masked Autoencoders Are Scalable Vision Learners",
+   "year": 2021,
+   "authors": "Kai-Ming He, Xinlei Chen, Saining Xie et al.",
+   "abstract": "This paper shows that masked autoencoders (MAE) are scalable self-supervised learners for computer vision. Our MAE approach is simple: we mask random patches of the input image and reconstruct the missing pixels. It is based on two core designs. First, we develop an asymmetric encoder-decoder architecture, with an encoder that operates only on the visible subset of patches (without mask tokens), along with a lightweight decoder that reconstructs the original image from the latent representation and mask tokens. Second, we find that masking a high proportion of the input image, e.g., 75%, yields a nontrivial and meaningful self-supervisory task. Coupling these two designs enables us to train…",
+   "citations": 13652,
+   "url": "https://arxiv.org/abs/2111.06377",
+   "cited_by": [
+    "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2104.14294",
+   "title": "Emerging Properties in Self-Supervised Vision Transformers",
+   "year": 2021,
+   "authors": "Mathilde Caron, Hugo Touvron, Ishan Misra et al.",
+   "abstract": "In this paper, we question if self-supervised learning provides new properties to Vision Transformer (ViT) [16] that stand out compared to convolutional networks (convnets). Beyond the fact that adapting self-supervised methods to this architecture works particularly well, we make the following observations: first, self-supervised ViT features contain explicit information about the semantic segmentation of an image, which does not emerge as clearly with supervised ViTs, nor with convnets. Second, these features are also excellent k-NN classifiers, reaching 78.3% top-1 on ImageNet with a small ViT. Our study also underlines the importance of momentum encoder [26], multi-crop training [9],…",
+   "citations": 11000,
+   "url": "https://arxiv.org/abs/2104.14294",
+   "cited_by": [
+    "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2103.00020",
+   "title": "Learning Transferable Visual Models From Natural Language Supervision",
+   "year": 2021,
+   "authors": "A. Radford, Jong Wook Kim, Chris Hallacy et al.",
+   "abstract": "State-of-the-art computer vision systems are trained to predict a fixed set of predetermined object categories. This restricted form of supervision limits their generality and usability since additional labeled data is needed to specify any other visual concept. Learning directly from raw text about images is a promising alternative which leverages a much broader source of supervision. We demonstrate that the simple pre-training task of predicting which caption goes with which image is an efficient and scalable way to learn SOTA image representations from scratch on a dataset of 400 million (image, text) pairs collected from the internet. After pre-training, natural language is used to…",
+   "citations": 59910,
+   "url": "https://arxiv.org/abs/2103.00020",
+   "cited_by": [
+    "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+    "OneTrans-GSR: A Generative Slate Ranking Paradigm Unifying Reranking and Mix-Ranking with One Autoregressive Transformer"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2304.03442",
+   "title": "Generative Agents: Interactive Simulacra of Human Behavior",
+   "year": 2023,
+   "authors": "J. Park, Joseph O'Brien, C. Cai et al.",
+   "abstract": "Believable proxies of human behavior can empower interactive applications ranging from immersive environments to rehearsal spaces for interpersonal communication to prototyping tools. In this paper, we introduce generative agents: computational software agents that simulate believable human behavior. Generative agents wake up, cook breakfast, and head to work; artists paint, while authors write; they form opinions, notice each other, and initiate conversations; they remember and reflect on days past as they plan the next day. To enable generative agents, we describe an architecture that extends a large language model to store a complete record of the agent’s experiences using natural…",
+   "citations": 6448,
+   "url": "https://arxiv.org/abs/2304.03442",
+   "cited_by": [
+    "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "stats": {
+  "raw_news": 55,
+  "stories": 10,
+  "videos": 3,
+  "papers": 15,
+  "classics": 8,
+  "seconds": 1085
+ }
+}

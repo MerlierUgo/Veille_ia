@@ -1,0 +1,583 @@
+{
+ "generated_at": "2026-11-10T12:46:40.692665+00:00",
+ "date": "2026-11-10",
+ "tldr": {
+  "headline": "Les titres du jour",
+  "points": [
+   {
+    "title": "AI usage generates a fragile codebase",
+    "text": "93 points · 102 commentaires",
+    "ref": "news:593498d54f69"
+   },
+   {
+    "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+    "text": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long document parsing. For shorter prompts it's priced…",
+    "ref": "news:fabe838d73f5"
+   },
+   {
+    "title": "Fireworks AI security breach impacts Notion and their customers",
+    "text": "76 points · 21 commentaires",
+    "ref": "news:a7266a93fa89"
+   },
+   {
+    "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+    "text": "175 points · 148 commentaires",
+    "ref": "news:9c5da62bab37"
+   },
+   {
+    "title": "A year after the 100% AI mandate nobody understands our code",
+    "text": "131 points · 168 commentaires",
+    "ref": "news:055d8b97090d"
+   }
+  ],
+  "generated": false
+ },
+ "news": [
+  {
+   "id": "593498d54f69",
+   "title": "AI usage generates a fragile codebase",
+   "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+   "source": "Hacker News",
+   "published": "2026-11-10T10:25:58+00:00",
+   "summary": "93 points · 102 commentaires",
+   "image": null,
+   "signal": 93,
+   "discussion": "https://news.ycombinator.com/item?id=50438318",
+   "score": 3.52,
+   "also": []
+  },
+  {
+   "id": "fabe838d73f5",
+   "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+   "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+   "source": "Simon Willison",
+   "published": "2026-11-10T07:28:21+00:00",
+   "summary": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long document parsing. For shorter prompts it's priced…",
+   "image": null,
+   "signal": 0,
+   "score": 8.83,
+   "also": [
+    {
+     "source": "Hacker News",
+     "url": "https://research.meta.ai/blog/muse-ember"
+    }
+   ],
+   "discussion": "https://news.ycombinator.com/item?id=50429024"
+  },
+  {
+   "id": "a7266a93fa89",
+   "title": "Fireworks AI security breach impacts Notion and their customers",
+   "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+   "source": "Hacker News",
+   "published": "2026-11-10T07:19:38+00:00",
+   "summary": "76 points · 21 commentaires",
+   "image": null,
+   "signal": 76,
+   "discussion": "https://news.ycombinator.com/item?id=50437106",
+   "score": 3.21,
+   "also": []
+  },
+  {
+   "id": "9c5da62bab37",
+   "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+   "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+   "source": "Hacker News",
+   "published": "2026-11-10T03:20:06+00:00",
+   "summary": "175 points · 148 commentaires",
+   "image": null,
+   "signal": 175,
+   "discussion": "https://news.ycombinator.com/item?id=50435660",
+   "score": 3.67,
+   "also": []
+  },
+  {
+   "id": "055d8b97090d",
+   "title": "A year after the 100% AI mandate nobody understands our code",
+   "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+   "source": "Hacker News",
+   "published": "2026-11-09T22:19:12+00:00",
+   "summary": "131 points · 168 commentaires",
+   "image": null,
+   "signal": 131,
+   "discussion": "https://news.ycombinator.com/item?id=50433079",
+   "score": 3.19,
+   "also": []
+  },
+  {
+   "id": "255b56db4a4a",
+   "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
+   "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+   "source": "Hacker News",
+   "published": "2026-11-09T20:04:55+00:00",
+   "summary": "353 points · 255 commentaires",
+   "image": null,
+   "signal": 353,
+   "discussion": "https://news.ycombinator.com/item?id=50431144",
+   "score": 3.87,
+   "also": []
+  },
+  {
+   "id": "796a7f7ee338",
+   "title": "Claude Fable 5.2 and Mythos 5.2",
+   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "source": "Hacker News",
+   "published": "2026-11-09T18:56:29+00:00",
+   "summary": "978 points · 6 commentaires",
+   "image": null,
+   "signal": 978,
+   "discussion": "https://news.ycombinator.com/item?id=50429906",
+   "score": 4.62,
+   "also": []
+  },
+  {
+   "id": "b06b5820d242",
+   "title": "DeepX claims inference up to 100B parameters at less than 5 W",
+   "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
+   "source": "Hacker News",
+   "published": "2026-11-09T18:33:58+00:00",
+   "summary": "154 points · 24 commentaires",
+   "image": null,
+   "signal": 154,
+   "discussion": "https://news.ycombinator.com/item?id=50429545",
+   "score": 4.63,
+   "also": []
+  },
+  {
+   "id": "fea55cef6041",
+   "title": "Google Gemini routes personal Drive files and emails to human annotators",
+   "url": "https://github.com/thisisme6598/gemini_files/",
+   "source": "Hacker News",
+   "published": "2026-11-09T18:24:38+00:00",
+   "summary": "647 points · 135 commentaires",
+   "image": null,
+   "signal": 647,
+   "discussion": "https://news.ycombinator.com/item?id=50429426",
+   "score": 4.27,
+   "also": []
+  },
+  {
+   "id": "586d37dc5945",
+   "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
+   "url": "https://github.com/Dodaios/ste80-humanizer",
+   "source": "Hacker News",
+   "published": "2026-11-09T18:05:44+00:00",
+   "summary": "95 points · 33 commentaires",
+   "image": null,
+   "signal": 95,
+   "discussion": "https://news.ycombinator.com/item?id=50429144",
+   "score": 2.72,
+   "also": []
+  }
+ ],
+ "videos": [
+  {
+   "id": "vug73goPJaM",
+   "title": "Is Software Over?",
+   "url": "https://www.youtube.com/watch?v=vug73goPJaM",
+   "channel": "Two Minute Papers",
+   "published": "2026-11-10T10:15:57+00:00",
+   "thumbnail": "https://i3.ytimg.com/vi/vug73goPJaM/hqdefault.jpg",
+   "views": 15988,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The papers and sources are available here: MirrorCode: https://arxiv.org/abs/2606.30182 REMEND:…",
+   "relevance": 0
+  },
+  {
+   "id": "GJ6PMUm5oTA",
+   "title": "OpenAI's Astra Just Opened The Black Box Of AI",
+   "url": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
+   "channel": "Two Minute Papers",
+   "published": "2026-11-07T16:24:47+00:00",
+   "thumbnail": "https://i4.ytimg.com/vi/GJ6PMUm5oTA/hqdefault.jpg",
+   "views": 223687,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The Weight Space Programming work is available here: https://rikiyat.github.io/blog/weight-space-programming/ 🙏 We would like to…",
+   "relevance": 0
+  }
+ ],
+ "papers": [
+  {
+   "id": "2611.08449",
+   "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
+   "authors": "Yu-Cheng Chou, Shihao Wang, Jin Huang, Chi-Pin Huang et al.",
+   "abstract": "Models for physical AI tasks, such as robotics and autonomous driving, need not reason solely in language. They can use visual plans--points, bounding boxes, and trajectories--to represent spatial goals and anticipate motion. However, autoregressive vision-language models generate these plans one coordinate token at a time, making richer predictions increasingly costly. We introduce VFlash, a method for fast, accurate visual planning through Flash Primitive Decoding. VFlash exploits the known structure of visual primitives to predict their coordinates jointly, using a lightweight drafter that generates an entire primitive in one forward pass. The layout adapts to the primitive's type, dimensionality, and length, supporting compact boxes and long, variable-length trajectories. Crucially, spatial accuracy need not require reproducing an autoregressive model's exact token sequence. VFlash therefore trains on annotated primitives and directly accepts structurally valid predictions without target-token agreement. Across the evaluated 2D and 3D robot trajectory tasks, VFlash consistently…",
+   "published": "2026-11-05T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.08449",
+   "pdf": "https://arxiv.org/pdf/2611.08449",
+   "upvotes": 111,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "VFlash employs Flash Primitive Decoding to predict visual primitive coordinates jointly via a lightweight drafter, reducing trajectory prediction error and generation time while improving downstream world action model success.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.05376",
+   "title": "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence",
+   "authors": "Hao Fei",
+   "abstract": "For a decade, progress in artificial intelligence has been measured by how much a machine can do on its own. Large foundation models now write code and run multistep tasks, and personal agents act on a person's behalf. Yet people still forget what they once knew, miss what they are not looking at, fail to find the right words, and face hard choices without the benefit of their own history, because the machine that could help stands outside the situation. As AI moves into the physical world, attention has settled on one kind of intelligent individual, the embodied robot; we argue that the era of Physical AI holds a second kind of equal importance, the person augmented by AI. Alongside artificial general intelligence, which asks how intelligent a machine can be, stands AI-augmented human intelligence (AHI), which asks how much intelligence a machine can enable in a particular person. Realizing it calls for a new kind of system, a cognitive symbiont: a lifelong, embedded, real-time, private, low-friction, and proactive companion that senses what the person senses through external…",
+   "published": "2026-11-03T18:59:52.000Z",
+   "url": "https://arxiv.org/abs/2611.05376",
+   "pdf": "https://arxiv.org/pdf/2611.05376",
+   "upvotes": 104,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "Physical AI should include AI-augmented human intelligence via lifelong cognitive symbionts that close cognitive gaps through sensing, context retention, and proactive assistance, requiring embedded governance.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.12806",
+   "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+   "authors": "Bing Han, Yichuan Peng, Haoyu Dong, Yuanmeng Hu et al.",
+   "abstract": "Tactile sensing is an indispensable modality for contact-rich dexterous manipulation, a capability that hints at the ultimate frontiers of embodied intelligence. However, commercially available tactile sensors are still at a relatively early stage of development, with each type of sensor offering irreplaceable strengths alongside its own drawbacks. A key challenge is thus to free tactile understanding from sensor-specific physics, so that embodied models can effectively leverage heterogeneous tactile data. To this end, we develop LingBot-Touch, a tactile foundation model characterized by the following properties. (i) Our model yields a unified representation across different tactile sensors (i.e., piezoresistive, magnetic, and visuotactile sensors), and is easily extensible to new sensor types. (ii) The resulting tactile tokens are plug-and-play: they can be seamlessly integrated into policy models across paradigms, from diffusion policy to vision-language-action (VLA) models such as π_{0.5} and LingBot-VLA, consistently enhancing manipulation dexterity. (iii) Extensive experiments,…",
+   "published": "2026-11-09T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.12806",
+   "pdf": "https://arxiv.org/pdf/2611.12806",
+   "upvotes": 89,
+   "github": "https://github.com/Robbyant/lingbot-touch",
+   "origin": "hf",
+   "ai_summary": "LingBot-Touch is a tactile foundation model that learns a unified, extensible representation across heterogeneous tactile sensors, yielding plug-and-play tactile tokens that consistently enhance manipulation policies such as diffusion policy and VLA models.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.06043",
+   "title": "Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription",
+   "authors": "Daniel Huang, Qi He, Shaoxiong Duan, Yingjie Li et al.",
+   "abstract": "Streaming speech recognition is increasingly consumed by machines, such as translators and voice agents, that act on each token as it appears. A token that is later revised costs wasted work or a wrong action. In this work, we present Confucius4-R2T2 (short for Real Real-Time Transcription), a stable-prefix streaming ASR model that never modifies its earlier output while maintaining high accuracy and low latency. R2T2 is obtained by post-training Qwen3-ASR-1.7B on 1,500 hours of Chinese and English audio while freezing its pre-trained audio encoder and projector. The adaptation is based on the concept of Longest Stable Prefix (LSP), a new notion that we introduce in this work. We prove that LSP is monotone under the prefix order, consistent with the full-audio output, and maximal among labels that equal a whole earlier output. Learning from LSP labels converts a full-context model into a stable-prefix streaming one without any architectural change. Extensive evaluations show that R2T2 brings streaming recognition close to the base model's full-context quality while delivering stable…",
+   "published": "2026-11-04T06:46:50.000Z",
+   "url": "https://arxiv.org/abs/2611.06043",
+   "pdf": "https://arxiv.org/pdf/2611.06043",
+   "upvotes": 86,
+   "github": "https://github.com/netease-youdao/Confucius4-R2T2",
+   "origin": "hf",
+   "ai_summary": "A full-context speech recognizer is adapted to emit immutable streaming transcripts with near full-context accuracy and low latency by learning longest stable prefix labels.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.08373",
+   "title": "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training",
+   "authors": "Fuhao Li, Wenxuan Song, Qizhou Huang, Ziyang Zhou et al.",
+   "abstract": "Reliable robotic manipulation requires both semantic understanding and precise control in three-dimensional space. However, vision-language-action (VLA) foundations largely inherit visual representations from 2D vision-language pre-training, while spatial supervision is often introduced only during task-specific adaptation. Developing spatial understanding as a transferable foundation-model capability therefore calls for learning from broader robot experience. We present SLA, a Spatial-Language-Action Model that scales implicit spatial alignment to continual pre-training and maintains it during downstream post-training. Initialized from a pretrained pi05 policy, SLA jointly optimizes action prediction and alignment between intermediate visual embeddings and spatial representations from a frozen 3D perception model. We curate and unify heterogeneous robot datasets to support spatial learning across diverse embodiments, tasks, and scenes. To accommodate this diversity, we introduce feature-dependent gates that adaptively aggregate visual embeddings from multiple VLA layers for spatial…",
+   "published": "2026-11-05T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.08373",
+   "pdf": "https://arxiv.org/pdf/2611.08373",
+   "upvotes": 86,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "The SLA model enhances spatial understanding in Vision-Language-Action systems by aligning visual embeddings with 3D spatial representations through continual pre-training and feature-dependent gating.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.02075",
+   "title": "Decoupled Predictive Decision Making: A Shared Conditional Predictor for Agents",
+   "authors": "Lang Mo, Xingxuan Zhang, Qi Wang, Mingchao Hao et al.",
+   "abstract": "Agent decisions depend on empirical relationships that deployment observations reveal and task descriptions alone may leave unresolved. We introduce Decoupled Predictive Decision Making (DPDM), an architecture that formulates heterogeneous agent decisions as conditional prediction with a shared pretrained learner. Language models provide semantic representations of current and historical records, while a general-purpose conditional predictor predicts task-defined targets from the represented evidence. Pretraining supplies reusable inference capability; deployment evidence instantiates problem-specific predictions without updating either model's neural parameters. Tool judgments, candidate preferences, and reasoning assessments share an evidence-and-query interface, with predictions mapped to choices by a decision rule. This architecture establishes complementary sources of agent capability: semantic knowledge acquired through language pretraining and empirical inference acquired through structured-data pretraining. A single frozen LimiX-2 predictor serves all five task categories.…",
+   "published": "2026-11-01T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.02075",
+   "pdf": "https://arxiv.org/pdf/2611.02075",
+   "upvotes": 81,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "DPDM improves agent decision accuracy by combining frozen language-model representations with a shared pretrained conditional predictor that learns from deployment evidence without parameter updates.",
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.08264",
+   "title": "SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes",
+   "authors": "Hao Yu, Zhenwei Wang, Yongzhen Hu, Yuning Gong et al.",
+   "abstract": "We identify a key limitation of existing feed-forward 3DGS methods: Gaussian attributes are typically predicted in a radial-distance-normalized space that canonicalizes a global radial statistic of the reconstructed geometry, while the spacing between neighboring Gaussian centers can still vary substantially across scene scales and camera configurations. This mismatch induces systematic shifts in Gaussian-scale targets, leading to ambiguous supervision. To address this, we propose SplatAnything with Gaussian Spacing Normalization (GSNorm), which canonicalizes a robust scene-level statistic of Gaussian spacing to provide a more consistent spatial reference for Gaussian prediction. To rigorously assess our method, we further establish a systematic benchmark spanning diverse datasets, input sparsity levels, and challenging extrapolated viewpoints. Extensive experiments demonstrate that SplatAnything achieves state-of-the-art performance, with particularly strong gains under substantial variations in scene scale and viewpoint.",
+   "published": "2026-11-05T16:37:29.000Z",
+   "url": "https://arxiv.org/abs/2611.08264",
+   "pdf": "https://arxiv.org/pdf/2611.08264",
+   "upvotes": 67,
+   "github": "https://github.com/zju3dv/SplatAnything",
+   "origin": "hf",
+   "ai_summary": "SplatAnything applies Gaussian Spacing Normalization to canonicalize scene-level Gaussian spacing, yielding more consistent supervision and improved feed-forward 3D Gaussian Splatting under varying scene scales and viewpoints.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.04277",
+   "title": "Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training",
+   "authors": "Kangning Zhang, Wenxiang Jiao, Bowen Fang, Shuai Shao et al.",
+   "abstract": "Harness evolution from a common base exhibits Locality, Complementarity, and Nonstationarity: variants repair different failures, and their utility changes as the policy learns. Rather than seeking a universally superior harness, we introduce Harness-S to selectively rescue failures of a base execution system through sibling harnesses and transfer the resulting capabilities into a single policy that remains effective under the original harness. Directional Harness Evolution develops specialized sibling harnesses along distinct repair directions, forming a reusable Sibling Harness Pool that remains fixed during policy training. Complementary Harness Rescue Training invokes this pool only when all initial attempts under the base harness fail. The same policy generates fresh rollouts under selected auxiliary harnesses, and these trajectories replace the failed group for reinforcement learning. An Adaptive Harness Router selects the Top-k variants using Harness Behavior Profiles and voting across multiple LLMs. Policy-aware profile re-anchoring refreshes this evidence as the policy…",
+   "published": "2026-11-03T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.04277",
+   "pdf": "https://arxiv.org/pdf/2611.04277",
+   "upvotes": 67,
+   "github": "https://github.com/DeepExperience/Harness-S",
+   "origin": "hf",
+   "ai_summary": "A selective harness-rescue training method uses specialized sibling harnesses to replace failed reinforcement learning rollouts and transfer their benefits into a single policy that performs better under the original base harness.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.00883",
+   "title": "Random Is Almost Enough? Stable and Low-Cost Benchmark Compression via BestRand",
+   "authors": "George Ling, Shanshan Zhong, Lijin Yang, Hao Yang et al.",
+   "abstract": "Benchmark compression reduces the often prohibitive time and cost of model evaluation by evaluating models on a small benchmark subset that closely matches full-benchmark results. To quantify estimation error, we derive an accurate analytical approximation to the error distribution when estimating full-benchmark scores from a subset, showing that most subsets yield small errors, while a few produce much larger errors, resulting in a long-tailed distribution. This means random sampling alone can achieve surprisingly strong performance with high probability, but remains unstable due to rare large errors. We further show that this instability is inherent to modern foundation models and persists even as more models are evaluated. Based on these findings, we introduce BestRand, a stable and low-cost benchmark compression method that preserves the efficiency of random sampling while substantially reducing its high-error tail. We validate BestRand on 70+ text, multimodal, and agent benchmarks, and further extend it to VLA evaluation. Compared with competitive methods, BestRand reduces…",
+   "published": "2026-10-31T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.00883",
+   "pdf": "https://arxiv.org/pdf/2611.00883",
+   "upvotes": 52,
+   "github": "https://github.com/George-Ling3/BestRand",
+   "origin": "hf",
+   "ai_summary": "BestRand stabilizes random subset sampling for benchmark compression, reducing high-error risk and estimation error across text, multimodal, agent, and VLA evaluations at lower construction cost.",
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.03953",
+   "title": "P^2-MOPD: Accelerating Multi-Teacher On-Policy Distillation via Parameter Priors",
+   "authors": "Sinuo Wang, Jiacheng Lu, Zeyu Zhang, Maojia Song et al.",
+   "abstract": "Multi-teacher on-policy distillation consolidates expert capabilities by supervising student-generated trajectories, whereas task arithmetic offers a training-free alternative through linear parameter combinations. We view the linear combination of student and expert parameters as a single differentiable model and propose P^2-MOPD, which jointly optimizes the mixing coefficients and the student weights under the same on-policy distillation objective. Unlike task arithmetic, which stays within the span of the frozen student and expert parameters for any choice of merging coefficients, P^2-MOPD keeps the student trainable, so the experts act as parameter priors without confining it to this span. Across four domains at 1.7B and 4B scales, P^2-MOPD achieves faster and more balanced recovery than MOPD from the same initialization, surpassing its final average recovery in half the training steps. At the end of training, our 1.7B model reaches 94.7% average recovery, versus 80.9% for MOPD.",
+   "published": "2026-11-02T20:53:15.000Z",
+   "url": "https://arxiv.org/abs/2611.03953",
+   "pdf": "https://arxiv.org/pdf/2611.03953",
+   "upvotes": 49,
+   "github": "https://github.com/SinuoWang/P2-MOPD",
+   "origin": "hf",
+   "ai_summary": "P^2-MOPD jointly optimizes mixing coefficients and student weights under an on-policy distillation objective, enabling faster and more balanced recovery than MOPD by treating experts as parameter priors while keeping the student trainable.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.12856",
+   "title": "WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent Systems",
+   "authors": "Zheng Jiang, Fang Niu, Bo Peng, Houde Qian et al.",
+   "abstract": "Large language model agents are increasingly deployed as multi-agent systems rather than as a standalone model operating within a single context. Recent agent harnesses allow the model to instantiate worker agents and to author the executable workflow that coordinates them, shifting the design of system structure from developers to the model at run time. The quality of this organization therefore constitutes a distinct capability, yet existing benchmarks either measure end-to-end task completion or evaluate coordination under structures specified in advance. We formalize this capability as workflow orchestration and introduce WorkflowArena, a benchmark of 145 long-horizon tasks spanning 8 professional domains, from software engineering and formal mathematics to legal analysis and 3D production. Each task specifies an initial workspace and an integrated deliverable composed of interdependent components, which is assessed by a hidden verifier. Agents determine autonomously whether and how to delegate, and all delegation is recorded, enabling joint evaluation of deliverable quality and…",
+   "published": "2026-11-09T18:45:28Z",
+   "url": "https://arxiv.org/abs/2611.12856",
+   "pdf": "https://arxiv.org/pdf/2611.12856",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CL",
+    "cs.SE"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.12635",
+   "title": "Beyond Sunny Skies: Using Large Language Models to Predict Urban Traffic in Adverse Weather",
+   "authors": "Zhu Xiao, Kuan Feng, Tong Li, Chenxi Liu et al.",
+   "abstract": "Urban traffic flow prediction is a cornerstone of intelligent transportation systems, yet accurate forecasting under adverse weather conditions remains a significant challenge. Existing data-driven models, while effective for routine patterns, often struggle with the sparse data and complex non-linear shifts associated with rare meteorological events. These methods typically treat environmental contexts as shallow numerical features, failing to capture the underlying semantic reasoning-why and how specific adverse conditions alter mobility behaviors across regions with different functional compositions. To address this limitation, we propose Multi-STG, a unified framework that integrates Large Language Model (LLM)-derived semantic priors with graph-based spatiotemporal learning. Multi-STG introduces an LLM-empowered semantic enhancement module that transforms comprehensive context descriptions such as weather, POIs, and holidays into high-level semantic embeddings, effectively providing a knowledge-driven complement to data scarcity. Furthermore, we design a multimodal attentional…",
+   "published": "2026-11-09T16:12:51Z",
+   "url": "https://arxiv.org/abs/2611.12635",
+   "pdf": "https://arxiv.org/pdf/2611.12635",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.AI"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.12393",
+   "title": "AutoBuddy: Evaluating Proactive, Always-On Agents on Task Discovery and Execution in a Simulated Workplace",
+   "authors": "Shiqi Chen, Daniel Madrigal Diaz, Wei-Ning Chen, Gbola Afonja et al.",
+   "abstract": "As LLM agents become more autonomous, they are increasingly expected to run as always-on assistants on a user's behalf, identifying work to be done and completing it without being asked. Yet existing benchmarks usually give the agent its task, whereas in knowledge work the requests sit in the user's workspace and the agent must first recognise which obligations exist. We study proactive task discovery and execution, in which an agent must infer a user's pending tasks from their workspace and complete them in the systems where the work lives. This setting poses two challenges. For the agent, the tasks are buried in a large volume of mail, chat, documents and records. For evaluation, a benchmark needs a simulated organisation whose people, events and documents are mutually consistent, so that tasks arise realistically and their correct outcomes are known. We introduce AutoBuddy-Bench, a simulator that addresses these challenges. It models an organisation's employees, projects, business systems and event history as a temporal graph, renders it into realistic workspace artefacts,…",
+   "published": "2026-11-09T13:30:18Z",
+   "url": "https://arxiv.org/abs/2611.12393",
+   "pdf": "https://arxiv.org/pdf/2611.12393",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.AI",
+    "cs.LG"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.12386",
+   "title": "Say Shibboleth: Fingerprinting the LLMs and Harnesses Behind Agentic Attacks",
+   "authors": "Dario Pasquini, Reworr, Giuseppe Ateniese, Manish Bhatt et al.",
+   "abstract": "We study the fingerprinting of agentic cyberattacks. Our objective is to reliably infer information about the attacker's configuration, such as LLM version and harness, from telemetry. To achieve this, we introduce a technique we call shibboleth traps: modular honeypot services designed to elicit discriminative behaviors from agentic attackers. The traps make informative interactions a condition for obtaining resources the agent seeks, eliciting model declarations and characteristic writing without requiring a successful prompt injection. To achieve harness fingerprinting, we introduce general mechanisms to indirectly probe peculiar execution behaviors of harnesses. These probes reveal how a harness masks secrets in tool output, enforces command time limits, and schedules tool calls, using only the effects visible in subsequent requests. We show that combined declarative and behavioral inference distinguishes among 15 candidate models with an average 90% top-1 accuracy, with behavioral classifiers evaluated on held-out harnesses or task families. In a separate experiment across four…",
+   "published": "2026-11-09T13:27:13Z",
+   "url": "https://arxiv.org/abs/2611.12386",
+   "pdf": "https://arxiv.org/pdf/2611.12386",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CR",
+    "cs.AI"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.12883",
+   "title": "Beyond Modality Preference: Controlling Multimodal Arbitration under Modality Conflict in MLLMs",
+   "authors": "Zhaoying Pan, Shenyu Lu, Jun Hui Wong, Junyi Chai et al.",
+   "abstract": "Multimodal large language models (MLLMs) integrate information across modalities, but become unreliable when those modalities disagree. Under conflicting inputs, MLLMs may favor modalities that are not the most reliable for the task, thus motivating inference-time control of modality arbitration. We identify a small set of attention heads, termed arbitration heads, that causally influence whether predictions follow visual or textual evidence. Building on this, we introduce a lightweight, training-free intervention that biases these heads toward a designated trusted modality at inference time. The identified heads are stable across calibration set sizes and generalize across settings, and steering them enables effective bidirectional control of modality reliance across diverse benchmarks. Our findings identify an effective control mechanism to align MLLM predictions with task-specified modality priorities. The code is available at https://github.com/zhaoyingpan/modality-arbitration.",
+   "published": "2026-11-09T18:59:36Z",
+   "url": "https://arxiv.org/abs/2611.12883",
+   "pdf": "https://arxiv.org/pdf/2611.12883",
+   "upvotes": 0,
+   "github": "https://github.com/zhaoyingpan/modality-arbitration",
+   "origin": "arxiv",
+   "categories": [
+    "cs.CV"
+   ],
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "classics": [
+  {
+   "id": "2211.17192",
+   "title": "Fast Inference from Transformers via Speculative Decoding",
+   "year": 2022,
+   "authors": "Yaniv Leviathan, Matan Kalman, Yossi Matias",
+   "abstract": "Inference from large autoregressive models like Transformers is slow - decoding K tokens takes K serial runs of the model. In this work we introduce speculative decoding - an algorithm to sample from autoregressive models faster without any changes to the outputs, by computing several tokens in parallel. At the heart of our approach lie the observations that (1) hard language-modeling tasks often include easier subtasks that can be approximated well by more efficient models, and (2) using speculative execution and a novel sampling method, we can make exact decoding from the large models faster, by running them in parallel on the outputs of the approximation models, potentially generating…",
+   "citations": 2373,
+   "url": "https://arxiv.org/abs/2211.17192",
+   "cited_by": [
+    "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
+    "Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2302.01318",
+   "title": "Accelerating Large Language Model Decoding with Speculative Sampling",
+   "year": 2023,
+   "authors": "Charlie Chen, Sebastian Borgeaud, Geoffrey Irving et al.",
+   "abstract": "We present speculative sampling, an algorithm for accelerating transformer decoding by enabling the generation of multiple tokens from each transformer call. Our algorithm relies on the observation that the latency of parallel scoring of short continuations, generated by a faster but less powerful draft model, is comparable to that of sampling a single token from the larger target model. This is combined with a novel modified rejection sampling scheme which preserves the distribution of the target model within hardware numerics. We benchmark speculative sampling with Chinchilla, a 70 billion parameter language model, achieving a 2-2.5x decoding speedup in a distributed setup, without…",
+   "citations": 1296,
+   "url": "https://arxiv.org/abs/2302.01318",
+   "cited_by": [
+    "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
+    "Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2201.11903",
+   "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+   "year": 2022,
+   "authors": "Jason Wei, Xue-Zhi Wang, Dale Schuurmans et al.",
+   "abstract": "We explore how generating a chain of thought -- a series of intermediate reasoning steps -- significantly improves the ability of large language models to perform complex reasoning. In particular, we show how such reasoning abilities emerge naturally in sufficiently large language models via a simple method called chain of thought prompting, where a few chain of thought demonstrations are provided as exemplars in prompting. Experiments on three large language models show that chain of thought prompting improves performance on a range of arithmetic, commonsense, and symbolic reasoning tasks. The empirical gains can be striking. For instance, prompting a 540B-parameter language model with…",
+   "citations": 23784,
+   "url": "https://arxiv.org/abs/2201.11903",
+   "cited_by": [
+    "Decoupled Predictive Decision Making: A Shared Conditional Predictor for Agents"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2402.03300",
+   "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+   "year": 2024,
+   "authors": "Zhihong Shao, Peiyi Wang, Qi-Hao Zhu et al.",
+   "abstract": "Mathematical reasoning poses a significant challenge for language models due to its complex and structured nature. In this paper, we introduce DeepSeekMath 7B, which continues pre-training DeepSeek-Coder-Base-v1.5 7B with 120B math-related tokens sourced from Common Crawl, together with natural language and code data. DeepSeekMath 7B has achieved an impressive score of 51.7% on the competition-level MATH benchmark without relying on external toolkits and voting techniques, approaching the performance level of Gemini-Ultra and GPT-4. Self-consistency over 64 samples from DeepSeekMath 7B achieves 60.9% on MATH. The mathematical reasoning capability of DeepSeekMath is attributed to two key…",
+   "citations": 10870,
+   "url": "https://arxiv.org/abs/2402.03300",
+   "cited_by": [
+    "Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1011.0686",
+   "title": "A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning",
+   "year": 2010,
+   "authors": "Stéphane Ross, Geoffrey J. Gordon, J. Bagnell",
+   "abstract": "Sequential prediction problems such as imitation learning, where future observations depend on previous predictions (actions), violate the common i.i.d. assumptions made in statistical learning. This leads to poor performance in theory and often in practice. Some recent approaches provide stronger guarantees in this setting, but remain somewhat unsatisfactory as they train either non-stationary or stochastic policies and require a large number of iterations. In this paper, we propose a new iterative algorithm, which trains a stationary deterministic policy, that can be seen as a no regret algorithm in an online learning setting. We show that any such no regret algorithm, combined with…",
+   "citations": 5059,
+   "url": "https://arxiv.org/abs/1011.0686",
+   "cited_by": [
+    "Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2004.10964",
+   "title": "Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks",
+   "year": 2020,
+   "authors": "Suchin Gururangan, Ana Marasović, Swabha Swayamdipta et al.",
+   "abstract": "Language models pretrained on text from a wide variety of sources form the foundation of today’s NLP. In light of the success of these broad-coverage models, we investigate whether it is still helpful to tailor a pretrained model to the domain of a target task. We present a study across four domains (biomedical and computer science publications, news, and reviews) and eight classification tasks, showing that a second phase of pretraining in-domain (domain-adaptive pretraining) leads to performance gains, under both high- and low-resource settings. Moreover, adapting to the task’s unlabeled data (task-adaptive pretraining) improves performance even after domain-adaptive pretraining. Finally,…",
+   "citations": 3359,
+   "url": "https://arxiv.org/abs/2004.10964",
+   "cited_by": [
+    "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2103.13413",
+   "title": "Vision Transformers for Dense Prediction",
+   "year": 2021,
+   "authors": "René Ranftl, Alexey Bochkovskiy, V. Koltun",
+   "abstract": "We introduce dense prediction transformers, an architecture that leverages vision transformers in place of convolutional networks as a backbone for dense prediction tasks. We assemble tokens from various stages of the vision transformer into image-like representations at various resolutions and progressively combine them into full-resolution predictions using a convolutional decoder. The transformer backbone processes representations at a constant and relatively high resolution and has a global receptive field at every stage. These properties allow the dense prediction transformer to provide finer-grained and more globally coherent predictions when compared to fully-convolutional networks.…",
+   "citations": 3283,
+   "url": "https://arxiv.org/abs/2103.13413",
+   "cited_by": [
+    "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2212.06817",
+   "title": "RT-1: Robotics Transformer for Real-World Control at Scale",
+   "year": 2022,
+   "authors": "Anthony Brohan, Noah Brown, Justice Carbajal et al.",
+   "abstract": "By transferring knowledge from large, diverse, task-agnostic datasets, modern machine learning models can solve specific downstream tasks either zero-shot or with small task-specific datasets to a high level of performance. While this capability has been demonstrated in other fields such as computer vision, natural language processing or speech recognition, it remains to be shown in robotics, where the generalization capabilities of the models are particularly critical due to the difficulty of collecting real-world robotic data. We argue that one of the keys to the success of such general robotic models lies with open-ended task-agnostic training, combined with high-capacity architectures…",
+   "citations": 3196,
+   "url": "https://arxiv.org/abs/2212.06817",
+   "cited_by": [
+    "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "stats": {
+  "raw_news": 60,
+  "stories": 10,
+  "videos": 2,
+  "papers": 15,
+  "classics": 8,
+  "seconds": 345
+ }
+}

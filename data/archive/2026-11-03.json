@@ -1,0 +1,607 @@
+{
+ "generated_at": "2026-11-03T09:11:30.342159+00:00",
+ "date": "2026-11-03",
+ "tldr": {
+  "headline": "Les titres du jour",
+  "points": [
+   {
+    "title": "Anthropic's growth just flattened",
+    "text": "206 points · 240 commentaires",
+    "ref": "news:3e54baa4f899"
+   },
+   {
+    "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+    "text": "335 points · 248 commentaires",
+    "ref": "news:c781e778ea3b"
+   },
+   {
+    "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+    "text": "186 points · 166 commentaires",
+    "ref": "news:885b04d7832e"
+   },
+   {
+    "title": "Egoless Mathematics in the AI Era",
+    "text": "158 points · 113 commentaires",
+    "ref": "news:66c70c1adf2e"
+   },
+   {
+    "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+    "text": "143 points · 95 commentaires",
+    "ref": "news:92e88048ec86"
+   }
+  ],
+  "generated": false
+ },
+ "news": [
+  {
+   "id": "3e54baa4f899",
+   "title": "Anthropic's growth just flattened",
+   "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+   "source": "Hacker News",
+   "published": "2026-11-02T22:33:20+00:00",
+   "summary": "206 points · 240 commentaires",
+   "image": null,
+   "signal": 206,
+   "discussion": "https://news.ycombinator.com/item?id=50344958",
+   "score": 3.74,
+   "also": []
+  },
+  {
+   "id": "c781e778ea3b",
+   "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+   "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+   "source": "Hacker News",
+   "published": "2026-11-02T22:30:47+00:00",
+   "summary": "335 points · 248 commentaires",
+   "image": null,
+   "signal": 335,
+   "discussion": "https://news.ycombinator.com/item?id=50344919",
+   "score": 4.12,
+   "also": []
+  },
+  {
+   "id": "885b04d7832e",
+   "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+   "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+   "source": "Hacker News",
+   "published": "2026-11-02T19:27:37+00:00",
+   "summary": "186 points · 166 commentaires",
+   "image": null,
+   "signal": 186,
+   "discussion": "https://news.ycombinator.com/item?id=50342284",
+   "score": 3.5,
+   "also": []
+  },
+  {
+   "id": "66c70c1adf2e",
+   "title": "Egoless Mathematics in the AI Era",
+   "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+   "source": "Hacker News",
+   "published": "2026-11-02T18:54:44+00:00",
+   "summary": "158 points · 113 commentaires",
+   "image": null,
+   "signal": 158,
+   "discussion": "https://news.ycombinator.com/item?id=50341736",
+   "score": 3.35,
+   "also": []
+  },
+  {
+   "id": "92e88048ec86",
+   "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+   "url": "https://momentic.ai/",
+   "source": "Hacker News",
+   "published": "2026-11-02T17:05:25+00:00",
+   "summary": "143 points · 95 commentaires",
+   "image": null,
+   "signal": 143,
+   "discussion": "https://news.ycombinator.com/item?id=50339913",
+   "score": 3.18,
+   "also": []
+  },
+  {
+   "id": "b997047b8551",
+   "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+   "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+   "source": "Hacker News",
+   "published": "2026-11-02T16:40:29+00:00",
+   "summary": "320 points · 248 commentaires",
+   "image": null,
+   "signal": 320,
+   "discussion": "https://news.ycombinator.com/item?id=50339494",
+   "score": 3.8,
+   "also": []
+  },
+  {
+   "id": "de4cf53f9db9",
+   "title": "Scaling Git at OpenAI",
+   "url": "https://openai.com/index/scaling-git-at-openai",
+   "source": "OpenAI",
+   "published": "2026-11-02T15:30:00+00:00",
+   "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+   "image": null,
+   "signal": 0,
+   "score": 6.4,
+   "also": [
+    {
+     "source": "Hacker News",
+     "url": "https://openai.com/index/scaling-git-at-openai/"
+    }
+   ],
+   "discussion": "https://news.ycombinator.com/item?id=50345924"
+  },
+  {
+   "id": "6d29f3b89c67",
+   "title": "Jobless tech workers are being left out of San Francisco's AI boom",
+   "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
+   "source": "Hacker News",
+   "published": "2026-11-02T14:40:05+00:00",
+   "summary": "174 points · 247 commentaires",
+   "image": null,
+   "signal": 174,
+   "discussion": "https://news.ycombinator.com/item?id=50337454",
+   "score": 3.21,
+   "also": []
+  },
+  {
+   "id": "d822a9117e89",
+   "title": "Anthropic reports $17B in Q3 revenue, commitments of $895B in revised S-1",
+   "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+   "source": "Hacker News",
+   "published": "2026-11-02T14:38:45+00:00",
+   "summary": "231 points · 274 commentaires",
+   "image": null,
+   "signal": 231,
+   "discussion": "https://news.ycombinator.com/item?id=50337439",
+   "score": 3.43,
+   "also": []
+  },
+  {
+   "id": "d7eb8c9ceea3",
+   "title": "Last night an AI agent performed brain surgery on a mouse",
+   "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+   "source": "Hacker News",
+   "published": "2026-11-02T12:50:59+00:00",
+   "summary": "131 points · 103 commentaires",
+   "image": null,
+   "signal": 131,
+   "discussion": "https://news.ycombinator.com/item?id=50336138",
+   "score": 4.39,
+   "also": []
+  }
+ ],
+ "videos": [
+  {
+   "id": "0Kw6_DTZPrY",
+   "title": "‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon",
+   "url": "https://www.youtube.com/watch?v=0Kw6_DTZPrY",
+   "channel": "AI Explained",
+   "published": "2026-11-02T17:02:16+00:00",
+   "thumbnail": "https://i1.ytimg.com/vi/0Kw6_DTZPrY/hqdefault.jpg",
+   "views": 81712,
+   "description": "You know what, by AI standards, it might not have been the craziest week, but that doesn’t mean several headline-worthy things happened - from Altman and Anthropic implying they would release models they can’t control,…",
+   "relevance": 0
+  },
+  {
+   "id": "yW_ngvMFlYs",
+   "title": "Why Consciousness Might Not Be Hard At All (Joscha Bach)",
+   "url": "https://www.youtube.com/watch?v=yW_ngvMFlYs",
+   "channel": "Machine Learning Street Talk",
+   "published": "2026-11-02T03:04:11+00:00",
+   "thumbnail": "https://i2.ytimg.com/vi/yW_ngvMFlYs/hqdefault.jpg",
+   "views": 28836,
+   "description": "Joscha Bach is a cognitive scientist and the founder of the California Institute for Machine Consciousness. SPONSOR: --- Parallel is a single platform for all your agentic research: web search built for AI agents, with…",
+   "relevance": 0
+  },
+  {
+   "id": "CWdTBLsbaQs",
+   "title": "OpenAI Claims It Just Did The Impossible",
+   "url": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
+   "channel": "Two Minute Papers",
+   "published": "2026-10-30T15:57:16+00:00",
+   "thumbnail": "https://i4.ytimg.com/vi/CWdTBLsbaQs/hqdefault.jpg",
+   "views": 462674,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 OpenAI's paper is available here:…",
+   "relevance": 0
+  }
+ ],
+ "papers": [
+  {
+   "id": "2610.29927",
+   "title": "Your Benchmark Is an Empirical Measure Over Difficulty",
+   "authors": "Yifan Sun, Naicheng Yu, Jiawen Gong, Jingyan Shen et al.",
+   "abstract": "A benchmark is not merely a collection of test questions; it naturally induces an empirical measure over difficulty. In this work, we develop this measure-based view of benchmark evaluation. This perspective allows us to identify and formalize two central failure modes: measure mismatch, where the benchmark difficulty distribution differs from the intended difficulty distribution, and coverage gaps, where uncovered regions along the difficulty axis prevent benchmarks from detecting meaningful localized training progress. We propose two diagnostic metrics that capture these two failure modes and provide rigorous theoretical guarantees. Empirically, we analyze 25 popular benchmarks spanning 7 domains using carefully estimated item difficulties. Our results show that many benchmarks implicitly overweight certain difficulty regions, so their leaderboard conclusions should be interpreted with caution; others leave substantial portions of the difficulty axis uncovered, limiting their ability to monitor the model improvement process. Finally, we turn diagnosis into action by introducing…",
+   "published": "2026-10-21T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.29927",
+   "pdf": "https://arxiv.org/pdf/2610.29927",
+   "upvotes": 166,
+   "github": "https://github.com/ASTRAL-Group/benchmark-difficulty-measure",
+   "origin": "hf",
+   "ai_summary": "This work formalizes benchmark evaluation through difficulty measures, identifies failure modes of measure mismatch and coverage gaps, and proposes diagnostic metrics and a rewriting algorithm to improve benchmark coverage.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.42053",
+   "title": "REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control",
+   "authors": "Pengfei Zhou, Yixing Ma, Zhengfeiyang Zhang, Haoyuan Chen et al.",
+   "abstract": "Foundation models are becoming remarkably reliable at high-level reasoning, yet they remain too slow and costly to serve as fine-grained controllers. Conversely, fast policies like VLAs and whole-body controllers offer more efficient reflexes, but struggle to generalize. While pairing a deliberative brain (foundation models) with a reactive cerebellum (fast policies) seems natural for embodied systems, two obstacles remain: methods are built and scored on incompatible stacks, and their asynchronous coordination is difficult. For example, an agent that calls the VLA in the agentic loop can stall the fast execution, while a VLA that calls the agent on errors tends to re-trigger fallbacks repeatedly or completely miss silent failures. To address this, we propose REA (Routed Embodied Agent), a unified runtime where a deliberative System 2, an embodied router System 1 and reactive System 0 policies cooperate under a single golden rule - no running policy waits on the brain. Instead of querying the brain at each failure, REA employs a route memory that stores each policy's measured…",
+   "published": "2026-10-30T17:18:13.000Z",
+   "url": "https://arxiv.org/abs/2610.42053",
+   "pdf": "https://arxiv.org/pdf/2610.42053",
+   "upvotes": 137,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "REA unifies deliberative and reactive policies in a single runtime with asynchronous coordination, achieving high success rates with reduced control overhead across simulated and real robot tasks.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.36671",
+   "title": "Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs",
+   "authors": "Donghyeon Cho, Joowon Kim, Seungho Shin, Eunho Yang",
+   "abstract": "Diffusion vision-language models (DVLMs) process their entire input at every denoising step. Since visual tokens make up 89-97% of this input on the benchmarks we study, most of the decoding computation is spent repeatedly processing the same image. Visual token pruning methods partially relieve this burden by removing part of the visual tokens, but they lose the removed information and still process the remaining image at every step. To measure how often the image is actually needed, we compare LLaDA-V's predictions with and without the image at every decoding step and find that removing the image changes a token being unmasked at only 22.8% of steps on average and at as few as 7.9%. We therefore propose LOWN, a decoding method that decides at every step whether to process the image and how many tokens to unmask. LOWN predicts the masked tokens without the image and processes the image only when this prediction disagrees with the last image-conditioned prediction. Agreement certifies the earlier prediction for reuse, and the number of certified tokens sets how many are unmasked in…",
+   "published": "2026-10-27T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.36671",
+   "pdf": "https://arxiv.org/pdf/2610.36671",
+   "upvotes": 125,
+   "github": "https://github.com/hyeon9698/LOWN",
+   "origin": "hf",
+   "ai_summary": "LOWN adaptively skips image processing during diffusion vision-language model decoding when predictions agree, reducing computation while preserving accuracy.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.36545",
+   "title": "FrameForge: Harnessing Priors of Video Foundation Models for Unified Image Generation",
+   "authors": "Yijing Lin, Zhendong Mao, Mengqi Huang, Yuxin Wang et al.",
+   "abstract": "Unified conditional image generation requires a single model to preserve different aspects of a visual input while producing a target image that follows textual guidance. Pretrained video models provide a promising foundation by encoding visual transformations across time, yet existing approaches typically assign the condition and target to fixed temporal positions. We observe that condition-target relationships vary substantially across generation tasks, while video models naturally encode visual transformations at different temporal scales. This motivates us to model conditional generation through input-adaptive virtual temporal relations. We propose FrameForge, which captures two complementary aspects of such relations. Mixture of Temporal Experts (MoTE) models how far the target lies from the condition by dynamically selecting temporal RoPE experts with different virtual intervals. Chain of Temporal Reasoning (CoTR) models how the condition is transformed into the target through a latent intermediate state, with a reasoning-bottleneck attention mask encouraging information…",
+   "published": "2026-10-27T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.36545",
+   "pdf": "https://arxiv.org/pdf/2610.36545",
+   "upvotes": 114,
+   "github": "https://github.com/Lyne1/FrameForge",
+   "origin": "hf",
+   "ai_summary": "FrameForge enables adaptive conditional image generation by modeling variable condition-target relationships through dynamic temporal experts and intermediate reasoning pathways in pretrained video models.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.22740",
+   "title": "R^2Orch: Recursive Self-Improvement for Agent Orchestration via Self-Play within a Skill-Internalization Loop",
+   "authors": "Mingda Zhang, Yun Huang, Qiang Huang, Yanjin Li et al.",
+   "abstract": "In recent years, agentic orchestration has been widely applied to solve complex human tasks. However, existing orchestration learning still faces key challenges, including hand-designed curricula, advantage collapse when a task's rollouts all reach the same outcome, and unreliable evaluation signals that judge each skill by one noisy score. To address these challenges, we propose R^2Orch, a new paradigm of Recursive Self-Play Orchestration: an inner loop of self-play that improves the orchestrator on self-chosen tasks, and an outer loop that improves how the inner loop improves. To support this paradigm, we introduce Recursive Learnability, a training objective that rewards a Proposer for choosing tasks whose rollouts keep reaching different outcomes as skills are withdrawn. Built on this objective, we further propose Skill Withdrawal, in which the outer loop withdraws each skill once a controlled evaluation within self-play shows that the orchestrator performs as well without it. Moreover, the two loops form one cycle: failures are distilled into skills, skills into parameters, and…",
+   "published": "2026-10-22T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.22740",
+   "pdf": "https://arxiv.org/pdf/2610.22740",
+   "upvotes": 96,
+   "github": "https://github.com/beita6969/R2Orch",
+   "origin": "hf",
+   "ai_summary": "R²Orch uses recursive self-play with learnable task selection and skill withdrawal to train orchestrators without hand-designed curricula, improving performance across reasoning and interactive tasks.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.38568",
+   "title": "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement",
+   "authors": "Yu Liu, Youxing Li, Yuedong Tan, Zhiwei Yang et al.",
+   "abstract": "Recursive self-improvement requires models not only to acquire useful training experience, but also to decide when their current experience has ceased to be useful. Existing methods often focus on what experience to generate next, while paying less attention to when fresh experience should be introduced. Many also construct training targets through self-consistency or majority voting, making supervision depend on the model's own uncertain predictions. We address these two questions separately: training dynamics determine when to acquire new experience, while the answers to new tasks remain independently checkable. A-RSI monitors reward variation and accuracy in training logs to refresh a task pool when its learning signal declines, without consulting validation or test scores. A static library of model-authored programs produces multimodal questions and derives their reference answers; we specify the task-generation contract, automatically verify chosen properties of the reward and refresh rules, and separately audit the generated answers. The training loop uses no external training…",
+   "published": "2026-10-28T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.38568",
+   "pdf": "https://arxiv.org/pdf/2610.38568",
+   "upvotes": 91,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "A-RSI improves recursive self-improvement by refreshing training tasks based on declining learning signals and using independently verifiable program-generated answers, raising benchmark performance without external labels.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.00859",
+   "title": "Wave Forcing: Towards Speed-of-Light Streaming Video Generation",
+   "authors": "Yijie Jin, Yuxuan Liu, Jiajun Xu, Ye Huang et al.",
+   "abstract": "Real-time long-video generation requires continuous output with consistent appearance and natural motion. Existing chunk-wise autoregressive methods face challenges in both generation efficiency and long-video quality: serialized denoising and history-cache refresh require two forward passes even with one-step denoising, and longer rollouts can degrade quality and cause camera drift. We propose Wave Forcing (WF), which co-designs generation, training, and execution for continuous video output with multi-step denoising. WF uses chunk-wise causal attention to access earlier, cleaner chunks before their denoising is complete, and distributes staggered denoising and cache-refresh stages across full-model replicas to achieve 1F1C: one output chunk per concurrent forward round after pipeline fill. To adapt the model to this continuous generation process, we develop a three-stage training procedure that successively introduces mixed-noise denoising, motion supervision, and causal adaptation using self-generated history. To execute this process efficiently, Wave Runtime (WaveRT) uses Wave…",
+   "published": "2026-10-31T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.00859",
+   "pdf": "https://arxiv.org/pdf/2611.00859",
+   "upvotes": 74,
+   "github": "https://github.com/SJTU-DENG-Lab/WaveForcing",
+   "origin": "hf",
+   "ai_summary": "Wave Forcing enables efficient continuous long-video generation with consistent appearance and natural motion through co-designed generation, training, and execution, achieving high throughput and quality.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.39302",
+   "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+   "authors": "Randall Balestriero, Yann LeCun",
+   "abstract": "Whether models trained on different modalities converge to the same representation of the world is central to AI. The Platonic Representation Hypothesis (PRH) conjectures that they do as they scale, but without a proof it offers neither a guarantee nor a recipe. We turn the hypothesis into a theorem. First, we prove a Platonic Representation Theorem: Joint-Embedding Predictive Architectures (JEPAs) trained separately on any number of modalities learn the same representation up to one rotation whenever their positive pairs are two observations of one scene--good views--and their misalignment is bounded otherwise. Second, we show that next-token prediction is a JEPA with bad views, parts of a single document, which explains why language models align with vision only through scale. Third, we validate the theory from 145k captions to the texts of 940M web images, and uncover a scaling law of alignment that predicts unseen runs within seed noise. Good views need 42 times fewer training samples than next-token prediction on the same corpus to reach the same alignment, and a 109M-parameter…",
+   "published": "2026-10-29T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.39302",
+   "pdf": "https://arxiv.org/pdf/2610.39302",
+   "upvotes": 72,
+   "github": "https://github.com/galilai-group/prh-proof",
+   "origin": "hf",
+   "ai_summary": "Joint-embedding predictive architectures trained on aligned multi-modal observations converge to shared representations with far greater efficiency than next-token prediction, demonstrating that positive view design—not scale alone—drives cross-modal alignment.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.39497",
+   "title": "Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?",
+   "authors": "Qi Wang, Yun Qu, Lizhou Cai, Heming Zou et al.",
+   "abstract": "Progress toward artificial general intelligence (AGI) has largely relied on scaling a resource-intensive executive, System-2, through larger models, more data and compute, longer reasoning, and more agents. We ask whether the next stage may come instead from co-designing it with System-1, a lightweight, semantically aware predictor that evaluates candidate interactions before execution, so that System-2 acts only on those worth their cost. Our answer is a qualified yes. We study conditional interaction, a predict--gate--execute--update loop: System-1 estimates each candidate's utility, System-2 executes those admitted by an adaptive threshold, and the outcomes update System-1. The loop spans training, test-time reasoning, adaptive decision-making, and agentic tool use, with utility and cost defined by the application. Under ideal screening and equal execution costs, execution compute falls by a factor approaching 1/ρ_u, where ρ_u is the density of utility-relevant interactions (cost-weighted when costs differ); prediction errors, exploration, and distribution shift reduce the…",
+   "published": "2026-10-29T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.39497",
+   "pdf": "https://arxiv.org/pdf/2610.39497",
+   "upvotes": 70,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "Co-designing a resource-heavy reasoning system with a lightweight predictive evaluator can reduce execution costs by filtering interactions, with efficiency governed by the density of useful interactions.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.39301",
+   "title": "Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities",
+   "authors": "Yunhang Shen, Zhangquan Chen, Xiaotian Li, Zhongpeng Cai et al.",
+   "abstract": "We present Youtu-Parsing-Omni, an omni-modal parser that converts documents, images, audio, and video into structured records grounded in space and time, providing a perception layer for agents that read, locate, and cite evidence across modalities. Its design rests on one encoder for every modality and one schema for every task. Youtu-Omni-Encoder, initialized from a pre-trained language model to strengthen text reading, encodes all modalities with shared weights in a unified space-time coordinate system, and a few fusion layers let video frames attend to concurrent audio, bringing cross-modal fusion and temporal alignment into perception itself. OmniSchema unifies the outputs of all ten parsing tasks, allowing a single self-evolving post-training procedure, OmniSchema-Aware On-Policy Distillation (OSAD), to provide a shared token-role-based objective across tasks. In each round, the model is trained on its own rollouts against token-level targets from a reference-conditioned copy of itself, which is then refreshed with the trained weights, so that the parser and its supervision…",
+   "published": "2026-10-29T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.39301",
+   "pdf": "https://arxiv.org/pdf/2610.39301",
+   "upvotes": 65,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "Youtu-Parsing-Omni is a unified multi-modal parser that encodes documents, images, audio, and video into structured spatiotemporal records using shared weights and cross-modal fusion, achieving state-of-the-art results across parsing benchmarks through a self-evolving on-policy distillation procedure.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.03523",
+   "title": "DistDebug-Bench: Can LLM Agents Diagnose Bugs in Distributed Systems?",
+   "authors": "Yuxuan Jiang, Chenglin Liu, John Rose, Mason Miller et al.",
+   "abstract": "LLM agents show strong potential in software engineering tasks such as competitive programming and code synthesis. Existing benchmarks, however, largely focus on small-scale settings such as self-contained Python modules, leaving distributed systems, an essential class of production software, under-examined. We introduce DistDebug-Bench, a benchmark for evaluating agents' ability to diagnose complex-system failures at the code level. It curates 120 high-quality real-world bugs from 11 widely used distributed systems, spanning 5 programming languages and 10 failure patterns. Through an extensive evaluation of state-of-the-art LLMs and agents, we identify substantial gaps between current agents and real-world debugging tasks. A recurring gap is tunnel vision due to a lack of explicit reasoning structure and nondeterminism from inconsistent tool-use scope. The benchmark and evaluator are available at https://github.com/OrderLab/distdebug-bench, with agent traces and a leaderboard at https://distdebug.com.",
+   "published": "2026-11-02T17:56:28Z",
+   "url": "https://arxiv.org/abs/2611.03523",
+   "pdf": "https://arxiv.org/pdf/2611.03523",
+   "upvotes": 0,
+   "github": "https://github.com/OrderLab/distdebug-bench",
+   "origin": "arxiv",
+   "categories": [
+    "cs.SE",
+    "cs.DC",
+    "cs.LG"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.03377",
+   "title": "Same Outputs, Different Scores: Auditing the Unchecked Graders of Multimodal LLM Benchmarks",
+   "authors": "Ahmad Jarjis Hasan, Jonathan Lwowski",
+   "abstract": "Every multimodal-LLM multiple-choice benchmark ends with a scoring rule that converts a model's response, often free-form text rather than a clean option letter, into a right/wrong verdict, buried in its code. Unlike the dataset, this rule is chosen without justification and left unexamined, yet it sets the published number. We reproduce the official scorers of eight peer-reviewed benchmarks on five open vision-language models (VLMs) that fit a single 16 GB GPU, and introduce a blinded human-plus-LLM-judge adjudication (Cohen's kappa=0.956) that recovers what the model actually answered. The scoring rule alone moves accuracy by up to 22 points on identical outputs, yet exactly 0 wherever a model emits clean option letters, so it hides on strong-model leaderboards. It is the fallback and not the rambling that does the damage: the benchmark with the highest non-compliance we measure has an artifact of exactly zero, because its scorer abstains instead of guessing; a reasoning model with non-compliance 0.000 still swings 9.5 points with which regex match of its trace the parser keeps.…",
+   "published": "2026-11-02T16:20:07Z",
+   "url": "https://arxiv.org/abs/2611.03377",
+   "pdf": "https://arxiv.org/pdf/2611.03377",
+   "upvotes": 0,
+   "github": "https://github.com/ahmadhasan2k8/grader-audit",
+   "origin": "arxiv",
+   "categories": [
+    "cs.AI",
+    "cs.CL",
+    "cs.CV"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.03308",
+   "title": "LLMs Depend on Specialist Tools for Out-of-Distribution Generalization in MS/MS Structural Elucidation",
+   "authors": "Gabriel Asher, Cailum M. K. Stienstra, Tomo Oga, Devesh Shah Antonio H. de O. Fonseca et al.",
+   "abstract": "A frontier language model was recently reported to solve 1D NMR structural elucidation without tools. We ask whether this capability transfers to tandem mass spectrometry (MS/MS) in the de novo setting, where the model must propose a structure directly from the spectrum without a candidate list or reference library. To separate reasoning from recall, we build a 100-analyte benchmark from MassSpecGym, split by each analyte's textual footprint into in-distribution (well documented in literature) and out-of-distribution (essentially undocumented) arms. We hold the model, harness, and output format fixed and vary only the LLM's access to domain-specific tools. Without tools, a frontier LLM reaches 52% Top-1 accuracy in-distribution but only 2% out-of-distribution. Only access to de novo structure generators improves out-of-distribution accuracy, raising it to as much as 38% Top-1, and the resulting agent outperforms the standalone de novo models both in and out of distribution. These results suggest that LLMs are not effective at de novo MS/MS structural elucidation on their own, and…",
+   "published": "2026-11-02T15:39:07Z",
+   "url": "https://arxiv.org/abs/2611.03308",
+   "pdf": "https://arxiv.org/pdf/2611.03308",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.LG",
+    "cs.AI",
+    "cs.CL",
+    "stat.ML"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.03618",
+   "title": "Strategist: Evolving Reasoning with Agents",
+   "authors": "Taiming Lu, Qi Xu, Zhigang Hua, Zhuang Liu",
+   "abstract": "A model is only half of an AI agent system. The other half is the inference strategy: the reasoning procedure that turns model calls into a response. Today that second half is written by hand, and the experience of building one strategy never carries to the next. We introduce Strategist, a meta-agent that evolves inference strategies across tasks. Each strategy is written as a blueprint,executable code that other strategies can reuse, and together the blueprints form a library. Given a task and a small development set, Strategist retrieves related blueprints, writes candidate strategies, tests them on real samples, and revises them from the results. Every candidate then enters the library, so later tasks build on earlier discoveries. On 30 benchmarks, Strategist beats the strongest baseline on 24 and matches its average accuracy (74.7% vs.74.0%) at 39% lower inference cost. Its strategies also transfer to unseen tasks and other models without further search. The part of an AI system that is not improved on its own now does.",
+   "published": "2026-11-02T18:51:04Z",
+   "url": "https://arxiv.org/abs/2611.03618",
+   "pdf": "https://arxiv.org/pdf/2611.03618",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.AI",
+    "cs.CL"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.03551",
+   "title": "Can LLM Agents Be Forward-Deployed Engineers? Requirement Discovery and Delivery for Enterprise Text-to-SQL",
+   "authors": "Marianne Menglin Liu, Rongguang Wang, Zheng Wang, Yewen Wang et al.",
+   "abstract": "LLM coding agents can increasingly automate model post-training, but whether they can act as forward-deployed engineer (FDE) agents, discovering customer requirements and turning them into deployment decisions, remains unclear. We study this on a real enterprise text-to-SQL engagement: a simulated customer, grounded in the real use case's requirements, starts with an ambiguous request. An agent must discover acceptance criteria, data permissions, and hardware constraints in the discovery phase, then plan and execute a post-training recipe in the delivery phase. Across 15 models, the strongest discover over 80% of withheld requirements and open-weight models discover 40-50%; in the delivery phase, only 25% of runs across eight coding-agent configurations pass all acceptance criteria. We identify four bottlenecks in this engagement: (1) incomplete discovery, with 40% of withheld requirements missing or misrepresented; (2) unreliable execution; (3) underused compute budgets and a lack of systematic comparisons across base models and post-training methods; and (4) benchmark accuracy…",
+   "published": "2026-11-02T18:13:38Z",
+   "url": "https://arxiv.org/abs/2611.03551",
+   "pdf": "https://arxiv.org/pdf/2611.03551",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CL",
+    "cs.AI"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "classics": [
+  {
+   "id": "2012.02096",
+   "title": "Emergent Complexity and Zero-shot Transfer via Unsupervised Environment Design",
+   "year": 2020,
+   "authors": "Michael Dennis, Natasha Jaques, Eugene Vinitsky et al.",
+   "abstract": "A wide range of reinforcement learning (RL) problems - including robustness, transfer learning, unsupervised RL, and emergent complexity - require specifying a distribution of tasks or environments in which a policy will be trained. However, creating a useful distribution of environments is error prone, and takes a significant amount of developer time and effort. We propose Unsupervised Environment Design (UED) as an alternative paradigm, where developers provide environments with unknown parameters, and these parameters are used to automatically produce a distribution over valid, solvable environments. Existing approaches to automatically generating environments suffer from common failure…",
+   "citations": 390,
+   "url": "https://arxiv.org/abs/2012.02096",
+   "cited_by": [
+    "R^2Orch: Recursive Self-Improvement for Agent Orchestration via Self-Play within a Skill-Internalization Loop",
+    "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement",
+    "Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?"
+   ],
+   "why": "Cité par 3 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2310.06770",
+   "title": "SWE-bench: Can Language Models Resolve Real-World GitHub Issues?",
+   "year": 2023,
+   "authors": "Carlos E. Jimenez, John Yang, Alexander Wettig et al.",
+   "abstract": "Language models have outpaced our ability to evaluate them effectively, but for their future development it is essential to study the frontier of their capabilities. We find real-world software engineering to be a rich, sustainable, and challenging testbed for evaluating the next generation of language models. To this end, we introduce SWE-bench, an evaluation framework consisting of $2,294$ software engineering problems drawn from real GitHub issues and corresponding pull requests across $12$ popular Python repositories. Given a codebase along with a description of an issue to be resolved, a language model is tasked with editing the codebase to address the issue. Resolving issues in…",
+   "citations": 4683,
+   "url": "https://arxiv.org/abs/2310.06770",
+   "cited_by": [
+    "Your Benchmark Is an Empirical Measure Over Difficulty",
+    "R^2Orch: Recursive Self-Improvement for Agent Orchestration via Self-Play within a Skill-Internalization Loop"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2209.09513",
+   "title": "Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering",
+   "year": 2022,
+   "authors": "Pan Lu, Swaroop Mishra, Tony Xia et al.",
+   "abstract": "When answering a question, humans utilize the information available across different modalities to synthesize a consistent and complete chain of thought (CoT). This process is normally a black box in the case of deep learning models like large-scale language models. Recently, science question benchmarks have been used to diagnose the multi-hop reasoning ability and interpretability of an AI system. However, existing datasets fail to provide annotations for the answers, or are restricted to the textual-only modality, small scales, and limited domain diversity. To this end, we present Science Question Answering (ScienceQA), a new benchmark that consists of ~21k multimodal multiple choice…",
+   "citations": 2868,
+   "url": "https://arxiv.org/abs/2209.09513",
+   "cited_by": [
+    "Your Benchmark Is an Empirical Measure Over Difficulty",
+    "Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2305.01210",
+   "title": "Is Your Code Generated by ChatGPT Really Correct? Rigorous Evaluation of Large Language Models for Code Generation",
+   "year": 2023,
+   "authors": "Jiawei Liu, Chun Xia, Yuyao Wang et al.",
+   "abstract": "Program synthesis has been long studied with recent approaches focused on directly using the power of Large Language Models (LLMs) to generate code. Programming benchmarks, with curated synthesis problems and test-cases, are used to measure the performance of various LLMs on code synthesis. However, these test-cases can be limited in both quantity and quality for fully assessing the functional correctness of the generated code. Such limitation in the existing benchmarks begs the following question: In the era of LLMs, is the code generated really correct? To answer this, we propose EvalPlus -- a code synthesis evaluation framework to rigorously benchmark the functional correctness of…",
+   "citations": 2512,
+   "url": "https://arxiv.org/abs/2305.01210",
+   "cited_by": [
+    "Your Benchmark Is an Empirical Measure Over Difficulty",
+    "R^2Orch: Recursive Self-Improvement for Agent Orchestration via Self-Play within a Skill-Internalization Loop"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2009.13081",
+   "title": "What Disease does this Patient Have? A Large-scale Open Domain Question Answering Dataset from Medical Exams",
+   "year": 2020,
+   "authors": "Di Jin, Eileen Pan, Nassim Oufattole et al.",
+   "abstract": "Open domain question answering (OpenQA) tasks have been recently attracting more and more attention from the natural language processing (NLP) community. In this work, we present the first free-form multiple-choice OpenQA dataset for solving medical problems, MedQA, collected from the professional medical board exams. It covers three languages: English, simplified Chinese, and traditional Chinese, and contains 12,723, 34,251, and 14,123 questions for the three languages, respectively. We implement both rule-based and popular neural methods by sequentially combining a document retriever and a machine comprehension model. Through experiments, we find that even the current best method can only…",
+   "citations": 2319,
+   "url": "https://arxiv.org/abs/2009.13081",
+   "cited_by": [
+    "Your Benchmark Is an Empirical Measure Over Difficulty",
+    "R^2Orch: Recursive Self-Improvement for Agent Orchestration via Self-Play within a Skill-Internalization Loop"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2010.03934",
+   "title": "Prioritized Level Replay",
+   "year": 2020,
+   "authors": "Minqi Jiang, Edward Grefenstette, Tim Rocktäschel",
+   "abstract": "Simulated environments with procedurally generated content have become popular benchmarks for testing systematic generalization of reinforcement learning agents. Every level in such an environment is algorithmically created, thereby exhibiting a unique configuration of underlying factors of variation, such as layout, positions of entities, asset appearances, or even the rules governing environment transitions. Fixed sets of training levels can be determined to aid comparison and reproducibility, and test levels can be held out to evaluate the generalization and robustness of agents. While prior work samples training levels in a direct way (e.g.~uniformly) for the agent to learn from, we…",
+   "citations": 281,
+   "url": "https://arxiv.org/abs/2010.03934",
+   "cited_by": [
+    "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement",
+    "Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2402.03300",
+   "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+   "year": 2024,
+   "authors": "Zhihong Shao, Peiyi Wang, Qi-Hao Zhu et al.",
+   "abstract": "Mathematical reasoning poses a significant challenge for language models due to its complex and structured nature. In this paper, we introduce DeepSeekMath 7B, which continues pre-training DeepSeek-Coder-Base-v1.5 7B with 120B math-related tokens sourced from Common Crawl, together with natural language and code data. DeepSeekMath 7B has achieved an impressive score of 51.7% on the competition-level MATH benchmark without relying on external toolkits and voting techniques, approaching the performance level of Gemini-Ultra and GPT-4. Self-consistency over 64 samples from DeepSeekMath 7B achieves 60.9% on MATH. The mathematical reasoning capability of DeepSeekMath is attributed to two key…",
+   "citations": 10680,
+   "url": "https://arxiv.org/abs/2402.03300",
+   "cited_by": [
+    "R^2Orch: Recursive Self-Improvement for Agent Orchestration via Self-Play within a Skill-Internalization Loop",
+    "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement",
+    "Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?"
+   ],
+   "why": "Cité par 3 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2201.11903",
+   "title": "Chain of Thought Prompting Elicits Reasoning in Large Language Models",
+   "year": 2022,
+   "authors": "Jason Wei, Xue-Zhi Wang, Dale Schuurmans et al.",
+   "abstract": "We explore how generating a chain of thought -- a series of intermediate reasoning steps -- significantly improves the ability of large language models to perform complex reasoning. In particular, we show how such reasoning abilities emerge naturally in sufficiently large language models via a simple method called chain of thought prompting, where a few chain of thought demonstrations are provided as exemplars in prompting. Experiments on three large language models show that chain of thought prompting improves performance on a range of arithmetic, commonsense, and symbolic reasoning tasks. The empirical gains can be striking. For instance, prompting a 540B-parameter language model with…",
+   "citations": 23524,
+   "url": "https://arxiv.org/abs/2201.11903",
+   "cited_by": [
+    "Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "stats": {
+  "raw_news": 57,
+  "stories": 10,
+  "videos": 3,
+  "papers": 15,
+  "classics": 8,
+  "seconds": 347
+ }
+}
