@@ -1,0 +1,631 @@
+{
+ "generated_at": "2026-11-13T12:21:23.489622+00:00",
+ "date": "2026-11-13",
+ "tldr": {
+  "headline": "Les titres du jour",
+  "points": [
+   {
+    "title": "Claude Is Down",
+    "text": "124 points · 98 commentaires",
+    "ref": "news:22bcd83804c6"
+   },
+   {
+    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+    "text": "247 points · 180 commentaires",
+    "ref": "news:44da454e7900"
+   },
+   {
+    "title": "Nvidia employees petition to bring back Jensen Huang",
+    "text": "644 points · 483 commentaires",
+    "ref": "news:33783a15d7ad"
+   },
+   {
+    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+    "text": "275 points · 78 commentaires",
+    "ref": "news:f980cc1f1e21"
+   },
+   {
+    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+    "text": "307 points · 114 commentaires",
+    "ref": "news:d096a8a420fb"
+   }
+  ],
+  "generated": false
+ },
+ "tldr_en": {
+  "headline": "Today's headlines",
+  "points": [
+   {
+    "title": "Claude Is Down",
+    "text": "124 points · 98 commentaires",
+    "ref": "news:22bcd83804c6"
+   },
+   {
+    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+    "text": "247 points · 180 commentaires",
+    "ref": "news:44da454e7900"
+   },
+   {
+    "title": "Nvidia employees petition to bring back Jensen Huang",
+    "text": "644 points · 483 commentaires",
+    "ref": "news:33783a15d7ad"
+   },
+   {
+    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+    "text": "275 points · 78 commentaires",
+    "ref": "news:f980cc1f1e21"
+   },
+   {
+    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+    "text": "307 points · 114 commentaires",
+    "ref": "news:d096a8a420fb"
+   }
+  ],
+  "generated": false
+ },
+ "news": [
+  {
+   "id": "22bcd83804c6",
+   "title": "Claude Is Down",
+   "url": "https://status.claude.com/history",
+   "source": "Hacker News",
+   "published": "2026-11-13T10:20:09+00:00",
+   "summary": "124 points · 98 commentaires",
+   "image": null,
+   "signal": 124,
+   "discussion": "https://news.ycombinator.com/item?id=50481220",
+   "score": 3.77,
+   "also": []
+  },
+  {
+   "id": "44da454e7900",
+   "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+   "url": "https://status.claude.com/incidents/nn11wk485zfn",
+   "source": "Hacker News",
+   "published": "2026-11-13T10:18:13+00:00",
+   "summary": "247 points · 180 commentaires",
+   "image": null,
+   "signal": 247,
+   "discussion": "https://news.ycombinator.com/item?id=50481187",
+   "score": 4.31,
+   "also": []
+  },
+  {
+   "id": "33783a15d7ad",
+   "title": "Nvidia employees petition to bring back Jensen Huang",
+   "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+   "source": "Hacker News",
+   "published": "2026-11-13T02:16:24+00:00",
+   "summary": "644 points · 483 commentaires",
+   "image": null,
+   "signal": 644,
+   "discussion": "https://news.ycombinator.com/item?id=50477231",
+   "score": 4.68,
+   "also": []
+  },
+  {
+   "id": "f980cc1f1e21",
+   "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+   "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+   "source": "Hacker News",
+   "published": "2026-11-12T23:06:17+00:00",
+   "summary": "275 points · 78 commentaires",
+   "image": null,
+   "signal": 275,
+   "discussion": "https://news.ycombinator.com/item?id=50475713",
+   "score": 3.84,
+   "also": []
+  },
+  {
+   "id": "d096a8a420fb",
+   "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+   "url": "https://unemploymentlabs.com/checkpoint-forensics",
+   "source": "Hacker News",
+   "published": "2026-11-12T21:56:11+00:00",
+   "summary": "307 points · 114 commentaires",
+   "image": null,
+   "signal": 307,
+   "discussion": "https://news.ycombinator.com/item?id=50474883",
+   "score": 3.87,
+   "also": []
+  },
+  {
+   "id": "7ce0ed022118",
+   "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+   "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+   "source": "Hacker News",
+   "published": "2026-11-12T19:51:33+00:00",
+   "summary": "308 points · 339 commentaires",
+   "image": null,
+   "signal": 308,
+   "discussion": "https://news.ycombinator.com/item?id=50473190",
+   "score": 3.77,
+   "also": []
+  },
+  {
+   "id": "5ab15edc0315",
+   "title": "Gemini 4 Hydrogen and Orchestrator",
+   "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+   "source": "Hacker News",
+   "published": "2026-11-12T18:52:01+00:00",
+   "summary": "430 points · 126 commentaires",
+   "image": null,
+   "signal": 430,
+   "discussion": "https://news.ycombinator.com/item?id=50472260",
+   "score": 3.98,
+   "also": []
+  },
+  {
+   "id": "ec9fd4077cce",
+   "title": "Gemini 4 Hydrogen",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+   "source": "Hacker News",
+   "published": "2026-11-12T18:01:48+00:00",
+   "summary": "537 points · 337 commentaires",
+   "image": null,
+   "signal": 537,
+   "discussion": "https://news.ycombinator.com/item?id=50471431",
+   "score": 4.12,
+   "also": []
+  },
+  {
+   "id": "6edaf29caa3e",
+   "title": "I'm making LLMs work on small and old devices",
+   "url": "https://github.com/hyperionaidev/smolmaxxing/",
+   "source": "Hacker News",
+   "published": "2026-11-12T15:23:10+00:00",
+   "summary": "390 points · 142 commentaires",
+   "image": null,
+   "signal": 390,
+   "discussion": "https://news.ycombinator.com/item?id=50468888",
+   "score": 3.73,
+   "also": []
+  },
+  {
+   "id": "5ead41993058",
+   "title": "Jensen Huang resigns as Nvidia CEO immediately",
+   "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/",
+   "source": "Hacker News",
+   "published": "2026-11-12T13:56:11+00:00",
+   "summary": "375 points · 14 commentaires",
+   "image": null,
+   "signal": 375,
+   "discussion": "https://news.ycombinator.com/item?id=50467132",
+   "score": 3.63,
+   "also": []
+  }
+ ],
+ "videos": [
+  {
+   "id": "gPNiuyYirfw",
+   "title": "DeepMind’s AI Just Did The Impossible",
+   "url": "https://www.youtube.com/watch?v=gPNiuyYirfw",
+   "channel": "Two Minute Papers",
+   "published": "2026-11-12T13:41:41+00:00",
+   "thumbnail": "https://i4.ytimg.com/vi/gPNiuyYirfw/hqdefault.jpg",
+   "views": 223626,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The DeepMind paper AlphaProof Code is available here: https://deepmind.google/blog/introducing-alphaproof-code/…",
+   "relevance": 0
+  },
+  {
+   "id": "uND6iY2qp_c",
+   "title": "AlphaGenome 2: Teaching AI to read the entire human genome",
+   "url": "https://www.youtube.com/watch?v=uND6iY2qp_c",
+   "channel": "Google DeepMind",
+   "published": "2026-11-11T18:00:31+00:00",
+   "thumbnail": "https://i2.ytimg.com/vi/uND6iY2qp_c/hqdefault.jpg",
+   "views": 67534,
+   "description": "98% of human DNA doesn't build proteins—it controls how our cells work, and holds vital clues to why diseases happen and why 90% of new drugs fail in clinical trials. Understanding the genome at the molecular level is…",
+   "relevance": 0
+  },
+  {
+   "id": "583ThJIqQ7k",
+   "title": "Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)",
+   "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
+   "channel": "AI Explained",
+   "published": "2026-11-10T23:11:36+00:00",
+   "thumbnail": "https://i2.ytimg.com/vi/583ThJIqQ7k/hqdefault.jpg",
+   "views": 189264,
+   "description": "I’ve read the full Fable 5.2 report at 264 pages, the 30 page METR RSI report, and tested Gemini Carbon and Fable 5.2 hundreds of times. There’s too much to cover in one video, but let’s explore everything from how fast…",
+   "relevance": 0
+  },
+  {
+   "id": "vug73goPJaM",
+   "title": "Is Software Over?",
+   "url": "https://www.youtube.com/watch?v=vug73goPJaM",
+   "channel": "Two Minute Papers",
+   "published": "2026-11-10T10:15:57+00:00",
+   "thumbnail": "https://i3.ytimg.com/vi/vug73goPJaM/hqdefault.jpg",
+   "views": 181274,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The papers and sources are available here: MirrorCode: https://arxiv.org/abs/2606.30182 REMEND:…",
+   "relevance": 0
+  }
+ ],
+ "papers": [
+  {
+   "id": "2611.14033",
+   "title": "Few-Step Streaming Video Generation via Condition Shifting",
+   "authors": "Deyuan Liu, Jungang Li, Kaiwen Zheng, Kai Jiang et al.",
+   "abstract": "Few-step sampling reduces the cost of streaming video generation. Distribution Matching Distillation (DMD) supervises few-step generators with a separate fake-score network, which adds training memory and computation and must track the evolving generator. We extend APEX to streaming video by using condition shifting to estimate the velocity field of the generated distribution within the generator. The original text condition selects generation, while a shifted condition selects fake estimation using the same parameters. This removes the independent fake network while retaining S2-Avatar's frozen reference teacher, Self-Replay Forcing, and perceptual regularization. We evaluate APEX on 180-second videos using three backbone evaluations per block and a one-step spatial Refiner, with a 70-case human study and a 320-case StreamAV-Bench comparison. Compared with S2-Avatar, APEX achieves higher video instruction fulfillment on the Progressive track (3.856 versus 3.831) and higher visual aesthetics across both tracks (0.641898 versus 0.632606). Human raters favor APEX most strongly on…",
+   "published": "2026-11-10T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.14033",
+   "pdf": "https://arxiv.org/pdf/2611.14033",
+   "upvotes": 88,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "APEX extends a streaming video generation method by replacing a separate fake-score network with condition shifting to estimate the generated distribution’s velocity field, improving instruction following and visual aesthetics while reducing memory and iteration time relative to DMD.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.14320",
+   "title": "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents",
+   "authors": "Yukyeong Lee, Yumin Choi, Jinheon Baek, Sung Ju Hwang",
+   "abstract": "External memory enables LLM agents to improve from experience by distilling trajectories of past tasks into concise lessons for new tasks. However, memory can also lead to memory-induced degradation, where an agent fails on tasks it would solve without memory, often because it follows a lesson that is incorrect, or misapplies or misreads a valid one. This is because lessons are inferred from trajectories labeled only with task success or failure, yet are typically provided without the trajectories they came from, leaving the agent no way to check them. To address this, we introduce WikiTrace, an evidence-linked memory system designed to let agents check each lesson against its original trajectory. Specifically, motivated by the finding that a trajectory often still holds the evidence needed to catch an erroneous lesson, WikiTrace stores each lesson as a concise insight linked to a summary of why its trajectory succeeded or failed and to the raw trajectory itself. Then, on a new task, the agent starts from all insights and, whenever one lacks details needed to act, conflicts with…",
+   "published": "2026-11-10T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.14320",
+   "pdf": "https://arxiv.org/pdf/2611.14320",
+   "upvotes": 69,
+   "github": "https://github.com/yukyeongleee/wikitrace",
+   "origin": "hf",
+   "ai_summary": "WikiTrace links each distilled lesson to its source trajectory and rationale, enabling LLM agents to verify and correct memories before acting, improving performance and reducing memory-induced degradation across agentic benchmarks.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.14210",
+   "title": "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits",
+   "authors": "Hadi Salloum, Ammar Ali",
+   "abstract": "Weight-space programming, introduced in recent MIT work by Takehi et al., enables a frontier LLM agent to read a network's weights and write a repair. Their GPT-6 Astra agent corrected the reasoning loops of Qwen3.5-0.8B without gradients, using 158 agent turns, 89.7 million tokens, and 50 forward-pass requests. Our method, Tree-Ising, casts this repair as a sparse discrete optimization problem over the model's own BF16 weights. Forward statistics define an objective that weakens a loop direction, strengthens a concluding direction, and preserves the layer's output on productive tokens. Within a state-tree representation, where lossless BF16 storage acts as a special case, the admissible edits are sign flips and exponent shifts that preserve all shared group exponents and mantissas. We decompose this objective exactly into independent QUBO (Ising) problems, one per output row, which we solve on a GPU using simulated annealing or quantum-inspired simulated bifurcation. On the agent's two layers, Tree-Ising achieves 54.6% on MATH-500, outperforming the agent's edit (51.7%) under the…",
+   "published": "2026-11-10T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.14210",
+   "pdf": "https://arxiv.org/pdf/2611.14210",
+   "upvotes": 66,
+   "github": "https://github.com/TheQuantumGOAT/Tree-Ising",
+   "origin": "hf",
+   "ai_summary": "Tree-Ising repairs reasoning loops in LLM weights by solving sparse Ising/QUBO problems over BF16 parameters, improving math benchmark accuracy with fewer weight edits and no gradient or LLM-token cost.",
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.12885",
+   "title": "World In-Context Learning for Agentic Robot Manipulation",
+   "authors": "Heng Fang, Zehui Guo, Yuehan Zhang, Mingyang Du et al.",
+   "abstract": "Trained action policies write manipulation skill into network weights, tying what is learned to the distribution it is learned from. In-context learning (ICL) avoids this coupling but has not matched trained policies, because a demonstration recorded in another scene carries no feedback from the world the robot currently faces. We observe that what an agent learns in context is semantic, recording task steps and object roles rather than visual appearance, so experience gathered in one world transfers to another. Based on this insight, we propose World In-Context Learning (WICL), a paradigm in which a frozen model starts from a demonstration, rehearses the task in a world such as a simulator, and writes the feedback into its context rather than its weights. We build RoboScript, a modular infrastructure that implements WICL for agentic manipulation. From a single demonstration, RoboScript learns each task through rehearsal in simulation, freezes the learned knowledge as a Task Memory, and deploys the frozen memory on new scenes with data isolation that ensures every deployment input…",
+   "published": "2026-11-09T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.12885",
+   "pdf": "https://arxiv.org/pdf/2611.12885",
+   "upvotes": 58,
+   "github": "https://github.com/ArcheOne-AI/RoboScript",
+   "origin": "hf",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.15777",
+   "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
+   "authors": "Lichen Li, Ziping Dong, Sicheng Feng, Qi Li et al.",
+   "abstract": "System One models promise fast, general-purpose decision-making without lengthy token generation. However, understanding their capability spectrum and decision reliability requires more than aggregate performance on current benchmarks. Existing evaluations often provide limited insight into the breadth of model capabilities and the reliability of their decisions. We introduce SO-Arena, a benchmark characterizing the capability spectrum and decision reliability of System One models across 11 domains and five capability families. For the capability spectrum, SO-Arena offers evidence-grounded evaluation through reliable sources and manual verification of reference labels against model-visible inputs; fine-grained capability assessment through domain-specific difficulty criteria; and realistic interactive evaluation, where models iteratively execute actions in sandboxes. Reasoning-intensive tasks further enable system one-two comparison. Beyond accuracy, SO-Arena assesses decision reliability through two complementary measures: decision stability under controlled option-set changes and…",
+   "published": "2026-11-11T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.15777",
+   "pdf": "https://arxiv.org/pdf/2611.15777",
+   "upvotes": 51,
+   "github": "https://github.com/holdrain/SO-Arena",
+   "origin": "hf",
+   "ai_summary": "SO-Arena evaluates System One models across domains and capability families, revealing that scaling and reasoning gains vary and that high overall accuracy does not ensure reliable decision-making.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.40394",
+   "title": "Scaling Mathematical Proof Supervision from Structured Textbooks",
+   "authors": "Youqing Fang, Zhouqi Hua, Yinhao Tang, Yuzhe Gu et al.",
+   "abstract": "Mathematical supervision for language models is typically flattened into isolated problem-solution pairs, discarding the curricular organization and evidential structure of the original sources. We introduce TOME-Math (Textbook-Oriented Mathematical Evidence), a large-scale corpus that converts 2,118 textbooks spanning the core areas of university-level mathematics subjects into approximately 380K structured proof-supervision records while preserving chapter order, proposition-proof links, dependency references, and source provenance. Leveraging these structural signals, we explore curriculum learning across multiple mathematical subjects and characterize scaling patterns with supervision volume and source breadth. At full scale, fine-tuning on TOME-Math raises the unweighted mean score across our held-out evaluations and established public benchmarks by 16.7 percentage points over the base model, while exceeding all three public instruction-data baselines evaluated in aggregate. Our findings highlight structured textbooks as both a scalable source of mathematical supervision and an…",
+   "published": "2026-10-29T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.40394",
+   "pdf": "https://arxiv.org/pdf/2610.40394",
+   "upvotes": 43,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "A large-scale corpus of structured proof-supervision records derived from university mathematics textbooks improves language model mathematical reasoning by 16.7 percentage points over a base model when used for fine-tuning.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.14815",
+   "title": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
+   "authors": "Junyoung Seo, Jaewoo Seo, Seungryong Kim, Laura Leal-Taixé et al.",
+   "abstract": "Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle motion from perspective video alone is challenging because motion is entangled with appearance and vehicles can be occluded. Prior work therefore conditions video generation on layouts that specify vehicle motion, providing control over surrounding vehicles but requiring their future trajectories as inputs. We introduce BirdDreams, an autoregressive driving world model that jointly generates perspective video and a schematic bird's-eye-view (BEV) video, making scene layout part of the predicted future. The BEV, rendered from scene annotations for training, depicts roads and vehicles as simple shapes at a fixed metric scale, providing a top-down view of their positions and motion with reduced occlusion between vehicles. Perspective video, by contrast, retains scene details that the BEV omits, such as traffic signals and object appearance. Joint attention between two video diffusion…",
+   "published": "2026-11-10T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.14815",
+   "pdf": "https://arxiv.org/pdf/2611.14815",
+   "upvotes": 41,
+   "github": null,
+   "origin": "hf",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.13001",
+   "title": "One Table, Many Queries: Benchmarking Generalist Tabular Models Across Generation, Imputation, and Prediction",
+   "authors": "Yuanrui Wang, Kaifang Li, Xuanyue Li, Ziyun Li et al.",
+   "abstract": "Generation, imputation, and prediction query different aspects of the same tabular distribution, but are usually evaluated separately. This leaves unclear which capabilities they share, how their training objectives interact, and whether one model can perform all three well. We introduce the One Table Benchmark (), spanning 56 datasets, 46 registered methods, and 20 capability axes under aligned data splits and explicit task contracts. We compare task ranks on aligned support, train five backbones under all seven non-empty objective combinations on five datasets with three seeds, and contrast fixed-model profiles with specialist portfolios. Rank comparisons connect imputation and prediction through numerical recovery and dependence preservation, and link generation to both through predictive utility; distributional fidelity follows different, sometimes opposing, rankings. Objective interventions show the largest pooled gains from including the recipient's own objective. Generation has the broadest coverage of positive pooled auxiliary effects, while prediction shows potential to…",
+   "published": "2026-11-08T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.13001",
+   "pdf": "https://arxiv.org/pdf/2611.13001",
+   "upvotes": 40,
+   "github": "https://github.com/limix-ldm-ai/OTBench",
+   "origin": "hf",
+   "ai_summary": "A large aligned benchmark reveals that tabular generation, imputation, and prediction share useful conditional information but show distinct fidelity rankings and objective interactions, motivating unified models that improve categorical reconstruction and joint sampling.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.13004",
+   "title": "G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation",
+   "authors": "Xu Huang, Ye Huang, Xiaotong Li, Zhengrong Yue et al.",
+   "abstract": "Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, while aggressive spatial compression reduces representation capacity. Based on product quantization, we show that, under a fixed nominal information budget, group size should scale quadratically with the per-axis spatial compression factor. Building on this principle, we propose GSTAR, a spatial--group co-scaling framework that enables \\(32\\times\\) and even effective \\(64\\times\\) compression while preserving strong reconstruction, understanding, and generation performance. Since larger groups introduce intra-group dependencies that must be modeled efficiently, we analyze their impact on inference latency and generation quality and introduce a semi-autoregressive decoder that combines parallel feature computation with lightweight causal modeling. With these designs, our highly compressed models perform competitively with leading models across five representative text-to-image benchmarks…",
+   "published": "2026-11-08T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.13004",
+   "pdf": "https://arxiv.org/pdf/2611.13004",
+   "upvotes": 37,
+   "github": "https://github.com/DAGroup-PKU/G-STAR",
+   "origin": "hf",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.11995",
+   "title": "Infrathon: Benchmarking Language Agents for Real-World, Long-Horizon AI Infra Optimization",
+   "authors": "Zhengyu Hu, Zheyuan Xiao, Yike Wang, Hamish Ivison et al.",
+   "abstract": "In this work, we study whether frontier agent can continually improve real-world AI infrastructure over long horizons. We introduce Infrathon, a benchmark of diverse, long-horizon AI infrastructure optimization tasks across different levels. We evaluate six models across 150 runs with 24-hour budgets, totaling over 10,000 GPU-hours. Our results show that model rankings vary with the evaluation horizon, while 135 of the 150 runs achieve further improvements during the second half of their budgets. These findings indicate that shorter evaluations can overlook both optimization gains and changes in relative model performance. We also find agents can discover solutions that outperform human-designed baselines: Claude Opus 5.5 increases the mean KV-cache compression ratio from 6.82% with the human-designed Quant-VideoGen codec to 19.86%. Analysis of agent trajectories identifies task violations, unreliable testing, and premature completion as barriers to sustained improvement. Together, Our Infrathon framework provide resources for constructing long-horizon tasks, evaluating frontier…",
+   "published": "2026-11-09T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.11995",
+   "pdf": "https://arxiv.org/pdf/2611.11995",
+   "upvotes": 37,
+   "github": "https://github.com/InfrathonX/Infrathon",
+   "origin": "hf",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.17332",
+   "title": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+   "authors": "Jie Wang, Tong Zhu, JiaHao Kuang, Zhe Xu et al.",
+   "abstract": "Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSeek, Qwen, and Kimi routinely introduce architectural innovations, yet public reports rarely document which ideas succeeded, which were abandoned, and why. In academia, limited compute and inconsistent baselines often restrict evaluations to small-scale, single-point comparisons, making it difficult to establish whether improvements hold at larger scales or translate into broader impact. ArchSpace addresses both gaps as a public platform for Recording, Reviewing, and Referencing Architecture Researc}: each proposal is recorded with its experiments and reasoning, reviewed by the community, and referenced by later work. To evaluate ideas before costly large-scale training, ArchSpace leverages scaling laws to predict model loss at larger scales from smaller experiments, a practice widely adopted in industry. We provide initial references that make the platform usable: Qwen3.5 and OLMo3…",
+   "published": "2026-11-12T18:59:52Z",
+   "url": "https://arxiv.org/abs/2611.17332",
+   "pdf": "https://arxiv.org/pdf/2611.17332",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CL",
+    "cs.LG"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.17324",
+   "title": "K2V: Generative Keyframing For Physically Plausible Video Generation",
+   "authors": "Felix O'Mahony, Daniel Olmeda Reino, Roberto Cipolla, Ayush Tewari",
+   "abstract": "Video diffusion models are able to generate samples with high-quality appearance and textural qualities. However, content produced by these methods is known to exhibit significant physical errors. This is because, in a classical video generation setting, all physical reasoning must take place simultaneously and exclusively within the diffusion process.We propose to resolve these issues by redistributing the task of physical reasoning onto a language model-backed keyframe generation module, which allows for explicit reasoning in language, and fine-grained control over the appearance of the video at important moments in the video. We then condition a video generation model with these keyframes, reducing the role of the diffusion model to the simpler task of interpolating between physically-correct intermediate states, rather than inferring an entire sequence with diffusion. Results demonstrate that our approach significantly outperforms existing approaches, achieving state-of-the-art performance on the Physics-IQ Verified benchmark and PhyGenBench.",
+   "published": "2026-11-12T18:59:09Z",
+   "url": "https://arxiv.org/abs/2611.17324",
+   "pdf": "https://arxiv.org/pdf/2611.17324",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CV"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.17320",
+   "title": "Learning When Diffusion Language Models Should Regenerate",
+   "authors": "Minhae Oh, Jeonghye Kim, Jinwoo Koo, Yeongoon Kim et al.",
+   "abstract": "Remasking allows diffusion language models to revisit generated text, but effective correction requires knowing when and what to revise. Our diagnosis on Sudoku reveals two gaps. Hidden states contain error information that token confidence does not reliably expose, and remasking an isolated error usually reproduces it when the surrounding context remains fixed. These findings motivate DiVR , a verifier that predicts whether a partially generated sequence will reach a correct answer. Trained on the final correctness of the model's own trajectories, DiVR decides when to regenerate a block and which alternative to retain, while the generator itself stays unchanged. On five reasoning benchmarks with LLaDA-8B-Base, DiVR raises the average accuracy of the fine-tuned generator from 35.3\\% to 43.4\\% at $1.9$-$3.5\\times$ the cost of greedy decoding, above search baselines that use $3.8$-$7.4\\times$. It also complements post-training such as supervised fine-tuning and reinforcement learning, and generalizes to other generators, including Dream.",
+   "published": "2026-11-12T18:58:50Z",
+   "url": "https://arxiv.org/abs/2611.17320",
+   "pdf": "https://arxiv.org/pdf/2611.17320",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CL"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.17220",
+   "title": "Scalable Conversational Assessment: Chat-Based Exams with a Two-Agent LLM Pipeline",
+   "authors": "Geoffrey Challen, Craig Zilles",
+   "abstract": "Oral exams are compelling because (1) students can be asked to provide their reasoning for an answer and (2) their interactive nature permits follow-up questions to resolve ambiguous answers. But oral exams scale poorly. In this paper, we present scalable conversational assessment, an LLM-based system that conducts interactive text-based conversations with students to assess their ability to make and support an argument. We use a two-agent architecture to separate concerns and reduce the likelihood that answers are leaked to the student: the interviewer interacts directly with the student, but only receives guidance about the next question to ask the student; the hidden evaluator knows the goals of the whole activity, tracks the student's progress using a rubric, and guides the interviewer on when to follow-up on the current question or proceed to the next question. The system was first tested using a collection of simulated students with LLM personas of a particular ability level or adversarial tactic (e.g., answer-extractors, prompt-injectors, confident fabricators). A novel…",
+   "published": "2026-11-12T18:16:37Z",
+   "url": "https://arxiv.org/abs/2611.17220",
+   "pdf": "https://arxiv.org/pdf/2611.17220",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CY",
+    "cs.AI"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.17052",
+   "title": "Auditing AI peer reviewers: a benchmark on real scientific papers",
+   "authors": "Íñigo Zubeldia, Boris Bolliet, Francisco Villaescusa-Navarro, Pablo Villanueva-Domingo et al.",
+   "abstract": "LLM-based peer review is now used at production scale, but its evaluation remains limited. We introduce a benchmark that injects objective, localisable errors of four types (general issues, mathematics, numerics, citations) at three severity levels into real papers and measures each reviewer's detection rate by error type and severity, together with its false-positive rate on clean copies. We also present Skepthical, a multi-agent reviewer that verifies citation-backed claims by retrieving the cited papers, mathematics with computer algebra, and numerical claims with executed code. We apply the benchmark to two corpora of 15 recent arXiv preprints each, one in astrophysics and one in machine learning (ML), injecting a total of 357 errors, and evaluate twelve reviewer systems: six single-LLM reviewers, two Claude Code configurations, three publicly available reviewers, and Skepthical. The choice of model has the largest impact on detection rate: given the same prompt, three frontier LLMs differ by about 50 percentage points in total detection on both corpora. Tools and scaffolding…",
+   "published": "2026-11-12T16:33:51Z",
+   "url": "https://arxiv.org/abs/2611.17052",
+   "pdf": "https://arxiv.org/pdf/2611.17052",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CL",
+    "astro-ph.IM",
+    "cs.AI",
+    "cs.DL"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "classics": [
+  {
+   "id": "2006.11239",
+   "title": "Denoising Diffusion Probabilistic Models",
+   "year": 2020,
+   "authors": "Jonathan Ho, Ajay Jain, P. Abbeel",
+   "abstract": "We present high quality image synthesis results using diffusion probabilistic models, a class of latent variable models inspired by considerations from nonequilibrium thermodynamics. Our best results are obtained by training on a weighted variational bound designed according to a novel connection between diffusion probabilistic models and denoising score matching with Langevin dynamics, and our models naturally admit a progressive lossy decompression scheme that can be interpreted as a generalization of autoregressive decoding. On the unconditional CIFAR10 dataset, we obtain an Inception score of 9.46 and a state-of-the-art FID score of 3.17. On 256x256 LSUN, we obtain sample quality…",
+   "citations": 37819,
+   "url": "https://arxiv.org/abs/2006.11239",
+   "cited_by": [
+    "Few-Step Streaming Video Generation via Condition Shifting",
+    "G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2312.07104",
+   "title": "SGLang: Efficient Execution of Structured Language Model Programs",
+   "year": 2023,
+   "authors": "Lian-Min Zheng, Liang-Sheng Yin, Zhi-Qiang Xie et al.",
+   "abstract": "Large language models (LLMs) are increasingly used for complex tasks that require multiple generation calls, advanced prompting techniques, control flow, and structured inputs/outputs. However, efficient systems are lacking for programming and executing these applications. We introduce SGLang, a system for efficient execution of complex language model programs. SGLang consists of a frontend language and a runtime. The frontend simplifies programming with primitives for generation and parallelism control. The runtime accelerates execution with novel optimizations like RadixAttention for KV cache reuse and compressed finite state machines for faster structured output decoding. Experiments…",
+   "citations": 1916,
+   "url": "https://arxiv.org/abs/2312.07104",
+   "cited_by": [
+    "G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation",
+    "Infrathon: Benchmarking Language Agents for Real-World, Long-Horizon AI Infra Optimization"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2010.03768",
+   "title": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning",
+   "year": 2020,
+   "authors": "Mohit Shridhar, Xingdi Yuan, Marc-Alexandre Côté et al.",
+   "abstract": "Given a simple request (e.g., Put a washed apple in the kitchen fridge), humans can reason in purely abstract terms by imagining action sequences and scoring their likelihood of success, prototypicality, and efficiency, all without moving a muscle. Once we see the kitchen in question, we can update our abstract plans to fit the scene. Embodied agents require the same abilities, but existing work does not yet provide the infrastructure necessary for both reasoning abstractly and executing concretely. We address this limitation by introducing ALFWorld, a simulator that enables agents to learn abstract, text-based policies in TextWorld (Cote et al., 2018) and then execute goals from the ALFRED…",
+   "citations": 1567,
+   "url": "https://arxiv.org/abs/2010.03768",
+   "cited_by": [
+    "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents",
+    "Infrathon: Benchmarking Language Agents for Real-World, Long-Horizon AI Infra Optimization"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2410.02367",
+   "title": "SageAttention: Accurate 8-Bit Attention for Plug-and-play Inference Acceleration",
+   "year": 2024,
+   "authors": "Jintao Zhang, Jia Wei, Hao-Feng Huang et al.",
+   "abstract": "The transformer architecture predominates across various models. As the heart of the transformer, attention has a computational complexity of $O(N^2)$, compared to $O(N)$ for linear transformations. When handling large sequence lengths, attention becomes the primary time-consuming component. Although quantization has proven to be an effective method for accelerating model inference, existing quantization methods primarily focus on optimizing the linear layer. In response, we first analyze the feasibility of quantization in attention detailedly. Following that, we propose SageAttention, a highly efficient and accurate quantization method for attention. The OPS (operations per second) of our…",
+   "citations": 210,
+   "url": "https://arxiv.org/abs/2410.02367",
+   "cited_by": [
+    "Few-Step Streaming Video Generation via Condition Shifting",
+    "Infrathon: Benchmarking Language Agents for Real-World, Long-Horizon AI Infra Optimization"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2112.10752",
+   "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+   "year": 2021,
+   "authors": "Robin Rombach, A. Blattmann, Dominik Lorenz et al.",
+   "abstract": "By decomposing the image formation process into a sequential application of denoising autoencoders, diffusion models (DMs) achieve state-of-the-art synthesis results on image data and beyond. Additionally, their formulation allows for a guiding mechanism to control the image generation process without retraining. However, since these models typically operate directly in pixel space, optimization of powerful DMs often consumes hundreds of GPU days and inference is expensive due to sequential evaluations. To enable DM training on limited computational resources while retaining their quality and flexibility, we apply them in the latent space of powerful pretrained autoencoders. In contrast to…",
+   "citations": 29081,
+   "url": "https://arxiv.org/abs/2112.10752",
+   "cited_by": [
+    "G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1801.03924",
+   "title": "The Unreasonable Effectiveness of Deep Features as a Perceptual Metric",
+   "year": 2018,
+   "authors": "Richard Zhang, Phillip Isola, Alexei A. Efros et al.",
+   "abstract": "While it is nearly effortless for humans to quickly assess the perceptual similarity between two images, the underlying processes are thought to be quite complex. Despite this, the most widely used perceptual metrics today, such as PSNR and SSIM, are simple, shallow functions, and fail to account for many nuances of human perception. Recently, the deep learning community has found that features of the VGG network trained on ImageNet classification has been remarkably useful as a training loss for image synthesis. But how perceptual are these so-called \"perceptual losses\"? What elements are critical for their success? To answer these questions, we introduce a new dataset of human perceptual…",
+   "citations": 21581,
+   "url": "https://arxiv.org/abs/1801.03924",
+   "cited_by": [
+    "Infrathon: Benchmarking Language Agents for Real-World, Long-Horizon AI Infra Optimization"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1606.05250",
+   "title": "SQuAD: 100,000+ Questions for Machine Comprehension of Text",
+   "year": 2016,
+   "authors": "Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev et al.",
+   "abstract": "We present the Stanford Question Answering Dataset (SQuAD), a new reading comprehension dataset consisting of 100,000+ questions posed by crowdworkers on a set of Wikipedia articles, where the answer to each question is a segment of text from the corresponding reading passage. We analyze the dataset to understand the types of reasoning required to answer the questions, leaning heavily on dependency and constituency trees. We build a strong logistic regression model, which achieves an F1 score of 51.0%, a significant improvement over a simple baseline (20%). However, human performance (86.8%) is much higher, indicating that the dataset presents a good challenge problem for future research.…",
+   "citations": 10259,
+   "url": "https://arxiv.org/abs/1606.05250",
+   "cited_by": [
+    "Infrathon: Benchmarking Language Agents for Real-World, Long-Horizon AI Infra Optimization"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1711.00937",
+   "title": "Neural Discrete Representation Learning",
+   "year": 2017,
+   "authors": "A. van den Oord, O. Vinyals, K. Kavukcuoglu",
+   "abstract": "Learning useful representations without supervision remains a key challenge in machine learning. In this paper, we propose a simple yet powerful generative model that learns such discrete representations. Our model, the Vector Quantised-Variational AutoEncoder (VQ-VAE), differs from VAEs in two key ways: the encoder network outputs discrete, rather than continuous, codes; and the prior is learnt rather than static. In order to learn a discrete latent representation, we incorporate ideas from vector quantisation (VQ). Using the VQ method allows the model to circumvent issues of \"posterior collapse\" -- where the latents are ignored when they are paired with a powerful autoregressive decoder…",
+   "citations": 8461,
+   "url": "https://arxiv.org/abs/1711.00937",
+   "cited_by": [
+    "G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "stats": {
+  "raw_news": 70,
+  "stories": 10,
+  "videos": 4,
+  "papers": 15,
+  "classics": 8,
+  "seconds": 388
+ }
+}

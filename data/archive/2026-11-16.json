@@ -1,0 +1,625 @@
+{
+ "generated_at": "2026-11-16T12:54:58.080282+00:00",
+ "date": "2026-11-16",
+ "tldr": {
+  "headline": "Les titres du jour",
+  "points": [
+   {
+    "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+    "text": "88 points · 72 commentaires",
+    "ref": "news:a58bd1a86d99"
+   },
+   {
+    "title": "Social Simulation with LLMs - From Proxies to Population (CFP @ AAAI'27) Due Nov. 20 [R]",
+    "text": "Say you simulate a population of LLM agents and get polarization, norm formation or an information cascade. How do you know the population produced it, and not the prompt, the base model or something memorized from pretraining? That attribution problem is the focus of the 3rd Workshop on Social Simulation with LLMs (Social Sim’27), held at AAAI-27 in Montréal (Feb 22 or 23, 2027). We’re looking…",
+    "ref": "news:810174789d07"
+   },
+   {
+    "title": "What's Next for Nvidia?",
+    "text": "307 points · 385 commentaires",
+    "ref": "news:7bcbcfb1111a"
+   },
+   {
+    "title": "Jensen Huang might return to Nvidia as CEO",
+    "text": "169 points · 164 commentaires",
+    "ref": "news:1090da7da272"
+   },
+   {
+    "title": "Your Agent Will Pick the Hackable One",
+    "text": "75 points · 60 commentaires",
+    "ref": "news:d4704bee957c"
+   }
+  ],
+  "generated": false
+ },
+ "tldr_en": {
+  "headline": "Today's headlines",
+  "points": [
+   {
+    "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+    "text": "88 points · 72 commentaires",
+    "ref": "news:a58bd1a86d99"
+   },
+   {
+    "title": "Social Simulation with LLMs - From Proxies to Population (CFP @ AAAI'27) Due Nov. 20 [R]",
+    "text": "Say you simulate a population of LLM agents and get polarization, norm formation or an information cascade. How do you know the population produced it, and not the prompt, the base model or something memorized from pretraining? That attribution problem is the focus of the 3rd Workshop on Social Simulation with LLMs (Social Sim’27), held at AAAI-27 in Montréal (Feb 22 or 23, 2027). We’re looking…",
+    "ref": "news:810174789d07"
+   },
+   {
+    "title": "What's Next for Nvidia?",
+    "text": "307 points · 385 commentaires",
+    "ref": "news:7bcbcfb1111a"
+   },
+   {
+    "title": "Jensen Huang might return to Nvidia as CEO",
+    "text": "169 points · 164 commentaires",
+    "ref": "news:1090da7da272"
+   },
+   {
+    "title": "Your Agent Will Pick the Hackable One",
+    "text": "75 points · 60 commentaires",
+    "ref": "news:d4704bee957c"
+   }
+  ],
+  "generated": false
+ },
+ "news": [
+  {
+   "id": "a58bd1a86d99",
+   "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+   "url": "https://www.hntrends.com/2026/november.html",
+   "source": "Hacker News",
+   "published": "2026-11-16T01:31:30+00:00",
+   "summary": "88 points · 72 commentaires",
+   "image": null,
+   "signal": 88,
+   "discussion": "https://news.ycombinator.com/item?id=50512950",
+   "score": 3.03,
+   "also": [],
+   "ai_summary": "L'analyse des offres d'emploi sur Hacker News montre un volume d'embauche historiquement bas mais dominé à 51,6 % par l'IA, avec une nette progression des rôles axés sur les agents et des outils comme MCP au détriment des postes front-end classiques. Pour les praticiens, cela confirme la transition du marché vers l'orchestration de modèles d'IA et le développement agentique, rendant ces compétences prioritaires par rapport au machine learning traditionnel.",
+   "ai_summary_en": "Hacker News hiring trends show job postings near historic lows while AI mentions reached 51.6%, driven by a surge in agent-related roles and tools like MCP over traditional front-end roles. For practitioners, this highlights a critical market shift toward agentic engineering and model orchestration over conventional machine learning skills."
+  },
+  {
+   "id": "810174789d07",
+   "title": "Social Simulation with LLMs - From Proxies to Population (CFP @ AAAI'27) Due Nov. 20 [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xxc63w/social_simulation_with_llms_from_proxies_to/",
+   "source": "r/MachineLearning",
+   "published": "2026-11-16T01:07:01+00:00",
+   "summary": "Say you simulate a population of LLM agents and get polarization, norm formation or an information cascade. How do you know the population produced it, and not the prompt, the base model or something memorized from pretraining? That attribution problem is the focus of the 3rd Workshop on Social Simulation with LLMs (Social Sim’27), held at AAAI-27 in Montréal (Feb 22 or 23, 2027). We’re looking…",
+   "image": null,
+   "signal": 0,
+   "score": 0.92,
+   "also": [],
+   "ai_summary": "L'atelier Social Sim'27 à AAAI-27 lance un appel à communications axé sur le problème d'attribution lors de simulations de populations avec des LLM, cherchant à déterminer si les comportements émergents proviennent des interactions ou des biais du modèle de base. Pour les chercheurs et data scientists, ce travail est crucial pour valider scientifiquement la crédibilité des systèmes multi-agents simulant des dynamiques humaines.",
+   "ai_summary_en": "The Social Sim'27 workshop at AAAI-27 issued a call for papers addressing the attribution challenge in LLM population simulations, specifically distinguishing emergent behaviors from model pretraining or prompt artifacts. For practitioners, this focus is key to establishing sound methodologies when deploying and evaluating multi-agent social simulations."
+  },
+  {
+   "id": "7bcbcfb1111a",
+   "title": "What's Next for Nvidia?",
+   "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+   "source": "Hacker News",
+   "published": "2026-11-15T23:55:55+00:00",
+   "summary": "307 points · 385 commentaires",
+   "image": null,
+   "signal": 307,
+   "discussion": "https://news.ycombinator.com/item?id=50512235",
+   "score": 3.94,
+   "also": [],
+   "ai_summary": "Cet article analyse les défis pour Nvidia après la démission supposée de son PDG Jensen Huang, en rappelant comment ses pivots audacieux vers CUDA, le deep learning et les systèmes complets ont façonné l'entreprise. Pour un data scientist, l'orientation stratégique de Nvidia est fondamentale puisqu'elle influence directement la disponibilité, les coûts et l'écosystème matériel/logiciel d'entraînement et d'inférence en IA.",
+   "ai_summary_en": "This article discusses the risks Nvidia faces following the reported resignation of CEO Jensen Huang, recounting how his bold strategic bets on CUDA, deep learning, and integrated systems drove the company's success. For practitioners, Nvidia's leadership and corporate strategy directly impact the compute landscape, hardware availability, and core software tooling for AI workloads."
+  },
+  {
+   "id": "1090da7da272",
+   "title": "Jensen Huang might return to Nvidia as CEO",
+   "url": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
+   "source": "Hacker News",
+   "published": "2026-11-15T23:24:53+00:00",
+   "summary": "169 points · 164 commentaires",
+   "image": null,
+   "signal": 169,
+   "discussion": "https://news.ycombinator.com/item?id=50511982",
+   "score": 3.44,
+   "also": [],
+   "ai_summary": "Le titre annonce que Jensen Huang pourrait faire son retour au poste de PDG de Nvidia.",
+   "ai_summary_en": "The headline reports that Jensen Huang might return to Nvidia as CEO."
+  },
+  {
+   "id": "d4704bee957c",
+   "title": "Your Agent Will Pick the Hackable One",
+   "url": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
+   "source": "Hacker News",
+   "published": "2026-11-15T21:10:39+00:00",
+   "summary": "75 points · 60 commentaires",
+   "image": null,
+   "signal": 75,
+   "discussion": "https://news.ycombinator.com/item?id=50510799",
+   "score": 4.18,
+   "also": [],
+   "ai_summary": "L'auteur montre comment des outils d'IA permettent aux utilisateurs de réécrire facilement le firmware de petits matériels électroniques comme le synthétiseur FM-1, poussant les fabricants vers l'open source. À terme, les agents d'IA pourraient choisir et configurer automatiquement les appareils les plus facilement modifiables, ouvrant un nouveau champ d'application pour les systèmes agentiques en interaction avec le hardware.",
+   "ai_summary_en": "The author illustrates how AI coding tools make writing custom firmware cheap and accessible for hardware devices, pushing vendors to open source their stacks. In the future, AI agents may autonomously evaluate and customize hackable hardware, expanding the frontier of agentic tooling into device configuration and embedded systems."
+  },
+  {
+   "id": "00a8ee58c02b",
+   "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+   "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
+   "source": "Hacker News",
+   "published": "2026-11-15T19:39:46+00:00",
+   "summary": "66 points · 65 commentaires",
+   "image": null,
+   "signal": 66,
+   "discussion": "https://news.ycombinator.com/item?id=50509953",
+   "score": 2.51,
+   "also": [],
+   "ai_summary": "Les écoles privées coûteuses Alpha, qui remplacent les enseignants par un tuteur IA pour doubler la vitesse d'apprentissage en deux heures par jour, n'atteignent pas leurs objectifs pour la majorité des élèves selon des données internes. Cet échec rappelle aux data scientists les limites actuelles des modèles personnalisés face à des processus pédagogiques complexes et le risque de surpromesse des métriques d'apprentissage automatisées.",
+   "ai_summary_en": "Internal data reveals that Alpha's expensive AI-driven private schools largely miss their core promise of doubling student learning speed with an AI tutor, especially in math. For practitioners, this highlights the gap between aggressive marketing and empirical performance when applying generative AI to complex human learning processes."
+  },
+  {
+   "id": "fb466a35c2a7",
+   "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+   "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1",
+   "source": "Hacker News",
+   "published": "2026-11-15T19:31:11+00:00",
+   "summary": "126 points · 122 commentaires",
+   "image": null,
+   "signal": 126,
+   "discussion": "https://news.ycombinator.com/item?id=50509883",
+   "score": 3.01,
+   "also": [],
+   "ai_summary": "Le titre indique que Jensen Huang discute d'un éventuel retour au poste de PDG de Nvidia avec ses alliés.",
+   "ai_summary_en": "The headline reports that Jensen Huang is discussing a potential comeback as Nvidia CEO with allies."
+  },
+  {
+   "id": "7c17e587ee6a",
+   "title": "Eclipse Mosquitto – An open source MQTT broker",
+   "url": "https://github.com/eclipse-mosquitto/mosquitto",
+   "source": "Hacker News",
+   "published": "2026-11-15T18:36:40+00:00",
+   "summary": "100 points · 38 commentaires",
+   "image": null,
+   "signal": 100,
+   "discussion": "https://news.ycombinator.com/item?id=50509416",
+   "score": 4.28,
+   "also": [],
+   "ai_summary": "La documentation présente Eclipse Mosquitto, un broker open source pour les protocoles MQTT versions 5.0 et 3.1.x, incluant des utilitaires d'administration et des bibliothèques clientes C/C++. Il s'agit d'un composant d'infrastructure standard pour les data scientists et ingénieurs concevant des pipelines d'ingestion de données temps réel en environnement IoT et edge computing.",
+   "ai_summary_en": "The repository documentation details Eclipse Mosquitto, an open-source message broker implementing MQTT 5.0 and 3.1.x protocols alongside client libraries and administrative tools. It remains a foundational infrastructure tool for practitioners building real-time data ingestion pipelines across IoT and edge environments."
+  },
+  {
+   "id": "a7fb52666c60",
+   "title": "Training-free early exit for reasoning models: a linear probe folded into the row of the output layer [p]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xx1xdm/trainingfree_early_exit_for_reasoning_models_a/",
+   "source": "r/MachineLearning",
+   "published": "2026-11-15T17:52:41+00:00",
+   "summary": "Reasoning models often reach the right answer early and then keep double-checking it for thousands of tokens. I got the model to stop at that point by changing a single row of weights. There's no training and no extra code at inference time; the edited model is an ordinary weights file that runs anywhere. Processing img 5yk991rjlt1i1... Background, Reasoning models (DeepSeek, Qwen, and so on)…",
+   "image": null,
+   "signal": 0,
+   "score": 2.05,
+   "also": [],
+   "ai_summary": "L'auteur présente une méthode d'arrêt précoce (early exit) sans entraînement pour les modèles de raisonnement, obtenue en repliant une sonde linéaire dans une seule ligne de la couche de sortie sans modification de code d'inférence. Pour les praticiens, cette approche permet d'écourter les phases redondantes de génération de tokens de raisonnement et de réduire considérablement la latence et le coût d'inférence.",
+   "ai_summary_en": "The author presents a training-free early exit technique for reasoning models by folding a linear probe into a single row of output layer weights, requiring no extra inference code. For practitioners, this provides a practical mechanism to stop overthinking and drastically reduce token generation costs and inference latency."
+  },
+  {
+   "id": "df7a37179ad8",
+   "title": "All AI-generated code should be Open Source",
+   "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+   "source": "Hacker News",
+   "published": "2026-11-15T14:46:58+00:00",
+   "summary": "1179 points · 624 commentaires",
+   "image": null,
+   "signal": 1179,
+   "discussion": "https://news.ycombinator.com/item?id=50507303",
+   "score": 6.06,
+   "also": [],
+   "ai_summary": "L'auteur argumente que tout code généré par IA devrait être obligatoirement publié en open source, invoquant l'entraînement massif sur des dépôts ouverts sans attribution et l'inégibilité du code non humain au droit d'auteur. Cela soulève d'importantes questions de gouvernance, de propriété intellectuelle et de conformité légale pour les équipes déployant des assistants de génération de code.",
+   "ai_summary_en": "The author argues that all AI-generated code should be open source due to being trained on open repositories without direct attribution and lacking human authorship under copyright law. This raises key governance, intellectual property, and licensing compliance considerations for teams integrating code-generation models into their workflows."
+  }
+ ],
+ "videos": [
+  {
+   "id": "x7iwI6WfWS0",
+   "title": "AI Can Do Everything…Except This",
+   "url": "https://www.youtube.com/watch?v=x7iwI6WfWS0",
+   "channel": "Two Minute Papers",
+   "published": "2026-11-14T08:40:55+00:00",
+   "thumbnail": "https://i1.ytimg.com/vi/x7iwI6WfWS0/hqdefault.jpg",
+   "views": 46370,
+   "description": "After finishing this song, it took me 3 months to gather the courage to stand in front of the camera to record it. Hope you Fellow Scholars enjoy it! Thank you so much for the amazing musicians for their help! - Vocals:…",
+   "relevance": 0
+  },
+  {
+   "id": "gPNiuyYirfw",
+   "title": "DeepMind’s AI Just Did The Impossible",
+   "url": "https://www.youtube.com/watch?v=gPNiuyYirfw",
+   "channel": "Two Minute Papers",
+   "published": "2026-11-12T13:41:41+00:00",
+   "thumbnail": "https://i4.ytimg.com/vi/gPNiuyYirfw/hqdefault.jpg",
+   "views": 307337,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The DeepMind paper AlphaProof Code is available here: https://deepmind.google/blog/introducing-alphaproof-code/…",
+   "relevance": 0
+  }
+ ],
+ "papers": [
+  {
+   "id": "2611.15777",
+   "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
+   "authors": "Lichen Li, Ziping Dong, Sicheng Feng, Qi Li et al.",
+   "abstract": "System One models promise fast, general-purpose decision-making without lengthy token generation. However, understanding their capability spectrum and decision reliability requires more than aggregate performance on current benchmarks. Existing evaluations often provide limited insight into the breadth of model capabilities and the reliability of their decisions. We introduce SO-Arena, a benchmark characterizing the capability spectrum and decision reliability of System One models across 11 domains and five capability families. For the capability spectrum, SO-Arena offers evidence-grounded evaluation through reliable sources and manual verification of reference labels against model-visible inputs; fine-grained capability assessment through domain-specific difficulty criteria; and realistic interactive evaluation, where models iteratively execute actions in sandboxes. Reasoning-intensive tasks further enable system one-two comparison. Beyond accuracy, SO-Arena assesses decision reliability through two complementary measures: decision stability under controlled option-set changes and…",
+   "published": "2026-11-11T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.15777",
+   "pdf": "https://arxiv.org/pdf/2611.15777",
+   "upvotes": 85,
+   "github": "https://github.com/holdrain/SO-Arena",
+   "origin": "hf",
+   "ai_summary": "SO-Arena evaluates System One models across domains and capability families, revealing that scaling and reasoning gains vary and that high overall accuracy does not ensure reliable decision-making.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.18359",
+   "title": "Envisioning Agentic Robotics: A New Era of Robotic Systems",
+   "authors": "Grid Robotics, Qingfeng Lan, Duo Li, Siyao Li et al.",
+   "abstract": "The release of GPT-6 Astra marks the emergence of a new paradigm in robotics: agentic robotics. Within weeks, frontier models with agentic harnesses matched or exceeded task-specific policies on many embodied benchmarks. Instead of training a dedicated policy for each family of tasks, an agentic robotic system applies a foundation model to open-world embodied tasks. It operates in a closed loop: observing the environment, interpreting user intent, reasoning about the task, invoking skills and tools, verifying outcomes, and adapting its strategy. Despite these advances, the community has yet to converge on a shared definition, a reliable evaluation framework, or a research roadmap. We argue that Embodied System 2, realized by a foundation model together with an embodied harness, forms the decision-making core of agentic robotics. Its central challenge is to translate general-purpose reasoning into effective and verifiable actions under physical constraints such as limited reaction time, mechanical limits, unpredictable environment changes, and irreversible consequences. Motivated by…",
+   "published": "2026-11-13T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.18359",
+   "pdf": "https://arxiv.org/pdf/2611.18359",
+   "upvotes": 84,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "Agentic robotics, centered on an Embodied System 2 formed by a foundation model and embodied harness, requires a shared evaluation framework and research roadmap to achieve reliable physical autonomy.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.15789",
+   "title": "VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender",
+   "authors": "Yuzhe Chen, Muxi Diao, Lele Yang, Wenbin Xu et al.",
+   "abstract": "Controllable real-world video generation models can condition on a rendered graybox proxy video, which fixes layout, motion and camera. Coding agents can build such videos by reconstructing a 4D scene in Blender, yet no benchmark checks both these videos and the long, multi-shot scenes behind them. We introduce VibePrevisBench, a benchmark for 4D scene reconstruction: an agent turns a brief into an executable 4D scene and renders its proxy video. Its 242 tasks span four input kinds, including scripts, photos, continuations, and reference videos. Each delivery is scored along two evaluation dimensions. Rule-based Scene Check re-runs the code and compares the exported 4D scene with hidden ground truth facts in nine dimensions. VLM-based Screen Check asks a VLM judge whether the facts that pass can be recognized in the proxy video. We analyze the evaluation results and trajectories of 11 frontier coding agents and identify three key observations. First, multimodal understanding separates the agents, especially in understanding space and camera motion. Second, all agents seem to already…",
+   "published": "2026-11-11T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.15789",
+   "pdf": "https://arxiv.org/pdf/2611.15789",
+   "upvotes": 78,
+   "github": "https://github.com/vibeprevisbench/vibeprevisbench",
+   "origin": "hf",
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.14320",
+   "title": "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents",
+   "authors": "Yukyeong Lee, Yumin Choi, Jinheon Baek, Sung Ju Hwang",
+   "abstract": "External memory enables LLM agents to improve from experience by distilling trajectories of past tasks into concise lessons for new tasks. However, memory can also lead to memory-induced degradation, where an agent fails on tasks it would solve without memory, often because it follows a lesson that is incorrect, or misapplies or misreads a valid one. This is because lessons are inferred from trajectories labeled only with task success or failure, yet are typically provided without the trajectories they came from, leaving the agent no way to check them. To address this, we introduce WikiTrace, an evidence-linked memory system designed to let agents check each lesson against its original trajectory. Specifically, motivated by the finding that a trajectory often still holds the evidence needed to catch an erroneous lesson, WikiTrace stores each lesson as a concise insight linked to a summary of why its trajectory succeeded or failed and to the raw trajectory itself. Then, on a new task, the agent starts from all insights and, whenever one lacks details needed to act, conflicts with…",
+   "published": "2026-11-10T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.14320",
+   "pdf": "https://arxiv.org/pdf/2611.14320",
+   "upvotes": 73,
+   "github": "https://github.com/yukyeongleee/wikitrace",
+   "origin": "hf",
+   "ai_summary": "WikiTrace links each distilled lesson to its source trajectory and rationale, enabling LLM agents to verify and correct memories before acting, improving performance and reducing memory-induced degradation across agentic benchmarks.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.18397",
+   "title": "Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent",
+   "authors": "Run Luo, Kuan Zhang, Qi Deng, Yukun Chen et al.",
+   "abstract": "We introduce Gamer, a generalist agent framework built for long-horizon tasks in complex interactive environments. Its end-to-end architecture combines perception, memory management, and multi-step reasoning. A shared training and deployment pipeline supports interaction with both conventional 2D graphical interfaces and complex 3D simulated worlds. We first continue pre-training on a dataset constructed from tens of thousands of hours of device-level keyboard and mouse interaction. These trajectories span simulated games and embodied environments, allowing the model to learn environmental dynamics across both physical and virtual domains. Sparse-thinking instruction tuning then substantially reduces redundant computation while preserving the reasoning needed for complex decisions. We train the policy for long-horizon interaction with a stable multi-turn reinforcement learning method that addresses finite context windows, accumulated rollout errors, and sparse rewards. For real-time interaction, a cloud-edge inference engine serves numerous simulated game environments concurrently,…",
+   "published": "2026-11-13T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.18397",
+   "pdf": "https://arxiv.org/pdf/2611.18397",
+   "upvotes": 67,
+   "github": "https://github.com/RainBowLuoCS/Gamer",
+   "origin": "hf",
+   "ai_summary": "Gamer is a generalist agent framework that integrates perception, memory, and multi-step reasoning, trained through continued pre-training, sparse-thinking instruction tuning, and multi-turn reinforcement learning to interact efficiently in 2D and 3D environments.",
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.14815",
+   "title": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
+   "authors": "Junyoung Seo, Jaewoo Seo, Seungryong Kim, Laura Leal-Taixé et al.",
+   "abstract": "Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle motion from perspective video alone is challenging because motion is entangled with appearance and vehicles can be occluded. Prior work therefore conditions video generation on layouts that specify vehicle motion, providing control over surrounding vehicles but requiring their future trajectories as inputs. We introduce BirdDreams, an autoregressive driving world model that jointly generates perspective video and a schematic bird's-eye-view (BEV) video, making scene layout part of the predicted future. The BEV, rendered from scene annotations for training, depicts roads and vehicles as simple shapes at a fixed metric scale, providing a top-down view of their positions and motion with reduced occlusion between vehicles. Perspective video, by contrast, retains scene details that the BEV omits, such as traffic signals and object appearance. Joint attention between two video diffusion…",
+   "published": "2026-11-10T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.14815",
+   "pdf": "https://arxiv.org/pdf/2611.14815",
+   "upvotes": 54,
+   "github": null,
+   "origin": "hf",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.40394",
+   "title": "Scaling Mathematical Proof Supervision from Structured Textbooks",
+   "authors": "Youqing Fang, Zhouqi Hua, Yinhao Tang, Yuzhe Gu et al.",
+   "abstract": "Mathematical supervision for language models is typically flattened into isolated problem-solution pairs, discarding the curricular organization and evidential structure of the original sources. We introduce TOME-Math (Textbook-Oriented Mathematical Evidence), a large-scale corpus that converts 2,118 textbooks spanning the core areas of university-level mathematics subjects into approximately 380K structured proof-supervision records while preserving chapter order, proposition-proof links, dependency references, and source provenance. Leveraging these structural signals, we explore curriculum learning across multiple mathematical subjects and characterize scaling patterns with supervision volume and source breadth. At full scale, fine-tuning on TOME-Math raises the unweighted mean score across our held-out evaluations and established public benchmarks by 16.7 percentage points over the base model, while exceeding all three public instruction-data baselines evaluated in aggregate. Our findings highlight structured textbooks as both a scalable source of mathematical supervision and an…",
+   "published": "2026-10-29T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.40394",
+   "pdf": "https://arxiv.org/pdf/2610.40394",
+   "upvotes": 49,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "A large-scale corpus of structured proof-supervision records derived from university mathematics textbooks improves language model mathematical reasoning by 16.7 percentage points over a base model when used for fine-tuning.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.13004",
+   "title": "G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation",
+   "authors": "Xu Huang, Ye Huang, Xiaotong Li, Zhengrong Yue et al.",
+   "abstract": "Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, while aggressive spatial compression reduces representation capacity. Based on product quantization, we show that, under a fixed nominal information budget, group size should scale quadratically with the per-axis spatial compression factor. Building on this principle, we propose GSTAR, a spatial--group co-scaling framework that enables \\(32\\times\\) and even effective \\(64\\times\\) compression while preserving strong reconstruction, understanding, and generation performance. Since larger groups introduce intra-group dependencies that must be modeled efficiently, we analyze their impact on inference latency and generation quality and introduce a semi-autoregressive decoder that combines parallel feature computation with lightweight causal modeling. With these designs, our highly compressed models perform competitively with leading models across five representative text-to-image benchmarks…",
+   "published": "2026-11-08T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.13004",
+   "pdf": "https://arxiv.org/pdf/2611.13004",
+   "upvotes": 46,
+   "github": "https://github.com/DAGroup-PKU/G-STAR",
+   "origin": "hf",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.15131",
+   "title": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
+   "authors": "Hengyuan Cao, Biao Gong, Guoshan Lu, Qiyuan Zhang et al.",
+   "abstract": "In this report, we introduce the Reciprocal World Model (RWM) and present Duo v1, a full-duplex world model that continuously perceives audiovisual inputs while responding to users in real time. The RWM treats intelligence and physical reality as equally fundamental to what constitutes a world. Existing world models largely focus on simulating the latter, leaving reasoning and decision-making as external controls rather than intrinsic parts of the world itself. In RWM, we identify two equally fundamental capabilities: Intent, which provides the cognition underlying world interactions, and Realization, which generates coherent audio-visual behavior. To realize this formulation, Duo v1 introduces three key technical designs: (1) Leveraging autoregressive modeling for continuous interaction reasoning and participation decisions, rather than restricting it to instruction understanding for diffusion models. (2) Constructing chunk-specific conditions and synchronize tokens across Intent and Realization on a unified timeline. Module-specific attention masks enforce causal dependencies both…",
+   "published": "2026-11-11T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.15131",
+   "pdf": "https://arxiv.org/pdf/2611.15131",
+   "upvotes": 44,
+   "github": "https://github.com/inclusionAI/Duo",
+   "origin": "hf",
+   "ai_summary": "A reciprocal world model enables real-time full-duplex audiovisual interaction by jointly modeling intent and realization using autoregressive reasoning, synchronized attention, and dual rollout distillation.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.16748",
+   "title": "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models",
+   "authors": "Yuxuan Chen, Xiaojie Li, Hao Chen, Juncheng Ma et al.",
+   "abstract": "Video generation models produce visually realistic videos but still struggle with physical dynamics and causal consistency. Learning from generated videos requires fine-grained physical supervision, yet reliable quality judgments, correction pairs, and controlled variations are difficult to obtain. Large language models (LLMs) possess physical knowledge, but struggle to reliably guide video generation models in producing their training videos. We present PhysLoop, a unified harness designed to support physically grounded self-improvement in video generation models. The harness guides and constrains LLMs throughout video generation, selection, and correction, distilling their physical knowledge into physically consistent videos. The framework supports controllable training-data construction and inference-time video repair. By identifying and correcting failures, PhysLoop marks a key milestone toward recursive self-improvement (RSI) in video generation models with limited human intervention. We release 100K videos spanning diverse, realistic indoor and outdoor scenes, along with…",
+   "published": "2026-11-12T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.16748",
+   "pdf": "https://arxiv.org/pdf/2611.16748",
+   "upvotes": 41,
+   "github": "https://github.com/DAGroup-PKU/PhysLoop",
+   "origin": "hf",
+   "ai_summary": "PhysLoop leverages large language models to guide video generation, selection, and correction, enabling physically consistent self-improvement and controllable data construction for video models.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.18549",
+   "title": "JVT: Just Video Transformer makes pixel-space video diffusion simple",
+   "authors": "Jianjun Zhou, Hua Geng, Haoyu Guo",
+   "abstract": "Direct diffusion modeling of high-dimensional raw video data is challenging, and existing pixel-space methods often rely on specialized architectures. We introduce JVT (Just Video Transformer), a simple large-patch DiT-style Transformer for pixel-space video diffusion, without a pretrained autoencoder, auxiliary detailers, cascaded stages, or U-Net-style skip connections. We systematically examine video patch embeddings, register tokens, and adaptive layer normalization to identify design choices that balance generation quality and computational efficiency. The resulting JVT design achieves generation quality competitive with latent diffusion baselines in both class-conditioned and unconditional settings. The pixel-space formulation of JVT also naturally supports joint generation of pixel-aligned modalities. We demonstrate this capability through camera-conditioned RGB-disparity generation, which improves camera following relative to RGB-only baselines and yields explicit scene geometry without an additional reconstruction model at inference. These results highlight the potential of…",
+   "published": "2026-11-13T18:55:25Z",
+   "url": "https://arxiv.org/abs/2611.18549",
+   "pdf": "https://arxiv.org/pdf/2611.18549",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CV"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.18514",
+   "title": "Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element Hallucination",
+   "authors": "Mohamed Aghzal, Mor Geva, Gregory J. Stein, Ziyu Yao",
+   "abstract": "Mechanistic Interpretability (MI) has made significant progress in explaining the internal computations of Large Language Models (LLMs); however, these advances have yet to demonstrate comparable success in explaining the decision-making processes of LLM-based agents. This paper examines the challenges MI tools face when applied to realistic agentic failures. We focus on one such failure: web agents hallucinating actions that are not available on a website. We apply a series of mechanistic analyzes to Qwen2.5-7B-Instruct as it interacts with live websites. We find that a linear probe trained on the last prompt token can predict hallucinations before generation begins (0.80 AUC) and steering along a probe direction corrects 85\\% of hallucinations, but disrupts 7\\% of valid actions. However, these results only provide a partial explanation of why the agent hallucinates. The probe direction is sensitive to prompt formatting, losing much of its steering effect after a minor change to how actions are represented. Additionally, circuit identification can be difficult as the computation is…",
+   "published": "2026-11-13T18:30:58Z",
+   "url": "https://arxiv.org/abs/2611.18514",
+   "pdf": "https://arxiv.org/pdf/2611.18514",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.AI",
+    "cs.CL"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.18315",
+   "title": "Experts Across Schemas: Agent-Guided Mixture-of-Relational-Experts for Cross-Database Generalization",
+   "authors": "Hiren Madhu, Sukanta Ganguly, Kiran Srinivasan, Smita Krishnaswamy et al.",
+   "abstract": "Web platforms record user and item activity in relational databases whose schemas differ from platform to platform, which makes it difficult to transfer predictive models between them. Relational foundation models address this through cross-database pretraining, yet recent improvements have relied on increasingly large pretraining corpora. We ask whether a better architecture, together with features specific to the target database, can deliver comparable gains from far less pretraining data. We introduce MoREGT, a mixture-of-relational-experts graph transformer that represents both rows and cells as tokens, adds the log-ages of rows and the names of foreign-key relationships to attention, and routes cells and rows to experts by column metadata rather than by values. A label-blind LLM agent complements the model: it reads the target database's schema and column statistics and adds validated single-row derived columns, without access to labels or model scores. On 21 RelBench tasks with leave-one-database-out pretraining on six databases, the MoREGT backbone improves on the Relational…",
+   "published": "2026-11-13T15:32:09Z",
+   "url": "https://arxiv.org/abs/2611.18315",
+   "pdf": "https://arxiv.org/pdf/2611.18315",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.AI"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.18157",
+   "title": "A Multi-Layered AI Pipeline for BPMN Generation from Natural Language",
+   "authors": "Alexandru Rancea, Ionut Anghel, Tudor Cioara, Ovidiu Anchidin et al.",
+   "abstract": "The automated transformation of unstructured natural language process descriptions into Business Process Model and Notation (BPMN) diagrams remains a challenging task, due to linguistic ambiguity and the difficulty to detect non-adjacent control-flow relationships. This paper proposes a solution for generating BPMN models from natural language descriptions through a multi-layered pipeline that integrates transformer-based architectures, Large Language Models and ontology population. The proposed method starts with natural language descriptions and separates textual processing, control-flow relation extraction, and structural validation into dedicated components. Entity extraction is performed using a fine-tuned RoBERTa-based transformer model while a control-flow engine captures non-adjacent relationships through LLM-based inference. To improve generalization under limited available data, the approach uses a dynamic few-shot strategy with con- trolled template input construction, enabling improved generalization under limited data availability. Additionally, an ontology population…",
+   "published": "2026-11-13T13:31:08Z",
+   "url": "https://arxiv.org/abs/2611.18157",
+   "pdf": "https://arxiv.org/pdf/2611.18157",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CL"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.18114",
+   "title": "Interpretable weight-space programming builds transparent transformers and brain encoding models",
+   "authors": "Yash Mehta, Chandan Singh, Weijia Xu, Richard J. Antonello et al.",
+   "abstract": "Neural networks are powerful predictors, yet their opacity limits their usefulness in science, where the goal is explanation rather than mere prediction. In neuroscience, for example, deep encoding models accurately predict brain activity in response to natural stimuli, but struggle to reveal which stimulus features drive those predictions. Here we introduce interpretable weight-space programming (iWSP), a method in which an LLM agent iteratively builds interpretable models by explicitly programming their weights and features in code, without gradient-based training (backpropagation). Without backpropagation to tune parameters, the agent must draw on its prior knowledge and reason over previous trials to hypothesize, hand-craft, and refine human-interpretable computations mirroring the workflow of a human scientist. LLM audits confirm the interpretability of the hand-crafted models. We first validate iWSP by tasking it with constructing transformers for canonical benchmarks such as arithmetic and sentiment classification, finding that LLM agents can successfully craft compact,…",
+   "published": "2026-11-13T12:36:05Z",
+   "url": "https://arxiv.org/abs/2611.18114",
+   "pdf": "https://arxiv.org/pdf/2611.18114",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CE",
+    "cs.AI"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "classics": [
+  {
+   "id": "2402.15391",
+   "title": "Genie: Generative Interactive Environments",
+   "year": 2024,
+   "authors": "Jake Bruce, Michael Dennis, Ashley Edwards et al.",
+   "abstract": "We introduce Genie, the first generative interactive environment trained in an unsupervised manner from unlabelled Internet videos. The model can be prompted to generate an endless variety of action-controllable virtual worlds described through text, synthetic images, photographs, and even sketches. At 11B parameters, Genie can be considered a foundation world model. It is comprised of a spatiotemporal video tokenizer, an autoregressive dynamics model, and a simple and scalable latent action model. Genie enables users to act in the generated environments on a frame-by-frame basis despite training without any ground-truth action labels or other domain-specific requirements typically found in…",
+   "citations": 1051,
+   "url": "https://arxiv.org/abs/2402.15391",
+   "cited_by": [
+    "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
+    "Duo: A Reciprocal World Model for Full-Duplex Interaction"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2309.17080",
+   "title": "GAIA-1: A Generative World Model for Autonomous Driving",
+   "year": 2023,
+   "authors": "Anthony Hu, Lloyd Russell, Hudson Yeo et al.",
+   "abstract": "Autonomous driving promises transformative improvements to transportation, but building systems capable of safely navigating the unstructured complexity of real-world scenarios remains challenging. A critical problem lies in effectively predicting the various potential outcomes that may emerge in response to the vehicle's actions as the world evolves. To address this challenge, we introduce GAIA-1 ('Generative AI for Autonomy'), a generative world model that leverages video, text, and action inputs to generate realistic driving scenarios while offering fine-grained control over ego-vehicle behavior and scene features. Our approach casts world modeling as an unsupervised sequence modeling…",
+   "citations": 792,
+   "url": "https://arxiv.org/abs/2309.17080",
+   "cited_by": [
+    "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
+    "Duo: A Reciprocal World Model for Full-Duplex Interaction"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2408.14837",
+   "title": "Diffusion Models Are Real-Time Game Engines",
+   "year": 2024,
+   "authors": "Dani Valevski, Yaniv Leviathan, Moab Arar et al.",
+   "abstract": "We present GameNGen, the first game engine powered entirely by a neural model that also enables real-time interaction with a complex environment over long trajectories at high quality. When trained on the classic game DOOM, GameNGen extracts gameplay and uses it to generate a playable environment that can interactively simulate new trajectories. GameNGen runs at 20 frames per second on a single TPU and remains stable over extended multi-minute play sessions. Next frame prediction achieves a PSNR of 29.4, comparable to lossy JPEG compression. Human raters are only slightly better than random chance at distinguishing short clips of the game from clips of the simulation, even after 5 minutes…",
+   "citations": 384,
+   "url": "https://arxiv.org/abs/2408.14837",
+   "cited_by": [
+    "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
+    "Duo: A Reciprocal World Model for Full-Duplex Interaction"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2410.05363",
+   "title": "Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation",
+   "year": 2024,
+   "authors": "Fan-Qing Meng, Jia-Qi Liao, Xin-Yu Tan et al.",
+   "abstract": "Text-to-video (T2V) models like Sora have made significant strides in visualizing complex prompts, which is increasingly viewed as a promising path towards constructing the universal world simulator. Cognitive psychologists believe that the foundation for achieving this goal is the ability to understand intuitive physics. However, the capacity of these models to accurately represent intuitive physics remains largely unexplored. To bridge this gap, we introduce PhyGenBench, a comprehensive \\textbf{Phy}sics \\textbf{Gen}eration \\textbf{Ben}chmark designed to evaluate physical commonsense correctness in T2V generation. PhyGenBench comprises 160 carefully crafted prompts across 27 distinct…",
+   "citations": 210,
+   "url": "https://arxiv.org/abs/2410.05363",
+   "cited_by": [
+    "VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender",
+    "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2210.03629",
+   "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+   "year": 2022,
+   "authors": "Shunyu Yao, Jeffrey Zhao, Dian Yu et al.",
+   "abstract": "While large language models (LLMs) have demonstrated impressive capabilities across tasks in language understanding and interactive decision making, their abilities for reasoning (e.g. chain-of-thought prompting) and acting (e.g. action plan generation) have primarily been studied as separate topics. In this paper, we explore the use of LLMs to generate both reasoning traces and task-specific actions in an interleaved manner, allowing for greater synergy between the two: reasoning traces help the model induce, track, and update action plans as well as handle exceptions, while actions allow it to interface with external sources, such as knowledge bases or environments, to gather additional…",
+   "citations": 13982,
+   "url": "https://arxiv.org/abs/2210.03629",
+   "cited_by": [
+    "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2210.02747",
+   "title": "Flow Matching for Generative Modeling",
+   "year": 2022,
+   "authors": "Y. Lipman, Ricky T. Q. Chen, Heli Ben-Hamu et al.",
+   "abstract": "We introduce a new paradigm for generative modeling built on Continuous Normalizing Flows (CNFs), allowing us to train CNFs at unprecedented scale. Specifically, we present the notion of Flow Matching (FM), a simulation-free approach for training CNFs based on regressing vector fields of fixed conditional probability paths. Flow Matching is compatible with a general family of Gaussian probability paths for transforming between noise and data samples -- which subsumes existing diffusion paths as specific instances. Interestingly, we find that employing FM with diffusion paths results in a more robust and stable alternative for training diffusion models. Furthermore, Flow Matching opens the…",
+   "citations": 7741,
+   "url": "https://arxiv.org/abs/2210.02747",
+   "cited_by": [
+    "Duo: A Reciprocal World Model for Full-Duplex Interaction"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1803.05457",
+   "title": "Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge",
+   "year": 2018,
+   "authors": "Peter Clark, Isaac Cowhey, Oren Etzioni et al.",
+   "abstract": "We present a new question set, text corpus, and baselines assembled to encourage AI research in advanced question answering. Together, these constitute the AI2 Reasoning Challenge (ARC), which requires far more powerful knowledge and reasoning than previous challenges such as SQuAD or SNLI. The ARC question set is partitioned into a Challenge Set and an Easy Set, where the Challenge Set contains only questions answered incorrectly by both a retrieval-based algorithm and a word co-occurence algorithm. The dataset contains only natural, grade-school science questions (authored for human tests), and is the largest public-domain set of this kind (7,787 questions). We test several baselines on…",
+   "citations": 6231,
+   "url": "https://arxiv.org/abs/1803.05457",
+   "cited_by": [
+    "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1905.07830",
+   "title": "HellaSwag: Can a Machine Really Finish Your Sentence?",
+   "year": 2019,
+   "authors": "Rowan Zellers, Ari Holtzman, Yonatan Bisk et al.",
+   "abstract": "Recent work by Zellers et al. (2018) introduced a new task of commonsense natural language inference: given an event description such as “A woman sits at a piano,” a machine must select the most likely followup: “She sets her fingers on the keys.” With the introduction of BERT, near human-level performance was reached. Does this mean that machines can perform human level commonsense inference? In this paper, we show that commonsense inference still proves difficult for even state-of-the-art models, by presenting HellaSwag, a new challenge dataset. Though its questions are trivial for humans (>95% accuracy), state-of-the-art models struggle (<48%). We achieve this via Adversarial Filtering…",
+   "citations": 5423,
+   "url": "https://arxiv.org/abs/1905.07830",
+   "cited_by": [
+    "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "stats": {
+  "raw_news": 34,
+  "stories": 10,
+  "videos": 2,
+  "papers": 15,
+  "classics": 8,
+  "seconds": 475
+ }
+}

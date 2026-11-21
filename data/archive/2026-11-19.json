@@ -1,0 +1,641 @@
+{
+ "generated_at": "2026-11-19T13:22:29.357680+00:00",
+ "date": "2026-11-19",
+ "tldr": {
+  "headline": "Les titres du jour",
+  "points": [
+   {
+    "title": "DeepMind Employees Are Unionising",
+    "text": "85 points · 55 commentaires",
+    "ref": "news:75a1c5d69bc9"
+   },
+   {
+    "title": "AI will not make you rich (2025)",
+    "text": "101 points · 63 commentaires",
+    "ref": "news:e8522c4e537f"
+   },
+   {
+    "title": "Black high school students sue after AI mistakes Doritos bag for gun",
+    "text": "104 points · 68 commentaires",
+    "ref": "news:1f22063bb604"
+   },
+   {
+    "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+    "text": "236 points · 73 commentaires",
+    "ref": "news:f5701ad9070e"
+   },
+   {
+    "title": "Anthropic prices initial public offering",
+    "text": "288 points · 532 commentaires",
+    "ref": "news:909b75797cd1"
+   }
+  ],
+  "generated": false
+ },
+ "tldr_en": {
+  "headline": "Today's headlines",
+  "points": [
+   {
+    "title": "DeepMind Employees Are Unionising",
+    "text": "85 points · 55 commentaires",
+    "ref": "news:75a1c5d69bc9"
+   },
+   {
+    "title": "AI will not make you rich (2025)",
+    "text": "101 points · 63 commentaires",
+    "ref": "news:e8522c4e537f"
+   },
+   {
+    "title": "Black high school students sue after AI mistakes Doritos bag for gun",
+    "text": "104 points · 68 commentaires",
+    "ref": "news:1f22063bb604"
+   },
+   {
+    "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+    "text": "236 points · 73 commentaires",
+    "ref": "news:f5701ad9070e"
+   },
+   {
+    "title": "Anthropic prices initial public offering",
+    "text": "288 points · 532 commentaires",
+    "ref": "news:909b75797cd1"
+   }
+  ],
+  "generated": false
+ },
+ "news": [
+  {
+   "id": "75a1c5d69bc9",
+   "title": "DeepMind Employees Are Unionising",
+   "url": "https://www.gdmunion.co.uk",
+   "source": "Hacker News",
+   "published": "2026-11-19T09:28:56+00:00",
+   "summary": "85 points · 55 commentaires",
+   "image": null,
+   "signal": 85,
+   "discussion": "https://news.ycombinator.com/item?id=50557885",
+   "score": 3.38,
+   "also": []
+  },
+  {
+   "id": "e8522c4e537f",
+   "title": "AI will not make you rich (2025)",
+   "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
+   "source": "Hacker News",
+   "published": "2026-11-19T01:51:28+00:00",
+   "summary": "101 points · 63 commentaires",
+   "image": null,
+   "signal": 101,
+   "discussion": "https://news.ycombinator.com/item?id=50555093",
+   "score": 3.13,
+   "also": []
+  },
+  {
+   "id": "1f22063bb604",
+   "title": "Black high school students sue after AI mistakes Doritos bag for gun",
+   "url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
+   "source": "Hacker News",
+   "published": "2026-11-19T00:57:20+00:00",
+   "summary": "104 points · 68 commentaires",
+   "image": null,
+   "signal": 104,
+   "discussion": "https://news.ycombinator.com/item?id=50554641",
+   "score": 3.11,
+   "also": []
+  },
+  {
+   "id": "f5701ad9070e",
+   "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+   "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+   "source": "Hacker News",
+   "published": "2026-11-19T00:29:45+00:00",
+   "summary": "236 points · 73 commentaires",
+   "image": null,
+   "signal": 236,
+   "discussion": "https://news.ycombinator.com/item?id=50554374",
+   "score": 3.74,
+   "also": []
+  },
+  {
+   "id": "909b75797cd1",
+   "title": "Anthropic prices initial public offering",
+   "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+   "source": "Hacker News",
+   "published": "2026-11-18T23:30:09+00:00",
+   "summary": "288 points · 532 commentaires",
+   "image": null,
+   "signal": 288,
+   "discussion": "https://news.ycombinator.com/item?id=50553843",
+   "score": 3.85,
+   "also": []
+  },
+  {
+   "id": "f00d83341f65",
+   "title": "LLM assisted reverse engineering",
+   "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+   "source": "Hacker News",
+   "published": "2026-11-18T22:29:13+00:00",
+   "summary": "257 points · 65 commentaires",
+   "image": null,
+   "signal": 257,
+   "discussion": "https://news.ycombinator.com/item?id=50553225",
+   "score": 5.21,
+   "also": []
+  },
+  {
+   "id": "e2b6407cfa68",
+   "title": "Gemini 4 Neon",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+   "source": "Hacker News",
+   "published": "2026-11-18T21:34:07+00:00",
+   "summary": "892 points · 700 commentaires",
+   "image": null,
+   "signal": 892,
+   "discussion": "https://news.ycombinator.com/item?id=50552424",
+   "score": 4.65,
+   "also": []
+  },
+  {
+   "id": "0d576c5fe887",
+   "title": "Advancing chip design with OpenAI models",
+   "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+   "source": "Hacker News",
+   "published": "2026-11-18T17:45:47+00:00",
+   "summary": "213 points · 152 commentaires",
+   "image": null,
+   "signal": 213,
+   "discussion": "https://news.ycombinator.com/item?id=50549493",
+   "score": 3.32,
+   "also": []
+  },
+  {
+   "id": "208b7ebb3cea",
+   "title": "Seven new models at scalable price-performance",
+   "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+   "source": "Hacker News",
+   "published": "2026-11-18T16:08:24+00:00",
+   "summary": "566 points · 358 commentaires",
+   "image": null,
+   "signal": 566,
+   "discussion": "https://news.ycombinator.com/item?id=50548021",
+   "score": 4.02,
+   "also": []
+  },
+  {
+   "id": "7222d21645ca",
+   "title": "AI agents ask better questions than KPMG accountants in audit trial",
+   "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+   "source": "Hacker News",
+   "published": "2026-11-18T15:49:34+00:00",
+   "summary": "472 points · 224 commentaires",
+   "image": null,
+   "signal": 472,
+   "discussion": "https://news.ycombinator.com/item?id=50547777",
+   "score": 3.86,
+   "also": []
+  }
+ ],
+ "videos": [
+  {
+   "id": "Cy7Wz6Z4TWU",
+   "title": "DeepMind Just Showed Us What AI Is Really For",
+   "url": "https://www.youtube.com/watch?v=Cy7Wz6Z4TWU",
+   "channel": "Two Minute Papers",
+   "published": "2026-11-19T09:26:19+00:00",
+   "thumbnail": "https://i4.ytimg.com/vi/Cy7Wz6Z4TWU/hqdefault.jpg",
+   "views": 29759,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The DeepMind AlphaGenome 2paper is available here:…",
+   "relevance": 0
+  },
+  {
+   "id": "pVc6KkjeCfU",
+   "title": "Behind the scenes with Genie 4",
+   "url": "https://www.youtube.com/watch?v=pVc6KkjeCfU",
+   "channel": "Google DeepMind",
+   "published": "2026-11-18T18:12:24+00:00",
+   "thumbnail": "https://i1.ytimg.com/vi/pVc6KkjeCfU/hqdefault.jpg",
+   "views": 14470,
+   "description": "Go behind the scenes of our recent Genie 4 film as we explore our most realistic and interactive world model yet. Instead of generating static video, Genie 4 simulates dynamic worlds in real time. Watch how our team…",
+   "relevance": 0
+  },
+  {
+   "id": "EDp4IoAUsXY",
+   "title": "Introducing the new Project Genie, powered by Genie 4",
+   "url": "https://www.youtube.com/watch?v=EDp4IoAUsXY",
+   "channel": "Google DeepMind",
+   "published": "2026-11-18T18:12:21+00:00",
+   "thumbnail": "https://i2.ytimg.com/vi/EDp4IoAUsXY/hqdefault.jpg",
+   "views": 68456,
+   "description": "Step inside your imagination with Project Genie, now powered by Google DeepMind’s most realistic and interactive world model yet, Genie 4. Project Genie brings our most advanced world and multimodal models together with…",
+   "relevance": 1
+  },
+  {
+   "id": "qbsb9DpdZ6s",
+   "title": "This algorithm changed how I think about compression | Information theory, part 3",
+   "url": "https://www.youtube.com/watch?v=qbsb9DpdZ6s",
+   "channel": "3Blue1Brown",
+   "published": "2026-11-17T16:43:16+00:00",
+   "thumbnail": "https://i2.ytimg.com/vi/qbsb9DpdZ6s/hqdefault.jpg",
+   "views": 876335,
+   "description": "Arithmetic codes and what they reflect about compression & intelligence Channel career fair: https://3b1b.com/talent New store items! https://3b1b.com/store Early views for supporters: https://3b1b.com/support On…",
+   "relevance": 0
+  },
+  {
+   "id": "gl2U4fGTr6g",
+   "title": "OpenAI's New Breakthrough Is... Utter Chaos",
+   "url": "https://www.youtube.com/watch?v=gl2U4fGTr6g",
+   "channel": "Two Minute Papers",
+   "published": "2026-11-17T12:46:24+00:00",
+   "thumbnail": "https://i4.ytimg.com/vi/gl2U4fGTr6g/hqdefault.jpg",
+   "views": 207603,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://www.kitp.ucsb.edu/sites/default/files/YM_working_group.pdf…",
+   "relevance": 0
+  }
+ ],
+ "papers": [
+  {
+   "id": "2611.22115",
+   "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
+   "authors": "Xingchen AGI Lab, Baotian Hu, Bingkai Yang, Boyang Wang et al.",
+   "abstract": "We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes the design principles and systems engineering behind the series, spanning architecture selection, large-scale pretraining, and reasoning and agentic post-training. We study how sparse activation, attention design, model depth and width, and speculative decoding balance model capacity with computation, memory access, and execution overhead. Our pretraining infrastructure builds on MindSpore HyperParallel, combining topology-aware hybrid sharding, efficient distributed optimizer execution, and coordinated management of long-sequence workloads and activation memory. CPU affinity and core isolation further reduce host scheduling interference. Together, these mechanisms support the pretraining of a 285B-parameter model on 8,192 Ascend 910C cards, providing a concrete setting for the architectural and systems studies. For post-training, we introduce TeleGym, a unified agent execution platform…",
+   "published": "2026-11-17T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.22115",
+   "pdf": "https://arxiv.org/pdf/2611.22115",
+   "upvotes": 157,
+   "github": null,
+   "origin": "hf",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.17621",
+   "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
+   "authors": "AI Training Platform Team, Bingwei Zhang, Jing Li, Amir Abdullin et al.",
+   "abstract": "Kernel optimization is essential for efficient large language model (LLM) training and inference on Ascend NPUs. Existing Ascend kernel benchmarks primarily focus on kernel generation, with less emphasis on the ability of agents to optimize existing implementations under input configurations drawn from real workloads. To address this requirement, we introduce AscendGYM, a benchmark whose initial suite comprises 48 kernels across three difficulty levels. Each kernel is paired with test cases whose data types and tensor shapes are collected from real-world training and inference tasks. Consequently, performance improvements on AscendGYM map directly to the corresponding workloads. In terms of usability, two evaluation modes are supported in AscendGYM: model evaluation and model-harness evaluation. The kernel optimization capabilities of both trained models and custom agents are allowed to be measured. It provides a complete execution environment that closely reproduces how Ascend kernels are invoked in practical pipelines. For model evaluation, it additionally includes a built-in…",
+   "published": "2026-11-13T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.17621",
+   "pdf": "https://arxiv.org/pdf/2611.17621",
+   "upvotes": 92,
+   "github": "https://github.com/SLAI-AITP/AscendGYM",
+   "origin": "hf",
+   "ai_summary": "AscendGYM provides a benchmark for assessing kernel optimization capabilities on Ascend NPUs using real-workload test cases, two evaluation modes, and a Speedup-Token Score that balances speedup against token cost.",
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.22055",
+   "title": "Weight-Space Programming Doesn't Need Transformers",
+   "authors": "Hyunjong Ok, Jaeho Lee",
+   "abstract": "Standard neural architectures such as the Transformer were chosen because they train well with gradient descent and run fast on GPUs. In weight-space programming, a large language model (LLM) writes target weights by hand without gradient-based training, so those reasons no longer apply. Should we keep the Transformer? Given minimal guidance, ten labeled examples, and a sandbox, mainly on multiple-choice questions, we task three frontier LLMs with either generating the weights of a fixed architecture or designing the architecture themselves. When free to design, all three compile plain-text facts into a sparse table queried by a fixed procedure, reaching up to 54.4% test accuracy. An LLM-designed model achieves higher test accuracy than the most accurate released Transformer that the same LLM wrote while using about 1,800x fewer parameters. Without gradients, they choose a table, in which the LLM can state what each weight means and can find and rewrite a wrong one. Each wrong answer points to one row, and removing a row changes about one other answer. From this, we propose an…",
+   "published": "2026-11-17T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.22055",
+   "pdf": "https://arxiv.org/pdf/2611.22055",
+   "upvotes": 52,
+   "github": "https://github.com/effl-lab/Weight-Space-Programming",
+   "origin": "hf",
+   "ai_summary": "When large language models write neural network weights without gradient-based training, they tend to design sparse table or associative-memory models that outperform same-sized Transformers with far fewer parameters and faster GPU inference, though pretrained LLMs remain more accurate.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.24738",
+   "title": "Jeveration: System One Models Now Generate",
+   "authors": "Yuhe Liu, Qi Li, Shihua Zhang, Xinchao Wang",
+   "abstract": "System One models such as Jev return decisions through fast, parallel prediction. In this paper, we introduce Jeveration, showing that the same decision paradigm can also generate high-quality images in a single forward pass. Jeveration builds on a frozen vision-language model, repurposing its visual-semantic knowledge for holistic image generation. The key challenge is to maintain global consistency. A single prompt admits many valid images, yet parallel predictions must converge on a coherent whole. We therefore condition all positions on a shared random state to coordinate parallel predictions, so that each draw yields a different but coherent image. Since the model tends to ignore this state under direct image supervision, we first learn a distribution over discrete image codes to guide single-pass generation. Beyond text-to-image generation, we further unify image-to-image generation and dense prediction within the same architecture, so that one checkpoint supports all three tasks, each in one forward pass. Experiments show that Jeveration generates a 512x512 image in 78 ms, up…",
+   "published": "2026-11-18T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.24738",
+   "pdf": "https://arxiv.org/pdf/2611.24738",
+   "upvotes": 51,
+   "github": "https://github.com/Carol-lyh/Jeveration",
+   "origin": "hf",
+   "ai_summary": "Jeveration repurposes a frozen vision-language model to generate coherent images and perform image-to-image and dense prediction tasks in a single forward pass with fast 512x512 generation.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.19800",
+   "title": "Multi-Branch Transformer",
+   "authors": "Gaotang Li, Lingjie Chen, Chunyuan Deng, Zhiwei Xu et al.",
+   "abstract": "Transformer language models are commonly scaled by making their blocks wider or stacking them deeper. In this work, we explore a complementary path: branching, the parallel composition of full Transformer blocks. We introduce the Multi-Branch Transformer (MBT), which processes the input through shared initial layers, executes independently parameterized branches of sequential blocks in parallel, and fuses their outputs before shared final layers. At comparable training compute, we study three MBT variants: Wide-Shallow preserves block width, Narrow-Deep preserves sequential depth, and Balanced interpolates between them. In controlled pretraining experiments at four mixture-of-experts scales (0.8B to 2.1B total parameters), 2-branch Wide-Shallow MBTs consistently outperform sequential Transformers under matched parameter and training-compute budgets. Balanced MBTs improve further and retain comparable quality as the number of branches increases. To improve inference efficiency at long contexts, we introduce Joint-KV, which constructs a shared KV cache from branch representations at…",
+   "published": "2026-11-15T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.19800",
+   "pdf": "https://arxiv.org/pdf/2611.19800",
+   "upvotes": 43,
+   "github": "https://github.com/GaotangLi/Multi-Branch-Transformer",
+   "origin": "hf",
+   "ai_summary": "Branching Transformer blocks into parallel parameterized branches, combined with shared KV caching, improves language model quality and inference efficiency compared with standard sequential Transformers.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.21099",
+   "title": "ForceHarness: Turning Force into Action and Physics for Frozen Frontier Models",
+   "authors": "Ke Sun, Kevin Yuchen Ma, Yike Zhang, Yanzhe Chen et al.",
+   "abstract": "Frontier multimodal models can now control robots zero-shot from images, yet many manipulation tasks depend on contact forces that images cannot show. Bringing force to an API-only frozen model raises two challenges. First, contact evolves much faster than an API model can decide, so the system must close the loop on force beneath the model. Second, a frozen model cannot interpret raw force streams, so force must be returned in a form the model can reason about. Therefore, we present ForceHarness, a harness that lets frozen models use force without demonstrations or finetuning. After calibrating hand force from a wrist sensor or joint torques alone, ForceHarness addresses the first challenge with self-terminating force primitives that regulate force on their own and return at a contact event. To address the second challenge, a physics translation layer turns each force trace into physical quantities with uncertainty as the tool result. To evaluate ForceHarness against expert force controllers and learned policies under identical conditions, we also build HiddenPhys, a seven-task…",
+   "published": "2026-11-16T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.21099",
+   "pdf": "https://arxiv.org/pdf/2611.21099",
+   "upvotes": 40,
+   "github": "https://github.com/showlab/ForceHarness",
+   "origin": "hf",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.17048",
+   "title": "Beyond Answering: Learning to Speak First and Act in Streaming Video",
+   "authors": "Shuhan Li, Huankang Guan, Xintong Guo, Yang Bo et al.",
+   "abstract": "Most AI assistants respond only when prompted, remaining silent even when events in the video stream offer meaningful opportunities for conversation. To move beyond purely user-driven interaction, we present AURA 2.0, a streaming video large language model that introduces three core upgrades to AURA. The key advance is Model-Initiated Conversation (MIC), which enables the model to identify topics worth discussing in the evolving visual stream and initiate conversations at appropriate moments without a user query. Stream-Aware Tool Calling (SATC) lets the model act on what it sees by invoking external tools using the current visual and conversational context and incorporating returned information into the ongoing interaction. Interactive Visual Grounding (IVG) supports visual grounding in both user inputs and model outputs. The model can identify objects marked by users on video frames and produce frame-aligned bounding boxes to link its responses to specific objects and regions. To develop these capabilities, we construct a dedicated streaming interaction dataset and adopt a…",
+   "published": "2026-11-15T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.17048",
+   "pdf": "https://arxiv.org/pdf/2611.17048",
+   "upvotes": 36,
+   "github": "https://github.com/aurateam2026/Aura2.0",
+   "origin": "hf",
+   "ai_summary": "AURA 2.0 is a streaming video large language model that can initiate conversations, call tools, and perform interactive visual grounding, with long-horizon memory and a three-stage training scheme for improved streaming interaction.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.15348",
+   "title": "Breath-Dx: A Time Series Classification Benchmark for Disease Screening with eNose",
+   "authors": "Ivan Poddiakov, Ivan Kruzhilov, Galina Zubkova, Svetlana Erofeeva et al.",
+   "abstract": "Electronic nose (eNose) technology offers a portable, non-invasive route for disease screening via exhaled breath analysis. However, progress in the field is hindered by the lack of systematic benchmarks that compare machine learning methods under realistic conditions, particularly sensor drift, a known but rarely quantified failure mode. Most existing studies rely on small, private datasets with inconsistent protocols, rendering results non-comparable and slowing progress. We introduce Breath-Dx, the first comprehensive benchmark of time series classification methods for breath-based disease screening. Our work leverages the Scent of Health (S-OH) dataset, the largest public clinical eNose collection to date, comprising 1,234 patients across nine diagnostic groups, each providing a 17-channel multivariate time series with explicit temporal train/test splits that account for sensor drift. We systematically evaluate 10 methods spanning four families: feature-based tabular learners, convolution-based models, graph-based, and time series architectures. All methods degrade significantly…",
+   "published": "2026-11-11T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.15348",
+   "pdf": "https://arxiv.org/pdf/2611.15348",
+   "upvotes": 33,
+   "github": "https://github.com/ivanpodd/Breath-Dx",
+   "origin": "hf",
+   "ai_summary": "A comprehensive benchmark evaluates time-series classification methods on a large clinical breath dataset under realistic temporal splits, showing that sensor drift lowers performance and recurrent models are most consistent across diseases.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.18856",
+   "title": "Self-Improvement Memory Enables Continual Recursive Self-Improvement",
+   "authors": "Xin Yu, Fei Xia, Jiaqi Pan, Youbao Tang et al.",
+   "abstract": "Harness optimization is often studied with a fixed policy model and benchmark. When either changes, the optimizer must decide which parts of an evolved harness to reuse or revise, but the harness alone may not explain why earlier edits were made or how they performed. In this work, we study Continual Recursive Self-Improvement (CRSI), a setting for continuing existing harness-optimization methods across compatible benchmarks or policy models. We propose Self-Improvement Memory (SIM) for the harness optimizer, rather than the task-solving policy. SIM groups edits by recurring harness problem and records their rationale, predicted and observed outcomes, and evaluation context. New attempts extend this history as optimization continues. In our experiments across four domains, SIM achieves higher final scores than harness-only and root-cause-only continuation in cross-dataset and pairwise cross-model comparisons. Across ten independent source runs in coding, paired continuations with SIM improve final scores by an average of 2.36 points over harness-only continuation (p=0.003).",
+   "published": "2026-11-13T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.18856",
+   "pdf": "https://arxiv.org/pdf/2611.18856",
+   "upvotes": 30,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "Continual recursive self-improvement lets harness optimizers reuse and revise prior edits across changing benchmarks or policy models by storing rationales, predicted and observed outcomes, and evaluation contexts in a self-improvement memory, improving final scores over continuation baselines.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.11318",
+   "title": "PROLA: Principal-Orthogonal Low-rank Adaptation for Predictive Spatiotemporal Weather Downscaling",
+   "authors": "Minseo Yoon, Minseong Bae, Sojin Lee, Hyunwoo J. Kim",
+   "abstract": "High-resolution weather prediction is important for resolving local atmospheric patterns missed by coarse global forecasts. Large pretrained weather backbones have improved global forecasting, but adapting them to produce future high-resolution fields from recent coarse states remains challenging and costly. We formulate this setting as Predictive Spatiotemporal Weather Downscaling (PSWD), a task that jointly refines spatial and temporal resolution while predicting future high-resolution trajectories. To this end, we propose a framework that decomposes prediction into spatial and temporal stages using a shared pretrained backbone, fixed numerical scaffolds, and lightweight residual heads. For backbone adaptation, we introduce PROLA (PRincipal-Orthogonal Low-rank Adaptation), which allocates a fixed low-rank budget between pretrained weights' principal directions and their orthogonal complement. PROLA further rescales rank-1 optimizer updates using gradient signals, improving adaptation without increasing trainable rank. Experiments in the PSWD setting show that PROLA outperforms…",
+   "published": "2026-11-08T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.11318",
+   "pdf": "https://arxiv.org/pdf/2611.11318",
+   "upvotes": 27,
+   "github": "https://github.com/yms020615/PROLA",
+   "origin": "hf",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.24936",
+   "title": "Jailbreak Detection on Large Language Models via Contrastive Prototype Structures",
+   "authors": "Yan Qiu, Yuanyuan Li",
+   "abstract": "Jailbreak attempts and harmful prompts remain a challenge for the safe deployment of large language models. We study whether contrastively learned representations can support safety detection without training an additional downstream classifier. We propose Jailbreak Detection with Prototype Inference (JDPI), which uses binary safety labels to construct harmful and benign prototypes and makes predictions from relative prototype distances. JDPI uses only binary safety labels for encoder adaptation, prototype construction, and validation. In our setup, it uses fewer labeled examples than the classifier baseline (Method A) by avoiding the separate split used to train the downstream classifier. Across four benchmarks covering different input formats, contrastive fine-tuning improves JDPI's detection accuracy by 9.1-18.0 percentage points. Using the same encoder, JDPI achieves slightly higher ROC-AUC on one benchmark and stays within 0.017 of the baseline across all four. With dataset-specific adaptation, JDPI exceeds the released Llama Guard 3-8B baseline by 0.173-0.310 in ROC-AUC across…",
+   "published": "2026-11-18T18:56:12Z",
+   "url": "https://arxiv.org/abs/2611.24936",
+   "pdf": "https://arxiv.org/pdf/2611.24936",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CL"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.24795",
+   "title": "Ultimate3D: Teaching Multimodal LLMs 3D Camera-Object Relations by Large-Scale Visual Instruction Data",
+   "authors": "Liu He, Yizhi Song, Ruiqi Xu, Baris Sarper Tezcan et al.",
+   "abstract": "Multimodal Large Language Models (MLLMs) struggle with accurately capturing camera-object relations, especially for object orientation, camera viewpoint, and camera shots. This stems from the fact that existing MLLMs are trained on images with limited diverse camera-object relations and corresponding textual descriptions. To address this, we propose a synthetic generation pipeline to create large-scale 3D visual instruction datasets. Our framework takes 3D assets as input and uses rendering and diffusion-based image generation models to create photorealistic images preserving precise camera-object relations. Additionally, large language models (LLMs) are used to generate text prompts for guiding visual instruction tuning and controlling image generation. We create Ultimate3D, a large-scale 3D-grounded 2D visual instruction dataset. Ultimate3D consists of 240K VQAs with precise camera-object annotations, and corresponding benchmark. MLLMs fine-tuned on our proposed dataset outperform commercial models by a large margin, achieving an average accuracy improvement of 29.7% on…",
+   "published": "2026-11-18T17:39:54Z",
+   "url": "https://arxiv.org/abs/2611.24795",
+   "pdf": "https://arxiv.org/pdf/2611.24795",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CV"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.24793",
+   "title": "The Elephant in the Question: Unified Models Picture the Concepts Behind Their Answers",
+   "authors": "Tobias Braun, Marcus Rohrbach, Lorenzo Cavallaro",
+   "abstract": "Visualizing intermediate representations could help us inspect the reasoning steps underlying a model output. Unified multimodal models offer this opportunity by combining understanding and generation in one architecture. Their image generators can access representations formed while processing text. We introduce the V-lens, which uses this connection to visualize a chosen token's hidden state without training a decoder. Across four diffusion-based and two purely autoregressive unified models, the resulting images reveal key intermediate concepts that connect a question to its answer even when the concepts are never named explicitly. Controlled tests show how this content changes with context, token position, and depth. We then introduce lens tuning, which supervises selected hidden states with pictures through the V-lens. Across BAGEL, SenseNova-U1, and HunyuanImage-3.0, the rate of correct visualizations of pronoun referents rises from 2-11% to 86-94%. Surprisingly, such visual supervision also improves text answers without supervising the answer tokens directly. Code is available…",
+   "published": "2026-11-18T17:38:46Z",
+   "url": "https://arxiv.org/abs/2611.24793",
+   "pdf": "https://arxiv.org/pdf/2611.24793",
+   "upvotes": 0,
+   "github": "https://github.com/multimodal-ai-lab/V-lens",
+   "origin": "arxiv",
+   "categories": [
+    "cs.CV",
+    "cs.CL",
+    "cs.LG"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.24762",
+   "title": "A$^3$Bench: Compositional Reasoning over Aggressive Interactions in Videos",
+   "authors": "Austin C Baker, Raiyaan Abdullah, Daniel Zeev Yoffe, Shruti Vyas et al.",
+   "abstract": "Recent Multimodal Large Language Models (MLLMs) have achieved strong performance on general video understanding benchmarks, yet their ability to reason about participant roles in aggressive interactions remains largely unexplored. Existing violence and crime datasets primarily evaluate whether aggression occurs, without testing whether models can identify who performed the action, who received it, and how participants are related within the scene. To address this gap, we introduce A$^3$Bench, a benchmark to study aggressive action and association in videos. The benchmark evaluates whether models can jointly recognize aggressive actions, distinguish aggressors from victims and bystanders, and correctly bind actions to participants under challenging distractor settings. We benchmark 17 multimodal models and find that they struggle substantially on fine-grained aggressive-scene understanding. Performance degrades consistently as reasoning complexity increases, with models frequently confusing aggressors with victims or bystanders, revealing a systematic failure in role-action…",
+   "published": "2026-11-18T17:15:58Z",
+   "url": "https://arxiv.org/abs/2611.24762",
+   "pdf": "https://arxiv.org/pdf/2611.24762",
+   "upvotes": 0,
+   "github": "https://github.com/austincbaker/A3Bench",
+   "origin": "arxiv",
+   "categories": [
+    "cs.CV"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.24651",
+   "title": "Piccolo: Co-Evolving Decision Models and Data through Recursive Self-Improvement",
+   "authors": "Zhenqing Ling, Qirui Jiao, Daoyuan Chen, Cheng Chen et al.",
+   "abstract": "We present Piccolo, a family of multimodal decision models (0.8B to 27B) that coevolves model capabilities and training data via Agentic Data Engineering and recursive self-improvement (RSI). The models predict probabilities over candidate answers for general-purpose text and visual judgments, agent harnesses, data workflows, and interactive games. Piccolo-27B tops the Decision Index Vision Full leaderboard with a score of 75.59, while Piccolo-9B and Piccolo-4B achieve 68.35 and 67.46, respectively. All three rank first on the Private benchmark in their respective model-size categories. Research agents analyze model behavior, construct training data, conduct experiments, and use the results to refine subsequent proposals. Semantic slices and a shared research memory connect these actions across the model family's development. With training recipes comprising hundreds of thousands of examples, data selection and feedback-driven refinement are central to the self-improvement process. Our large-scale RSI exploration yields three counter-intuitive insights for decision-model…",
+   "published": "2026-11-18T15:53:39Z",
+   "url": "https://arxiv.org/abs/2611.24651",
+   "pdf": "https://arxiv.org/pdf/2611.24651",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CL",
+    "cs.AI",
+    "cs.CV"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "classics": [
+  {
+   "id": "1706.03762",
+   "title": "Attention is All you Need",
+   "year": 2017,
+   "authors": "Ashish Vaswani, Noam Shazeer, N. Parmar et al.",
+   "abstract": "The dominant sequence transduction models are based on complex recurrent or convolutional neural networks in an encoder-decoder configuration. The best performing models also connect the encoder and decoder through an attention mechanism. We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely. Experiments on two machine translation tasks show these models to be superior in quality while being more parallelizable and requiring significantly less time to train. Our model achieves 28.4 BLEU on the WMT 2014 English-to-German translation task, improving over the existing best results, including…",
+   "citations": 203595,
+   "url": "https://arxiv.org/abs/1706.03762",
+   "cited_by": [
+    "Weight-Space Programming Doesn't Need Transformers",
+    "Multi-Branch Transformer"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2204.02311",
+   "title": "PaLM: Scaling Language Modeling with Pathways",
+   "year": 2022,
+   "authors": "Aakanksha Chowdhery, Sharan Narang, J. Devlin et al.",
+   "abstract": "Large language models have been shown to achieve remarkable performance across a variety of natural language tasks using few-shot learning, which drastically reduces the number of task-specific training examples needed to adapt the model to a particular application. To further our understanding of the impact of scale on few-shot learning, we trained a 540-billion parameter, densely activated, Transformer language model, which we call Pathways Language Model PaLM. We trained PaLM on 6144 TPU v4 chips using Pathways, a new ML system which enables highly efficient training across multiple TPU Pods. We demonstrate continued benefits of scaling by achieving state-of-the-art few-shot learning…",
+   "citations": 8641,
+   "url": "https://arxiv.org/abs/2204.02311",
+   "cited_by": [
+    "Weight-Space Programming Doesn't Need Transformers",
+    "Multi-Branch Transformer"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1509.01626",
+   "title": "Character-level Convolutional Networks for Text Classification",
+   "year": 2015,
+   "authors": "Xiang Zhang, J. Zhao, Yann LeCun",
+   "abstract": "This article offers an empirical exploration on the use of character-level convolutional networks (ConvNets) for text classification. We constructed several large-scale datasets to show that character-level convolutional networks could achieve state-of-the-art or competitive results. Comparisons are offered against traditional models such as bag of words, n-grams and their TFIDF variants, and deep learning models such as word-based ConvNets and recurrent neural networks.",
+   "citations": 7615,
+   "url": "https://arxiv.org/abs/1509.01626",
+   "cited_by": [
+    "Weight-Space Programming Doesn't Need Transformers",
+    "Self-Improvement Memory Enables Continual Recursive Self-Improvement"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1512.03385",
+   "title": "Deep Residual Learning for Image Recognition",
+   "year": 2015,
+   "authors": "Kaiming He, X. Zhang, Shaoqing Ren et al.",
+   "abstract": "Deeper neural networks are more difficult to train. We present a residual learning framework to ease the training of networks that are substantially deeper than those used previously. We explicitly reformulate the layers as learning residual functions with reference to the layer inputs, instead of learning unreferenced functions. We provide comprehensive empirical evidence showing that these residual networks are easier to optimize, and can gain accuracy from considerably increased depth. On the ImageNet dataset we evaluate residual nets with a depth of up to 152 layers - 8× deeper than VGG nets [40] but still having lower complexity. An ensemble of these residual nets achieves 3.57% error…",
+   "citations": 247838,
+   "url": "https://arxiv.org/abs/1512.03385",
+   "cited_by": [
+    "Breath-Dx: A Time Series Classification Benchmark for Disease Screening with eNose"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1603.02754",
+   "title": "XGBoost: A Scalable Tree Boosting System",
+   "year": 2016,
+   "authors": "Tian-Qi Chen, Carlos Guestrin",
+   "abstract": "Tree boosting is a highly effective and widely used machine learning method. In this paper, we describe a scalable end-to-end tree boosting system called XGBoost, which is used widely by data scientists to achieve state-of-the-art results on many machine learning challenges. We propose a novel sparsity-aware algorithm for sparse data and weighted quantile sketch for approximate tree learning. More importantly, we provide insights on cache access patterns, data compression and sharding to build a scalable tree boosting system. By combining these insights, XGBoost scales beyond billions of examples using far fewer resources than existing systems.",
+   "citations": 67448,
+   "url": "https://arxiv.org/abs/1603.02754",
+   "cited_by": [
+    "Breath-Dx: A Time Series Classification Benchmark for Disease Screening with eNose"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1405.0312",
+   "title": "Microsoft COCO: Common Objects in Context",
+   "year": 2014,
+   "authors": "Tsung-Yi Lin, M. Maire, Serge J. Belongie et al.",
+   "abstract": "We present a new dataset with the goal of advancing the state-of-the-art in object recognition by placing the question of object recognition in the context of the broader question of scene understanding. This is achieved by gathering images of complex everyday scenes containing common objects in their natural context. Objects are labeled using per-instance segmentations to aid in precise object localization. Our dataset contains photos of 91 objects types that would be easily recognizable by a 4 year old. With a total of 2.5 million labeled instances in 328k images, the creation of our dataset drew upon extensive crowd worker involvement via novel user interfaces for category detection,…",
+   "citations": 57768,
+   "url": "https://arxiv.org/abs/1405.0312",
+   "cited_by": [
+    "Beyond Answering: Learning to Speak First and Act in Streaming Video"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1409.4842",
+   "title": "Going deeper with convolutions",
+   "year": 2014,
+   "authors": "C. Szegedy, Wei Liu, Yang-Qing Jia et al.",
+   "abstract": "We propose a deep convolutional neural network architecture codenamed Inception that achieves the new state of the art for classification and detection in the ImageNet Large-Scale Visual Recognition Challenge 2014 (ILSVRC14). The main hallmark of this architecture is the improved utilization of the computing resources inside the network. By a carefully crafted design, we increased the depth and width of the network while keeping the computational budget constant. To optimize quality, the architectural decisions were based on the Hebbian principle and the intuition of multi-scale processing. One particular incarnation used in our submission for ILSVRC14 is called GoogLeNet, a 22 layers deep…",
+   "citations": 49326,
+   "url": "https://arxiv.org/abs/1409.4842",
+   "cited_by": [
+    "Multi-Branch Transformer"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2407.21783",
+   "title": "The Llama 3 Herd of Models",
+   "year": 2024,
+   "authors": "Aaron Grattafiori, Abhimanyu Dubey, Abhinav Jauhri et al.",
+   "abstract": "Modern artificial intelligence (AI) systems are powered by foundation models. This paper presents a new set of foundation models, called Llama 3. It is a herd of language models that natively support multilinguality, coding, reasoning, and tool usage. Our largest model is a dense Transformer with 405B parameters and a context window of up to 128K tokens. This paper presents an extensive empirical evaluation of Llama 3. We find that Llama 3 delivers comparable quality to leading language models such as GPT-4 on a plethora of tasks. We publicly release Llama 3, including pre-trained and post-trained versions of the 405B parameter language model and our Llama Guard 3 model for input and output…",
+   "citations": 21177,
+   "url": "https://arxiv.org/abs/2407.21783",
+   "cited_by": [
+    "Multi-Branch Transformer"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "stats": {
+  "raw_news": 49,
+  "stories": 10,
+  "videos": 5,
+  "papers": 15,
+  "classics": 8,
+  "seconds": 680
+ }
+}

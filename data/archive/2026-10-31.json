@@ -1,0 +1,588 @@
+{
+ "generated_at": "2026-10-31T10:27:28.400242+00:00",
+ "date": "2026-10-31",
+ "tldr": {
+  "headline": "Les titres du jour",
+  "points": [
+   {
+    "title": "OpenAI raises less than half of $30B target",
+    "text": "152 points · 141 commentaires",
+    "ref": "news:b112e6ada6a0"
+   },
+   {
+    "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+    "text": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+    "ref": "news:60ba719a0574"
+   },
+   {
+    "title": "Last-minute Halloween costumes for tech nerds",
+    "text": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+    "ref": "news:0806533d8a71"
+   },
+   {
+    "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+    "text": "310 points · 254 commentaires",
+    "ref": "news:7b402e9b6da8"
+   },
+   {
+    "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+    "text": "275 points · 231 commentaires",
+    "ref": "news:88726a3bff9a"
+   }
+  ],
+  "generated": false
+ },
+ "news": [
+  {
+   "id": "b112e6ada6a0",
+   "title": "OpenAI raises less than half of $30B target",
+   "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+   "source": "Hacker News",
+   "published": "2026-10-31T03:22:44+00:00",
+   "summary": "152 points · 141 commentaires",
+   "image": null,
+   "signal": 152,
+   "discussion": "https://news.ycombinator.com/item?id=50312922",
+   "score": 3.67,
+   "also": []
+  },
+  {
+   "id": "60ba719a0574",
+   "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+   "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+   "source": "TechCrunch",
+   "published": "2026-10-30T21:52:03+00:00",
+   "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+   "image": null,
+   "signal": 86,
+   "discussion": "https://news.ycombinator.com/item?id=50311311",
+   "score": 2.95,
+   "also": []
+  },
+  {
+   "id": "0806533d8a71",
+   "title": "Last-minute Halloween costumes for tech nerds",
+   "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+   "source": "TechCrunch",
+   "published": "2026-10-30T21:26:59+00:00",
+   "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+   "image": null,
+   "signal": 0,
+   "score": 0.85,
+   "also": []
+  },
+  {
+   "id": "7b402e9b6da8",
+   "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+   "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+   "source": "Hacker News",
+   "published": "2026-10-30T17:27:25+00:00",
+   "summary": "310 points · 254 commentaires",
+   "image": null,
+   "signal": 310,
+   "discussion": "https://news.ycombinator.com/item?id=50307219",
+   "score": 3.74,
+   "also": []
+  },
+  {
+   "id": "88726a3bff9a",
+   "title": "Proton's CEO Cancels AI 'Re-Interviews'",
+   "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+   "source": "Hacker News",
+   "published": "2026-10-30T17:24:45+00:00",
+   "summary": "275 points · 231 commentaires",
+   "image": null,
+   "signal": 275,
+   "discussion": "https://news.ycombinator.com/item?id=50307183",
+   "score": 3.65,
+   "also": []
+  },
+  {
+   "id": "1634c7b4a767",
+   "title": "US tech stocks see sharp falls over AI cost fears",
+   "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
+   "source": "Hacker News",
+   "published": "2026-10-30T16:13:02+00:00",
+   "summary": "255 points · 283 commentaires",
+   "image": null,
+   "signal": 255,
+   "discussion": "https://news.ycombinator.com/item?id=50306008",
+   "score": 3.53,
+   "also": []
+  },
+  {
+   "id": "9e37c40a85b3",
+   "title": "AI isn't replacing SREs, it's deskilling them",
+   "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+   "source": "Hacker News",
+   "published": "2026-10-30T15:52:18+00:00",
+   "summary": "600 points · 451 commentaires",
+   "image": null,
+   "signal": 600,
+   "discussion": "https://news.ycombinator.com/item?id=50305693",
+   "score": 4.19,
+   "also": []
+  },
+  {
+   "id": "9b894388109d",
+   "title": "Anthropic Cracking Down on Video Game Rewrites",
+   "url": "https://twitter.com/chasmmmmmmmmmmm/status/2116062991686721968",
+   "source": "Hacker News",
+   "published": "2026-10-30T14:22:52+00:00",
+   "summary": "107 points · 104 commentaires",
+   "image": null,
+   "signal": 107,
+   "discussion": "https://news.ycombinator.com/item?id=50304358",
+   "score": 2.74,
+   "also": []
+  },
+  {
+   "id": "5d1e722469ff",
+   "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+   "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+   "source": "Hacker News",
+   "published": "2026-10-30T14:08:20+00:00",
+   "summary": "195 points · 227 commentaires",
+   "image": null,
+   "signal": 195,
+   "discussion": "https://news.ycombinator.com/item?id=50304122",
+   "score": 3.21,
+   "also": []
+  },
+  {
+   "id": "7e2aaf184ac3",
+   "title": "Backdoors in official Claude Code extensions",
+   "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+   "source": "Hacker News",
+   "published": "2026-10-30T11:05:53+00:00",
+   "summary": "655 points · 17 commentaires",
+   "image": null,
+   "signal": 655,
+   "discussion": "https://news.ycombinator.com/item?id=50302334",
+   "score": 4.02,
+   "also": []
+  }
+ ],
+ "videos": [
+  {
+   "id": "CWdTBLsbaQs",
+   "title": "OpenAI Claims It Just Did The Impossible",
+   "url": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
+   "channel": "Two Minute Papers",
+   "published": "2026-10-30T15:57:16+00:00",
+   "thumbnail": "https://i4.ytimg.com/vi/CWdTBLsbaQs/hqdefault.jpg",
+   "views": 325617,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 OpenAI's paper is available here:…",
+   "relevance": 0
+  },
+  {
+   "id": "pryCaGv8wuo",
+   "title": "DeepSeek's New AI Is An Absolute Monster",
+   "url": "https://www.youtube.com/watch?v=pryCaGv8wuo",
+   "channel": "Two Minute Papers",
+   "published": "2026-10-28T17:32:40+00:00",
+   "thumbnail": "https://i1.ytimg.com/vi/pryCaGv8wuo/hqdefault.jpg",
+   "views": 165107,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 DeepSeek v4.1 Flash 1017 is available here: https://api-docs.deepseek.com/news/news261017/ Sources:…",
+   "relevance": 0
+  },
+  {
+   "id": "sFfPkUJd_Jk",
+   "title": "Genie 4: A new generation of world simulation",
+   "url": "https://www.youtube.com/watch?v=sFfPkUJd_Jk",
+   "channel": "Google DeepMind",
+   "published": "2026-10-27T16:00:41+00:00",
+   "thumbnail": "https://i4.ytimg.com/vi/sFfPkUJd_Jk/hqdefault.jpg",
+   "views": 585441,
+   "description": "Meet Genie 4, Google DeepMind’s most realistic and interactive world model yet. Built on our Gemini models, Genie 4 lets you step inside dynamic worlds in real time, steer scenes on the fly with natural language, and…",
+   "relevance": 0
+  }
+ ],
+ "papers": [
+  {
+   "id": "2610.36077",
+   "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+   "authors": "Weidong Tang, Ruiheng Wang, Jingxuan Zhang, Hexin Wang et al.",
+   "abstract": "Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verifiable environments is costly, and manual Harness iteration cannot keep pace with growing task diversity and complexity. A key insight is that tasks with different modalities and surface forms can share the same underlying capability requirements. We therefore introduce The Trinity, a recursive self-improvement framework coupling world generation with Harness evolution through three roles: Creator, Explorer, and Evolver. Drawing on verified execution trajectories, Evolver shifts the basis of task organization from surface categories to shared requirements, reorganizing the original task tree into a hierarchical capability tree. We introduce Capability-Driven Real2Sim2Real: for heterogeneous tasks at the same node, Creator abstracts their common requirements into simplified, verifiable simulated worlds for capability learning, while evaluation on original tasks measures transfer. Along…",
+   "published": "2026-10-26T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.36077",
+   "pdf": "https://arxiv.org/pdf/2610.36077",
+   "upvotes": 389,
+   "github": "https://github.com/InfRec-Cardinal/The-Trinity",
+   "origin": "hf",
+   "ai_summary": "The Trinity framework recursively improves multimodal agents by organizing tasks into a capability tree, generating simulated training worlds, and routing specialized harness modules to boost performance on diverse benchmarks.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.35013",
+   "title": "Multiscale Policy Optimization for Long-Horizon LLM Agents",
+   "authors": "Tao Ren, Hui Yang, Jia Deng, Tingyang Chen et al.",
+   "abstract": "Long-horizon LLM agents interact with their environments through complete assistant turns while generating each action token by token. We observe that critic values vary primarily across turns, motivating optimization anchored at turns with finer credit allocation among tokens. We propose Multiscale Policy Optimization (MPO), combining Multiscale Advantage Estimation (MAE) and turn-level importance sampling to align credit assignment and policy updates at the turn scale. Extensive experiments across search, tool-use, and automation tasks with 4B and 30B-A3B models demonstrate consistent gains over strong RL baselines.",
+   "published": "2026-10-26T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.35013",
+   "pdf": "https://arxiv.org/pdf/2610.35013",
+   "upvotes": 382,
+   "github": "https://github.com/IQuestLab/Multiscale-Policy-Optimization",
+   "origin": "hf",
+   "ai_summary": "Multiscale Policy Optimization improves long-horizon agent training by aligning credit assignment and policy updates at the turn scale.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.39633",
+   "title": "Intrinsic Distribution Matching",
+   "authors": "Deyuan Liu, Yansen Han, Kaiwen Zheng, Jun Xie et al.",
+   "abstract": "One-step and few-step text-to-image generation must accurately render the details specified in the prompt despite limited opportunities for refinement. Distribution matching distillation (DMD) uses score differences to bring the generated distribution closer to a reference distribution. Following prior work, we estimate this difference with internal velocity branches, avoiding a separate fake-score network. We ask whether an explicit moment constraint improves this learned score supervision. A decomposition of the reverse-KL field into a Gaussian moment component and a non-Gaussian residual identifies statistics that can be constrained explicitly. We introduce Intrinsic Distribution Matching (IDM), which retains the full DMD correction and matches feature means and per-coordinate standard deviations using the generator's exponential-moving-average (EMA) copy, requiring no external feature encoder. Experiments use full-parameter and low-rank adaptation (LoRA) tuning on Z-Image-Turbo 6B and Qwen-Image 20B. At two network evaluations, IDM reaches 94.25% and 90.20% on Chinese and…",
+   "published": "2026-10-29T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.39633",
+   "pdf": "https://arxiv.org/pdf/2610.39633",
+   "upvotes": 239,
+   "github": "https://github.com/inclusionAI/IDM",
+   "origin": "hf",
+   "ai_summary": "Intrinsic Distribution Matching improves few-step text-to-image generation by adding explicit moment constraints to distribution matching distillation, achieving state-of-the-art long-text rendering with minimal network evaluations.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.32749",
+   "title": "Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes",
+   "authors": "Wendi Sang, Kai Li, Yifan Li, Jianqiang Huang et al.",
+   "abstract": "Streaming audio-visual target speaker extraction (AVTSE) is essential for latency-sensitive applications. However, current causal systems face two coupled gaps. First, standard benchmarks fix the number of speakers at two and ignore the near-/far-field interference, reverberation, and sudden noise of real scenes. Second, high-performance causal architectures are too heavy for edge deployment. Lightweight alternatives try to reclaim capacity by repeatedly invoking a small separator, which offsets the savings. To address the first gap, we release RealSSA, a realistic AVTSE benchmark consisting of RealSSA-Sim and RealSSA-Real. RealSSA-Sim provides controllable simulated scenes with 1--5 dynamic near-field interfering speakers; scenes with far-field interference additionally include 10--15 far-field interfering speakers. RealSSA-Real provides a held-out real-recorded evaluation set. To address the second gap, we propose Falcon, a causal AVTSE method. Its Separator performs multi-scale time-frequency separation in a single encoder--decoder pass. We train Falcon with an encoder-space…",
+   "published": "2026-10-23T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.32749",
+   "pdf": "https://arxiv.org/pdf/2610.32749",
+   "upvotes": 222,
+   "github": "https://github.com/JusperLee/Falcon",
+   "origin": "hf",
+   "ai_summary": "Falcon is a lightweight causal audio-visual target speaker extraction method that achieves high quality with drastically reduced parameters and latency, supported by the realistic RealSSA benchmark.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.38568",
+   "title": "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement",
+   "authors": "Yu Liu, Youxing Li, Yuedong Tan, Zhiwei Yang et al.",
+   "abstract": "Recursive self-improvement requires models not only to acquire useful training experience, but also to decide when their current experience has ceased to be useful. Existing methods often focus on what experience to generate next, while paying less attention to when fresh experience should be introduced. Many also construct training targets through self-consistency or majority voting, making supervision depend on the model's own uncertain predictions. We address these two questions separately: training dynamics determine when to acquire new experience, while the answers to new tasks remain independently checkable. A-RSI monitors reward variation and accuracy in training logs to refresh a task pool when its learning signal declines, without consulting validation or test scores. A static library of model-authored programs produces multimodal questions and derives their reference answers; we specify the task-generation contract, automatically verify chosen properties of the reward and refresh rules, and separately audit the generated answers. The training loop uses no external training…",
+   "published": "2026-10-28T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.38568",
+   "pdf": "https://arxiv.org/pdf/2610.38568",
+   "upvotes": 159,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "A-RSI improves recursive self-improvement by refreshing training tasks based on declining learning signals and using independently verifiable program-generated answers, raising benchmark performance without external labels.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.34073",
+   "title": "Memory Tax: Dissecting the Net Value of Agent Memory",
+   "authors": "Xuan He, Sining Zhoubian, Ruozhen Yang, Yuhao Wen et al.",
+   "abstract": "Memory is increasingly used in long-horizon agents, yet the net value of building memory over direct retrieval from raw history remains largely unclear. Through a large-scale evaluation across multiple benchmarks and model backbones, we find many dedicated memory systems underperform naive RAG in many cases, indicating a negative net value. Taking RAG as a reference, we dissect the net value of memory into the gains and losses over direct retrieval, termed memory benefit and memory tax. These gains and losses arise because memory process changes how the raw information is organized and accessed. We view such changes as the double-edged deviations from the raw history. They are originally designed and introduced to benefit the task, for example by reorganizing facts or distilling preferences, but some may also remove or obscure evidence, giving rise to memory tax. Since memory benefit reflects the expected gains of its design, we then focus more on the overlooked memory tax, study how it arises from the system and evaluation side, and generalize the concept to more application…",
+   "published": "2026-10-25T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.34073",
+   "pdf": "https://arxiv.org/pdf/2610.34073",
+   "upvotes": 157,
+   "github": "https://github.com/hexuan21/MemoryTax",
+   "origin": "hf",
+   "ai_summary": "Large-scale evaluation reveals that dedicated memory systems often underperform naive retrieval-augmented generation, introducing a framework of memory benefit and memory tax to assess net value.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.37381",
+   "title": "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations",
+   "authors": "Hanqing Wang, Zhaotian Cai, Ruichuan An, Bohan Zeng et al.",
+   "abstract": "Vision--Language--Action (VLA) models generate robot actions from visual observations and language instructions, but their understanding of physical dynamics remains limited. Video world models can capture scene dynamics, yet generating future videos introduces high latency into the control loop. We introduce PDRVLA, whose lightweight Physical Dynamics Module extracts physical tokens from vision--language features to condition action generation without online video generation. The module learns through direct prediction of future RGB, depth, and optical-flow features, with auxiliary supervision through a frozen pretrained video world model. Training relies entirely on publicly available data, expanded through human-to-robot synthesis, subtask annotation, and embodied chain-of-thought (ECoT) annotation. Across four simulation benchmarks, PDRVLA achieves success rates of 99.3% on LIBERO, 89.9% on LIBERO-Plus, 93.6% on RoboTwin~2.0, and 81.5% on SimplerEnv. Ablations show improved future prediction with world-model supervision and evaluate how subtask conditioning, future object-pose…",
+   "published": "2026-10-27T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.37381",
+   "pdf": "https://arxiv.org/pdf/2610.37381",
+   "upvotes": 151,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "PDRVLA improves robot action generation by integrating a lightweight physical dynamics module that predicts future visual features with world-model supervision, avoiding online video generation latency.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.29927",
+   "title": "Your Benchmark Is an Empirical Measure Over Difficulty",
+   "authors": "Yifan Sun, Naicheng Yu, Jiawen Gong, Jingyan Shen et al.",
+   "abstract": "A benchmark is not merely a collection of test questions; it naturally induces an empirical measure over difficulty. In this work, we develop this measure-based view of benchmark evaluation. This perspective allows us to identify and formalize two central failure modes: measure mismatch, where the benchmark difficulty distribution differs from the intended difficulty distribution, and coverage gaps, where uncovered regions along the difficulty axis prevent benchmarks from detecting meaningful localized training progress. We propose two diagnostic metrics that capture these two failure modes and provide rigorous theoretical guarantees. Empirically, we analyze 25 popular benchmarks spanning 7 domains using carefully estimated item difficulties. Our results show that many benchmarks implicitly overweight certain difficulty regions, so their leaderboard conclusions should be interpreted with caution; others leave substantial portions of the difficulty axis uncovered, limiting their ability to monitor the model improvement process. Finally, we turn diagnosis into action by introducing…",
+   "published": "2026-10-21T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.29927",
+   "pdf": "https://arxiv.org/pdf/2610.29927",
+   "upvotes": 144,
+   "github": "https://github.com/ASTRAL-Group/benchmark-difficulty-measure",
+   "origin": "hf",
+   "ai_summary": "This work formalizes benchmark evaluation through difficulty measures, identifies failure modes of measure mismatch and coverage gaps, and proposes diagnostic metrics and a rewriting algorithm to improve benchmark coverage.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.39301",
+   "title": "Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities",
+   "authors": "Yunhang Shen, Zhangquan Chen, Xiaotian Li, Zhongpeng Cai et al.",
+   "abstract": "We present Youtu-Parsing-Omni, an omni-modal parser that converts documents, images, audio, and video into structured records grounded in space and time, providing a perception layer for agents that read, locate, and cite evidence across modalities. Its design rests on one encoder for every modality and one schema for every task. Youtu-Omni-Encoder, initialized from a pre-trained language model to strengthen text reading, encodes all modalities with shared weights in a unified space-time coordinate system, and a few fusion layers let video frames attend to concurrent audio, bringing cross-modal fusion and temporal alignment into perception itself. OmniSchema unifies the outputs of all ten parsing tasks, allowing a single self-evolving post-training procedure, OmniSchema-Aware On-Policy Distillation (OSAD), to provide a shared token-role-based objective across tasks. In each round, the model is trained on its own rollouts against token-level targets from a reference-conditioned copy of itself, which is then refreshed with the trained weights, so that the parser and its supervision…",
+   "published": "2026-10-29T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.39301",
+   "pdf": "https://arxiv.org/pdf/2610.39301",
+   "upvotes": 134,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "Youtu-Parsing-Omni is a unified multi-modal parser that encodes documents, images, audio, and video into structured spatiotemporal records using shared weights and cross-modal fusion, achieving state-of-the-art results across parsing benchmarks through a self-evolving on-policy distillation procedure.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.32046",
+   "title": "Can Test-Time Memory Evolution Outperform Test-Time Training for Scientific Discovery?",
+   "authors": "Yepeng Liu, Shengmai Chen, Xuandong Zhao, Chengzhi Liu et al.",
+   "abstract": "Recent test-time training (TTT) frameworks have enabled open-weight large language models (LLMs) to outperform inference-only frameworks powered by frontier models on scientific discovery tasks. However, TTT introduces additional computational cost for online weight updates during the discovery process, making computational efficiency an important consideration when scaling to larger models. This motivates us to explore an efficient test-time adaptation method for scientific discovery. We introduce Test-Time Memory Evolution (TTME), a plug-and-play test-time adaptation method, as an alternative to TTT. TTME continually updates the external memory by distilling the experience to guide subsequent discovery without updating model weights. To have a clean comparison, we evaluate TTME and TTT under the same discovery framework, replacing only the test-time adaptation method. Our evaluation shows that TTME outperforms TTT on all five mathematical tasks, while reducing computational cost by 82.8-84.6% in FLOPs and 47.7-58.4% in runtime. These results establish TTME as an effective and…",
+   "published": "2026-10-23T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.32046",
+   "pdf": "https://arxiv.org/pdf/2610.32046",
+   "upvotes": 133,
+   "github": "https://github.com/yepengliu/TTME",
+   "origin": "hf",
+   "ai_summary": "Test-Time Memory Evolution updates external memory without changing model weights to guide scientific discovery more efficiently than test-time training.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.40379",
+   "title": "Agentic LLM reasoning in pediatric diabetes outcome prediction from multimodal medical records",
+   "authors": "Daniel Palacios, Guantong Qi, Anna Kadi, Natali Borrego et al.",
+   "abstract": "Large language model (LLM) agents are proposed for clinical prediction but are untested in pediatrics, where cohorts are small and outcomes are uncommon. Using records from 2,489 youth with type 2 diabetes (T2D) and 4,018 with type 1 diabetes (T1D), spanning structured data, note-derived social determinants and, in T1D, continuous glucose monitoring data, we predicted seven T2D outcomes, four also in T1D, at 24 months from 18 months of follow-up. CEDAR (Clinical Evidence-Driven Agent for Risk-prediction), an evidence-citing, self-auditing LLM pipeline, outperformed trained machine learning in both cohorts (pooled area under the receiver operating characteristic curve 0.815 versus 0.656 to 0.700 in T2D and 0.756 versus 0.603 to 0.631 in T1D), most on the sparsely screened outcomes. Only 4 of 70,246 values it cited did not match the chart. Reading only the evidence and reasoning cited by CEDAR, two pediatric endocrinologists reached the same prediction as CEDAR in about nine of ten cases, agreeing with each other on 90.5%.",
+   "published": "2026-10-29T16:23:47Z",
+   "url": "https://arxiv.org/abs/2610.40379",
+   "pdf": "https://arxiv.org/pdf/2610.40379",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "q-bio.QM",
+    "cs.CL"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.40350",
+   "title": "Don't Lose the Thread: Empowering Long-Horizon LLM Agents with Cognitive Resource Self-Allocation",
+   "authors": "Zheng Zhu, Xiaozhuan Liang, Xi Chen, Bei Yu et al.",
+   "abstract": "Agents powered by large language models (LLMs) have demonstrated remarkable progress in solving complex reasoning tasks. However, LLM agents often falter on long-horizon tasks due to cognitive overload, as their working memory becomes cluttered with expanding and irrelevant information, which dilutes their attention and hinders effective planning and reasoning. To mitigate this challenge, we introduce Cognitive Resource Self-Allocation (CORAL), a novel reasoning paradigm that empowers agents to proactively optimize their context. Implemented as an agent-callable working memory management toolset, CORAL allows an agent to checkpoint its task progress and verified facts, and adaptively initiate a new problem-solving episode by resetting cluttered context while preserving only the checkpointed information, enabling it to resume reasoning from a clean state. We further enhance the agent's checkpointing capabilities using a Multi-episode Agentic Reinforced Policy Optimization algorithm. On the GAIA benchmark, CORAL with an 8B model achieves 42.8% average accuracy, with particularly…",
+   "published": "2026-10-29T16:07:10Z",
+   "url": "https://arxiv.org/abs/2610.40350",
+   "pdf": "https://arxiv.org/pdf/2610.40350",
+   "upvotes": 0,
+   "github": "https://github.com/JIA-Lab-research/CORAL",
+   "origin": "arxiv",
+   "categories": [
+    "cs.CL"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.40532",
+   "title": "BURGER: Benchmarking and Understanding Robotic Generalization via Embodied Drawing",
+   "authors": "Xiangyu Xu, Bangshuai Peng, Ziyi Liu, Mengjie Zhao et al.",
+   "abstract": "How effectively can vision-language-action (VLA) models learn diverse language-conditioned behaviors as training data scales? Investigating this question requires large and varied robot datasets, whose collection on physical robots remains costly. We introduce BURGER, a language-conditioned robotic drawing benchmark with a scalable, prompt-driven pipeline for generating continuous drawing trajectories, both in simulation and the real world. In BURGER, an agent starts from the same blank canvas and controls a robot arm to draw the object or spatial composition specified by language, while each instruction allows an open-ended variety of valid drawings and stroke orders. Using 28,200 simulated demonstrations spanning 282 drawing tasks, we evaluate five representative VLA models across data scales, language grounding, and multimodal behavior. BURGER supports fine-grained analysis of language grounding, spatial composition, and action generation, revealing distinct failure patterns across VLA models. Our experiments suggest that some VLA models can benefit from greater task diversity…",
+   "published": "2026-10-29T17:34:04Z",
+   "url": "https://arxiv.org/abs/2610.40532",
+   "pdf": "https://arxiv.org/pdf/2610.40532",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.RO",
+    "cs.AI"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.40370",
+   "title": "The Athlete as a Scientist of One: Agentic Bayesian Experimental Design for Individualized Physiology from Consumer Wearables",
+   "authors": "Behnam Moradi",
+   "abstract": "Large language model (LLM) agents for personal health read wearable data and recommend, but do not learn about the individual in a way that can be audited or falsified. We present EpiCoach, an agentic system that treats one athlete, a cross-country mountain biker, as the subject of accountable N-of-1 science. Claims about the athlete live in an evidence-gated hypothesis registry: each must issue a probabilistic prediction about a future session before it occurs, and its belief moves only through computed evidence from a logged statistical fit. Predictions come from a mechanistic digital twin inferred from heart rate, GPS and barometric altitude: a lagged heart-rate response model, a fitness-fatigue model with learned time constants, and a latent technical-descending skill state, measured on discovered trail segments. The agent prescribes the next training week as a constrained experiment maximizing information gain subject to load and safety constraints, around two instrument rides. We evaluate the system two ways over eighteen months of data. A rolling-origin replay benchmark shows…",
+   "published": "2026-10-29T16:20:24Z",
+   "url": "https://arxiv.org/abs/2610.40370",
+   "pdf": "https://arxiv.org/pdf/2610.40370",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.RO",
+    "cs.AI"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.40238",
+   "title": "ScienceJudge: Pattern Perturbation Augmentation for Sentence-Level Scientific Claim Verification",
+   "authors": "Chuhai Cai, Xin Chen, Min Yang, Feng Jiang",
+   "abstract": "Sentence-level scientific claim verification determines whether each sentence in an AI-generated scientific paragraph is supported by a given multimodal evidence bundle. Fine-grained reporting errors often preserve fluent and plausible statements while introducing subtle evidence-claim deviations, making them difficult to detect under sparse and imbalanced supervision. We propose Pattern Perturbation Augmentation (PPA), which models reporting errors as label-specific faithfulness breaking transformations and induces reusable error patterns from labeled examples. PPA applies these patterns to supported claims to construct controlled hard negatives and expands their coverage through pattern-level, operation-level, and cross-domain augmentation. Based on these augmented views, we develop ScienceJudge, which integrates PPA-trained vision-language predictors and instruction-guided LLM predictors through class-weighted ensemble inference. On the local development set, ScienceJudge improves the average score from 0.8124 to 0.8692, achieving a Macro-F1 of 0.8466 and a Paragraph Exact Match…",
+   "published": "2026-10-29T15:12:35Z",
+   "url": "https://arxiv.org/abs/2610.40238",
+   "pdf": "https://arxiv.org/pdf/2610.40238",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CL"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "classics": [
+  {
+   "id": "2402.03300",
+   "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+   "year": 2024,
+   "authors": "Zhihong Shao, Peiyi Wang, Qi-Hao Zhu et al.",
+   "abstract": "Mathematical reasoning poses a significant challenge for language models due to its complex and structured nature. In this paper, we introduce DeepSeekMath 7B, which continues pre-training DeepSeek-Coder-Base-v1.5 7B with 120B math-related tokens sourced from Common Crawl, together with natural language and code data. DeepSeekMath 7B has achieved an impressive score of 51.7% on the competition-level MATH benchmark without relying on external toolkits and voting techniques, approaching the performance level of Gemini-Ultra and GPT-4. Self-consistency over 64 samples from DeepSeekMath 7B achieves 60.9% on MATH. The mathematical reasoning capability of DeepSeekMath is attributed to two key…",
+   "citations": 10591,
+   "url": "https://arxiv.org/abs/2402.03300",
+   "cited_by": [
+    "Multiscale Policy Optimization for Long-Horizon LLM Agents",
+    "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement",
+    "Can Test-Time Memory Evolution Outperform Test-Time Training for Scientific Discovery?"
+   ],
+   "why": "Cité par 3 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2006.11239",
+   "title": "Denoising Diffusion Probabilistic Models",
+   "year": 2020,
+   "authors": "Jonathan Ho, Ajay Jain, P. Abbeel",
+   "abstract": "We present high quality image synthesis results using diffusion probabilistic models, a class of latent variable models inspired by considerations from nonequilibrium thermodynamics. Our best results are obtained by training on a weighted variational bound designed according to a novel connection between diffusion probabilistic models and denoising score matching with Langevin dynamics, and our models naturally admit a progressive lossy decompression scheme that can be interpreted as a generalization of autoregressive decoding. On the unconditional CIFAR10 dataset, we obtain an Inception score of 9.46 and a state-of-the-art FID score of 3.17. On 256x256 LSUN, we obtain sample quality…",
+   "citations": 37281,
+   "url": "https://arxiv.org/abs/2006.11239",
+   "cited_by": [
+    "Intrinsic Distribution Matching"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2011.13456",
+   "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+   "year": 2020,
+   "authors": "Yang Song, Jascha Narain Sohl-Dickstein, Diederik P. Kingma et al.",
+   "abstract": "Creating noise from data is easy; creating data from noise is generative modeling. We present a stochastic differential equation (SDE) that smoothly transforms a complex data distribution to a known prior distribution by slowly injecting noise, and a corresponding reverse-time SDE that transforms the prior distribution back into the data distribution by slowly removing the noise. Crucially, the reverse-time SDE depends only on the time-dependent gradient field (\\aka, score) of the perturbed data distribution. By leveraging advances in score-based generative modeling, we can accurately estimate these scores with neural networks, and use numerical SDE solvers to generate samples. We show that…",
+   "citations": 12897,
+   "url": "https://arxiv.org/abs/2011.13456",
+   "cited_by": [
+    "Intrinsic Distribution Matching"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2210.02747",
+   "title": "Flow Matching for Generative Modeling",
+   "year": 2022,
+   "authors": "Y. Lipman, Ricky T. Q. Chen, Heli Ben-Hamu et al.",
+   "abstract": "We introduce a new paradigm for generative modeling built on Continuous Normalizing Flows (CNFs), allowing us to train CNFs at unprecedented scale. Specifically, we present the notion of Flow Matching (FM), a simulation-free approach for training CNFs based on regressing vector fields of fixed conditional probability paths. Flow Matching is compatible with a general family of Gaussian probability paths for transforming between noise and data samples -- which subsumes existing diffusion paths as specific instances. Interestingly, we find that employing FM with diffusion paths results in a more robust and stable alternative for training diffusion models. Furthermore, Flow Matching opens the…",
+   "citations": 7433,
+   "url": "https://arxiv.org/abs/2210.02747",
+   "cited_by": [
+    "Intrinsic Distribution Matching"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2103.03874",
+   "title": "Measuring Mathematical Problem Solving With the MATH Dataset",
+   "year": 2021,
+   "authors": "Dan Hendrycks, Collin Burns, Saurav Kadavath et al.",
+   "abstract": "Many intellectual endeavors require mathematical problem solving, but this skill remains beyond the capabilities of computers. To measure this ability in machine learning models, we introduce MATH, a new dataset of 12,500 challenging competition mathematics problems. Each problem in MATH has a full step-by-step solution which can be used to teach models to generate answer derivations and explanations. To facilitate future research and increase accuracy on MATH, we also contribute a large auxiliary pretraining dataset which helps teach models the fundamentals of mathematics. Even though we are able to increase accuracy on MATH, our results show that accuracy remains relatively low, even with…",
+   "citations": 7180,
+   "url": "https://arxiv.org/abs/2103.03874",
+   "cited_by": [
+    "Your Benchmark Is an Empirical Measure Over Difficulty"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2304.03442",
+   "title": "Generative Agents: Interactive Simulacra of Human Behavior",
+   "year": 2023,
+   "authors": "J. Park, Joseph O'Brien, C. Cai et al.",
+   "abstract": "Believable proxies of human behavior can empower interactive applications ranging from immersive environments to rehearsal spaces for interpersonal communication to prototyping tools. In this paper, we introduce generative agents: computational software agents that simulate believable human behavior. Generative agents wake up, cook breakfast, and head to work; artists paint, while authors write; they form opinions, notice each other, and initiate conversations; they remember and reflect on days past as they plan the next day. To enable generative agents, we describe an architecture that extends a large language model to store a complete record of the agent’s experiences using natural…",
+   "citations": 6276,
+   "url": "https://arxiv.org/abs/2304.03442",
+   "cited_by": [
+    "Multiscale Policy Optimization for Long-Horizon LLM Agents"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2307.01952",
+   "title": "SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis",
+   "year": 2023,
+   "authors": "Dustin Podell, Zion English, Kyle Lacey et al.",
+   "abstract": "We present SDXL, a latent diffusion model for text-to-image synthesis. Compared to previous versions of Stable Diffusion, SDXL leverages a three times larger UNet backbone: The increase of model parameters is mainly due to more attention blocks and a larger cross-attention context as SDXL uses a second text encoder. We design multiple novel conditioning schemes and train SDXL on multiple aspect ratios. We also introduce a refinement model which is used to improve the visual fidelity of samples generated by SDXL using a post-hoc image-to-image technique. We demonstrate that SDXL shows drastically improved performance compared the previous versions of Stable Diffusion and achieves results…",
+   "citations": 5703,
+   "url": "https://arxiv.org/abs/2307.01952",
+   "cited_by": [
+    "Intrinsic Distribution Matching"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2305.20050",
+   "title": "Let's Verify Step by Step",
+   "year": 2023,
+   "authors": "H. Lightman, V. Kosaraju, Yura Burda et al.",
+   "abstract": "In recent years, large language models have greatly improved in their ability to perform complex multi-step reasoning. However, even state-of-the-art models still regularly produce logical mistakes. To train more reliable models, we can turn either to outcome supervision, which provides feedback for a final result, or process supervision, which provides feedback for each intermediate reasoning step. Given the importance of training reliable models, and given the high cost of human feedback, it is important to carefully compare the both methods. Recent work has already begun this comparison, but many questions still remain. We conduct our own investigation, finding that process supervision…",
+   "citations": 5263,
+   "url": "https://arxiv.org/abs/2305.20050",
+   "cited_by": [
+    "Your Benchmark Is an Empirical Measure Over Difficulty"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "stats": {
+  "raw_news": 43,
+  "stories": 10,
+  "videos": 3,
+  "papers": 15,
+  "classics": 8,
+  "seconds": 151
+ }
+}

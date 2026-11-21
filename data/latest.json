@@ -1,0 +1,677 @@
+{
+ "generated_at": "2026-11-21T12:46:46.166357+00:00",
+ "date": "2026-11-21",
+ "tldr": {
+  "headline": "Les titres du jour",
+  "points": [
+   {
+    "title": "ClawDOS – An AI coding agent for DOS",
+    "text": "89 points · 24 commentaires",
+    "ref": "news:d5eeee1878b5"
+   },
+   {
+    "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+    "text": "Generative AI",
+    "ref": "news:064d8fb5049e"
+   },
+   {
+    "title": "Google rolls out new search homepage with AI chat history and no search button",
+    "text": "Google search is making it even easier to access AI tools on the search page.",
+    "ref": "news:5a49fd4a2d77"
+   },
+   {
+    "title": "US SEC's Nvidia probe is examining potential accounting issues – sources",
+    "text": "291 points · 156 commentaires",
+    "ref": "news:c72cb9838d98"
+   },
+   {
+    "title": "Show HN: OpenComputer – an open source alternative to Devin",
+    "text": "107 points · 32 commentaires",
+    "ref": "news:00dcab6deae0"
+   }
+  ],
+  "generated": false
+ },
+ "tldr_en": {
+  "headline": "Today's headlines",
+  "points": [
+   {
+    "title": "ClawDOS – An AI coding agent for DOS",
+    "text": "89 points · 24 commentaires",
+    "ref": "news:d5eeee1878b5"
+   },
+   {
+    "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+    "text": "Generative AI",
+    "ref": "news:064d8fb5049e"
+   },
+   {
+    "title": "Google rolls out new search homepage with AI chat history and no search button",
+    "text": "Google search is making it even easier to access AI tools on the search page.",
+    "ref": "news:5a49fd4a2d77"
+   },
+   {
+    "title": "US SEC's Nvidia probe is examining potential accounting issues – sources",
+    "text": "291 points · 156 commentaires",
+    "ref": "news:c72cb9838d98"
+   },
+   {
+    "title": "Show HN: OpenComputer – an open source alternative to Devin",
+    "text": "107 points · 32 commentaires",
+    "ref": "news:00dcab6deae0"
+   }
+  ],
+  "generated": false
+ },
+ "news": [
+  {
+   "id": "d5eeee1878b5",
+   "title": "ClawDOS – An AI coding agent for DOS",
+   "url": "http://ricapar.net/ClawDOS/",
+   "source": "Hacker News",
+   "published": "2026-11-21T05:38:01+00:00",
+   "summary": "89 points · 24 commentaires",
+   "image": null,
+   "signal": 89,
+   "discussion": "https://news.ycombinator.com/item?id=50586292",
+   "score": 4.75,
+   "also": []
+  },
+  {
+   "id": "064d8fb5049e",
+   "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+   "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+   "source": "Google Research",
+   "published": "2026-11-20T23:30:30+00:00",
+   "summary": "Generative AI",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/Duplex1-TasksInGeminiHero.png",
+   "signal": 0,
+   "score": -0.66,
+   "also": []
+  },
+  {
+   "id": "5a49fd4a2d77",
+   "title": "Google rolls out new search homepage with AI chat history and no search button",
+   "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+   "source": "Ars Technica",
+   "published": "2026-11-20T21:58:29+00:00",
+   "summary": "Google search is making it even easier to access AI tools on the search page.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-1152x648.jpg",
+   "signal": 0,
+   "score": -0.74,
+   "also": []
+  },
+  {
+   "id": "c72cb9838d98",
+   "title": "US SEC's Nvidia probe is examining potential accounting issues – sources",
+   "url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
+   "source": "Hacker News",
+   "published": "2026-11-20T20:22:41+00:00",
+   "summary": "291 points · 156 commentaires",
+   "image": null,
+   "signal": 291,
+   "discussion": "https://news.ycombinator.com/item?id=50581438",
+   "score": 3.73,
+   "also": []
+  },
+  {
+   "id": "00dcab6deae0",
+   "title": "Show HN: OpenComputer – an open source alternative to Devin",
+   "url": "https://github.com/diggerhq/opencomputer",
+   "source": "Hacker News",
+   "published": "2026-11-20T20:19:56+00:00",
+   "summary": "107 points · 32 commentaires",
+   "image": null,
+   "signal": 107,
+   "discussion": "https://news.ycombinator.com/item?id=50581403",
+   "score": 4.43,
+   "also": []
+  },
+  {
+   "id": "be8226d8a1bb",
+   "title": "Vibecoding an inference chip",
+   "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+   "source": "Hacker News",
+   "published": "2026-11-20T18:15:16+00:00",
+   "summary": "158 points · 63 commentaires",
+   "image": null,
+   "signal": 158,
+   "discussion": "https://news.ycombinator.com/item?id=50579297",
+   "score": 4.63,
+   "also": []
+  },
+  {
+   "id": "321223b3abbe",
+   "title": "Google workers tell their employer not to punish schools that don't want AI",
+   "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+   "source": "Hacker News",
+   "published": "2026-11-20T16:59:27+00:00",
+   "summary": "277 points · 214 commentaires",
+   "image": null,
+   "signal": 277,
+   "discussion": "https://news.ycombinator.com/item?id=50577901",
+   "score": 3.52,
+   "also": []
+  },
+  {
+   "id": "6a5063e8d8f0",
+   "title": "AI is giving everyone the same advice",
+   "url": "https://a90.com/experiments/same-advice/",
+   "source": "Hacker News",
+   "published": "2026-11-20T16:58:05+00:00",
+   "summary": "93 points · 38 commentaires",
+   "image": null,
+   "signal": 93,
+   "discussion": "https://news.ycombinator.com/item?id=50577872",
+   "score": 2.65,
+   "also": []
+  },
+  {
+   "id": "9fe3e937f57a",
+   "title": "Language Models Can Rewrite Their Own Weights",
+   "url": "https://arxiv.org/abs/2611.21885",
+   "source": "Hacker News",
+   "published": "2026-11-20T16:29:06+00:00",
+   "summary": "428 points · 126 commentaires",
+   "image": null,
+   "signal": 428,
+   "discussion": "https://news.ycombinator.com/item?id=50577265",
+   "score": 3.84,
+   "also": []
+  },
+  {
+   "id": "fd2811614640",
+   "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+   "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+   "source": "Hacker News",
+   "published": "2026-11-20T13:29:59+00:00",
+   "summary": "353 points · 648 commentaires",
+   "image": null,
+   "signal": 353,
+   "discussion": "https://news.ycombinator.com/item?id=50574383",
+   "score": 3.54,
+   "also": []
+  }
+ ],
+ "videos": [
+  {
+   "id": "KGA7B_c_S4s",
+   "title": "Anthropic IPOs, GPT 6.2 Astra Arrives, But There’s a Bigger Story",
+   "url": "https://www.youtube.com/watch?v=KGA7B_c_S4s",
+   "channel": "AI Explained",
+   "published": "2026-11-19T20:03:10+00:00",
+   "thumbnail": "https://i4.ytimg.com/vi/KGA7B_c_S4s/hqdefault.jpg",
+   "views": 117724,
+   "description": "GPT 6.2 Astra is OpenAI’s best model, so for each of the last 4 years this would have been the only headline. But now Gemini is catching up fast, with 4 Carbon and Neon, and Anthropic are IPO-ing after promising…",
+   "relevance": 0
+  },
+  {
+   "id": "FORdPIWOH5k",
+   "title": "Gemini and the path to AGI with Koray Kavukcuoglu",
+   "url": "https://www.youtube.com/watch?v=FORdPIWOH5k",
+   "channel": "Google DeepMind",
+   "published": "2026-11-19T19:58:06+00:00",
+   "thumbnail": "https://i3.ytimg.com/vi/FORdPIWOH5k/hqdefault.jpg",
+   "views": 74323,
+   "description": "Seven years after their last conversation at Google DeepMind’s London office, Professor Hannah Fry reunites with Koray Kavukcuoglu, SVP at Google DeepMind and Chief AI Architect at Google. Back then, DeepMind was…",
+   "relevance": 0
+  },
+  {
+   "id": "io7qhEjJoik",
+   "title": "What a Squirrel Knows That Language Models Skip (Michael Tomasello)",
+   "url": "https://www.youtube.com/watch?v=io7qhEjJoik",
+   "channel": "Machine Learning Street Talk",
+   "published": "2026-11-19T14:22:11+00:00",
+   "thumbnail": "https://i2.ytimg.com/vi/io7qhEjJoik/hqdefault.jpg",
+   "views": 11270,
+   "description": "Michael Tomasello is a developmental psychologist who spent twenty years at the Max Planck Institute in Germany putting children and great apes into the same experiments, and is now back at Duke University. His book The…",
+   "relevance": 0
+  },
+  {
+   "id": "Cy7Wz6Z4TWU",
+   "title": "DeepMind Just Released The Best Thing AI Ever Did",
+   "url": "https://www.youtube.com/watch?v=Cy7Wz6Z4TWU",
+   "channel": "Two Minute Papers",
+   "published": "2026-11-19T09:26:19+00:00",
+   "thumbnail": "https://i4.ytimg.com/vi/Cy7Wz6Z4TWU/hqdefault.jpg",
+   "views": 189276,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The DeepMind AlphaGenome paper is available here:…",
+   "relevance": 0
+  },
+  {
+   "id": "pVc6KkjeCfU",
+   "title": "Behind the scenes with Genie 4",
+   "url": "https://www.youtube.com/watch?v=pVc6KkjeCfU",
+   "channel": "Google DeepMind",
+   "published": "2026-11-18T18:12:24+00:00",
+   "thumbnail": "https://i1.ytimg.com/vi/pVc6KkjeCfU/hqdefault.jpg",
+   "views": 21404,
+   "description": "Go behind the scenes of our recent Genie 4 film as we explore our most realistic and interactive world model yet. Instead of generating static video, Genie 4 simulates dynamic worlds in real time. Watch how our team…",
+   "relevance": 0
+  },
+  {
+   "id": "EDp4IoAUsXY",
+   "title": "Introducing the new Project Genie, powered by Genie 4",
+   "url": "https://www.youtube.com/watch?v=EDp4IoAUsXY",
+   "channel": "Google DeepMind",
+   "published": "2026-11-18T18:12:21+00:00",
+   "thumbnail": "https://i2.ytimg.com/vi/EDp4IoAUsXY/hqdefault.jpg",
+   "views": 106519,
+   "description": "Step inside your imagination with Project Genie, now powered by Google DeepMind’s most realistic and interactive world model yet, Genie 4. Project Genie brings our most advanced world and multimodal models together with…",
+   "relevance": 1
+  },
+  {
+   "id": "qbsb9DpdZ6s",
+   "title": "This algorithm changed how I think about compression | Information theory, part 3",
+   "url": "https://www.youtube.com/watch?v=qbsb9DpdZ6s",
+   "channel": "3Blue1Brown",
+   "published": "2026-11-17T16:43:16+00:00",
+   "thumbnail": "https://i2.ytimg.com/vi/qbsb9DpdZ6s/hqdefault.jpg",
+   "views": 1204445,
+   "description": "Arithmetic codes and what they reflect about compression & intelligence Channel career fair: https://3b1b.com/talent New store items! https://3b1b.com/store Early views for supporters: https://3b1b.com/support On…",
+   "relevance": 0
+  },
+  {
+   "id": "gl2U4fGTr6g",
+   "title": "OpenAI's New Breakthrough Is... Utter Chaos",
+   "url": "https://www.youtube.com/watch?v=gl2U4fGTr6g",
+   "channel": "Two Minute Papers",
+   "published": "2026-11-17T12:46:24+00:00",
+   "thumbnail": "https://i4.ytimg.com/vi/gl2U4fGTr6g/hqdefault.jpg",
+   "views": 216675,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://www.kitp.ucsb.edu/sites/default/files/YM_working_group.pdf…",
+   "relevance": 0
+  }
+ ],
+ "papers": [
+  {
+   "id": "2611.24738",
+   "title": "Jeveration: System One Models Now Generate",
+   "authors": "Yuhe Liu, Qi Li, Shihua Zhang, Xinchao Wang",
+   "abstract": "System One models such as Jev return decisions through fast, parallel prediction. In this paper, we introduce Jeveration, showing that the same decision paradigm can also generate high-quality images in a single forward pass. Jeveration builds on a frozen vision-language model, repurposing its visual-semantic knowledge for holistic image generation. The key challenge is to maintain global consistency. A single prompt admits many valid images, yet parallel predictions must converge on a coherent whole. We therefore condition all positions on a shared random state to coordinate parallel predictions, so that each draw yields a different but coherent image. Since the model tends to ignore this state under direct image supervision, we first learn a distribution over discrete image codes to guide single-pass generation. Beyond text-to-image generation, we further unify image-to-image generation and dense prediction within the same architecture, so that one checkpoint supports all three tasks, each in one forward pass. Experiments show that Jeveration generates a 512x512 image in 78 ms, up…",
+   "published": "2026-11-18T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.24738",
+   "pdf": "https://arxiv.org/pdf/2611.24738",
+   "upvotes": 148,
+   "github": "https://github.com/Carol-lyh/Jeveration",
+   "origin": "hf",
+   "ai_summary": "Jeveration repurposes a frozen vision-language model to generate coherent images and perform image-to-image and dense prediction tasks in a single forward pass with fast 512x512 generation.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.14848",
+   "title": "Tideway: Phase-Aware Tiered Memory Management for MoE Inference on Consumer Devices",
+   "authors": "Yifei Wang, Tsun-yu Yang, Yechen Xu, Hancheng Ye et al.",
+   "abstract": "Large language model (LLM) agents are rapidly becoming a dominant paradigm for AI applications. Recently, there is a growing demand to deploy large-scale Mixture-of-Experts (MoE) models locally on consumer PCs to balance data privacy, API costs, and inference efficiency. However, unlike datacenter servers with abundant DRAM, consumer devices are tightly constrained in both GPU VRAM and host RAM, forcing massive MoE weights to spill across VRAM, host RAM, and SSD. Under such spilling, we observe that existing systems fail to fully utilize this memory hierarchy, treating the tiers as independent caches and thrashing in inference. We present TIDEWAY, a system for efficient inference of large MoE models on memory-constrained consumer devices. Our core insight is to manage host RAM and GPU VRAM as a unified memory pool. Within this pool, TIDEWAY couples phase-aware memory layouts, which adapt to the distinct access patterns of prefill and decode, with an execution engine that optimizes CUDA Graph execution under expert paging. Our evaluations on representative consumer hardware with…",
+   "published": "2026-11-10T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.14848",
+   "pdf": "https://arxiv.org/pdf/2611.14848",
+   "upvotes": 66,
+   "github": "https://github.com/Afterglow231/Tideway",
+   "origin": "hf",
+   "ai_summary": "TIDEWAY enables efficient inference of large Mixture-of-Experts models on memory-constrained consumer devices by treating host RAM and GPU VRAM as a unified memory pool with phase-aware layouts and optimized CUDA Graph execution under expert paging.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.21373",
+   "title": "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
+   "authors": "Yipeng Du, Yuxi Li, Ying Zhang, Chong Sun et al.",
+   "abstract": "Recent advances in video generation call for reliable detection grounded in explicit forensic evidence. However, current methods primarily depend on single-pass chain-of-thought reasoning that overlooks brief or localized artifacts, or on predefined multi-agent workflows that offer limited flexibility in selecting relevant inspections. Even with adaptive investigation, optimizing the investigation policy alone does not directly improve the forensic capabilities of fixed experts. We introduce WeVisForensics, an agentic framework in which a main investigator agent coordinates a self-evolving library of forensic inspector sub-agents spanning visual and audio cues. The investigator learns which artifact type to examine, over which window, and when to conclude, and these interactions provide shared feedback for both levels of agents. Our dual-timescale policy optimization strategy, DTPO, closes this loop through fast reinforcement learning of the investigator and slower refinement of the inspectors, guided by annotated artifact intervals, to report subtle artifacts they once dismissed.…",
+   "published": "2026-11-16T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.21373",
+   "pdf": "https://arxiv.org/pdf/2611.21373",
+   "upvotes": 51,
+   "github": "https://github.com/Tencent/WeVisForensics",
+   "origin": "hf",
+   "ai_summary": "WeVisForensics coordinates self-evolving visual and audio forensic inspector agents under a dual-timescale reinforcement learning policy to detect generated-video artifacts with localized evidence and high accuracy.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.26444",
+   "title": "Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation",
+   "authors": "Yuzhi Huang, Jie Wu, Fanding Huang, Junchao Lin et al.",
+   "abstract": "Embodied intelligence aims to let robots perform complex physical tasks with human-like adaptability and reliability, which requires three complementary capabilities: history-based cognitive reasoning, precise and timely physical execution, and the composition of reasoning and execution through environmental feedback. Yet existing benchmarks either evaluate reasoning and execution within the same tasks or assess them separately without their composition, so they reveal little about whether a failure comes from reasoning, execution, or their composition. We introduce Mind2Act World, a diagnostic benchmark of 30 simulated manipulation tasks from five real-world application domains. Each task has three difficulty levels and two scene settings (Clean and Random), yielding 180 configurations. The tasks form three views: Mind tests decisions based on past observations, Act tests precise and timely execution, and Mind2Act combines both in closed-loop tasks where action outcomes guide later decisions. Comparing the three views shows whether a system lacks a capability or fails to compose…",
+   "published": "2026-11-19T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.26444",
+   "pdf": "https://arxiv.org/pdf/2611.26444",
+   "upvotes": 48,
+   "github": "https://github.com/Mind2Act/Mind2Act_World",
+   "origin": "hf",
+   "ai_summary": "A diagnostic benchmark of 180 simulated manipulation configurations evaluates whether embodied systems can combine history-based reasoning, precise execution, and closed-loop environmental feedback, revealing that single-view competence does not transfer to composed tasks.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.26590",
+   "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
+   "authors": "Jiahao Huang, Jun Wang",
+   "abstract": "Vision-language models (VLMs) integrate visual and textual information, but their outputs do not reveal internal concept representations. Global workspace theory (GWT) proposes that information is selected from parallel brain processes, integrated in a shared workspace, and made available to specialised processes. We introduce the Multimodal Concept Lens (MC-Lens), a multimodal Jacobian lens, to study these functions in VLM concept processing. Its vision encoder and language decoder lenses map intermediate states to a shared semantic space defined by the decoder's output vocabulary to compare concept accessibility across modalities. MC-Lens supports internal concept interventions to examine the role of accessed concepts in downstream computation. (i) Accessibility and selective access. Multimodal concept information is readable in intermediate states and selectively accessible as tasks require. We extend \"readout carriers\" from one name token to a token set to better capture and express concept information and support counterfactual experiments. (ii) Concepts in downstream…",
+   "published": "2026-11-19T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.26590",
+   "pdf": "https://arxiv.org/pdf/2611.26590",
+   "upvotes": 41,
+   "github": null,
+   "origin": "hf",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.26409",
+   "title": "WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding",
+   "authors": "Changli Tang, Jie Yang, Tianyi Wang, Lei Li et al.",
+   "abstract": "Video understanding, particularly with accompanying audio, remains a central challenge in multimodal intelligence. In this report, we introduce WeMM-Video, a family of Chinese-English bilingual omni-modal foundation models spanning 2B, 4B, 9B, and 35B-A3B variants. Centering on joint audio-visual perception and reasoning, WeMM-Video unifies text, image, audio, and video processing within a hybrid-thinking paradigm, seamlessly supporting both a non-thinking instruct mode for fast, direct responses and a thinking mode for explicit step-by-step reasoning. The models are trained on a large-scale multimodal corpus of approximately 1.2 trillion tokens through progressive pre-training and a multi-stage post-training pipeline incorporating multi-teacher OPD, anti-repetition MrDPO, and specialist RL. Evaluated across more than 120 benchmarks, WeMM-Video demonstrates superior performance in omni-modal video understanding and reasoning, while maintaining highly competitive capabilities across general audio, silent video, image, and text tasks. Specifically, in omni-modal video evaluations, our…",
+   "published": "2026-11-19T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.26409",
+   "pdf": "https://arxiv.org/pdf/2611.26409",
+   "upvotes": 40,
+   "github": "https://github.com/Tencent/WeMM-Video",
+   "origin": "hf",
+   "ai_summary": "WeMM-Video is a family of Chinese-English bilingual omni-modal foundation models that unify text, image, audio, and video processing for joint audio-visual perception and reasoning, using hybrid thinking modes and large-scale training to achieve strong open-source video understanding results.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.21366",
+   "title": "ALIVE: Making Streaming Video Models Interactive",
+   "authors": "Jinzhao Li, Yuan Xu, Jinxuan Wu, Yukun Wang et al.",
+   "abstract": "Streaming video LLMs can continuously observe the world, yet often handle user requests in isolation. We introduce ALIVE, an interactive streaming video model supporting proactive monitoring, streaming task coordination, and feedback-seeking interaction. We construct ALIVE-SFT-288K and ALIVE-RL-3K for two-stage training. Contrastive supervised fine-tuning teaches when and how to respond, while reinforcement learning with Behavior-Aligned Credit Assignment (BACA) combines trajectory-level and local advantages to refine decisions, responses, and silence across multi-turn interactions. We also introduce FSI-Bench to evaluate feedback seeking and subsequent task completion. ALIVE achieves the highest overall scores among the compared models on four public benchmarks and FSI-Bench, demonstrating strong streaming understanding and interactive capabilities.",
+   "published": "2026-11-16T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.21366",
+   "pdf": "https://arxiv.org/pdf/2611.21366",
+   "upvotes": 40,
+   "github": "https://github.com/lijinzhao30/ALIVE",
+   "origin": "hf",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.23068",
+   "title": "The Resolution Hypothesis: Agent Evolution's Key Is Identifying Improvements",
+   "authors": "Yuanhao Zeng, Shaocheng Lan, Ao Lu, Kuang Yan et al.",
+   "abstract": "Agent evolution follows a simple loop: a proposer writes candidate artifacts (prompts, skills, memories) and selection accepts those that score higher. This loop has shown promise, yet practitioners face a puzzle: methods trade wins across papers, and evolution often fails to bootstrap on certain tasks. We trace this puzzle to the Resolution Hypothesis: agent evolution stalls not because methods fail to propose better artifacts, but because noisy evaluations cannot reliably identify them. Across seven evolution methods and six models (over 10M LLM calls), we find support for the hypothesis at both levels where evaluation scores are used. At the candidate level (choosing artifacts), helpful candidate artifacts exist, but selection is no better than random at telling them from harmful ones, so errors accumulate across rounds. At the method level (ranking methods), typical margins of a few percentage points are smaller than the difference between two independent runs of the same method, so published rankings often rest on luck. Together, these findings indicate that agent evolution is…",
+   "published": "2026-11-17T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.23068",
+   "pdf": "https://arxiv.org/pdf/2611.23068",
+   "upvotes": 39,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "Agent evolution is often bottlenecked by noisy evaluations that cannot reliably identify better candidate artifacts or rank methods, so progress requires making true improvements detectable and accumulable.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.26629",
+   "title": "Posterior Matching Distillation",
+   "authors": "Hidir Yesiltepe, Julius Berner, Arash Vahdat, Pinar Yanardag",
+   "abstract": "Diffusion distillation accelerates image and video generation by compressing a pretrained teacher's iterative sampling process into a few network evaluations. Distribution-based methods achieve this by matching the student's output distribution to the teacher's. This matching is often driven by reverse-KL objectives, whose mode-seeking bias favors dominant teacher modes at the expense of diversity across samples. We introduce Posterior Matching Distillation (PMD), a new member of the distribution-based distillation family that combines mode-covering posterior sampling with any-step generation. At zero population loss, PMD recovers the teacher's full posterior of clean images at each trained noise level. Its stochastic student supports any-step sampling budgets within the trained timestep grid without further training. To learn these posteriors, PMD matches exponentially reweighted averages of student samples conditioned on a fixed noisy state to corresponding teacher posterior means. Under Gaussian corruption, exponentially tilted posterior mean is a single teacher evaluation at a…",
+   "published": "2026-11-19T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.26629",
+   "pdf": "https://arxiv.org/pdf/2611.26629",
+   "upvotes": 35,
+   "github": "https://github.com/yesiltepe-hidir/PMD",
+   "origin": "hf",
+   "ai_summary": "Posterior Matching Distillation trains a stochastic student to match a teacher diffusion model’s full posterior via tilted mean constraints, enabling high-quality few-step image generation without auxiliary score networks.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.26595",
+   "title": "Coda-DaVinci: Reimagining Video Generation with Code2Video",
+   "authors": "Yiyan Ji, Qixun Wang, Yang Shi, Zhuoran Zhang et al.",
+   "abstract": "Code2Video uses agent-authored 3D proxies to guide video generation, enabling explicit control over structure and dynamics. However, how to construct proxies and prompts for optimal downstream quality remains underexplored, as do the capabilities and limitations of this paradigm. Through controlled experiments and blinded human evaluation, we study proxy granularity, physics simulation, and prompting. The results reveal task-dependent trade-offs: coarse proxies favor natural motion, while medium-grained proxies favor consistency. Physics simulation and proxy-aligned prompting further improve average quality. Guided by these findings, we introduce Coda-DaVinci, a task-adaptive agentic framework for Code2Video generation that selects between proxy-guided and direct generation, adapts modeling granularity to each entity, and coordinates simulation with proxy-grounded prompting. Its multi-agent harness preserves scene assets and guides repairs through visual inspection and independent review. Experiments demonstrate leading instruction following on VTR and scene consistency on R2M,…",
+   "published": "2026-11-19T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.26595",
+   "pdf": "https://arxiv.org/pdf/2611.26595",
+   "upvotes": 34,
+   "github": "https://github.com/FrankYang-17/Coda",
+   "origin": "hf",
+   "ai_summary": "A task-adaptive agentic framework utilizes 3D proxies, physics simulation, and multi-agent coordination to enhance the structural control, physical plausibility, and visual realism of generated videos.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.26389",
+   "title": "ViDecide: Teaching Video Diffusion Models to Reason and Plan Step by Step",
+   "authors": "Kaiwen Zhang, Yiming Gao, Zeqi Xiao, Xintao Wang et al.",
+   "abstract": "Current leading video generation models can synthesize highly realistic videos, while still frequently violating physical and logical constraints in multi-step reasoning and planning, even after training with large-scale reasoning data or existing diffusion RL methods. We attribute these failures to the conventional video training paradigm, which treats a solution as a fixed-length clip rather than a chain of decisions. We present ViDecide, a decision-centric framework that trains video diffusion models to predict state transitions causally and decide when to stop, with a decision-focused training schedule. We further propose Corrective Fine-tuning (CFT), which corrects failed decisions by mapping their noise to the model's own successful continuations, achieving stable improvement without policy-gradient optimization. Across abstract games, planning tasks, and a new benchmark of multi-step robot planning, ViDecide achieves an average strict success rate of 83.8%, far above 23.3% for standard fine-tuning and 67.8% for the strongest prior method, and generalizes to larger puzzles and…",
+   "published": "2026-11-19T16:43:42Z",
+   "url": "https://arxiv.org/abs/2611.26389",
+   "pdf": "https://arxiv.org/pdf/2611.26389",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CV"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.26361",
+   "title": "How Much Should an Agent Remember? Deployment Lessons from Self-Distilled Memory for LLM Agents",
+   "authors": "K. R. Jayaram, Vatche Isahagian, Aswath Vaithinathan Aravindan, Vinod Muthusamy et al.",
+   "abstract": "LLM agents on long-horizon tasks fail in recurring, procedural ways. They mis-paginate an API, resolve the wrong entity, or answer when no answer was asked. We built a pipeline that lets an agent learn from its own history. It first mines short \\emph{lessons} from the agent's own trajectories, one to three per episode. It then consolidates those lessons into a smaller set of \\emph{guidelines}, where each guideline records how many lessons it merged. At inference the agent receives either all guidelines or a selected subset. The pipeline ships in the open-source altk-evolve library and is deployed in IBM's CUGA agent and watsonx Orchestrate platform. We report what we learned building, measuring, and productizing it. Our primary instrument is the AppWorld benchmark, across models spanning 40--92\\% baseline task completion. The central finding is that the right amount of memory is a property of the model, not the memory. A strong model keeps improving as guidelines are added. DeepSeek-V3.2 gains +9.5 points of task completion and +16.1 points of scenario completion with its full…",
+   "published": "2026-11-19T16:29:16Z",
+   "url": "https://arxiv.org/abs/2611.26361",
+   "pdf": "https://arxiv.org/pdf/2611.26361",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.AI"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.26264",
+   "title": "A Statistical Framework for Training Data Auditing of Large Language Models",
+   "authors": "Shengjie Niu, Yeheng Ge, Jian Huang",
+   "abstract": "Training-data auditing asks whether data of interest were used to train a large language model (LLM), a question central to privacy auditing, copyright protection, and benchmark-contamination detection. These concerns are particularly relevant to the use of copyrighted books and scientific papers in pre-training, as well as synthetic text and medical question-answer records in fine-tuning. In practice, training membership signals may be concentrated in only a few passages of a long document, making it important to aggregate evidence within each document without diluting these localized signals. Beyond individual documents, auditing a target collection requires an overall assessment based on the document-level evidence. In this paper, we propose a unified statistical framework for document-level membership inference, target-collection global auditing, and suspicious-subset identification. We integrate complementary chunk-level membership evidence with Cauchy combination to construct document scores for document-level membership inference. The document scores and their calibrated…",
+   "published": "2026-11-19T15:34:44Z",
+   "url": "https://arxiv.org/abs/2611.26264",
+   "pdf": "https://arxiv.org/pdf/2611.26264",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "stat.ML",
+    "cs.LG",
+    "stat.AP"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.26510",
+   "title": "AutoMaster: Autonomous Post-Training by Making the Same Model a Better Teacher",
+   "authors": "Guoxin Chen, Shuang Sun, Fanzhe Meng, Xinyu Tang et al.",
+   "abstract": "Task success alone does not specify which behaviors post-training should reinforce. Even successful teacher trajectories can contain unsupported assumptions, unproductive repetition, or superficial verification. We propose Skill-FT (Skill-Guided Fine-Tuning), which uses natural-language skills to suppress undesirable habits and elicit underrepresented effective behaviors during teacher rollouts, then fine-tunes a target model on the resulting trajectories. We introduce AutoMaster, an autonomous post-training system in which an LLM agent develops these interventions through trajectory analysis, skill design, data selection, and feedback from rollouts and target-model evaluation. Across Terminal, Search, and software engineering tasks with 4B and 9B target models, AutoMaster improves mean performance over Vanilla SFT on successful unguided teacher trajectories by 1.42-8.99 percentage points, with the teacher, task pool, training set size, and SFT recipe held fixed. Together with the ablations and trajectory analyses, these results suggest that behavioral shaping can make a fixed model…",
+   "published": "2026-11-19T17:57:59Z",
+   "url": "https://arxiv.org/abs/2611.26510",
+   "pdf": "https://arxiv.org/pdf/2611.26510",
+   "upvotes": 0,
+   "github": "https://github.com/RUCAIBox/AutoMaster",
+   "origin": "arxiv",
+   "categories": [
+    "cs.CL"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.26358",
+   "title": "Beam Model Technical Report",
+   "authors": "Reflection Team, Adam Abdulhamid, Osama Abuelsorour, Yasmin Alameddine et al.",
+   "abstract": "Beam is a sparse Mixture-of-Experts (MoE) model with 501.3B total parameters and 23.4B active parameters, specifically built and optimized for coding, reasoning, and agentic workloads. Beam delivers frontier level reasoning, while requiring 3-4x less inference compute than many models of its class. Pretrained on 23.8T diverse, curated, high-quality tokens, Beam features a 1M-token context window achieved through a novel two-stage midtraining phase, built on verifiable, correctness-anchored data. Post-training leveraged a large-scale, fully asynchronous reinforcement learning (RL) campaign across 10.5K GB300 GPUs, generating over 100M rollouts over 4 weeks of training. We believe this is one of the largest scale RL runs conducted by any open lab to date. Across our evaluation suite, capabilities continued to improve as we increased RL compute, with no sign of a plateau. Supported by deep hardware-model co-design, FP8/NVFP4 quantization, and a 1.93B-parameter speculative decoding drafter (DFlash 2), Beam maximizes serving throughput with efficient, flexible deployment. Averaged across…",
+   "published": "2026-11-19T16:28:23Z",
+   "url": "https://arxiv.org/abs/2611.26358",
+   "pdf": "https://arxiv.org/pdf/2611.26358",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CL",
+    "cs.AI"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "classics": [
+  {
+   "id": "2408.06072",
+   "title": "CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer",
+   "year": 2024,
+   "authors": "Zhuo-Yi Yang, Jia-Yan Teng, Wen-Di Zheng et al.",
+   "abstract": "We present CogVideoX, a large-scale text-to-video generation model based on diffusion transformer, which can generate 10-second continuous videos aligned with text prompt, with a frame rate of 16 fps and resolution of 768 * 1360 pixels. Previous video generation models often had limited movement and short durations, and is difficult to generate videos with coherent narratives based on text. We propose several designs to address these issues. First, we propose a 3D Variational Autoencoder (VAE) to compress videos along both spatial and temporal dimensions, to improve both compression rate and video fidelity. Second, to improve the text-video alignment, we propose an expert transformer with…",
+   "citations": 2732,
+   "url": "https://arxiv.org/abs/2408.06072",
+   "cited_by": [
+    "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
+    "Posterior Matching Distillation"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2303.01469",
+   "title": "Consistency Models",
+   "year": 2023,
+   "authors": "Yang Song, Prafulla Dhariwal, Mark Chen et al.",
+   "abstract": "Diffusion models have significantly advanced the fields of image, audio, and video generation, but they depend on an iterative sampling process that causes slow generation. To overcome this limitation, we propose consistency models, a new family of models that generate high quality samples by directly mapping noise to data. They support fast one-step generation by design, while still allowing multistep sampling to trade compute for sample quality. They also support zero-shot data editing, such as image inpainting, colorization, and super-resolution, without requiring explicit training on these tasks. Consistency models can be trained either by distilling pre-trained diffusion models, or as…",
+   "citations": 2518,
+   "url": "https://arxiv.org/abs/2303.01469",
+   "cited_by": [
+    "Jeveration: System One Models Now Generate",
+    "Posterior Matching Distillation"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2412.03603",
+   "title": "HunyuanVideo: A Systematic Framework For Large Video Generative Models",
+   "year": 2024,
+   "authors": "Wei-Jie Kong, Qi Tian, Zi-Jian Zhang et al.",
+   "abstract": "Recent advancements in video generation have significantly impacted daily life for both individuals and industries. However, the leading video generation models remain closed-source, resulting in a notable performance gap between industry capabilities and those available to the public. In this report, we introduce HunyuanVideo, an innovative open-source video foundation model that demonstrates performance in video generation comparable to, or even surpassing, that of leading closed-source models. HunyuanVideo encompasses a comprehensive framework that integrates several key elements, including data curation, advanced architectural design, progressive model scaling and training, and an…",
+   "citations": 1938,
+   "url": "https://arxiv.org/abs/2412.03603",
+   "cited_by": [
+    "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
+    "Posterior Matching Distillation"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2007.00398",
+   "title": "DocVQA: A Dataset for VQA on Document Images",
+   "year": 2020,
+   "authors": "Minesh Mathew, Dimosthenis Karatzas, R. Manmatha et al.",
+   "abstract": "We present a new dataset for Visual Question Answering (VQA) on document images called DocVQA. The dataset consists of 50,000 questions defined on 12,000+ document images. Detailed analysis of the dataset in comparison with similar datasets for VQA and reading comprehension is presented. We report several baseline results by adopting existing VQA and reading comprehension models. Although the existing models perform reasonably well on certain types of questions, there is large performance gap compared to human performance (94.36% accuracy). The models need to improve specifically on questions where understanding structure of the document is crucial. The dataset, code and leaderboard are…",
+   "citations": 1927,
+   "url": "https://arxiv.org/abs/2007.00398",
+   "cited_by": [
+    "WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding",
+    "The Resolution Hypothesis: Agent Evolution's Key Is Identifying Improvements"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2311.18828",
+   "title": "One-Step Diffusion with Distribution Matching Distillation",
+   "year": 2023,
+   "authors": "Tianwei Yin, Michaël Gharbi, Richard Zhang et al.",
+   "abstract": "Diffusion models generate high-quality images but require dozens of forward passes. We introduce Distribution Matching Distillation (DMD), a procedure to transform a diffusion model into a one-step image generator with minimal impact on image quality. We enforce the one-step image generator match the diffusion model at distribution level, by minimizing an approximate KL divergence whose gradient can be expressed as the difference between 2 score functions, one of the target distribution and the other of the synthetic distribution being produced by our one-step generator. The score functions are parameterized as two diffusion models trained separately on each distribution. Combined with a…",
+   "citations": 1317,
+   "url": "https://arxiv.org/abs/2311.18828",
+   "cited_by": [
+    "Jeveration: System One Models Now Generate",
+    "Posterior Matching Distillation"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2310.11513",
+   "title": "GenEval: An Object-Focused Framework for Evaluating Text-to-Image Alignment",
+   "year": 2023,
+   "authors": "Dhruba Ghosh, Hannaneh Hajishirzi, Ludwig Schmidt",
+   "abstract": "Recent breakthroughs in diffusion models, multimodal pretraining, and efficient finetuning have led to an explosion of text-to-image generative models. Given human evaluation is expensive and difficult to scale, automated methods are critical for evaluating the increasingly large number of new models. However, most current automated evaluation metrics like FID or CLIPScore only offer a holistic measure of image quality or image-text alignment, and are unsuited for fine-grained or instance-level analysis. In this paper, we introduce GenEval, an object-focused framework to evaluate compositional image properties such as object co-occurrence, position, count, and color. We show that current…",
+   "citations": 1241,
+   "url": "https://arxiv.org/abs/2310.11513",
+   "cited_by": [
+    "Jeveration: System One Models Now Generate",
+    "Posterior Matching Distillation"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2310.04378",
+   "title": "Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference",
+   "year": 2023,
+   "authors": "Simian Luo, Yiqin Tan, Long-Bo Huang et al.",
+   "abstract": "Latent Diffusion models (LDMs) have achieved remarkable results in synthesizing high-resolution images. However, the iterative sampling process is computationally intensive and leads to slow generation. Inspired by Consistency Models (song et al.), we propose Latent Consistency Models (LCMs), enabling swift inference with minimal steps on any pre-trained LDMs, including Stable Diffusion (rombach et al). Viewing the guided reverse diffusion process as solving an augmented probability flow ODE (PF-ODE), LCMs are designed to directly predict the solution of such ODE in latent space, mitigating the need for numerous iterations and allowing rapid, high-fidelity sampling. Efficiently distilled…",
+   "citations": 1098,
+   "url": "https://arxiv.org/abs/2310.04378",
+   "cited_by": [
+    "Jeveration: System One Models Now Generate",
+    "Posterior Matching Distillation"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2405.14867",
+   "title": "Improved Distribution Matching Distillation for Fast Image Synthesis",
+   "year": 2024,
+   "authors": "Tianwei Yin, Michaël Gharbi, Taesung Park et al.",
+   "abstract": "Recent approaches have shown promises distilling diffusion models into efficient one-step generators. Among them, Distribution Matching Distillation (DMD) produces one-step generators that match their teacher in distribution, without enforcing a one-to-one correspondence with the sampling trajectories of their teachers. However, to ensure stable training, DMD requires an additional regression loss computed using a large set of noise-image pairs generated by the teacher with many steps of a deterministic sampler. This is costly for large-scale text-to-image synthesis and limits the student's quality, tying it too closely to the teacher's original sampling paths. We introduce DMD2, a set of…",
+   "citations": 874,
+   "url": "https://arxiv.org/abs/2405.14867",
+   "cited_by": [
+    "Jeveration: System One Models Now Generate",
+    "Posterior Matching Distillation"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "stats": {
+  "raw_news": 23,
+  "stories": 10,
+  "videos": 8,
+  "papers": 15,
+  "classics": 8,
+  "seconds": 348
+ }
+}

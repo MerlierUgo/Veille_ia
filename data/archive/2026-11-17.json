@@ -1,0 +1,598 @@
+{
+ "generated_at": "2026-11-17T13:32:07.157544+00:00",
+ "date": "2026-11-17",
+ "tldr": {
+  "headline": "Les titres du jour",
+  "points": [
+   {
+    "title": "How the Claude Code team thinks about verification",
+    "text": "71 points · 90 commentaires",
+    "ref": "news:567d2c83df20"
+   },
+   {
+    "title": "Struggled in my Infosys interview as a fresher. How should I strengthen my fundamentals to become an AI/ML Engineer?[D]",
+    "text": "Yesterday, I attended an Infosys interview as a fresher, but unfortunately, I couldn't perform well. I managed to answer only a few questions correctly. The interview covered a mix of basic programming fundamentals, Python concepts, JavaScript fundamentals, OOP concepts, backend development with FastAPI, Generative AI vs Agentic AI, RAG architecture, vector databases, and AI/ML evaluation metrics…",
+    "ref": "news:504e3a76497c"
+   },
+   {
+    "title": "Running coding agents without handing them my credentials",
+    "text": "121 points · 99 commentaires",
+    "ref": "news:887a9d54e326"
+   },
+   {
+    "title": "llm 0.37.3",
+    "text": "Release: llm 0.37.3 A bug fix release for LLM , mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest SQLite, 3.54.1 , which includes a fix that broke LLM's logging code . Short version: in SQLite 3.54.0 the following SQL: select json_object('a', (select json_array(1))) Returns this: {\"a\":[1]} But in 3.54.1 the same query returns this:…",
+    "ref": "news:3ae3a490dc72"
+   },
+   {
+    "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
+    "text": "661 points · 516 commentaires",
+    "ref": "news:01af437af651"
+   }
+  ],
+  "generated": false
+ },
+ "tldr_en": {
+  "headline": "Today's headlines",
+  "points": [
+   {
+    "title": "How the Claude Code team thinks about verification",
+    "text": "71 points · 90 commentaires",
+    "ref": "news:567d2c83df20"
+   },
+   {
+    "title": "Struggled in my Infosys interview as a fresher. How should I strengthen my fundamentals to become an AI/ML Engineer?[D]",
+    "text": "Yesterday, I attended an Infosys interview as a fresher, but unfortunately, I couldn't perform well. I managed to answer only a few questions correctly. The interview covered a mix of basic programming fundamentals, Python concepts, JavaScript fundamentals, OOP concepts, backend development with FastAPI, Generative AI vs Agentic AI, RAG architecture, vector databases, and AI/ML evaluation metrics…",
+    "ref": "news:504e3a76497c"
+   },
+   {
+    "title": "Running coding agents without handing them my credentials",
+    "text": "121 points · 99 commentaires",
+    "ref": "news:887a9d54e326"
+   },
+   {
+    "title": "llm 0.37.3",
+    "text": "Release: llm 0.37.3 A bug fix release for LLM , mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest SQLite, 3.54.1 , which includes a fix that broke LLM's logging code . Short version: in SQLite 3.54.0 the following SQL: select json_object('a', (select json_array(1))) Returns this: {\"a\":[1]} But in 3.54.1 the same query returns this:…",
+    "ref": "news:3ae3a490dc72"
+   },
+   {
+    "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
+    "text": "661 points · 516 commentaires",
+    "ref": "news:01af437af651"
+   }
+  ],
+  "generated": false
+ },
+ "news": [
+  {
+   "id": "567d2c83df20",
+   "title": "How the Claude Code team thinks about verification",
+   "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+   "source": "Hacker News",
+   "published": "2026-11-17T10:20:40+00:00",
+   "summary": "71 points · 90 commentaires",
+   "image": null,
+   "signal": 71,
+   "discussion": "https://news.ycombinator.com/item?id=50529612",
+   "score": 3.26,
+   "also": []
+  },
+  {
+   "id": "504e3a76497c",
+   "title": "Struggled in my Infosys interview as a fresher. How should I strengthen my fundamentals to become an AI/ML Engineer?[D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xy92xo/struggled_in_my_infosys_interview_as_a_fresher/",
+   "source": "r/MachineLearning",
+   "published": "2026-11-17T02:48:06+00:00",
+   "summary": "Yesterday, I attended an Infosys interview as a fresher, but unfortunately, I couldn't perform well. I managed to answer only a few questions correctly. The interview covered a mix of basic programming fundamentals, Python concepts, JavaScript fundamentals, OOP concepts, backend development with FastAPI, Generative AI vs Agentic AI, RAG architecture, vector databases, and AI/ML evaluation metrics…",
+   "image": null,
+   "signal": 0,
+   "score": 0.97,
+   "also": []
+  },
+  {
+   "id": "887a9d54e326",
+   "title": "Running coding agents without handing them my credentials",
+   "url": "https://blog.antonio.cx/running-agents-with-lend",
+   "source": "Hacker News",
+   "published": "2026-11-17T01:18:56+00:00",
+   "summary": "121 points · 99 commentaires",
+   "image": null,
+   "signal": 121,
+   "discussion": "https://news.ycombinator.com/item?id=50526152",
+   "score": 3.23,
+   "also": []
+  },
+  {
+   "id": "3ae3a490dc72",
+   "title": "llm 0.37.3",
+   "url": "https://simonwillison.net/2026/Nov/16/llm/",
+   "source": "Simon Willison",
+   "published": "2026-11-16T23:57:26+00:00",
+   "summary": "Release: llm 0.37.3 A bug fix release for LLM , mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest SQLite, 3.54.1 , which includes a fix that broke LLM's logging code . Short version: in SQLite 3.54.0 the following SQL: select json_object('a', (select json_array(1))) Returns this: {\"a\":[1]} But in 3.54.1 the same query returns this:…",
+   "image": null,
+   "signal": 0,
+   "score": 0.82,
+   "also": []
+  },
+  {
+   "id": "01af437af651",
+   "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
+   "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+   "source": "Hacker News",
+   "published": "2026-11-16T22:58:20+00:00",
+   "summary": "661 points · 516 commentaires",
+   "image": null,
+   "signal": 661,
+   "discussion": "https://news.ycombinator.com/item?id=50524736",
+   "score": 4.47,
+   "also": []
+  },
+  {
+   "id": "4f204d1fe2b4",
+   "title": "CVPR 2027: LLM Usage Statement in PDF vs. OpenReview Form? [D]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xy25mx/cvpr_2027_llm_usage_statement_in_pdf_vs/",
+   "source": "r/MachineLearning",
+   "published": "2026-11-16T21:40:45+00:00",
+   "summary": "Quick question about the CVPR 2027 mandatory LLM Usage Statement . I noticed that the official Author Guidelines require a section titled “LLM Usage Statement” in the paper. However, I've already completed the LLM usage disclosure form in OpenReview. The guidelines state: Every submission must include a section titled “LLM Usage Statement” after the main text and before the references. What…",
+   "image": "https://preview.redd.it/i333912pn12i1.png?width=640&crop=smart&auto=webp&s=a5f5507a6f7a2424822bc269b0ea7e7714ea104f",
+   "signal": 0,
+   "score": 0.71,
+   "also": []
+  },
+  {
+   "id": "b16b5f3f2048",
+   "title": "California state AG sues OpenAI over rogue agent incidents",
+   "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+   "source": "TechCrunch",
+   "published": "2026-11-16T20:07:13+00:00",
+   "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+   "image": null,
+   "signal": 0,
+   "score": 0.63,
+   "also": []
+  },
+  {
+   "id": "690a9aa8938d",
+   "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+   "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+   "source": "TechCrunch",
+   "published": "2026-11-16T17:36:43+00:00",
+   "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+   "image": null,
+   "signal": 0,
+   "score": 0.51,
+   "also": []
+  },
+  {
+   "id": "27251c4236d6",
+   "title": "Ask HN: If AI tools are so good, why isn't your bug backlog empty?",
+   "url": "https://news.ycombinator.com/item?id=50520076",
+   "source": "Hacker News",
+   "published": "2026-11-16T17:20:28+00:00",
+   "summary": "70 points · 89 commentaires",
+   "image": null,
+   "signal": 70,
+   "discussion": "https://news.ycombinator.com/item?id=50520076",
+   "score": 2.4,
+   "also": []
+  },
+  {
+   "id": "242d49a88f8c",
+   "title": "Nvidia was in trouble before the Jensen Huang mess",
+   "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+   "source": "Hacker News",
+   "published": "2026-11-16T15:24:09+00:00",
+   "summary": "280 points · 251 commentaires",
+   "image": null,
+   "signal": 280,
+   "discussion": "https://news.ycombinator.com/item?id=50518567",
+   "score": 3.41,
+   "also": []
+  }
+ ],
+ "videos": [
+  {
+   "id": "gl2U4fGTr6g",
+   "title": "OpenAI's New Breakthrough Is... Utter Chaos",
+   "url": "https://www.youtube.com/watch?v=gl2U4fGTr6g",
+   "channel": "Two Minute Papers",
+   "published": "2026-11-17T12:46:24+00:00",
+   "thumbnail": "https://i4.ytimg.com/vi/gl2U4fGTr6g/hqdefault.jpg",
+   "views": 5380,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://www.kitp.ucsb.edu/sites/default/files/YM_working_group.pdf…",
+   "relevance": 0
+  },
+  {
+   "id": "x7iwI6WfWS0",
+   "title": "AI Can Do Everything…Except This",
+   "url": "https://www.youtube.com/watch?v=x7iwI6WfWS0",
+   "channel": "Two Minute Papers",
+   "published": "2026-11-14T08:40:55+00:00",
+   "thumbnail": "https://i1.ytimg.com/vi/x7iwI6WfWS0/hqdefault.jpg",
+   "views": 49764,
+   "description": "After finishing this song, it took me 3 months to gather the courage to stand in front of the camera to record it. Hope you Fellow Scholars enjoy it! Thank you so much for the amazing musicians for their help! - Vocals:…",
+   "relevance": 0
+  }
+ ],
+ "papers": [
+  {
+   "id": "2611.18359",
+   "title": "Envisioning Agentic Robotics: A New Era of Robotic Systems",
+   "authors": "Grid Robotics, Qingfeng Lan, Duo Li, Siyao Li et al.",
+   "abstract": "The release of GPT-6 Astra marks the emergence of a new paradigm in robotics: agentic robotics. Within weeks, frontier models with agentic harnesses matched or exceeded task-specific policies on many embodied benchmarks. Instead of training a dedicated policy for each family of tasks, an agentic robotic system applies a foundation model to open-world embodied tasks. It operates in a closed loop: observing the environment, interpreting user intent, reasoning about the task, invoking skills and tools, verifying outcomes, and adapting its strategy. Despite these advances, the community has yet to converge on a shared definition, a reliable evaluation framework, or a research roadmap. We argue that Embodied System 2, realized by a foundation model together with an embodied harness, forms the decision-making core of agentic robotics. Its central challenge is to translate general-purpose reasoning into effective and verifiable actions under physical constraints such as limited reaction time, mechanical limits, unpredictable environment changes, and irreversible consequences. Motivated by…",
+   "published": "2026-11-13T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.18359",
+   "pdf": "https://arxiv.org/pdf/2611.18359",
+   "upvotes": 122,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "Agentic robotics, centered on an Embodied System 2 formed by a foundation model and embodied harness, requires a shared evaluation framework and research roadmap to achieve reliable physical autonomy.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.18397",
+   "title": "Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent",
+   "authors": "Run Luo, Kuan Zhang, Qi Deng, Yukun Chen et al.",
+   "abstract": "We introduce Gamer, a generalist agent framework built for long-horizon tasks in complex interactive environments. Its end-to-end architecture combines perception, memory management, and multi-step reasoning. A shared training and deployment pipeline supports interaction with both conventional 2D graphical interfaces and complex 3D simulated worlds. We first continue pre-training on a dataset constructed from tens of thousands of hours of device-level keyboard and mouse interaction. These trajectories span simulated games and embodied environments, allowing the model to learn environmental dynamics across both physical and virtual domains. Sparse-thinking instruction tuning then substantially reduces redundant computation while preserving the reasoning needed for complex decisions. We train the policy for long-horizon interaction with a stable multi-turn reinforcement learning method that addresses finite context windows, accumulated rollout errors, and sparse rewards. For real-time interaction, a cloud-edge inference engine serves numerous simulated game environments concurrently,…",
+   "published": "2026-11-13T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.18397",
+   "pdf": "https://arxiv.org/pdf/2611.18397",
+   "upvotes": 110,
+   "github": "https://github.com/RainBowLuoCS/Gamer",
+   "origin": "hf",
+   "ai_summary": "Gamer is a generalist agent framework that integrates perception, memory, and multi-step reasoning, trained through continued pre-training, sparse-thinking instruction tuning, and multi-turn reinforcement learning to interact efficiently in 2D and 3D environments.",
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.15789",
+   "title": "VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender",
+   "authors": "Yuzhe Chen, Muxi Diao, Lele Yang, Wenbin Xu et al.",
+   "abstract": "Controllable real-world video generation models can condition on a rendered graybox proxy video, which fixes layout, motion and camera. Coding agents can build such videos by reconstructing a 4D scene in Blender, yet no benchmark checks both these videos and the long, multi-shot scenes behind them. We introduce VibePrevisBench, a benchmark for 4D scene reconstruction: an agent turns a brief into an executable 4D scene and renders its proxy video. Its 242 tasks span four input kinds, including scripts, photos, continuations, and reference videos. Each delivery is scored along two evaluation dimensions. Rule-based Scene Check re-runs the code and compares the exported 4D scene with hidden ground truth facts in nine dimensions. VLM-based Screen Check asks a VLM judge whether the facts that pass can be recognized in the proxy video. We analyze the evaluation results and trajectories of 11 frontier coding agents and identify three key observations. First, multimodal understanding separates the agents, especially in understanding space and camera motion. Second, all agents seem to already…",
+   "published": "2026-11-11T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.15789",
+   "pdf": "https://arxiv.org/pdf/2611.15789",
+   "upvotes": 88,
+   "github": "https://github.com/vibeprevisbench/vibeprevisbench",
+   "origin": "hf",
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.15777",
+   "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
+   "authors": "Lichen Li, Ziping Dong, Sicheng Feng, Qi Li et al.",
+   "abstract": "System One models promise fast, general-purpose decision-making without lengthy token generation. However, understanding their capability spectrum and decision reliability requires more than aggregate performance on current benchmarks. Existing evaluations often provide limited insight into the breadth of model capabilities and the reliability of their decisions. We introduce SO-Arena, a benchmark characterizing the capability spectrum and decision reliability of System One models across 11 domains and five capability families. For the capability spectrum, SO-Arena offers evidence-grounded evaluation through reliable sources and manual verification of reference labels against model-visible inputs; fine-grained capability assessment through domain-specific difficulty criteria; and realistic interactive evaluation, where models iteratively execute actions in sandboxes. Reasoning-intensive tasks further enable system one-two comparison. Beyond accuracy, SO-Arena assesses decision reliability through two complementary measures: decision stability under controlled option-set changes and…",
+   "published": "2026-11-11T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.15777",
+   "pdf": "https://arxiv.org/pdf/2611.15777",
+   "upvotes": 87,
+   "github": "https://github.com/holdrain/SO-Arena",
+   "origin": "hf",
+   "ai_summary": "SO-Arena evaluates System One models across domains and capability families, revealing that scaling and reasoning gains vary and that high overall accuracy does not ensure reliable decision-making.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.19937",
+   "title": "AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data",
+   "authors": "Annan Wang, Yuchen Xie, Yu Cen, Leon Liangyu Chen et al.",
+   "abstract": "Real-world portfolio management requires converting noisy market observations into coordinated, simultaneous allocations across multiple assets under shared capital constraints. Advances in forecasting models and alpha discovery help identify opportunities. However, traditional pipelines often decouple signal forecasting from portfolio construction, potentially misaligning learning with allocation and execution objectives. We present AllocFlow, an end-to-end flow-matching framework that directly generates joint portfolio allocations from raw multi-asset market histories. To capture dependencies among portfolio positions, AllocFlow employs a cross-asset flow Transformer conditioned on temporal market representations to generate continuous, signed position weights across all instruments jointly. To address the sample inefficiency and instability of learning continuous allocation policies from scratch, we establish a two-stage training scheme: strategy-supervised imitation shapes a structured distribution of candidate portfolios, followed by group-relative reinforcement learning (RL)…",
+   "published": "2026-11-15T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.19937",
+   "pdf": "https://arxiv.org/pdf/2611.19937",
+   "upvotes": 60,
+   "github": "https://github.com/allocflow/AllocFlow",
+   "origin": "hf",
+   "ai_summary": "An end-to-end flow-matching framework generates joint portfolio allocations from raw multi-asset market histories via a cross-asset flow Transformer and a two-stage imitation and group-relative reinforcement learning procedure, improving risk-adjusted returns on cryptocurrency perpetual futures.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.21003",
+   "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
+   "authors": "K2 Team, Zhengzhong Liu, Haonan Li, Xuezhe Ma et al.",
+   "abstract": "We present K2-Horizon, a fleet of six fully open language models, from a 0.9B dense model to a 375B-A23B MoE, built for general-purpose reasoning and agentic work across math and science, software engineering, deep research, office automation, and beyond. The models lead or are competitive with strong open models of their size on agentic and coding benchmarks. On the modeling side, to strengthen reasoning, we introduce Mixture-of-Value Attention (MoVA), applying MoE to attention value projections, and softplus attention gating, a more flexible, theoretically motivated gate. Our 36B-A4B model uses both and nearly matches a 32B dense model trained on the same data, with one-seventh the active parameters. We also introduce Uno, lossless diffusion adapters that speed up decoding by up to 2.2x without a separate draft model. Our release follows the LLM360 definition of open source for transparency and reproducibility: the full development history, including intermediate checkpoints from every training stage, pre-training data, training logs, and all training, evaluation, and…",
+   "published": "2026-11-16T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.21003",
+   "pdf": "https://arxiv.org/pdf/2611.21003",
+   "upvotes": 55,
+   "github": null,
+   "origin": "hf",
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.12068",
+   "title": "MIRIX-2.0: Multi-Agent Memory System",
+   "authors": "Wei-Chieh Huang, Weizhi Zhang, Jiayan Nan, Peng Xia et al.",
+   "abstract": "Long-term memory lets LLM agents personalize, stay consistent, and reuse what worked before. Parametric memories need training, consolidation can lose details for good, and keeping every record leaves a growing store to search. We present MIRIX-2.0, a multi-agent memory system designed to be practical, accurate, and efficient at once. It is the most accurate of the compared systems on four of five QA benchmarks. It reaches 91.4% on LoCoMo and 72.6% on LongMemEval-S, where it leads the strongest baseline by 14.3 points, and with AutoDream disabled it gains 31.0 and 22.0 points over HyperMem on single-hop and multi-hop document QA. As procedural memory, it yields the highest mean success among the compared memory methods on ALFWorld and WebShop and reaches 49.2% on MetaClaw-Bench, against 44.0% for MetaClaw's skill library. Six typed memory agents keep complete records as the system of record, and a provenance hypergraph indexes episodic and semantic records with n-ary frames that cite their rows. Retrieval runs under explicit budgets, so the evidence a question inspects does not grow…",
+   "published": "2026-11-09T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.12068",
+   "pdf": "https://arxiv.org/pdf/2611.12068",
+   "upvotes": 53,
+   "github": "https://github.com/Mirix-AI/MIRIX",
+   "origin": "hf",
+   "ai_summary": "MIRIX-2.0 is a multi-agent memory system for LLM agents that achieves high accuracy and efficiency across QA and procedural benchmarks without fine-tuning.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.21218",
+   "title": "InclusionMed: Benchmarking AI for Inclusive Healthcare",
+   "authors": "The InclusionMed Collaboration",
+   "abstract": "Advancing medical AI for inclusive healthcare requires evaluation across diverse healthcare roles, tasks, and care settings, but benchmark coverage remains uneven. We introduce InclusionMed, an open medical AI evaluation initiative for inclusive healthcare. The InclusionMed Atlas organizes benchmarks across three healthcare roles and three AI capabilities. For the first release, we selected four public benchmarks from 388 candidates through structured audits and independent reproduction. With InclusionMed-DxFiles, our private diagnostic reasoning benchmark, the Atlas contains five benchmarks covering three of its nine role--capability cells. We evaluated frontier large language models on the Atlas and aggregated their results into the InclusionMed Index, with overall scores ranging from 17.5 to 49.1 out of 100. The Index also reports scores by healthcare role and AI capability, showing that a model's rank varied with the role or capability considered. A within-benchmark analysis using task-level tags showed that the ten highest-ranked models in the Index all scored higher on patient…",
+   "published": "2026-11-16T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.21218",
+   "pdf": "https://arxiv.org/pdf/2611.21218",
+   "upvotes": 51,
+   "github": "https://github.com/panuvi/inclusionmed",
+   "origin": "hf",
+   "ai_summary": "InclusionMed is an open medical AI evaluation initiative that audits and reproduces benchmarks across healthcare roles and capabilities, revealing that model rankings and inference costs vary by context and motivating broader, context-specific evaluation.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.21072",
+   "title": "Sage S2.1 Flash Technical Report",
+   "authors": "Kun Cai, Haodong Chen, Guangran Cheng, Qingxiu Cheng et al.",
+   "abstract": "We introduce Sage S1.5 Flash, a 320-billion-parameter general-purpose mixture-of-experts model designed to reason over scientific evidence and act in interactive environments. Sage Sci-Perception uses dedicated encoders for molecular graphs and biological sequences and represents spectra as ordered patches of measurements. Modality-specific projectors map these representations into the input space of a shared backbone, which processes them alongside text and images. To develop the model's agent capabilities, we construct verifiable environments for tool use, search, and coding, as well as specialized workflows involving machine learning experiments and scientific software. Task completion is checked against execution results, changes in environment state, or submitted artifacts. We evaluate Sage S1.5 Flash on 33 benchmarks across seven domains. In the primary comparison against five baselines, it ranks first on OfficeQA Pro (72.2), MLE-bench Lite (90.3 HumanRank), Harvey LAB, and SpreadsheetBench~2, and second on OSWorld-Verified (85.2), WebArena-Verified (67.6), and DeepResearch…",
+   "published": "2026-11-16T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.21072",
+   "pdf": "https://arxiv.org/pdf/2611.21072",
+   "upvotes": 49,
+   "github": "https://github.com/InternLM/Sage-S2.1-Flash",
+   "origin": "hf",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.15131",
+   "title": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
+   "authors": "Hengyuan Cao, Biao Gong, Guoshan Lu, Qiyuan Zhang et al.",
+   "abstract": "In this report, we introduce the Reciprocal World Model (RWM) and present Duo v1, a full-duplex world model that continuously perceives audiovisual inputs while responding to users in real time. The RWM treats intelligence and physical reality as equally fundamental to what constitutes a world. Existing world models largely focus on simulating the latter, leaving reasoning and decision-making as external controls rather than intrinsic parts of the world itself. In RWM, we identify two equally fundamental capabilities: Intent, which provides the cognition underlying world interactions, and Realization, which generates coherent audio-visual behavior. To realize this formulation, Duo v1 introduces three key technical designs: (1) Leveraging autoregressive modeling for continuous interaction reasoning and participation decisions, rather than restricting it to instruction understanding for diffusion models. (2) Constructing chunk-specific conditions and synchronize tokens across Intent and Realization on a unified timeline. Module-specific attention masks enforce causal dependencies both…",
+   "published": "2026-11-11T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.15131",
+   "pdf": "https://arxiv.org/pdf/2611.15131",
+   "upvotes": 47,
+   "github": "https://github.com/inclusionAI/Duo",
+   "origin": "hf",
+   "ai_summary": "A reciprocal world model enables real-time full-duplex audiovisual interaction by jointly modeling intent and realization using autoregressive reasoning, synchronized attention, and dual rollout distillation.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.21485",
+   "title": "Lost in the Hallway: Benchmarking Persistent Spatial Memory Across Revisits",
+   "authors": "Henry Zheng, Weibo Gong, Yang Yue, Rui Huang et al.",
+   "abstract": "Persistent spatial understanding is essential for embodied agents to operate reliably in environments they repeatedly encounter. It requires recognizing revisited places despite viewpoint changes, distinguishing them from similar-looking rooms, and updating memories as environments change. Yet existing evaluations often leave physical place identity across separated visits implicit. We introduce ReSpaceBench, a benchmark comprising 3,244 questions across 590 synthetic and real-home scenes, organized into 9 tasks spanning room association, persistent state tracking, and downstream reasoning. Controlled walkthroughs define visits by physical room entry and deliberately include same-type room distractors and cross-session object changes. Our evaluation of 32 models and 3 agentic video-understanding frameworks reveals substantial limitations: the strongest evaluated zero-shot model achieves 50.5% overall accuracy and 52.2% on a 450-question subset, compared with 90.1% for human annotators. The evaluated agentic frameworks offer no overall improvement over direct inference with the same…",
+   "published": "2026-11-16T17:54:39Z",
+   "url": "https://arxiv.org/abs/2611.21485",
+   "pdf": "https://arxiv.org/pdf/2611.21485",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CV"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.21422",
+   "title": "Rubric-Based AES with LLM Ensembles: Scoring of Student Responses in Critical Online Reasoning Using Ensembles of LLMs",
+   "authors": "Daniel Baumartz, Alexander Mehler, Patrick Schrottenbacher, Leon Hammerla et al.",
+   "abstract": "Grading student responses is costly and time-consuming. Moreover, human annotators are prone to bias, fatigue, and rater drift, which further limits grading reliability. Various methods have been employed to develop automated essay scoring (AES) systems to reduce these costs and address bias-related issues. These methods range from early text-feature-based systems to current machine-learning and transformer-based models. Specifically, large language models (LLMs) offer the potential to streamline the development of AES systems. However, they are subject to well-known limitations, such as hallucinations and prompt sensitivity. This creates a need to explore the potential of a mixed-methods approach that leverages the synergies among individual LLMs through ensemble formation. We evaluate the potential of ensembles of LLMs to match human-rater agreement when grading student responses in economics and medical education across 103 criteria. We use 631 German-language responses and corresponding human ratings by 2 to 5 annotators from a previously conducted assessment. We experiment with…",
+   "published": "2026-11-16T17:12:36Z",
+   "url": "https://arxiv.org/abs/2611.21422",
+   "pdf": "https://arxiv.org/pdf/2611.21422",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CL"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.21273",
+   "title": "CAE-Bench: Benchmarking AI Agents for Reusable CAE Solver Development",
+   "authors": "Zhiyu Zhou, Tianyou Liu, Xinping Yang, Yiyao Liu et al.",
+   "abstract": "We developed CAE-Bench, a benchmark to evaluate AI agents on Computer-Aided Engineering (CAE) solver development. A CAE solver is more than a PDE solver; it must be able to generalize across various inputs, such as different boundary conditions, geometries, and material properties. CAE-Bench evaluates the generalizability of AI-developed CAE solvers by providing the same task, such as a heat transfer problem, multiple cases, with each case specifying an input. The AI agent develops a solver for a fixed task using only a few public cases, and the resulting solver is then tested on held-out cases, i.e., cases it has never seen before. We evaluate 12 models across a range of reasoning settings on 80 computational tasks. Our experiments show that even if a solver developed by an AI agent performs well on the public cases, it may even get 0 score on held-out cases. For tasks such as fluid dynamics problems, even the solver developed by GPT-6 Astra performs poorly on held-out cases. A data format and an SDK for task registration are provided, so the researcher can use the benchmark on…",
+   "published": "2026-11-16T15:40:43Z",
+   "url": "https://arxiv.org/abs/2611.21273",
+   "pdf": "https://arxiv.org/pdf/2611.21273",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.AI"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.21208",
+   "title": "Validating LLM-Based Essay Scorers: A Comparative Analysis in Critical Online Reasoning in Medical Education",
+   "authors": "Daniel Baumartz, Alexander Mehler, Mevlüt Bagci, Maxim Konca",
+   "abstract": "Automated essay scorers (AES) based on large language models (LLMs) promise human-level accuracy. However, training, fine-tuning, and evaluating LLMs for specific assessment tasks is costly. In particular, the question arises whether these AES should be trained for specific domains or whether models based on generic LLMs might be sufficient. Human annotations, by contrast, are often more valid but far more expensive. This study evaluates whether ensembles of AES systems based on general-purpose LLMs can approximate human ratings of medical-education writing tasks by leveraging encoded linguistic and conceptual knowledge. The goal is to assess whether general-purpose models are applicable for assisting or potentially replacing human annotation in this domain. We experiment with 11 AES systems and 8 different LLMs and evaluate 668 student responses to 12 tasks, using \\numprint{2076} evaluations by 7 human annotators. These ratings are aggregated to create consistent performance levels that can be used as target classes for classifiers trained on AES outputs. Our results show that…",
+   "published": "2026-11-16T15:01:38Z",
+   "url": "https://arxiv.org/abs/2611.21208",
+   "pdf": "https://arxiv.org/pdf/2611.21208",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CL"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.21608",
+   "title": "Latent Lattice Language Models",
+   "authors": "Shivam Duggal, Zongze Wu, William T. Freeman, Antonio Torralba et al.",
+   "abstract": "Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers. We instead increase computational capacity: the number of active computational states a model maintains. We introduce the Lattice of Latents, a set of per-layer horizontal latent streams that run recurrently along time, alongside the vertical residual stream that flows through depth. Like hyper-connections, mHC, and attention or value residuals, the Lattice enhances the residual stream, but rather than adding or rerouting residual pathways through depth, it provides companion computational states that persist across tokens. Unlike hybrid Transformer-SSM architectures, whose recurrent states primarily serve as internal memory for sequence mixing, these latents directly condition the vertical stream's attention, KV-cache writes, MLP computation, and decoding. On Transformers trained on 20B FineWeb-Edu tokens, a 406M-parameter Lattice model lowers validation perplexity from 15.41 to 14.40 over a…",
+   "published": "2026-11-16T18:59:38Z",
+   "url": "https://arxiv.org/abs/2611.21608",
+   "pdf": "https://arxiv.org/pdf/2611.21608",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.LG",
+    "cs.AI",
+    "cs.CL"
+   ],
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "classics": [
+  {
+   "id": "2303.17651",
+   "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+   "year": 2023,
+   "authors": "Aman Madaan, Niket Tandon, Prakhar Gupta et al.",
+   "abstract": "Like humans, large language models (LLMs) do not always generate the best output on their first try. Motivated by how humans refine their written text, we introduce Self-Refine, an approach for improving initial outputs from LLMs through iterative feedback and refinement. The main idea is to generate an initial output using an LLMs; then, the same LLMs provides feedback for its output and uses it to refine itself, iteratively. Self-Refine does not require any supervised training data, additional training, or reinforcement learning, and instead uses a single LLM as the generator, refiner, and feedback provider. We evaluate Self-Refine across 7 diverse tasks, ranging from dialog response…",
+   "citations": 5633,
+   "url": "https://arxiv.org/abs/2303.17651",
+   "cited_by": [
+    "MIRIX-2.0: Multi-Agent Memory System"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2311.12022",
+   "title": "GPQA: A Graduate-Level Google-Proof Q&A Benchmark",
+   "year": 2023,
+   "authors": "David Rein, Betty Li Hou, Asa Cooper Stickland et al.",
+   "abstract": "We present GPQA, a challenging dataset of 448 multiple-choice questions written by domain experts in biology, physics, and chemistry. We ensure that the questions are high-quality and extremely difficult: experts who have or are pursuing PhDs in the corresponding domains reach 65% accuracy (74% when discounting clear mistakes the experts identified in retrospect), while highly skilled non-expert validators only reach 34% accuracy, despite spending on average over 30 minutes with unrestricted access to the web (i.e., the questions are\"Google-proof\"). The questions are also difficult for state-of-the-art AI systems, with our strongest GPT-4 based baseline achieving 39% accuracy. If we are to…",
+   "citations": 3976,
+   "url": "https://arxiv.org/abs/2311.12022",
+   "cited_by": [
+    "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2308.08155",
+   "title": "AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation",
+   "year": 2023,
+   "authors": "Qing-Yun Wu, Gagan Bansal, Jieyu Zhang et al.",
+   "abstract": "AutoGen is an open-source framework that allows developers to build LLM applications via multiple agents that can converse with each other to accomplish tasks. AutoGen agents are customizable, conversable, and can operate in various modes that employ combinations of LLMs, human inputs, and tools. Using AutoGen, developers can also flexibly define agent interaction behaviors. Both natural language and computer code can be used to program flexible conversation patterns for different applications. AutoGen serves as a generic infrastructure to build diverse applications of various complexities and LLM capacities. Empirical studies demonstrate the effectiveness of the framework in many example…",
+   "citations": 3224,
+   "url": "https://arxiv.org/abs/2308.08155",
+   "cited_by": [
+    "MIRIX-2.0: Multi-Agent Memory System"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2305.16291",
+   "title": "Voyager: An Open-Ended Embodied Agent with Large Language Models",
+   "year": 2023,
+   "authors": "Guanzhi Wang, Yuqi Xie, Yunfan Jiang et al.",
+   "abstract": "We introduce Voyager, the first LLM-powered embodied lifelong learning agent in Minecraft that continuously explores the world, acquires diverse skills, and makes novel discoveries without human intervention. Voyager consists of three key components: 1) an automatic curriculum that maximizes exploration, 2) an ever-growing skill library of executable code for storing and retrieving complex behaviors, and 3) a new iterative prompting mechanism that incorporates environment feedback, execution errors, and self-verification for program improvement. Voyager interacts with GPT-4 via blackbox queries, which bypasses the need for model parameter fine-tuning. The skills developed by Voyager are…",
+   "citations": 2873,
+   "url": "https://arxiv.org/abs/2305.16291",
+   "cited_by": [
+    "MIRIX-2.0: Multi-Agent Memory System"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1811.00937",
+   "title": "CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge",
+   "year": 2019,
+   "authors": "Alon Talmor, Jonathan Herzig, Nicholas Lourie et al.",
+   "abstract": "When answering a question, people often draw upon their rich world knowledge in addition to the particular context. Recent work has focused primarily on answering questions given some relevant document or context, and required very little general background. To investigate question answering with prior knowledge, we present CommonsenseQA: a challenging new dataset for commonsense question answering. To capture common sense beyond associations, we extract from ConceptNet (Speer et al., 2017) multiple target concepts that have the same semantic relation to a single source concept. Crowd-workers are asked to author multiple-choice questions that mention the source concept and discriminate in…",
+   "citations": 2825,
+   "url": "https://arxiv.org/abs/1811.00937",
+   "cited_by": [
+    "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2305.14325",
+   "title": "Improving Factuality and Reasoning in Language Models through Multiagent Debate",
+   "year": 2023,
+   "authors": "Yilun Du, Shuang Li, A. Torralba et al.",
+   "abstract": "Large language models (LLMs) have demonstrated remarkable capabilities in language generation, understanding, and few-shot learning in recent years. An extensive body of work has explored how their performance may be further improved through the tools of prompting, ranging from verification, self-consistency, or intermediate scratchpads. In this paper, we present a complementary approach to improve language responses where multiple language model instances propose and debate their individual responses and reasoning processes over multiple rounds to arrive at a common final answer. Our findings indicate that this approach significantly enhances mathematical and strategic reasoning across a…",
+   "citations": 2677,
+   "url": "https://arxiv.org/abs/2305.14325",
+   "cited_by": [
+    "MIRIX-2.0: Multi-Agent Memory System"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2403.07974",
+   "title": "LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code",
+   "year": 2024,
+   "authors": "Naman Jain, King Han, Alex Gu et al.",
+   "abstract": "Large Language Models (LLMs) applied to code-related applications have emerged as a prominent field, attracting significant interest from both academia and industry. However, as new and improved LLMs are developed, existing evaluation benchmarks (e.g., HumanEval, MBPP) are no longer sufficient for assessing their capabilities. In this work, we propose LiveCodeBench, a comprehensive and contamination-free evaluation of LLMs for code, which continuously collects new problems over time from contests across three competition platforms, namely LeetCode, AtCoder, and CodeForces. Notably, our benchmark also focuses on a broader range of code related capabilities, such as self-repair, code…",
+   "citations": 2674,
+   "url": "https://arxiv.org/abs/2403.07974",
+   "cited_by": [
+    "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2404.16130",
+   "title": "From Local to Global: A Graph RAG Approach to Query-Focused Summarization",
+   "year": 2024,
+   "authors": "D. Edge, Ha Trinh, Newman Cheng et al.",
+   "abstract": "The use of retrieval-augmented generation (RAG) to retrieve relevant information from an external knowledge source enables large language models (LLMs) to answer questions over private and/or previously unseen document collections. However, RAG fails on global questions directed at an entire text corpus, such as\"What are the main themes in the dataset?\", since this is inherently a query-focused summarization (QFS) task, rather than an explicit retrieval task. Prior QFS methods, meanwhile, do not scale to the quantities of text indexed by typical RAG systems. To combine the strengths of these contrasting methods, we propose GraphRAG, a graph-based approach to question answering over private…",
+   "citations": 2616,
+   "url": "https://arxiv.org/abs/2404.16130",
+   "cited_by": [
+    "MIRIX-2.0: Multi-Agent Memory System"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "stats": {
+  "raw_news": 50,
+  "stories": 10,
+  "videos": 2,
+  "papers": 15,
+  "classics": 8,
+  "seconds": 195
+ }
+}

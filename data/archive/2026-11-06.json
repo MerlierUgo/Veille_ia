@@ -1,0 +1,577 @@
+{
+ "generated_at": "2026-11-06T09:05:32.384333+00:00",
+ "date": "2026-11-06",
+ "tldr": {
+  "headline": "Les titres du jour",
+  "points": [
+   {
+    "title": "I struggle to believe that AI R&D is ingenious",
+    "text": "69 points · 50 commentaires",
+    "ref": "news:3abd24bfc9c6"
+   },
+   {
+    "title": "Nvidia Kubernetes Engine (NVKE)",
+    "text": "73 points · 19 commentaires",
+    "ref": "news:b95f6aa29001"
+   },
+   {
+    "title": "Closed AI models dominate the price-performance frontier",
+    "text": "71 points · 57 commentaires",
+    "ref": "news:380d4d4741a6"
+   },
+   {
+    "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+    "text": "309 points · 143 commentaires",
+    "ref": "news:6f78e24cdb5b"
+   },
+   {
+    "title": "Claude Code sends your email address to websites",
+    "text": "1071 points · 334 commentaires",
+    "ref": "news:3b58ffb304e7"
+   }
+  ],
+  "generated": false
+ },
+ "news": [
+  {
+   "id": "3abd24bfc9c6",
+   "title": "I struggle to believe that AI R&D is ingenious",
+   "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+   "source": "Hacker News",
+   "published": "2026-11-06T05:19:04+00:00",
+   "summary": "69 points · 50 commentaires",
+   "image": null,
+   "signal": 69,
+   "discussion": "https://news.ycombinator.com/item?id=50388513",
+   "score": 3.21,
+   "also": []
+  },
+  {
+   "id": "b95f6aa29001",
+   "title": "Nvidia Kubernetes Engine (NVKE)",
+   "url": "https://github.com/dsx-ai-factory/nvke",
+   "source": "Hacker News",
+   "published": "2026-11-06T03:16:26+00:00",
+   "summary": "73 points · 19 commentaires",
+   "image": null,
+   "signal": 73,
+   "discussion": "https://news.ycombinator.com/item?id=50387738",
+   "score": 3.16,
+   "also": []
+  },
+  {
+   "id": "380d4d4741a6",
+   "title": "Closed AI models dominate the price-performance frontier",
+   "url": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+   "source": "Hacker News",
+   "published": "2026-11-06T02:49:56+00:00",
+   "summary": "71 points · 57 commentaires",
+   "image": null,
+   "signal": 71,
+   "discussion": "https://news.ycombinator.com/item?id=50387546",
+   "score": 3.11,
+   "also": []
+  },
+  {
+   "id": "6f78e24cdb5b",
+   "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+   "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+   "source": "Hacker News",
+   "published": "2026-11-05T23:09:57+00:00",
+   "summary": "309 points · 143 commentaires",
+   "image": null,
+   "signal": 309,
+   "discussion": "https://news.ycombinator.com/item?id=50385870",
+   "score": 4.1,
+   "also": []
+  },
+  {
+   "id": "3b58ffb304e7",
+   "title": "Claude Code sends your email address to websites",
+   "url": "https://github.com/anthropics/claude-code/issues/107757",
+   "source": "Hacker News",
+   "published": "2026-11-05T22:17:15+00:00",
+   "summary": "1071 points · 334 commentaires",
+   "image": null,
+   "signal": 1071,
+   "discussion": "https://news.ycombinator.com/item?id=50385272",
+   "score": 5.05,
+   "also": []
+  },
+  {
+   "id": "0d63b75b618b",
+   "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
+   "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
+   "source": "Hacker News",
+   "published": "2026-11-05T19:16:34+00:00",
+   "summary": "205 points · 60 commentaires",
+   "image": null,
+   "signal": 205,
+   "discussion": "https://news.ycombinator.com/item?id=50383163",
+   "score": 3.58,
+   "also": []
+  },
+  {
+   "id": "053dad3db871",
+   "title": "Nasdaq Sinks 5% as Investors Retreat from AI Trade After Election",
+   "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026",
+   "source": "Hacker News",
+   "published": "2026-11-05T18:00:01+00:00",
+   "summary": "160 points · 190 commentaires",
+   "image": null,
+   "signal": 160,
+   "discussion": "https://news.ycombinator.com/item?id=50382179",
+   "score": 3.31,
+   "also": []
+  },
+  {
+   "id": "01c9a31508ad",
+   "title": "Show HN: Stroq – a local audit of what your coding agent did and why",
+   "url": "https://github.com/AGGIB/Stroq",
+   "source": "Hacker News",
+   "published": "2026-11-05T15:54:41+00:00",
+   "summary": "83 points · 30 commentaires",
+   "image": null,
+   "signal": 83,
+   "discussion": "https://news.ycombinator.com/item?id=50380704",
+   "score": 4.19,
+   "also": []
+  },
+  {
+   "id": "0dad0a50448b",
+   "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
+   "url": "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
+   "source": "Hacker News",
+   "published": "2026-11-05T15:51:57+00:00",
+   "summary": "87 points · 35 commentaires",
+   "image": null,
+   "signal": 87,
+   "discussion": "https://news.ycombinator.com/item?id=50380658",
+   "score": 4.22,
+   "also": []
+  },
+  {
+   "id": "0264040d1053",
+   "title": "DialFork: a benchmark for procedural hallucination in conversational agents [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xofjrn/dialfork_a_benchmark_for_procedural_hallucination/",
+   "source": "r/MachineLearning",
+   "published": "2026-11-05T10:44:15+00:00",
+   "summary": "Hi all, author here (Idiap Research Institute, joint work with Logitech). We recently released DialFork and thought it might interest people here. It's a benchmark for a failure mode of LLM agents that is easy to miss: every turn is fluent and factual, the tool calls are correct, yet the agent stops following the procedure it was given. For example, asked for the weather, it fetches the forecast…",
+   "image": null,
+   "signal": 0,
+   "score": 3.39,
+   "also": []
+  }
+ ],
+ "videos": [
+  {
+   "id": "XgC1QTs6A2U",
+   "title": "This Is The Future of AI - With Spencer Huang",
+   "url": "https://www.youtube.com/watch?v=XgC1QTs6A2U",
+   "channel": "Two Minute Papers",
+   "published": "2026-11-06T07:27:02+00:00",
+   "thumbnail": "https://i1.ytimg.com/vi/XgC1QTs6A2U/hqdefault.jpg",
+   "views": 794,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible: Adam Bridges, B Shang, Carlos Galarza,…",
+   "relevance": 0
+  },
+  {
+   "id": "0Kw6_DTZPrY",
+   "title": "‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon",
+   "url": "https://www.youtube.com/watch?v=0Kw6_DTZPrY",
+   "channel": "AI Explained",
+   "published": "2026-11-02T17:02:16+00:00",
+   "thumbnail": "https://i1.ytimg.com/vi/0Kw6_DTZPrY/hqdefault.jpg",
+   "views": 128991,
+   "description": "You know what, by AI standards, it might not have been the craziest week, but that doesn’t mean several headline-worthy things happened - from Altman and Anthropic implying they would release models they can’t control,…",
+   "relevance": 0
+  }
+ ],
+ "papers": [
+  {
+   "id": "2611.06728",
+   "title": "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit",
+   "authors": "Shuai Dong, Kanghui Tian, Linghan Chen, Wenqi Shao et al.",
+   "abstract": "Streaming video understanding requires models to repeatedly decide whether to respond or continue observing. Recently, Group Relative Policy Optimization (GRPO) has been applied to this setting, with existing approaches emphasizing reward design while retaining a single trajectory-level advantage across turns. Such shared credit can reinforce redundant replies after earlier successes and discourage useful follow-ups after earlier failures. We propose TurnWise, a turn-level GRPO framework that aligns learning with individual streaming decisions. TurnWise addresses the mismatch between trajectory-level feedback and turn-level interaction, promoting informative responses and reducing redundancy. Specifically, turn-level credit assignment uses silence-completed prefix scoring to construct group-relative advantages from each decision's remaining return, separating its learning signal from earlier rewards. Turn-mean policy optimization averages token losses within each turn and then across turns, giving response and waiting decisions equal weight regardless of output length. These…",
+   "published": "2026-11-04T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.06728",
+   "pdf": "https://arxiv.org/pdf/2611.06728",
+   "upvotes": 126,
+   "github": "https://github.com/XD111ds/turn-wise-rl",
+   "origin": "hf",
+   "ai_summary": "TurnWise improves streaming video understanding by assigning turn-level credit and balancing decision weights in group relative policy optimization.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.00854",
+   "title": "Are Frontier VLM Agents Ready to Be Robot Generalists? An Empirical Study with the Embodied Agent Arena",
+   "authors": "Haojian Huang, Pukun Zhao, Zexi Li, Yehang Zhang et al.",
+   "abstract": "A robot generalist must interpret a scene, act on it, and satisfy every condition of a task. How far do frontier vision-language models (VLMs) meet these demands? We introduce Embodied Agent Arena, evaluating ten VLM agents across Geometry, Spatial Reasoning, Affordance, Task Planning, and Manipulation. Its 1,000 cases combine 32 established sources with GeoProbe, our 168-case benchmark for camera, motion, depth, and scale estimation. A minimal harness leaves task decisions to the model through source-native interfaces. Closed-weight models lead all five domains, whereas open-weight VLMs show useful spatial reasoning but substantially lower planning and manipulation success. Beneath these averages, similar geometric errors conceal different scale and shape distortions, and valid region estimates need not identify usable action points. During execution, agents can achieve early subgoals yet lose object control, bind an action to the wrong receiving region, or stop before the required physical state holds. Additional computation does not uniformly resolve these failures: code repair…",
+   "published": "2026-10-23T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.00854",
+   "pdf": "https://arxiv.org/pdf/2610.00854",
+   "upvotes": 104,
+   "github": "https://github.com/embodied-agent-arena/embodied-agent-arena",
+   "origin": "hf",
+   "ai_summary": "Frontier vision-language models vary widely in embodied task performance, with closed-weight systems leading in planning and manipulation while open-weight models lag, and failure patterns reveal distinct geometric, control, and reasoning errors rather than uniform deficits.",
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.05275",
+   "title": "Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems",
+   "authors": "Pengfei Zhou, Yixing Ma, Hexin Wang, Weidong Tang et al.",
+   "abstract": "Artificial general intelligence (AGI) requires a method that can understand, generate, reason, and act across diverse domains and modalities. Rather than relying on a single model to master every capability, a promising path toward AGI now is to orchestrate a heterogeneous ecosystem of specialized models, tools, and policies (candidates) into a unified AI system. At the heart of this vision lies a fundamental question: how can an AI system dynamically select and coordinate the most capable candidate for each task while balancing performance and computational cost? In this work, we present Route Anything, a unified framework for studying model and policy routing across general-purpose AI systems. We develop a unified theoretical foundation that characterizes optimal routing under quality--cost trade-offs and establishes how the information available to a router determines its attainable performance. To systematically investigate routing across diverse capabilities, we first construct an omni-modal trajectory matrix spanning 25 benchmarks across language understanding, image, video,…",
+   "published": "2026-11-03T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.05275",
+   "pdf": "https://arxiv.org/pdf/2611.05275",
+   "upvotes": 85,
+   "github": "https://github.com/InfRec-Cardinal/route-anything",
+   "origin": "hf",
+   "ai_summary": "Route Anything is a framework for dynamically selecting and coordinating specialized AI models and policies across diverse tasks to improve performance and efficiency.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.00617",
+   "title": "Words Caught in the Heart: Simulating Person-Specific Expression for Self-Opaque Clients in Psychotherapy",
+   "authors": "Mengxi Xiao, Jingjing Chen, Ziyan Kuang, Jiarong Song et al.",
+   "abstract": "Psychotherapy clients may experience distress before they can coherently describe it, and their expression changes with emotion, perceived safety, and trust. Large language model-based client simulators often rely on clinically organized case descriptions, which can encourage responses explaining the client's difficulties more clearly than their current understanding warrants. We propose Pandora, a psychotherapy client simulation framework that models how psychological experience becomes situated, individual expression. Pandora updates psychological and relational states in response to therapist interventions, constructs subjective appraisals and attributions, and plans response content and strategy. A separate expression planner combines these decisions with language patterns distilled from the client's utterances to guide linguistic realization. We evaluate Pandora against five baselines on 115 cases from four counseling and motivational interviewing datasets. It achieves the highest expression similarity and overall disclosure-alignment score among the compared systems. In a…",
+   "published": "2026-10-31T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.00617",
+   "pdf": "https://arxiv.org/pdf/2611.00617",
+   "upvotes": 76,
+   "github": "https://github.com/whunextgen/Pandora",
+   "origin": "hf",
+   "ai_summary": "Pandora is a psychotherapy client simulation framework that models evolving psychological and relational states to generate more authentic, individually aligned expressions and reduce AI-like responses.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.04916",
+   "title": "Behind Video Generation: Observations and Insights on Multimodal Understanding from Kling",
+   "authors": "Kling Team, Dong Chen, Jialu Chen, Xinlong Chen et al.",
+   "abstract": "Video generation has progressed from isolated clips to coherent short-form audiovisual sequences, and the bottleneck is shifting from rendering to semantic control. This report summarizes the observations and insights on multimodal understanding gained from successive generations of Kling. We argue that generation quality is the projection of multimodal understanding through the entire data--conditioning--alignment--evaluation chain, and we examine this chain module by module. Kling-MLLM, a shared multimodal foundation model that unifies image, video, audio, synchronized audio--video, and interleaved inputs, is specialized for each downstream module. Because a DiT is trained on far fewer training samples than a language model, we treat captioning as a semantic contract that maximizes description density, and extend it to reference-grounded captioning that makes reference bindings explicit. Prompt enhancement translates user intent into this caption distribution: basic PE is derived from captions of compelling videos and refined with text-level and generator-in-the-loop reinforcement…",
+   "published": "2026-11-03T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.04916",
+   "pdf": "https://arxiv.org/pdf/2611.04916",
+   "upvotes": 68,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "Kling's multimodal understanding stack links caption density, perceptual text encoding, reward modeling, and evaluation protocols to improve controllable video generation.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.04814",
+   "title": "Think Less, Locally: Local Preference Learning for Reasoning Compression",
+   "authors": "Muyao Yuan, Liyan Xu, Weizhan Zhang, Muyan Jiao et al.",
+   "abstract": "Large reasoning models achieve strong performance on challenging tasks, but their long chain-of-thought often incurs substantial inference costs by continuing to deliberate after sufficient information has been obtained. Existing reasoning compression methods primarily operate on reasoning trajectories, paying less attention to the local decision of whether further reasoning is necessary given the current state. We propose LoCo, a local preference learning method for reasoning compression. LoCo detects candidate overthinking states from the model's own traces, freezes the corresponding reasoning prefixes, regenerates shorter verified continuations from the same states, and trains on the resulting state-conditioned preference pairs with DPO. This formulation teaches the model when to continue reasoning and when to conclude, rather than simply encouraging shorter trajectories overall. We construct training data entirely from self-generated mathematical traces and evaluate LoCo on five mathematical and three code generation benchmarks. LoCo reduces completion length by 41.7\\%--45.4\\%…",
+   "published": "2026-11-03T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.04814",
+   "pdf": "https://arxiv.org/pdf/2611.04814",
+   "upvotes": 58,
+   "github": "https://github.com/MuyaoYuan/LoCo",
+   "origin": "hf",
+   "ai_summary": "LoCo uses local preference learning to teach reasoning models when to stop deliberating, reducing output length substantially while preserving or improving accuracy across math and code tasks.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.06918",
+   "title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
+   "authors": "Weichen Fan, Haiwen Diao, Penghao Wu, Siyuan Hu et al.",
+   "abstract": "Vision-language-action models are typically built on a simple premise: perception is first compressed by visual encoders, and action reasoning begins only afterwards. Yet manipulation often hinges on precisely the visual signals most vulnerable to this abstraction, e.g., local geometry, boundaries, depth, and subtle state changes. This raises a fundamental question: should action policies inherit a fixed visual endpoint, or directly access evolving visual computation? We introduce NEO-VLA, a structurally encoder-free vision-language-action framework. Images are tokenized by lightweight patch convolutional layers and evolve jointly with language throughout the backbone, allowing a flow-matching action expert to draw from instruction-conditioned visual representations at different depths. This simple change reveals a consistent pattern. Native architectures outperform encoder-based counterparts under controlled comparisons; full fine-tuning reduces but does not erase the gap, and additional scale alone cannot recover it. More strikingly, layer-wise probing shows that the…",
+   "published": "2026-11-04T18:59:58.000Z",
+   "url": "https://arxiv.org/abs/2611.06918",
+   "pdf": "https://arxiv.org/pdf/2611.06918",
+   "upvotes": 57,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "NEO-VLA eliminates fixed visual encoders to let action policies access evolving visual representations across network depths, improving manipulation robustness.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.05377",
+   "title": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",
+   "authors": "Jisoo Kim, Chaehyun Kim, Junsu Kim, Jiho Park et al.",
+   "abstract": "Learning a universal action representation from video requires modeling dynamics that are consistent across different executions of the same action yet invariant to changes in embodiment and appearance. Existing latent action models infer actions from visual transitions, but their representations often entangle the underlying action with irrelevant visual variations, limiting transfer across embodiments. We introduce DreamX, which repurposes a pretrained video diffusion model as a universal latent action learner. Our approach extracts compact latent actions from the video model's rich spatiotemporal features, compressing each latent video frame by 300times (1{,200 rightarrow 4} tokens). In addition, by leveraging the video model's generative prior, these latent actions capture action-relevant dynamics disentangled from visual appearance. The resulting latent space serves as a shared action interface across embodiments (human and robot), environments, and action parameterizations. On LARY-Bench, DreamX achieves state-of-the-art performance among latent action models. Moreover,…",
+   "published": "2026-11-03T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.05377",
+   "pdf": "https://arxiv.org/pdf/2611.05377",
+   "upvotes": 55,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "DreamX leverages a pretrained video diffusion model to learn compact, appearance-invariant latent actions that enable cross-embodiment transfer and efficient policy learning.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.08449",
+   "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
+   "authors": "Yu-Cheng Chou, Shihao Wang, Jin Huang, Chi-Pin Huang et al.",
+   "abstract": "Models for physical AI tasks, such as robotics and autonomous driving, need not reason solely in language. They can use visual plans--points, bounding boxes, and trajectories--to represent spatial goals and anticipate motion. However, autoregressive vision-language models generate these plans one coordinate token at a time, making richer predictions increasingly costly. We introduce VFlash, a method for fast, accurate visual planning through Flash Primitive Decoding. VFlash exploits the known structure of visual primitives to predict their coordinates jointly, using a lightweight drafter that generates an entire primitive in one forward pass. The layout adapts to the primitive's type, dimensionality, and length, supporting compact boxes and long, variable-length trajectories. Crucially, spatial accuracy need not require reproducing an autoregressive model's exact token sequence. VFlash therefore trains on annotated primitives and directly accepts structurally valid predictions without target-token agreement. Across the evaluated 2D and 3D robot trajectory tasks, VFlash consistently…",
+   "published": "2026-11-05T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.08449",
+   "pdf": "https://arxiv.org/pdf/2611.08449",
+   "upvotes": 54,
+   "github": null,
+   "origin": "hf",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.06910",
+   "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+   "authors": "Bingran You, Wenjun Ke, Ria Rosenauer, Bo Liu et al.",
+   "abstract": "AI agents are playing an increasingly important role in physics research. However, existing physics benchmarks only evaluate fixed questions, isolated sub-tasks, or paper reproduction with given solutions, and rarely check research quality alongside correctness. We introduce FrontierPhysics, an end-to-end benchmark with 56 tasks made by 42 physicists based on their own research, covering nine domains across theoretical, computational, and experimental physics. Each task requires agents to review the literature, develop a research plan, conduct research and experiments, and produce structured outputs and scientific manuscripts. Combining deterministic verifiers with expert-authored rubrics, FrontierPhysics evaluates whether agents' research is correct and publishable. Across 22 models in 26 configurations, no configuration passes more than 46 of its 168 rollouts. Manual review of agent trajectories shows that frontier agents' main weaknesses are insufficiently rigorous reasoning and limited expert intuition, rather than gaps in physics knowledge or execution errors.",
+   "published": "2026-11-04T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.06910",
+   "pdf": "https://arxiv.org/pdf/2611.06910",
+   "upvotes": 49,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "FrontierPhysics is an end-to-end benchmark of 56 expert-designed physics tasks that evaluates AI agents on literature review, research planning, experimentation, and manuscript production using deterministic verifiers and expert rubrics.",
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.08231",
+   "title": "From Twisted Facts to Rogue Agents: Can LLMs Reliably Detect Multi-Dimensional Hallucinations?",
+   "authors": "Hanyu Qiu, Ze Liu, Zhe Zhao, Kuang Xiong et al.",
+   "abstract": "Large language models (LLMs) are widely used for information access, content production, and agent-based task execution, but their outputs remain vulnerable to subtle, high-risk hallucinations. To systematically evaluate and advance post-generation hallucination detection, we introduce HaluCheck, a large-scale, bilingual benchmark comprising over 42k instances spanning both factual hallucinations in text and faithfulness hallucinations in agent trajectories. HaluCheck features fine-grained, multi-level annotations for detection, localization, and correction, covering different tasks and perturbation degrees. Experiments on fourteen LLMs reveal that, while models show basic sample-level detection ability, they struggle with fine-grained localization, correction, and agent hallucination detection. Further analysis demonstrates that thinking, web search, and supervised fine-tuning each offer partial improvements, but none fully solve the problem. HaluCheck thus provides a solid basis for benchmarking and diagnosing LLM reliability across text and agent scenarios.",
+   "published": "2026-11-05T16:15:18Z",
+   "url": "https://arxiv.org/abs/2611.08231",
+   "pdf": "https://arxiv.org/pdf/2611.08231",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CL"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.08153",
+   "title": "A Generative Foundation Model for Multimodal Tokamak Tasks",
+   "authors": "Yingshuai Ji, Haodong Feng, Guohong Deng, Gelin Bian et al.",
+   "abstract": "Tokamak experiments record diverse measurements, including waveforms, profiles, fields, and scalars, which are used to reconstruct the plasma, forecast its evolution, recover associated control signals, and estimate disruption risk. Most models are built separately for one task and a fixed set of inputs and outputs, and each relies on a prescribed subset of diagnostics rather than structuring the full multimodal observation set to extract global, cross-signal information about the discharge. These limitations motivate a reusable foundation model that adapts to each task's input-output schema and models heterogeneous target signals jointly, rather than retraining a separate model for every configuration. In this work, we extend the TokaMark benchmark with two groups of tasks for actuator action inversion and disruption prediction, yielding 20 MAST tasks in six groups with explicit schemas and evaluation protocols. Then, we introduce GenToka, a generative tokamak foundation model that jointly generates schema-selected targets through a shared conditional diffusion Transformer, with…",
+   "published": "2026-11-05T15:13:48Z",
+   "url": "https://arxiv.org/abs/2611.08153",
+   "pdf": "https://arxiv.org/pdf/2611.08153",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.AI",
+    "cs.CE"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.08369",
+   "title": "NPCBench: A Clinical Apprenticeship Benchmark for Multimodal Care-Pathway Reasoning in Nasopharyngeal Carcinoma",
+   "authors": "Pengkai Wang, Wei-Wei Zhang, Yan Li, Min Tang et al.",
+   "abstract": "Current medical benchmarks typically break down clinical competence into isolated factual questions, single-image tasks, or static case vignettes. These tests score individual answers, but reveal less about whether a model can integrate subspecialty knowledge with multimodal evidence and track a patient's condition throughout a course of care. To close this gap, we introduce NPCBench, a clinical apprenticeship benchmark for nasopharyngeal carcinoma (NPC). NPCBench mirrors specialist training, from guideline and foundational knowledge to case planning, longitudinal review, CarePath integration, and open-ended consultation. It contains 4,777 component and consultation items and a 100-patient CarePath cohort with 417 scored diagnostic and care tasks. The episode-level evaluation tests whether diagnostic and care answers are jointly correct within a care pathway. By linking stepwise tasks to patient-level care trajectories, NPCBench evaluates whether models ground decisions in visual evidence, interpret changes in patient state, and meet clinical requirements in consultation. Across 30…",
+   "published": "2026-11-05T17:48:55Z",
+   "url": "https://arxiv.org/abs/2611.08369",
+   "pdf": "https://arxiv.org/pdf/2611.08369",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.AI"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.08363",
+   "title": "StrataFlux: Memory-Hierarchy-Native Low-Bit LLM Inference",
+   "authors": "Jake Hyun, Ziyu Zhao, Jae-sun Seo, Mohamed S. Abdelfattah",
+   "abstract": "Quantization reduces the memory and bandwidth demands of large language model (LLM) inference but can degrade accuracy; offloading higher-precision data can instead stall generation. We introduce StrataFlux, a framework that challenges this tradeoff by recovering accuracy lost to low-bit weight and key-value (KV) cache quantization while retaining quantization's memory and speed advantages. StrataFlux co-designs refinement representation, selection, and delivery to make host RAM and solid-state drives useful sources of additional precision. Its selective precision streaming reduces transfer volume, overlaps delivery with computation, and reuses fetched precision across decoding steps so generation need not wait for every transfer. We evaluate 2-4-bit weights and 2-3-bit KV-cache on dedicated GPUs and unified-memory platforms. For 2-bit Llama-3.1-8B-Instruct weights, StrataFlux reduces WikiText-2 perplexity from 9.46 to 8.40 while maintaining 95.4% of the quantized base's throughput on RTX 5090. With 2-bit weights and KV, StrataFlux raises Qwen3-8B's AIME 2024/2025 accuracy from…",
+   "published": "2026-11-05T17:42:06Z",
+   "url": "https://arxiv.org/abs/2611.08363",
+   "pdf": "https://arxiv.org/pdf/2611.08363",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.LG",
+    "cs.DC"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.08281",
+   "title": "Multimodal-SEA: Benchmarking AI Agent Security under Multimodal Social Engineering Attacks",
+   "authors": "Zhitao He, Chi Him Zhang, Chengru Han, Yi R Fung",
+   "abstract": "Personal AI agents face social engineering attacks supported by forged multimodal content, but existing evaluations mainly focus on text-based dialogue, leaving their intrinsic security under such attacks insufficiently studied. We introduce Multimodal-SEA, an interactive benchmark comprising 608 expert-designed tasks grounded in real-world fraud cases, covering 14 domains and 152 attack scenarios with prepared multimodal content. The tasks span four difficulty levels and reflect the distinct social and cultural contexts of Chinese and English environments. Agents inspect content, verify requests, and execute actions in simulated applications, with attack outcomes grounded in verifiable tool execution logs. To enable controlled red teaming of personal agents, we design a multimodal attack harness that integrates task information, attack progression control, and multimodal content construction to evaluate their intrinsic security against adaptive social engineering attacks in simulated environments. Evaluating seven widely used multimodal models across six dimensions reveals that all…",
+   "published": "2026-11-05T16:46:31Z",
+   "url": "https://arxiv.org/abs/2611.08281",
+   "pdf": "https://arxiv.org/pdf/2611.08281",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CL"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "classics": [
+  {
+   "id": "2405.12213",
+   "title": "Octo: An Open-Source Generalist Robot Policy",
+   "year": 2024,
+   "authors": "O. Team, Dibya Ghosh, H. Walke et al.",
+   "abstract": "Large policies pretrained on diverse robot datasets have the potential to transform robotic learning: instead of training new policies from scratch, such generalist robot policies may be finetuned with only a little in-domain data, yet generalize broadly. However, to be widely applicable across a range of robotic learning scenarios, environments, and tasks, such policies need to handle diverse sensors and action spaces, accommodate a variety of commonly used robotic platforms, and finetune readily and efficiently to new domains. In this work, we aim to lay the groundwork for developing open-source, widely applicable, generalist policies for robotic manipulation. As a first step, we…",
+   "citations": 2225,
+   "url": "https://arxiv.org/abs/2405.12213",
+   "cited_by": [
+    "Are Frontier VLM Agents Ready to Be Robot Generalists? An Empirical Study with the Embodied Agent Arena",
+    "From Pixels to Actions - Towards Native Vision-Language-Action Policies"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2412.14171",
+   "title": "Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces",
+   "year": 2024,
+   "authors": "Jihan Yang, Shu-Sheng Yang, Anjali Gupta et al.",
+   "abstract": "Humans possess the visual-spatial intelligence to remember spaces from sequential visual observations. However, can Multimodal Large Language Models (MLLMs) trained on million-scale video datasets also \"think in space\" from videos? We present a novel video-based visual-spatial intelligence benchmark (VSI-Bench) of over 5,000 question-answer pairs, and find that MLLMs exhibit competitive—though subhuman—visual-spatial intelligence. We probe models to express how they think in space both linguistically and visually and find that while spatial reasoning capabilities remain the primary bottleneck for MLLMs to reach higher benchmark performance, local world models and spatial awareness do emerge…",
+   "citations": 906,
+   "url": "https://arxiv.org/abs/2412.14171",
+   "cited_by": [
+    "Are Frontier VLM Agents Ready to Be Robot Generalists? An Empirical Study with the Embodied Agent Arena",
+    "Behind Video Generation: Observations and Insights on Multimodal Understanding from Kling"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1707.06347",
+   "title": "Proximal Policy Optimization Algorithms",
+   "year": 2017,
+   "authors": "John D. Schulman, F. Wolski, Prafulla Dhariwal et al.",
+   "abstract": "We propose a new family of policy gradient methods for reinforcement learning, which alternate between sampling data through interaction with the environment, and optimizing a \"surrogate\" objective function using stochastic gradient ascent. Whereas standard policy gradient methods perform one gradient update per data sample, we propose a novel objective function that enables multiple epochs of minibatch updates. The new methods, which we call proximal policy optimization (PPO), have some of the benefits of trust region policy optimization (TRPO), but they are much simpler to implement, more general, and have better sample complexity (empirically). Our experiments test PPO on a collection of…",
+   "citations": 33250,
+   "url": "https://arxiv.org/abs/1707.06347",
+   "cited_by": [
+    "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2406.09246",
+   "title": "OpenVLA: An Open-Source Vision-Language-Action Model",
+   "year": 2024,
+   "authors": "Moo Jin Kim, Karl Pertsch, Siddharth Karamcheti et al.",
+   "abstract": "Large policies pretrained on a combination of Internet-scale vision-language data and diverse robot demonstrations have the potential to change how we teach robots new skills: rather than training new behaviors from scratch, we can fine-tune such vision-language-action (VLA) models to obtain robust, generalizable policies for visuomotor control. Yet, widespread adoption of VLAs for robotics has been challenging as 1) existing VLAs are largely closed and inaccessible to the public, and 2) prior work fails to explore methods for efficiently fine-tuning VLAs for new tasks, a key component for adoption. Addressing these challenges, we introduce OpenVLA, a 7B-parameter open-source VLA trained on…",
+   "citations": 4335,
+   "url": "https://arxiv.org/abs/2406.09246",
+   "cited_by": [
+    "Are Frontier VLM Agents Ready to Be Robot Generalists? An Empirical Study with the Embodied Agent Arena",
+    "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
+    "DreamX: Video Diffusion Model is a Universal Latent Action Learner"
+   ],
+   "why": "Cité par 3 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2409.12191",
+   "title": "Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution",
+   "year": 2024,
+   "authors": "Peng Wang, Shuai Bai, Sinan Tan et al.",
+   "abstract": "We present the Qwen2-VL Series, an advanced upgrade of the previous Qwen-VL models that redefines the conventional predetermined-resolution approach in visual processing. Qwen2-VL introduces the Naive Dynamic Resolution mechanism, which enables the model to dynamically process images of varying resolutions into different numbers of visual tokens. This approach allows the model to generate more efficient and accurate visual representations, closely aligning with human perceptual processes. The model also integrates Multimodal Rotary Position Embedding (M-RoPE), facilitating the effective fusion of positional information across text, images, and videos. We employ a unified paradigm for…",
+   "citations": 5386,
+   "url": "https://arxiv.org/abs/2409.12191",
+   "cited_by": [
+    "Behind Video Generation: Observations and Insights on Multimodal Understanding from Kling"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2108.07732",
+   "title": "Program Synthesis with Large Language Models",
+   "year": 2021,
+   "authors": "Jacob Austin, A. Odena, Maxwell Nye et al.",
+   "abstract": "This paper explores the limits of the current generation of large language models for program synthesis in general purpose programming languages. We evaluate a collection of such models (with between 244M and 137B parameters) on two new benchmarks, MBPP and MathQA-Python, in both the few-shot and fine-tuning regimes. Our benchmarks are designed to measure the ability of these models to synthesize short Python programs from natural language descriptions. The Mostly Basic Programming Problems (MBPP) dataset contains 974 programming tasks, designed to be solvable by entry-level programmers. The MathQA-Python dataset, a Python version of the MathQA benchmark, contains 23914 problems that…",
+   "citations": 5041,
+   "url": "https://arxiv.org/abs/2108.07732",
+   "cited_by": [
+    "Think Less, Locally: Local Preference Learning for Reasoning Compression"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2303.15343",
+   "title": "Sigmoid Loss for Language Image Pre-Training",
+   "year": 2023,
+   "authors": "Xiao-Hua Zhai, Basil Mustafa, Alexander Kolesnikov et al.",
+   "abstract": "We propose a simple pairwise sigmoid loss for imagetext pre-training. Unlike standard contrastive learning with softmax normalization, the sigmoid loss operates solely on image-text pairs and does not require a global view of the pairwise similarities for normalization. The sigmoid loss simultaneously allows further scaling up the batch size, while also performing better at smaller batch sizes. With only four TPUv4 chips, we can train a Base CLIP model at 4k batch size and a Large LiT model at 20k batch size, the latter achieves 84.5% ImageNet zero-shot accuracy in two days. This disentanglement of the batch size from the loss further allows us to study the impact of examples vs pairs and…",
+   "citations": 4261,
+   "url": "https://arxiv.org/abs/2303.15343",
+   "cited_by": [
+    "From Pixels to Actions - Towards Native Vision-Language-Action Policies"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2311.12022",
+   "title": "GPQA: A Graduate-Level Google-Proof Q&A Benchmark",
+   "year": 2023,
+   "authors": "David Rein, Betty Li Hou, Asa Cooper Stickland et al.",
+   "abstract": "We present GPQA, a challenging dataset of 448 multiple-choice questions written by domain experts in biology, physics, and chemistry. We ensure that the questions are high-quality and extremely difficult: experts who have or are pursuing PhDs in the corresponding domains reach 65% accuracy (74% when discounting clear mistakes the experts identified in retrospect), while highly skilled non-expert validators only reach 34% accuracy, despite spending on average over 30 minutes with unrestricted access to the web (i.e., the questions are\"Google-proof\"). The questions are also difficult for state-of-the-art AI systems, with our strongest GPT-4 based baseline achieving 39% accuracy. If we are to…",
+   "citations": 3915,
+   "url": "https://arxiv.org/abs/2311.12022",
+   "cited_by": [
+    "Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "stats": {
+  "raw_news": 52,
+  "stories": 10,
+  "videos": 2,
+  "papers": 15,
+  "classics": 8,
+  "seconds": 302
+ }
+}
