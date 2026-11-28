@@ -1,0 +1,608 @@
+{
+ "generated_at": "2026-11-26T14:00:15.721264+00:00",
+ "date": "2026-11-26",
+ "tldr": {
+  "headline": "Les titres du jour",
+  "points": [
+   {
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "text": "",
+    "ref": "news:02a088434703"
+   },
+   {
+    "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+    "text": "82 points · 91 commentaires",
+    "ref": "news:4c5b30e40ea1"
+   },
+   {
+    "title": "An algebraic quantization of gravity from the null cone",
+    "text": "80 points · 16 commentaires",
+    "ref": "news:6cd17244579f"
+   },
+   {
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "text": "",
+    "ref": "news:d3aa48daa62d"
+   },
+   {
+    "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+    "text": "350 points · 192 commentaires",
+    "ref": "news:244a3e8cb4f1"
+   }
+  ],
+  "generated": false
+ },
+ "tldr_en": {
+  "headline": "Today's headlines",
+  "points": [
+   {
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "text": "",
+    "ref": "news:02a088434703"
+   },
+   {
+    "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+    "text": "82 points · 91 commentaires",
+    "ref": "news:4c5b30e40ea1"
+   },
+   {
+    "title": "An algebraic quantization of gravity from the null cone",
+    "text": "80 points · 16 commentaires",
+    "ref": "news:6cd17244579f"
+   },
+   {
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "text": "",
+    "ref": "news:d3aa48daa62d"
+   },
+   {
+    "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+    "text": "350 points · 192 commentaires",
+    "ref": "news:244a3e8cb4f1"
+   }
+  ],
+  "generated": false
+ },
+ "news": [
+  {
+   "id": "02a088434703",
+   "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+   "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+   "source": "Hugging Face",
+   "published": "2026-11-26T11:37:17+00:00",
+   "summary": "",
+   "image": null,
+   "signal": 0,
+   "score": 1.38,
+   "also": []
+  },
+  {
+   "id": "4c5b30e40ea1",
+   "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+   "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+   "source": "Hacker News",
+   "published": "2026-11-26T09:44:23+00:00",
+   "summary": "82 points · 91 commentaires",
+   "image": null,
+   "signal": 82,
+   "discussion": "https://news.ycombinator.com/item?id=50653477",
+   "score": 3.33,
+   "also": []
+  },
+  {
+   "id": "6cd17244579f",
+   "title": "An algebraic quantization of gravity from the null cone",
+   "url": "https://arxiv.org/abs/2611.34924",
+   "source": "Hacker News",
+   "published": "2026-11-26T05:37:51+00:00",
+   "summary": "80 points · 16 commentaires",
+   "image": null,
+   "signal": 80,
+   "discussion": "https://news.ycombinator.com/item?id=50651863",
+   "score": 4.6,
+   "also": []
+  },
+  {
+   "id": "d3aa48daa62d",
+   "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+   "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+   "source": "Hugging Face",
+   "published": "2026-11-26T05:05:36+00:00",
+   "summary": "",
+   "image": null,
+   "signal": 0,
+   "score": 2.56,
+   "also": []
+  },
+  {
+   "id": "244a3e8cb4f1",
+   "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+   "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+   "source": "Hacker News",
+   "published": "2026-11-26T03:36:58+00:00",
+   "summary": "350 points · 192 commentaires",
+   "image": null,
+   "signal": 350,
+   "discussion": "https://news.ycombinator.com/item?id=50651117",
+   "score": 4.17,
+   "also": []
+  },
+  {
+   "id": "c01600d41603",
+   "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+   "url": "https://huggingface.co/blog/training-swarms",
+   "source": "Hugging Face",
+   "published": "2026-11-26T00:00:00+00:00",
+   "summary": "",
+   "image": null,
+   "signal": 0,
+   "score": 0.8,
+   "also": []
+  },
+  {
+   "id": "f63f4cad1468",
+   "title": "Much shorter version of GRH Lean verification from Anthropic",
+   "url": "https://github.com/lsernau/grh-lean",
+   "source": "Hacker News",
+   "published": "2026-11-25T21:48:10+00:00",
+   "summary": "491 points · 284 commentaires",
+   "image": null,
+   "signal": 491,
+   "discussion": "https://news.ycombinator.com/item?id=50648050",
+   "score": 4.15,
+   "also": []
+  },
+  {
+   "id": "dc69597abec1",
+   "title": "The New York Times warns photographers not to update Photoshop over AI features",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+   "source": "Hacker News",
+   "published": "2026-11-25T21:18:02+00:00",
+   "summary": "472 points · 393 commentaires",
+   "image": null,
+   "signal": 472,
+   "discussion": "https://news.ycombinator.com/item?id=50647673",
+   "score": 4.1,
+   "also": []
+  },
+  {
+   "id": "cd16924426fb",
+   "title": "datasette-charts 0.3a0",
+   "url": "https://simonwillison.net/2026/Nov/25/datasette-charts/",
+   "source": "Simon Willison",
+   "published": "2026-11-25T18:16:50+00:00",
+   "summary": "Release: datasette-charts 0.3a0 I added chart annotations to datasette-charts ! You can now render a chart and then annotate it with lines, shaded areas, labels, or a combination of the three. A chart with annotations looks like this: Here's that same chart in Datasette Lite , where you can tweak the annotations using the chart builder UI: If you also install Datasette Agent the agent can build…",
+   "image": null,
+   "signal": 0,
+   "score": 0.52,
+   "also": []
+  },
+  {
+   "id": "040b9138c790",
+   "title": "Verifiable Social Reasoning for LLM Assistants",
+   "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+   "source": "Google Research",
+   "published": "2026-11-25T17:10:27+00:00",
+   "summary": "Generative AI",
+   "image": "https://storage.googleapis.com/gweb-research2023-media/original_images/VerifiableSocialReasoning1-UserMediatedReality.png",
+   "signal": 0,
+   "score": 1.96,
+   "also": []
+  }
+ ],
+ "videos": [
+  {
+   "id": "hwWlEuI359w",
+   "title": "Claude AI’s Biggest Math Breakthrough Has A Problem.",
+   "url": "https://www.youtube.com/watch?v=hwWlEuI359w",
+   "channel": "Two Minute Papers",
+   "published": "2026-11-25T09:54:23+00:00",
+   "thumbnail": "https://i1.ytimg.com/vi/hwWlEuI359w/hqdefault.jpg",
+   "views": 146936,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://nasqret.github.io/riemann-rev/guide/proof-guide.pdf https://alpo.ge/remark.pdf Compression and…",
+   "relevance": 0
+  },
+  {
+   "id": "K8rdrWQRd20",
+   "title": "How AI is finding the hidden rules of the human brain",
+   "url": "https://www.youtube.com/watch?v=K8rdrWQRd20",
+   "channel": "Google DeepMind",
+   "published": "2026-11-24T17:51:08+00:00",
+   "thumbnail": "https://i4.ytimg.com/vi/K8rdrWQRd20/hqdefault.jpg",
+   "views": 77739,
+   "description": "The human brain remains one of the greatest unsolved mysteries in science. We have roughly 86 billion neurons firing in a way that somehow produces intelligence, and yet the brain is still largely a black box. In the…",
+   "relevance": 0
+  },
+  {
+   "id": "1jPdehG3Hms",
+   "title": "Claude AI Solved The Secret Of Black Holes",
+   "url": "https://www.youtube.com/watch?v=1jPdehG3Hms",
+   "channel": "Two Minute Papers",
+   "published": "2026-11-23T07:37:52+00:00",
+   "thumbnail": "https://i2.ytimg.com/vi/1jPdehG3Hms/hqdefault.jpg",
+   "views": 260972,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://www.anthropic.com/research/claude-black-hole-physics https://hexagonmath.org/2611.00175v1 🙏 We…",
+   "relevance": 0
+  }
+ ],
+ "papers": [
+  {
+   "id": "2611.25403",
+   "title": "Antom 3-in-1 Transformer: A Payment Foundation Model",
+   "authors": "Weiyu Han, Haoyu Jiang, Jie Sheng, Youxi Pan et al.",
+   "abstract": "We report the development of Antom 3-in-1 Transformer, a payment foundation model that integrates sequence, tabular, and graph representations for payment risk detection. The model contains approximately 7B parameters, with approximately 1.7B activated per task route. Antom 3-in-1 Transformer is pretrained to learn reusable behavioral and relational representations, primarily on Ant International's internal payment data. In a cross-business transfer experiment, pretraining improves the target business metric by 34.5% over the same architecture trained from scratch. With only 25% of the training labels, the pretrained model outperforms the full-label scratch baseline in Average Precision (AP) and Recall@0.5% on different merchant domains. In a four-month online experiment on Ant International's billion-scale payment platform, the model reduced the overall loss rate by 37.88% relative to XGB-Online.",
+   "published": "2026-11-19T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.25403",
+   "pdf": "https://arxiv.org/pdf/2611.25403",
+   "upvotes": 106,
+   "github": null,
+   "origin": "hf",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.28947",
+   "title": "Don't Sleep, Keep Watch: Proactive Perception for Computer-Use Agents",
+   "authors": "Jiaqi Su, Jie-Jing Shao, Yichen Liu, Long-Kai Huang et al.",
+   "abstract": "Computer-use agents (CUAs) built on vision-language models are increasingly entrusted with long-horizon tasks in live desktop, web, and mobile environments, where the screen keeps changing on its own. However, current CUAs lack real-time situational awareness: they perceive the environment through discrete snapshots, and the substantial inference latency of VLMs, compounded by highly dynamic interfaces, opens a perception-action gap in which the observed state frequently becomes stale before the corresponding action is executed. To bridge this gap, we present NightWatch, a plug-and-play framework that endows any CUA with continuous, temporally grounded perception without changing the agent's model, prompt, or action space. NightWatch couples the VLM agent with NightWatch-0.8B, a lightweight System-1 model that performs streaming monitoring of the interface state and keeps the agent synchronized with the evolving environment at low computational cost and latency, thereby grounding each decision in the current state rather than an outdated snapshot and reducing both stale actions and…",
+   "published": "2026-11-21T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.28947",
+   "pdf": "https://arxiv.org/pdf/2611.28947",
+   "upvotes": 100,
+   "github": "https://github.com/SuJQ0722/NightWatch",
+   "origin": "hf",
+   "ai_summary": "NightWatch adds a lightweight streaming watcher to vision-language computer-use agents to keep perception synchronized with dynamic interfaces, reducing latency and wasted time while maintaining or improving task success.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.34849",
+   "title": "Real2SimLab: A Unified Platform for Real-to-Simulation Transfer",
+   "authors": "Yongchang Zhang, Jie Huang, Yunhe Ni, Ningyu Zhou et al.",
+   "abstract": "Real-to-simulation transfer, which builds simulations from real-world observations, has long been studied in research and industry. Recently, coding agents have become capable of generating simulation programs from video recordings, and several benchmarks have been proposed to evaluate them. However, each individual benchmark defines its own inputs, deliverables, and scoring pipeline. This leads to N times M integrations when evaluating N methods on M benchmarks. To this end, we present Real2SimLab, a unified platform for real-to-simulation transfer. It evaluates a method by running its written program and scoring the output simulation with the original scorer of each benchmark. Moreover, Real2SimLab provides a pipeline to create training data and reward annotations for real-to-simulation methods. Our pipeline carefully avoids data contamination by filtering out the video recordings that exist in benchmarks. For each video recording, a program is first produced, and then our pipeline computes its reward with the same code that Real2SimLab uses for evaluation. So far, it supports 47…",
+   "published": "2026-11-25T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.34849",
+   "pdf": "https://arxiv.org/pdf/2611.34849",
+   "upvotes": 99,
+   "github": "https://github.com/Real2SimHub/Real2SimLab",
+   "origin": "hf",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.32884",
+   "title": "Lazy Agents Answer Against Their Own Beliefs: Reinforcement Learning with Verifiable Beliefs Teaches Them to Act on What They Believe",
+   "authors": "Richmond Sin Jing Xuan, Peilin Feng, Wenbin Wang, Soujanya Poria",
+   "abstract": "AI agents working on long tasks often commit to an answer before they have enough evidence, a behavior called laziness. In our evaluations, they frequently commit even while their stated belief still names several possible answers. An outcome reward at the end of the episode scores only the final answer, so it cannot teach the agent when to commit, because a lucky guess receives the same reward as an answer backed by evidence. During training, however, the simulator can compute the exact posterior over the answer at every step and tell whether the evidence is already enough. We propose Reinforcement Learning with Verifiable Beliefs (RLVB), which rewards the agent for taking further steps while this posterior still allows several answers and for committing once the evidence is sufficient. The reward needs no judge, critic or reward model, and it never reads the belief line the agent writes before each action. We also introduce Pro Worlds, a benchmark of visual puzzles where the agent views a large world through a small window. We evaluate three vision-language models on three…",
+   "published": "2026-11-24T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.32884",
+   "pdf": "https://arxiv.org/pdf/2611.32884",
+   "upvotes": 98,
+   "github": "https://github.com/declare-lab/RLVB",
+   "origin": "hf",
+   "ai_summary": "A reinforcement learning method rewards agents for delaying commitment until their inferred posterior over answers is sufficiently narrow, improving evidence-based answering across vision-language benchmarks.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.30634",
+   "title": "Rewirable Circuits in Transformers with Loom Attention",
+   "authors": "Da Xiao, Qingye Meng, Shengping Li, Xingyuan Yuan",
+   "abstract": "We propose loom attention, which allows a Transformer to dynamically rewire its circuits at every token by interweaving a head's vertical attention over the outputs of earlier heads (to obtain its query, key and value) with its horizontal attention over tokens. We instantiate vertical attention efficiently with normalized and gated linear attention over a per-token matrix memory, which stores the compressed head outputs and serves as a second residual stream. This yields LoomFormer, a dual-stream architecture that splits control and content between the vector and matrix streams. Across model sizes and training token budgets in language modeling and downstream tasks, LoomFormer matches Transformers trained with over 3x compute and recent residual-stream baselines (HC/mHC, MUDDFormer, AttnRes) trained with ~1.7-2.8x. For example, trained on the same 300B tokens with only 2% extra FLOPs, LoomPythia-2.8B achieves ~1.6x the average downstream gain of mHC-Pythia-2.8B over Pythia-2.8B, and matches (0-shot) or surpasses (5-shot) Pythia-12B. Code is available at…",
+   "published": "2026-11-23T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.30634",
+   "pdf": "https://arxiv.org/pdf/2611.30634",
+   "upvotes": 93,
+   "github": "https://github.com/Caiyun-AI/LoomFormer",
+   "origin": "hf",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.31358",
+   "title": "Nemotron-Labs-VisualCreation: Pixel as Code for Agentic Visual Creation",
+   "authors": "Guo Chen, Fuxiao Liu, Haoqin Tu, Yiyang Zhou et al.",
+   "abstract": "Visual creation demands expressive imagery together with precise control over text, layout, and structure. We introduce Nemotron-Labs-VisualCreation, an agentic framework that connects these capabilities through Pixel as Code. Raster images are represented by learned discrete visual tokens, while structured artifacts use explicit programs. A shared generation-and-rendering interface connects these representations to visual feedback across images, vector graphics, webpages, and documents. A Nemotron-native harness coordinates planning and raster candidate selection, with targeted repair for editable structured and hybrid artifacts. To support this interface, we develop Nemotron-Labs-Image-Tokenizer, the autoregressive raster generator Nemotron-Labs-Image-30B-A3B, and the structured-code model family Nemotron-Labs-VisionCode. On approximately 178K images spanning six visual domains, our tokenizer improves reconstruction PSNR from 26.08 to 29.57 dB over Emu3.5 IBQ. It also provides 7.13x faster encoding and 10.93x faster decoding at batch size one on A100. In standalone evaluation, one…",
+   "published": "2026-11-23T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.31358",
+   "pdf": "https://arxiv.org/pdf/2611.31358",
+   "upvotes": 82,
+   "github": null,
+   "origin": "hf",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.34575",
+   "title": "Sage-Med: Scaling Medical Multimodal Intelligence",
+   "authors": "Med Team, Ming Hu, Cheng Tang, Wei Li et al.",
+   "abstract": "Establishing effective scaling laws for medical multimodal large language models (MLLMs) remains a persistent and fundamental challenge. Our systematic evaluation shows that existing medical MLLMs tend to underperform frontier general-purpose MLLMs across a range of medical tasks, while scaling model size primarily improves text capabilities rather than multimodal perception, and enabling reasoning modes fails to close this visual gap. To investigate how medical multimodal intelligence scales in practice, we introduce Sage-Med-Preview, a 35B-parameter medical multimodal model with 3B activated parameters, built by combining stage-specific curation over 322.7 million candidate records with a progressive training curriculum spanning medical pretraining, staged supervised fine-tuning, and adaptive reinforcement learning. Across this curriculum, progressive supervised refinement and adaptive reinforcement learning yield consistent stage-wise gains, substantially advancing both specialized visual understanding and medical language capabilities. Evaluated against 77 competing models…",
+   "published": "2026-11-25T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.34575",
+   "pdf": "https://arxiv.org/pdf/2611.34575",
+   "upvotes": 80,
+   "github": "https://github.com/Sage-Med/Sage-Med-Preview",
+   "origin": "hf",
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.31205",
+   "title": "ACAP: Asynchronous Coding Agents for Efficient Robot Control",
+   "authors": "Zexin He, Rui Li, Yushi Lan, Chengkai Jin et al.",
+   "abstract": "Coding agents can construct and revise robot behavior during execution, but using one agent for the whole robot can delay otherwise independent work. We introduce Asynchronous Coding Agents as Policy (ACAP), an asynchronous framework that organizes one robot as a team of persistent agents. Each member reasons and acts for a configurable control group, such as an arm with its gripper or the torso and chassis, enabling asynchronous reasoning and execution. However, different robot components often have physical dependencies that require coordination. To address this challenge, ACAP introduces a hyper-agent that assigns tasks, coordinates dependencies, and dynamically allocates control between the lead and member agents. This allows independent work to progress concurrently while supporting tightly coupled manipulation when necessary. Across 72 real-world rollouts covering 25 task/platform settings, ACAP reduces task-balanced time cost by 28.2% compared with a single-agent Direct Policy, with improvements across Fully Parallel, Parallel-Sequential, and Collaborative tasks. Across all…",
+   "published": "2026-11-23T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.31205",
+   "pdf": "https://arxiv.org/pdf/2611.31205",
+   "upvotes": 64,
+   "github": null,
+   "origin": "hf",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.34923",
+   "title": "Mixture-of-Loops Transformer",
+   "authors": "Lianghui Zhu, Shijie Wang, Xinggang Wang, Jinze Bai et al.",
+   "abstract": "Looped Transformers boost expressivity by reusing shared layers across loops, yet at the cost of efficiency. Pushing their expressivity-efficiency frontier requires rethinking the core mechanism connecting adjacent loops: What should be passed as a Transformer loops? We introduce Mixture-of-Loops Transformer (MoLT), whose Mixture-of-Loops Attention (MoLA) uses keys and values (KV) as memory for selective reuse across depths and loops. Under loop residual, MoLT-R retains the residual stream and reads local KV across loops for expressivity. Under loop KV, MoLT-KV instead restarts from embeddings and reads current-loop local KV with preceding-loop memory KV at earlier positions for efficiency. MoLT-KV eliminates same-position cross-loop dependence and, paired with loop forcing for parallel training, unlocks single-traversal Mixture-of-Loops (MoL) decoding beyond the training loop horizon. To balance efficiency and quality, we introduce U-shaped MoLT (U-MoLT), which separates memory construction from prediction readout and skips unused decoder traversals without changing predictions. In…",
+   "published": "2026-11-25T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.34923",
+   "pdf": "https://arxiv.org/pdf/2611.34923",
+   "upvotes": 56,
+   "github": "https://github.com/hustvl/MoLT",
+   "origin": "hf",
+   "ai_summary": "A Mixture-of-Loops Transformer reuses key-value memory across loops and depths, and its U-shaped variant improves pretraining efficiency and inference latency.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.34237",
+   "title": "VibeVideoAgent: Closing the Perceptual Loop for Code-Driven Video Generation",
+   "authors": "Xuanyu Zheng, Luoyuan Zhang, Yancheng Long, Haoyang Xu et al.",
+   "abstract": "Code-driven video generation asks a coding agent to write and run rendering programs. This gives exact control over typography, data visualizations, synchronized audio, and multi-shot scenes, and it leaves an editable project behind. A program that exits cleanly can still render overlapping labels, a camera aimed away from its subject, broken object interactions, or narration that drifts out of sync, and none of these raise a runtime error. Feeding rendered frames and audio back into the coding session bloats its long-horizon context, while critiquing only the finished full-resolution render turns early design mistakes into costly rewrites. We introduce VibeVideoAgent, a training-free framework that lets coding agents inspect their drafts throughout production. Multimodal perception runs in short-lived contexts kept apart from the coder and returns compact, grounded Findings. Seven primitives operate on a unified multi-clock representation of assets and drafts: they explore media from coarse to fine, verify quoted requirements with evidence from every required modality, compare a…",
+   "published": "2026-11-25T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.34237",
+   "pdf": "https://arxiv.org/pdf/2611.34237",
+   "upvotes": 54,
+   "github": "https://github.com/Kling-Keye/VibeVideoAgent",
+   "origin": "hf",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.34750",
+   "title": "SOLVE: Sparse, Ordered Keyposes Make LLM Agents Versatile and Efficient Robot Manipulator",
+   "authors": "Xiang Li, Hongyu Zhou, Ya-Li Li, Tao Li et al.",
+   "abstract": "LLM agents have made remarkable progress in robot manipulation, yet they suffer from expensive inference, dense step-by-step control, and tool bottlenecks. We introduce SOLVE, a training-free, versatile and efficient agent policy: a multimodal LLM agent writes a sparse, ordered sequence of 6-DoF end-effector keyposes per call, observes the result, and writes the next, while a motion planner interpolates between them. The agent decides the number and spacing of keyposes for both fast long-range motion and fine-grained manipulation. This granularity matches the sparsity of teleoperated manipulation: most demonstrations in DROID can be compressed into a few keyposes instead of dense actions. SOLVE grounds keyposes with sparse depth queries answered by noisy sources, such as multi-view triangulation, stereo, or monocular depth, and copes with that noise itself. It also improves from execution feedback, reflecting on its own rollouts and distilling a few rules per task. SOLVE reaches state-of-the-art performance of 74.5% on RoboDojo and 84.5% on RoboLab, with only $1.7 per episode on…",
+   "published": "2026-11-25T17:25:17Z",
+   "url": "https://arxiv.org/abs/2611.34750",
+   "pdf": "https://arxiv.org/pdf/2611.34750",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.RO",
+    "cs.CV"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.34943",
+   "title": "Tracking Any Point with Agentic Visual Reasoning",
+   "authors": "Xuweiyi Chen, Jin Yao, Linzhan Mou, Lei Gong et al.",
+   "abstract": "A general-purpose Vision-Language Model (VLM) has surpassed expert vision models in many domains such as object detection and video recognition. However, point correspondence is known to be challenging for VLMs since it goes beyond object-level recognition: it requires pixel-level localization of the same physical surface point across observations, even when appearance changes or the point disappears and later reappears. In this paper, we introduce AgenTAP, a VLM-based agent that directly predicts point coordinates and visibility and actively reasons over videos. Starting from its own estimate, the agent autonomously chooses what to inspect and uses the resulting evidence to verify point identity and refine its predictions. With GPT-6 Astra, it surpasses expert vision models in both point localization and visibility prediction, without correspondence-specific fine-tuning. We further use AgenTAP to re-identify physical points after disappearance and reconnect fragmented tracks, constructing EgoTAP-4D, a dataset of 3D point trajectories in long real-world egocentric videos. On sampled…",
+   "published": "2026-11-25T18:59:58Z",
+   "url": "https://arxiv.org/abs/2611.34943",
+   "pdf": "https://arxiv.org/pdf/2611.34943",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CV"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.34881",
+   "title": "Stranger Things: When Objects Appear Without Their Typical Neighbors",
+   "authors": "Siddhartha Gairola, Jiahao Xie, Anna Kukleva, Francesco Locatello et al.",
+   "abstract": "Visual context is a powerful cue for object recognition: scenes inform what, where, and at what scale objects are likely to appear. Yet over-reliance on context becomes a failure mode when models predict objects based on their typical neighbors rather than the objects' own visual features, which we call typicality bias. While extensively studied in the pre-Transformer era, it has often been assumed that architectural and scale improvements would naturally solve it, and a systematic diagnostic across the modern vision stack remains absent. We provide such a diagnostic framework. We measure typicality bias via normalized pointwise mutual information (NPMI) over object pairs, and introduce STRANGE-Bench (Synthetic Typicality-RANked Grounded Evaluation Benchmark): a photorealistic, layout-controlled benchmark spanning 17 sub-tiers from typical to never-co-occurring object pairs. Across five model families (specialist detectors, open-vocabulary detectors, self-supervised, vision-language, and multimodal large language models) and three recognition tasks (supervised detection,…",
+   "published": "2026-11-25T18:39:28Z",
+   "url": "https://arxiv.org/abs/2611.34881",
+   "pdf": "https://arxiv.org/pdf/2611.34881",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CV",
+    "cs.LG"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.34811",
+   "title": "HOG-WAM: Improving Visual Robustness through Future Gradient Prediction",
+   "authors": "Boxuan Dong, Yupeng Qian, Ying Wu, Heshuai Li et al.",
+   "abstract": "World-action models jointly predict future observations and actions, yet visual corruption can disrupt the resulting policies. We introduce HOG-WAM, which adds future Histograms of Oriented Gradients (HOG) as structural supervision derived directly from demonstration images. An auxiliary HOG diffusion transformer (DiT) module reads RGB features through asymmetric attention, allowing its objective to shape the visual representation used for control. The module is used only during training and removed at inference, preserving FastWAM's RGB-to-action architecture. We evaluate four controlled observation corruptions through a visual-corruption extension of RoboTwin, termed RoboTwin-Plus; HOG-WAM achieves the highest success among the compared policies under all four. Mixed-noise success increases from 78.86% to 82.86% relative to FastWAM, with comparable performance on clean scenes. On LIBERO Plus, overall success increases from 74.49% to 75.26%, with the largest gain under sensor noise, from 74.14% to 78.89%. Across four Franka tasks, average success increases from 40% to 59% under…",
+   "published": "2026-11-25T17:59:24Z",
+   "url": "https://arxiv.org/abs/2611.34811",
+   "pdf": "https://arxiv.org/pdf/2611.34811",
+   "upvotes": 0,
+   "github": "https://github.com/iPPLab/HOG-WAM",
+   "origin": "arxiv",
+   "categories": [
+    "cs.CV",
+    "cs.AI",
+    "cs.RO"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.34724",
+   "title": "LiDAR Intensity Reconstruction with Limited Real Data: An Architecture Benchmark under Fixed-Epoch Training",
+   "authors": "Christopher M. Coovrey, Aniruddha Bora",
+   "abstract": "Physics-derived simulation can supplement scarce real-world LiDAR intensity measurements, but its effectiveness depends on the learning architecture and the amount of real training data available. We benchmark nine neural architectures for LiDAR intensity reconstruction from depth, semantic labels, incidence angle, and material reflectance, using real SemanticKITTI and synthetic VoxelScape range-image data. All models follow a fixed 20-epoch protocol; this controls the number of training passes, not the computational cost across architectures. We report mean absolute error (MAE), mean squared error (MSE), peak signal-to-noise ratio (PSNR), structural similarity (SSIM), inference timing, and spectral-energy agreement. We also evaluate four selected architectures with fixed-size training mixtures containing 0\\%, 1\\%, 5\\%, 10\\%, 20\\%, 50\\%, or 100\\% real frames. With real-only training, UNet-V2 achieves the best reported reconstruction metrics (MAE 0.234, MSE 0.140, PSNR 8.64 dB, and SSIM 0.647), followed by a denoising diffusion model (DDPM). In several mixtures containing 1--10\\%…",
+   "published": "2026-11-25T17:10:43Z",
+   "url": "https://arxiv.org/abs/2611.34724",
+   "pdf": "https://arxiv.org/pdf/2611.34724",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CV",
+    "cs.LG"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "classics": [
+  {
+   "id": "1512.03385",
+   "title": "Deep Residual Learning for Image Recognition",
+   "year": 2015,
+   "authors": "Kaiming He, X. Zhang, Shaoqing Ren et al.",
+   "abstract": "Deeper neural networks are more difficult to train. We present a residual learning framework to ease the training of networks that are substantially deeper than those used previously. We explicitly reformulate the layers as learning residual functions with reference to the layer inputs, instead of learning unreferenced functions. We provide comprehensive empirical evidence showing that these residual networks are easier to optimize, and can gain accuracy from considerably increased depth. On the ImageNet dataset we evaluate residual nets with a depth of up to 152 layers - 8× deeper than VGG nets [40] but still having lower complexity. An ensemble of these residual nets achieves 3.57% error…",
+   "citations": 248888,
+   "url": "https://arxiv.org/abs/1512.03385",
+   "cited_by": [
+    "Rewirable Circuits in Transformers with Loom Attention"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1603.02754",
+   "title": "XGBoost: A Scalable Tree Boosting System",
+   "year": 2016,
+   "authors": "Tian-Qi Chen, Carlos Guestrin",
+   "abstract": "Tree boosting is a highly effective and widely used machine learning method. In this paper, we describe a scalable end-to-end tree boosting system called XGBoost, which is used widely by data scientists to achieve state-of-the-art results on many machine learning challenges. We propose a novel sparsity-aware algorithm for sparse data and weighted quantile sketch for approximate tree learning. More importantly, we provide insights on cache access patterns, data compression and sharding to build a scalable tree boosting system. By combining these insights, XGBoost scales beyond billions of examples using far fewer resources than existing systems.",
+   "citations": 68221,
+   "url": "https://arxiv.org/abs/1603.02754",
+   "cited_by": [
+    "Antom 3-in-1 Transformer: A Payment Foundation Model"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1608.06993",
+   "title": "Densely Connected Convolutional Networks",
+   "year": 2016,
+   "authors": "Gao Huang, Zhuang Liu, L. van der Maaten et al.",
+   "abstract": "Recent work has shown that convolutional networks can be substantially deeper, more accurate, and efficient to train if they contain shorter connections between layers close to the input and those close to the output. In this paper, we embrace this observation and introduce the Dense Convolutional Network (DenseNet), which connects each layer to every other layer in a feed-forward fashion. Whereas traditional convolutional networks with L layers have L connections&#x2014;one between each layer and its subsequent layer&#x2014;our network has L(L+1)/2 direct connections. For each layer, the feature-maps of all preceding layers are used as inputs, and its own feature-maps are used as inputs…",
+   "citations": 46510,
+   "url": "https://arxiv.org/abs/1608.06993",
+   "cited_by": [
+    "Rewirable Circuits in Transformers with Loom Attention"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2302.13971",
+   "title": "LLaMA: Open and Efficient Foundation Language Models",
+   "year": 2023,
+   "authors": "Hugo Touvron, Thibaut Lavril, Gautier Izacard et al.",
+   "abstract": "We introduce LLaMA, a collection of foundation language models ranging from 7B to 65B parameters. We train our models on trillions of tokens, and show that it is possible to train state-of-the-art models using publicly available datasets exclusively, without resorting to proprietary and inaccessible datasets. In particular, LLaMA-13B outperforms GPT-3 (175B) on most benchmarks, and LLaMA-65B is competitive with the best models, Chinchilla-70B and PaLM-540B. We release all our models to the research community.",
+   "citations": 22792,
+   "url": "https://arxiv.org/abs/2302.13971",
+   "cited_by": [
+    "Rewirable Circuits in Transformers with Loom Attention"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2210.03629",
+   "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+   "year": 2022,
+   "authors": "Shun-Yu Yao, Jeffrey Zhao, Dian Yu et al.",
+   "abstract": "While large language models (LLMs) have demonstrated impressive capabilities across tasks in language understanding and interactive decision making, their abilities for reasoning (e.g. chain-of-thought prompting) and acting (e.g. action plan generation) have primarily been studied as separate topics. In this paper, we explore the use of LLMs to generate both reasoning traces and task-specific actions in an interleaved manner, allowing for greater synergy between the two: reasoning traces help the model induce, track, and update action plans as well as handle exceptions, while actions allow it to interface with external sources, such as knowledge bases or environments, to gather additional…",
+   "citations": 14389,
+   "url": "https://arxiv.org/abs/2210.03629",
+   "cited_by": [
+    "ACAP: Asynchronous Coding Agents for Efficient Robot Control"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2204.02311",
+   "title": "PaLM: Scaling Language Modeling with Pathways",
+   "year": 2022,
+   "authors": "Aakanksha Chowdhery, Sharan Narang, J. Devlin et al.",
+   "abstract": "Large language models have been shown to achieve remarkable performance across a variety of natural language tasks using few-shot learning, which drastically reduces the number of task-specific training examples needed to adapt the model to a particular application. To further our understanding of the impact of scale on few-shot learning, we trained a 540-billion parameter, densely activated, Transformer language model, which we call Pathways Language Model PaLM. We trained PaLM on 6144 TPU v4 chips using Pathways, a new ML system which enables highly efficient training across multiple TPU Pods. We demonstrate continued benefits of scaling by achieving state-of-the-art few-shot learning…",
+   "citations": 8668,
+   "url": "https://arxiv.org/abs/2204.02311",
+   "cited_by": [
+    "Rewirable Circuits in Transformers with Loom Attention"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1803.05457",
+   "title": "Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge",
+   "year": 2018,
+   "authors": "Peter Clark, Isaac Cowhey, Oren Etzioni et al.",
+   "abstract": "We present a new question set, text corpus, and baselines assembled to encourage AI research in advanced question answering. Together, these constitute the AI2 Reasoning Challenge (ARC), which requires far more powerful knowledge and reasoning than previous challenges such as SQuAD or SNLI. The ARC question set is partitioned into a Challenge Set and an Easy Set, where the Challenge Set contains only questions answered incorrectly by both a retrieval-based algorithm and a word co-occurence algorithm. The dataset contains only natural, grade-school science questions (authored for human tests), and is the largest public-domain set of this kind (7,787 questions). We test several baselines on…",
+   "citations": 6329,
+   "url": "https://arxiv.org/abs/1803.05457",
+   "cited_by": [
+    "Rewirable Circuits in Transformers with Loom Attention"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2101.03961",
+   "title": "Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity",
+   "year": 2021,
+   "authors": "W. Fedus, Barret Zoph, Noam Shazeer",
+   "abstract": "In deep learning, models typically reuse the same parameters for all inputs. Mixture of Experts (MoE) defies this and instead selects different parameters for each incoming example. The result is a sparsely-activated model -- with outrageous numbers of parameters -- but a constant computational cost. However, despite several notable successes of MoE, widespread adoption has been hindered by complexity, communication costs and training instability -- we address these with the Switch Transformer. We simplify the MoE routing algorithm and design intuitive improved models with reduced communication and computational costs. Our proposed training techniques help wrangle the instabilities and we…",
+   "citations": 5504,
+   "url": "https://arxiv.org/abs/2101.03961",
+   "cited_by": [
+    "Rewirable Circuits in Transformers with Loom Attention"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "stats": {
+  "raw_news": 27,
+  "stories": 10,
+  "videos": 3,
+  "papers": 15,
+  "classics": 8,
+  "seconds": 288
+ }
+}

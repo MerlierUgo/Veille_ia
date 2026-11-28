@@ -1,0 +1,633 @@
+{
+ "generated_at": "2026-11-25T14:28:51.928252+00:00",
+ "date": "2026-11-25",
+ "tldr": {
+  "headline": "Les titres du jour",
+  "points": [
+   {
+    "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+    "text": "224 points · 47 commentaires",
+    "ref": "news:9a9294d39772"
+   },
+   {
+    "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+    "text": "193 points · 145 commentaires",
+    "ref": "news:dd3a17fb7bd1"
+   },
+   {
+    "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+    "text": "171 points · 71 commentaires",
+    "ref": "news:7579fd805705"
+   },
+   {
+    "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+    "text": "75 points · 40 commentaires",
+    "ref": "news:26adec5d4677"
+   },
+   {
+    "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+    "text": "322 points · 135 commentaires",
+    "ref": "news:30d463386b15"
+   }
+  ],
+  "generated": false
+ },
+ "tldr_en": {
+  "headline": "Today's headlines",
+  "points": [
+   {
+    "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+    "text": "224 points · 47 commentaires",
+    "ref": "news:9a9294d39772"
+   },
+   {
+    "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+    "text": "193 points · 145 commentaires",
+    "ref": "news:dd3a17fb7bd1"
+   },
+   {
+    "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+    "text": "171 points · 71 commentaires",
+    "ref": "news:7579fd805705"
+   },
+   {
+    "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+    "text": "75 points · 40 commentaires",
+    "ref": "news:26adec5d4677"
+   },
+   {
+    "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+    "text": "322 points · 135 commentaires",
+    "ref": "news:30d463386b15"
+   }
+  ],
+  "generated": false
+ },
+ "news": [
+  {
+   "id": "9a9294d39772",
+   "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+   "url": "https://gpu-demo-gallery.pages.dev/",
+   "source": "Hacker News",
+   "published": "2026-11-25T04:31:48+00:00",
+   "summary": "224 points · 47 commentaires",
+   "image": null,
+   "signal": 224,
+   "discussion": "https://news.ycombinator.com/item?id=50638503",
+   "score": 3.84,
+   "also": []
+  },
+  {
+   "id": "dd3a17fb7bd1",
+   "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+   "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
+   "source": "Hacker News",
+   "published": "2026-11-25T04:03:33+00:00",
+   "summary": "193 points · 145 commentaires",
+   "image": null,
+   "signal": 193,
+   "discussion": "https://news.ycombinator.com/item?id=50638320",
+   "score": 3.7,
+   "also": []
+  },
+  {
+   "id": "7579fd805705",
+   "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+   "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+   "source": "Hacker News",
+   "published": "2026-11-25T03:47:42+00:00",
+   "summary": "171 points · 71 commentaires",
+   "image": null,
+   "signal": 171,
+   "discussion": "https://news.ycombinator.com/item?id=50638220",
+   "score": 3.59,
+   "also": []
+  },
+  {
+   "id": "26adec5d4677",
+   "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+   "url": "https://www.proofatlas.ai/open-problems/",
+   "source": "Hacker News",
+   "published": "2026-11-25T03:01:36+00:00",
+   "summary": "75 points · 40 commentaires",
+   "image": null,
+   "signal": 75,
+   "discussion": "https://news.ycombinator.com/item?id=50637871",
+   "score": 4.4,
+   "also": []
+  },
+  {
+   "id": "30d463386b15",
+   "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+   "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+   "source": "Hacker News",
+   "published": "2026-11-25T02:34:21+00:00",
+   "summary": "322 points · 135 commentaires",
+   "image": null,
+   "signal": 322,
+   "discussion": "https://news.ycombinator.com/item?id=50637686",
+   "score": 5.53,
+   "also": []
+  },
+  {
+   "id": "86f67f24e8a3",
+   "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+   "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+   "source": "Hacker News",
+   "published": "2026-11-25T00:54:49+00:00",
+   "summary": "314 points · 53 commentaires",
+   "image": null,
+   "signal": 314,
+   "discussion": "https://news.ycombinator.com/item?id=50637056",
+   "score": 5.43,
+   "also": []
+  },
+  {
+   "id": "4530af1ba6c2",
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+   "source": "Hacker News",
+   "published": "2026-11-24T21:02:22+00:00",
+   "summary": "305 points · 90 commentaires",
+   "image": null,
+   "signal": 305,
+   "discussion": "https://news.ycombinator.com/item?id=50634658",
+   "score": 3.71,
+   "also": []
+  },
+  {
+   "id": "4175c83018e7",
+   "title": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+   "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
+   "source": "Hacker News",
+   "published": "2026-11-24T17:10:45+00:00",
+   "summary": "219 points · 123 commentaires",
+   "image": null,
+   "signal": 219,
+   "discussion": "https://news.ycombinator.com/item?id=50631210",
+   "score": 3.25,
+   "also": []
+  },
+  {
+   "id": "bbef1e94d167",
+   "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+   "url": "https://news.ycombinator.com/item?id=50630809",
+   "source": "Hacker News",
+   "published": "2026-11-24T16:45:44+00:00",
+   "summary": "369 points · 287 commentaires",
+   "image": null,
+   "signal": 369,
+   "discussion": "https://news.ycombinator.com/item?id=50630809",
+   "score": 3.65,
+   "also": []
+  },
+  {
+   "id": "4dbaea2697ae",
+   "title": "Tidal bans AI-generated music",
+   "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+   "source": "Hacker News",
+   "published": "2026-11-24T16:12:38+00:00",
+   "summary": "333 points · 318 commentaires",
+   "image": null,
+   "signal": 333,
+   "discussion": "https://news.ycombinator.com/item?id=50630309",
+   "score": 3.54,
+   "also": []
+  }
+ ],
+ "videos": [
+  {
+   "id": "hwWlEuI359w",
+   "title": "Claude AI’s Biggest Math Breakthrough Has A Problem.",
+   "url": "https://www.youtube.com/watch?v=hwWlEuI359w",
+   "channel": "Two Minute Papers",
+   "published": "2026-11-25T09:54:23+00:00",
+   "thumbnail": "https://i1.ytimg.com/vi/hwWlEuI359w/hqdefault.jpg",
+   "views": 46183,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://nasqret.github.io/riemann-rev/guide/proof-guide.pdf https://alpo.ge/remark.pdf Compression and…",
+   "relevance": 0
+  },
+  {
+   "id": "K8rdrWQRd20",
+   "title": "The brain helped us build AI. Now AI is explaining the brain.",
+   "url": "https://www.youtube.com/watch?v=K8rdrWQRd20",
+   "channel": "Google DeepMind",
+   "published": "2026-11-24T17:51:08+00:00",
+   "thumbnail": "https://i4.ytimg.com/vi/K8rdrWQRd20/hqdefault.jpg",
+   "views": 53986,
+   "description": "The human brain remains one of the greatest unsolved mysteries in science. We have roughly 86 billion neurons firing in a way that somehow produces intelligence, and yet the brain is still largely a black box. In the…",
+   "relevance": 0
+  },
+  {
+   "id": "1jPdehG3Hms",
+   "title": "Claude AI Solved The Secret Of Black Holes",
+   "url": "https://www.youtube.com/watch?v=1jPdehG3Hms",
+   "channel": "Two Minute Papers",
+   "published": "2026-11-23T07:37:52+00:00",
+   "thumbnail": "https://i2.ytimg.com/vi/1jPdehG3Hms/hqdefault.jpg",
+   "views": 246108,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://www.anthropic.com/research/claude-black-hole-physics https://hexagonmath.org/2611.00175v1 🙏 We…",
+   "relevance": 0
+  },
+  {
+   "id": "zqzk43bSdDI",
+   "title": "We've been asking: “What if AI solved the Riemann Hypothesis?”",
+   "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+   "channel": "3Blue1Brown",
+   "published": "2026-11-22T02:02:12+00:00",
+   "thumbnail": "https://i3.ytimg.com/vi/zqzk43bSdDI/hqdefault.jpg",
+   "views": 3140117,
+   "description": "Hypothetical no more Announcement by Levent Alpöge: https://alpo.ge/remark.pdf Announcement from Alessandro Maria Masullo on his work on GHR: https://sites.google.com/view/tmotp/home 0:00 - Kevin Buzzard 0:45 - Ken Ono…",
+   "relevance": 0
+  }
+ ],
+ "papers": [
+  {
+   "id": "2611.29897",
+   "title": "Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control",
+   "authors": "Yue Huang, Tianshan Zhang, Zeyu Zhang, Jayeon Kang et al.",
+   "abstract": "Long-horizon, real-time controllable motion generation is essential for interactive animation and humanoid robotics, where an agent must respond to changing instructions and spatial goals while moving. Existing autoregressive diffusion methods generate motion incrementally, but bounded attention caches limit access to distant history, while repeated denoising introduces substantial inference overhead. We present Motion Mamba 2.0, a Mamba-based root-body diffusion architecture that integrates local attention, resumable recurrent states, and persistent content memory (PCM) for long-horizon controllable motion generation. PCM transforms compressed motion history from Mamba recurrent states, together with state changes and text-conditioned features, into dynamically updated content slots accessible to local attention. To enable efficient inference, we further develop an execution scheme tailored to this architecture, combining CUDA Graph replay, fused kernels, and execution-flow simplification while preserving the canonical history update. Evaluations on retargeted HiPHI demonstrate…",
+   "published": "2026-11-23T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.29897",
+   "pdf": "https://arxiv.org/pdf/2611.29897",
+   "upvotes": 194,
+   "github": "https://github.com/AIGeeksGroup/MotionMamba2.0",
+   "origin": "hf",
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.30989",
+   "title": "WorldLeague: Benchmarking Physical Agency",
+   "authors": "Xinyang Zhou, Qi Li, Xinchao Wang",
+   "abstract": "AI systems can now operate Blender, follow instructions in complex video games, and manipulate objects with robot arms. What range of physical goals can today's AI systems achieve autonomously? Answering this question requires testing systems on tasks that demand different combinations of perception, memory, planning, and action. We introduce WorldLeague, a benchmark that compares AI systems on a common set of 60 simulated robot tasks by measuring progress toward each task's physical goal from the robot's trajectory. Robots explore scenes to gather evidence in WorldSeek, rearrange objects in WorldShape, and adapt to changes in WorldShift. Tying these goals to a single control interface limits which AI systems can be compared. In WorldLeague, vision-language models (VLMs) choose targets and motions, while vision-language-action models (VLAs) and world-action models (WAMs) use their native controls. For each of six capability dimensions, we measure how much progress a system makes toward its goals (Interactive Score) and how often it achieves them (physical success rate). Together,…",
+   "published": "2026-11-23T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.30989",
+   "pdf": "https://arxiv.org/pdf/2611.30989",
+   "upvotes": 135,
+   "github": "https://github.com/xyangzhou/WorldLeague",
+   "origin": "hf",
+   "ai_summary": "WorldLeague benchmarks 13 AI systems on 60 simulated robot tasks spanning exploration, rearrangement, and adaptation, measuring progress and success to compare autonomous physical goal achievement.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.31201",
+   "title": "Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness",
+   "authors": "Xiao-Ming Wu, Kang Liao, Yuexiao Ma, Taolin Zhang et al.",
+   "abstract": "Frontier multimodal models exhibit extraordinary generalization in generating robot actions from observations and instructions, enabling a new paradigm in which they serve directly as policies within closed-loop robotic harnesses. However, the design principles of such harnesses, and the capabilities underlying their strong performance, remain unclear. We present Embo-Harness, a framework for systematically studying frontier-model-as-policy harnesses. We investigate four components of the robotic agentic loop, namely, prompting, planning, action execution, and tool use, and distill six empirical findings into a practical recipe. This recipe prioritizes interfaces that exploit the model's native visual reasoning and tool-use capabilities over handcrafted plans, skills, or action priors, and identifies effective choices for action representation, chunking, reasoning effort, visual observations, short multi-action sequences, and policy refinement. On RoboLab-120, Embo-Harness achieves an 83.3\\% success rate, outperforming the strongest reported baseline by 26.2 percentage points. It…",
+   "published": "2026-11-23T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.31201",
+   "pdf": "https://arxiv.org/pdf/2611.31201",
+   "upvotes": 102,
+   "github": "https://github.com/DravenALG/Embo-Harness",
+   "origin": "hf",
+   "ai_summary": "A systematic framework shows that frontier multimodal models can serve as robot policies when harnessed with interfaces favoring native visual reasoning and tool use, achieving high success in simulated and real manipulation tasks.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.25403",
+   "title": "Antom 3-in-1 Transformer: A Payment Foundation Model",
+   "authors": "Weiyu Han, Haoyu Jiang, Jie Sheng, Youxi Pan et al.",
+   "abstract": "We report the development of Antom 3-in-1 Transformer, a payment foundation model that integrates sequence, tabular, and graph representations for payment risk detection. The model contains approximately 7B parameters, with approximately 1.7B activated per task route. Antom 3-in-1 Transformer is pretrained to learn reusable behavioral and relational representations, primarily on Ant International's internal payment data. In a cross-business transfer experiment, pretraining improves the target business metric by 34.5% over the same architecture trained from scratch. With only 25% of the training labels, the pretrained model outperforms the full-label scratch baseline in Average Precision (AP) and Recall@0.5% on different merchant domains. In a four-month online experiment on Ant International's billion-scale payment platform, the model reduced the overall loss rate by 37.88% relative to XGB-Online.",
+   "published": "2026-11-19T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.25403",
+   "pdf": "https://arxiv.org/pdf/2611.25403",
+   "upvotes": 79,
+   "github": null,
+   "origin": "hf",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.30634",
+   "title": "Rewirable Circuits in Transformers with Loom Attention",
+   "authors": "Da Xiao, Qingye Meng, Shengping Li, Xingyuan Yuan",
+   "abstract": "We propose loom attention, which allows a Transformer to dynamically rewire its circuits at every token by interweaving a head's vertical attention over the outputs of earlier heads (to obtain its query, key and value) with its horizontal attention over tokens. We instantiate vertical attention efficiently with normalized and gated linear attention over a per-token matrix memory, which stores the compressed head outputs and serves as a second residual stream. This yields LoomFormer, a dual-stream architecture that splits control and content between the vector and matrix streams. Across model sizes and training token budgets in language modeling and downstream tasks, LoomFormer matches Transformers trained with over 3x compute and recent residual-stream baselines (HC/mHC, MUDDFormer, AttnRes) trained with ~1.7-2.8x. For example, trained on the same 300B tokens with only 2% extra FLOPs, LoomPythia-2.8B achieves ~1.6x the average downstream gain of mHC-Pythia-2.8B over Pythia-2.8B, and matches (0-shot) or surpasses (5-shot) Pythia-12B. Code is available at…",
+   "published": "2026-11-23T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.30634",
+   "pdf": "https://arxiv.org/pdf/2611.30634",
+   "upvotes": 77,
+   "github": "https://github.com/Caiyun-AI/LoomFormer",
+   "origin": "hf",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.28947",
+   "title": "Don't Sleep, Keep Watch: Proactive Perception for Computer-Use Agents",
+   "authors": "Jiaqi Su, Jie-Jing Shao, Yichen Liu, Long-Kai Huang et al.",
+   "abstract": "Computer-use agents (CUAs) built on vision-language models are increasingly entrusted with long-horizon tasks in live desktop, web, and mobile environments, where the screen keeps changing on its own. However, current CUAs lack real-time situational awareness: they perceive the environment through discrete snapshots, and the substantial inference latency of VLMs, compounded by highly dynamic interfaces, opens a perception-action gap in which the observed state frequently becomes stale before the corresponding action is executed. To bridge this gap, we present NightWatch, a plug-and-play framework that endows any CUA with continuous, temporally grounded perception without changing the agent's model, prompt, or action space. NightWatch couples the VLM agent with NightWatch-0.8B, a lightweight System-1 model that performs streaming monitoring of the interface state and keeps the agent synchronized with the evolving environment at low computational cost and latency, thereby grounding each decision in the current state rather than an outdated snapshot and reducing both stale actions and…",
+   "published": "2026-11-21T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.28947",
+   "pdf": "https://arxiv.org/pdf/2611.28947",
+   "upvotes": 62,
+   "github": "https://github.com/SuJQ0722/NightWatch",
+   "origin": "hf",
+   "ai_summary": "NightWatch adds a lightweight streaming watcher to vision-language computer-use agents to keep perception synchronized with dynamic interfaces, reducing latency and wasted time while maintaining or improving task success.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.32884",
+   "title": "Lazy Agents Answer Against Their Own Beliefs: Reinforcement Learning with Verifiable Beliefs Teaches Them to Act on What They Believe",
+   "authors": "Richmond Sin Jing Xuan, Peilin Feng, Wenbin Wang, Soujanya Poria",
+   "abstract": "AI agents working on long tasks often commit to an answer before they have enough evidence, a behavior called laziness. In our evaluations, they frequently commit even while their stated belief still names several possible answers. An outcome reward at the end of the episode scores only the final answer, so it cannot teach the agent when to commit, because a lucky guess receives the same reward as an answer backed by evidence. During training, however, the simulator can compute the exact posterior over the answer at every step and tell whether the evidence is already enough. We propose Reinforcement Learning with Verifiable Beliefs (RLVB), which rewards the agent for taking further steps while this posterior still allows several answers and for committing once the evidence is sufficient. The reward needs no judge, critic or reward model, and it never reads the belief line the agent writes before each action. We also introduce Pro Worlds, a benchmark of visual puzzles where the agent views a large world through a small window. We evaluate three vision-language models on three…",
+   "published": "2026-11-24T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.32884",
+   "pdf": "https://arxiv.org/pdf/2611.32884",
+   "upvotes": 59,
+   "github": "https://github.com/declare-lab/RLVB",
+   "origin": "hf",
+   "ai_summary": "A reinforcement learning method rewards agents for delaying commitment until their inferred posterior over answers is sufficiently narrow, improving evidence-based answering across vision-language benchmarks.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.31205",
+   "title": "ACAP: Asynchronous Coding Agents for Efficient Robot Control",
+   "authors": "Zexin He, Rui Li, Yushi Lan, Chengkai Jin et al.",
+   "abstract": "Coding agents can construct and revise robot behavior during execution, but using one agent for the whole robot can delay otherwise independent work. We introduce Asynchronous Coding Agents as Policy (ACAP), an asynchronous framework that organizes one robot as a team of persistent agents. Each member reasons and acts for a configurable control group, such as an arm with its gripper or the torso and chassis, enabling asynchronous reasoning and execution. However, different robot components often have physical dependencies that require coordination. To address this challenge, ACAP introduces a hyper-agent that assigns tasks, coordinates dependencies, and dynamically allocates control between the lead and member agents. This allows independent work to progress concurrently while supporting tightly coupled manipulation when necessary. Across 72 real-world rollouts covering 25 task/platform settings, ACAP reduces task-balanced time cost by 28.2% compared with a single-agent Direct Policy, with improvements across Fully Parallel, Parallel-Sequential, and Collaborative tasks. Across all…",
+   "published": "2026-11-23T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.31205",
+   "pdf": "https://arxiv.org/pdf/2611.31205",
+   "upvotes": 59,
+   "github": null,
+   "origin": "hf",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.30013",
+   "title": "3AGameFactory-Motion: Agentic Rigging and Reliable Complex Motion Generation for Diverse 3D Assets",
+   "authors": "Bohan Zeng, Kaixin Zhu, Yifan Yang, Dongge Yu et al.",
+   "abstract": "Animating arbitrary 3D assets from instructions requires both structural inference and motion control, yet existing motion benchmarks mostly cover conventional human or animal skeletons with simple instructions. We introduce DivDynBench, which evaluates rigging and motion generation across six morphology categories, with instructions requiring multi-phase part coordination and explicit timing, angle, repetition, and trajectory constraints. With large language models, we systematically compare three common paradigms: specialized motion generation, video generation followed by motion recovery, and direct agent-driven generation. We analyze their control capabilities, cross-morphology adaptability, and generation costs. Guided by this comparison, we propose an Agentic Motion Framework in which an agent writes compact parametric skeleton and motion programs, and a deterministic executor performs rigging, kinematic solving, and geometric correction. Compact parameter control reduces generation overhead and improves rigging reliability and motion-control accuracy, providing practical…",
+   "published": "2026-11-23T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.30013",
+   "pdf": "https://arxiv.org/pdf/2611.30013",
+   "upvotes": 59,
+   "github": "https://github.com/OpenDCAI/GameFactory-3A",
+   "origin": "hf",
+   "ai_summary": "A new benchmark evaluates rigging and motion generation across six 3D morphology categories, compares specialized, video-based, and agent-driven paradigms, and proposes an agentic framework that writes compact parametric skeleton and motion programs executed deterministically for reliable control.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.12164",
+   "title": "Let the Fixer Decide: Training a Code Localizer from the Fixer's Likelihood",
+   "authors": "Khalil Hennara, Muhammad Hreden, Zeina Aldallal, Sara Chrouf et al.",
+   "abstract": "Code localizers are usually trained to predict the files a reference patch edits, but the code a fixer needs to read is not the same as the code it changes. We propose Fixer-Guided Localization (FGL): the localizer proposes several localizations, a frozen fixer scores each by how likely it makes a verified patch, and the localizer is trained on these scores with weighted supervised fine-tuning, without running tests and without reinforcement learning. We build the full pipeline on Gemma 4 E4B for the Kaggle Gemma-4 Developer Agent competition, from 1,629 test-verified Kimi K3 trajectories. The FGL target helps the fixer find the bug as often as the teacher's localization while using 27.5% less code. On the development set, one EM round moves the agent in the expected direction compared with a matched control: more tasks reach a patch (53 vs. 46), fewer tasks get stuck reading files that do not exist (43 vs. 54), and more tasks are solved (8 vs. 6). Training also changes how the agent works: trained agents explore about three times more than the base model and write far fewer wrong…",
+   "published": "2026-11-09T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.12164",
+   "pdf": "https://arxiv.org/pdf/2611.12164",
+   "upvotes": 57,
+   "github": "https://github.com/misraj-ai/locfix",
+   "origin": "hf",
+   "ai_summary": "A code localizer is trained with scores from a frozen fixer via weighted supervised fine-tuning, improving bug localization and patch success for a small coding agent without tests or reinforcement learning.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.33031",
+   "title": "Can a Frontier LLM Repair a Quantized Network by Tool-Free Weight-Space Programming?",
+   "authors": "Steffen Urban",
+   "abstract": "We give four large language models (LLMs) of the Claude family the complete weights of a 20k-parameter CIFAR-10 CNN as text and ask them to produce a 4-bit network without tools, data or the ability to run inference. Standard round-to-nearest (RTN) quantization to 4 bit lowers the test accuracy from 81.4% to 60.4%. We design four evaluation protocols that differ in the input and task description given to the LLMs and analyze their responses. In the first two protocols the LLMs are given the float and the 4-bit RTN network and are told that the accuracy has dropped significantly. In the last two they receive only the float network and the task to quantize it, which tests whether they apply an optimization on their own or fall back to plain RTN. Our analysis shows that a frontier LLM can recover most of the lost accuracy. Given one answer per layer, Opus 5.5 raises the accuracy of the 4-bit network to 77.95% by balancing the rounding errors within each 3x3 kernel, reasoning over the integer weights without tools. This is 3.5 pp below the float network and 2.8 pp below AdaRound, which…",
+   "published": "2026-11-24T17:43:09Z",
+   "url": "https://arxiv.org/abs/2611.33031",
+   "pdf": "https://arxiv.org/pdf/2611.33031",
+   "upvotes": 0,
+   "github": "https://github.com/urbste/weight-space-programming-ptq",
+   "origin": "arxiv",
+   "categories": [
+    "cs.LG",
+    "cs.AI",
+    "cs.CL"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.32917",
+   "title": "SOARS: System One Assisted Reranking for Agentic Search",
+   "authors": "Amin Bigdeli, Liye Fu, Fattane Zarrinkalam, Joel Stremmel et al.",
+   "abstract": "Deep search agents address complex information needs through iterative retrieval and reasoning, where the relevance of retrieved evidence influences downstream performance. Existing rerankers improve retrieval effectiveness but introduce substantial latency and cost when invoked throughout the search trajectory. We introduce SOARS, a training-free framework leveraging a System One model for fast, calibrated relevance estimation. At each search step, SOARS selects query-relevant passages from long documents and reranks candidates in a single call, jointly considering the original question and agent-generated sub-query. Across six LLM backbones on BrowseComp-Plus and WebShaper, SOARS consistently improves answer accuracy and evidence recall while reducing search calls, end-to-end latency, and inference cost. On BrowseComp-Plus, it improves GPT-5.4 Mini's accuracy from 73.9% to 84.7% while reducing search calls from 23 to 14, demonstrating the potential of System One reranking for more effective and efficient deep search.",
+   "published": "2026-11-24T16:32:43Z",
+   "url": "https://arxiv.org/abs/2611.32917",
+   "pdf": "https://arxiv.org/pdf/2611.32917",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.IR",
+    "cs.CL"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.33148",
+   "title": "CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies",
+   "authors": "Dawid J. Kopiczko, Tijmen Blankevoort, Yuki M. Asano",
+   "abstract": "Reasoning models become long-horizon agents through reinforcement learning or, more cheaply, through fine-tuning on a stronger teacher's trajectories, which contain the teacher's chain-of-thought as well as its actions. The standard fine-tuning approach imitates both, yet the strongest teachers are closed models whose chain-of-thought is hidden behind an API. We show that the chain-of-thought can be left out altogether and that the long-horizon policy can be distilled from the teacher's actions alone. The student is trained on these trajectories with its reasoning block left empty, while a KL loss on a replay buffer of its own generations limits drift from its initial model. Surprisingly, the policy learned from these trajectories with an empty reasoning block carries over to inference with thinking enabled, where the student reasons in its own style while acting like the teacher, an effect we call cross-format transfer. Distilling the actions of Qwen3.6-27B raises the task success of Qwen3-4B on AppWorld from 7% to 18% and that of Qwen3-32B from 12% to 25%. We further introduce…",
+   "published": "2026-11-24T18:58:53Z",
+   "url": "https://arxiv.org/abs/2611.33148",
+   "pdf": "https://arxiv.org/pdf/2611.33148",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CL"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.33145",
+   "title": "Lost on Campus: Evaluating Embodied Spatial Reasoning of Vision-Language Models in the Wild",
+   "authors": "Zehan Zheng, Yanyuan Chen, Deming Li, Yutao Tang et al.",
+   "abstract": "Embodied Spatial Reasoning (ESR) is central to deploying Vision-Language Models (VLMs) in real-world embodied tasks, yet remains inadequately evaluated. Existing benchmarks primarily assess spatial reasoning in static images or synthetic indoor environments, where semantic shortcuts often suffice, making it difficult to faithfully evaluate spatial reasoning capabilities in the wild. In light of this, we present Lost on Campus, a benchmark for evaluating ESR in large-scale real-world outdoor 3D environments reconstructed by 3D Gaussian Splatting. Our benchmark introduces a unified reasoning-action evaluation framework that seamlessly integrates diagnostic QA for isolated reasoning with closed-loop interactive navigation for active reasoning under multimodal instructions. To enable fine-grained diagnosis, we evaluate six capability aspects of ESR: action grounding, spatial foresight, metric awareness, goal-directed planning, ego-allocentric localization, and spatio-temporal consistency. Extensive experiments reveal that: (i) Compared to indoor settings, real-world outdoor environments…",
+   "published": "2026-11-24T18:57:48Z",
+   "url": "https://arxiv.org/abs/2611.33145",
+   "pdf": "https://arxiv.org/pdf/2611.33145",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CV"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.33080",
+   "title": "Shifter Quantization: Compact Representations for Native Integer Computation",
+   "authors": "Yufeng Huang",
+   "abstract": "Groupwise quantization is used in LLM quantization to improve accuracy at low bit widths, but grouping weights keeps standard integer MMA from spanning the full dot product for efficient GPU inference. We develop a new quantization method, Shifter Quantization (SQ), that reconstructs native-width integer operands by appending and shifting shared bits. To further extend the efficiency, we develop a special variant of SQ, Shifter Integer (SHI), to use INT4 kernels. We show that SQ and SHI formats perform better than standard groupwise quantization in quality, as measured by projection error and KL divergence, and in inference speed, as measured during decoding and prefill. For low precision like 2-bit quantization, SQ2 and SHI2 achieve 2.71-3.77x the 4,096-token prefill throughput of llama.cpp on a Q2_K checkpoint and reduce WikiText-2 KL by 6.6-7.8%. For mid precision like 4-bit quantization, SQ4 achieves 1.43-2.47x the prefill throughput of NInfer's groupwise-integer baselines across the tested models and prompt lengths, with 24-40% lower KL than the NInfer baselines. For high…",
+   "published": "2026-11-24T18:14:52Z",
+   "url": "https://arxiv.org/abs/2611.33080",
+   "pdf": "https://arxiv.org/pdf/2611.33080",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.LG"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "classics": [
+  {
+   "id": "2312.00752",
+   "title": "Mamba: Linear-Time Sequence Modeling with Selective State Spaces",
+   "year": 2023,
+   "authors": "Albert Gu, Tri Dao",
+   "abstract": "Foundation models, now powering most of the exciting applications in deep learning, are almost universally based on the Transformer architecture and its core attention module. Many subquadratic-time architectures such as linear attention, gated convolution and recurrent models, and structured state space models (SSMs) have been developed to address Transformers' computational inefficiency on long sequences, but they have not performed as well as attention on important modalities such as language. We identify that a key weakness of such models is their inability to perform content-based reasoning, and make several improvements. First, simply letting the SSM parameters be functions of the…",
+   "citations": 10467,
+   "url": "https://arxiv.org/abs/2312.00752",
+   "cited_by": [
+    "Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control",
+    "Rewirable Circuits in Transformers with Loom Attention"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2406.09246",
+   "title": "OpenVLA: An Open-Source Vision-Language-Action Model",
+   "year": 2024,
+   "authors": "Moo Jin Kim, Karl Pertsch, Siddharth Karamcheti et al.",
+   "abstract": "Large policies pretrained on a combination of Internet-scale vision-language data and diverse robot demonstrations have the potential to change how we teach robots new skills: rather than training new behaviors from scratch, we can fine-tune such vision-language-action (VLA) models to obtain robust, generalizable policies for visuomotor control. Yet, widespread adoption of VLAs for robotics has been challenging as 1) existing VLAs are largely closed and inaccessible to the public, and 2) prior work fails to explore methods for efficiently fine-tuning VLAs for new tasks, a key component for adoption. Addressing these challenges, we introduce OpenVLA, a 7B-parameter open-source VLA trained on…",
+   "citations": 4658,
+   "url": "https://arxiv.org/abs/2406.09246",
+   "cited_by": [
+    "WorldLeague: Benchmarking Physical Agency",
+    "Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2204.01691",
+   "title": "Do As I Can, Not As I Say: Grounding Language in Robotic Affordances",
+   "year": 2022,
+   "authors": "Brian Ichter, Anthony Brohan, Yevgen Chebotar et al.",
+   "abstract": "Large language models can encode a wealth of semantic knowledge about the world. Such knowledge could be extremely useful to robots aiming to act upon high-level, temporally extended instructions expressed in natural language. However, a significant weakness of language models is that they lack real-world experience, which makes it difficult to leverage them for decision making within a given embodiment. For example, asking a language model to describe how to clean a spill might result in a reasonable narrative, but it may not be applicable to a particular agent, such as a robot, that needs to perform this task in a particular environment. We propose to provide real-world grounding by means…",
+   "citations": 4282,
+   "url": "https://arxiv.org/abs/2204.01691",
+   "cited_by": [
+    "WorldLeague: Benchmarking Physical Agency",
+    "Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2306.03310",
+   "title": "LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning",
+   "year": 2023,
+   "authors": "Bo Liu, Yi-Feng Zhu, Chongkai Gao et al.",
+   "abstract": "Lifelong learning offers a promising paradigm of building a generalist agent that learns and adapts over its lifespan. Unlike traditional lifelong learning problems in image and text domains, which primarily involve the transfer of declarative knowledge of entities and concepts, lifelong learning in decision-making (LLDM) also necessitates the transfer of procedural knowledge, such as actions and behaviors. To advance research in LLDM, we introduce LIBERO, a novel benchmark of lifelong learning for robot manipulation. Specifically, LIBERO highlights five key research topics in LLDM: 1) how to efficiently transfer declarative knowledge, procedural knowledge, or the mixture of both; 2) how to…",
+   "citations": 2417,
+   "url": "https://arxiv.org/abs/2306.03310",
+   "cited_by": [
+    "WorldLeague: Benchmarking Physical Agency",
+    "Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2209.07753",
+   "title": "Code as Policies: Language Model Programs for Embodied Control",
+   "year": 2022,
+   "authors": "Jacky Liang, Wen-Long Huang, F. Xia et al.",
+   "abstract": "Large language models (LLMs) trained on code-completion have been shown to be capable of synthesizing simple Python programs from docstrings [1]. We find that these code-writing LLMs can be re-purposed to write robot policy code, given natural language commands. Specifically, policy code can express functions or feedback loops that process perception outputs (e.g., from object detectors [2], [3]) and parameterize control primitive APIs. When provided as input several example language commands (formatted as comments) followed by corresponding policy code (via few-shot prompting), LLMs can take in new commands and autonomously re-compose API calls to generate new policy code respectively. By…",
+   "citations": 2377,
+   "url": "https://arxiv.org/abs/2209.07753",
+   "cited_by": [
+    "WorldLeague: Benchmarking Physical Agency",
+    "Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2405.12213",
+   "title": "Octo: An Open-Source Generalist Robot Policy",
+   "year": 2024,
+   "authors": "Octo Model Team, Dibya Ghosh, H. Walke et al.",
+   "abstract": "Large policies pretrained on diverse robot datasets have the potential to transform robotic learning: instead of training new policies from scratch, such generalist robot policies may be finetuned with only a little in-domain data, yet generalize broadly. However, to be widely applicable across a range of robotic learning scenarios, environments, and tasks, such policies need to handle diverse sensors and action spaces, accommodate a variety of commonly used robotic platforms, and finetune readily and efficiently to new domains. In this work, we aim to lay the groundwork for developing open-source, widely applicable, generalist policies for robotic manipulation. As a first step, we…",
+   "citations": 2356,
+   "url": "https://arxiv.org/abs/2405.12213",
+   "cited_by": [
+    "WorldLeague: Benchmarking Physical Agency",
+    "Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2405.21060",
+   "title": "Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality",
+   "year": 2024,
+   "authors": "Tri Dao, Albert Gu",
+   "abstract": "While Transformers have been the main architecture behind deep learning's success in language modeling, state-space models (SSMs) such as Mamba have recently been shown to match or outperform Transformers at small to medium scale. We show that these families of models are actually quite closely related, and develop a rich framework of theoretical connections between SSMs and variants of attention, connected through various decompositions of a well-studied class of structured semiseparable matrices. Our state space duality (SSD) framework allows us to design a new architecture (Mamba-2) whose core layer is an a refinement of Mamba's selective SSM that is 2-8X faster, while continuing to be…",
+   "citations": 2302,
+   "url": "https://arxiv.org/abs/2405.21060",
+   "cited_by": [
+    "Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control",
+    "Rewirable Circuits in Transformers with Loom Attention"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2207.05608",
+   "title": "Inner Monologue: Embodied Reasoning through Planning with Language Models",
+   "year": 2022,
+   "authors": "Wen-Long Huang, F. Xia, Ted Xiao et al.",
+   "abstract": "Recent works have shown how the reasoning capabilities of Large Language Models (LLMs) can be applied to domains beyond natural language processing, such as planning and interaction for robots. These embodied problems require an agent to understand many semantic aspects of the world: the repertoire of skills available, how these skills influence the world, and how changes to the world map back to the language. LLMs planning in embodied environments need to consider not just what skills to do, but also how and when to do them - answers that change over time in response to the agent's own choices. In this work, we investigate to what extent LLMs used in such embodied contexts can reason over…",
+   "citations": 1881,
+   "url": "https://arxiv.org/abs/2207.05608",
+   "cited_by": [
+    "WorldLeague: Benchmarking Physical Agency",
+    "Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "stats": {
+  "raw_news": 47,
+  "stories": 10,
+  "videos": 4,
+  "papers": 15,
+  "classics": 8,
+  "seconds": 230
+ }
+}

@@ -1,0 +1,614 @@
+{
+ "generated_at": "2026-11-24T14:56:22.463279+00:00",
+ "date": "2026-11-24",
+ "tldr": {
+  "headline": "Les titres du jour",
+  "points": [
+   {
+    "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
+    "text": "114 points · 156 commentaires",
+    "ref": "news:bc9058b8abe3"
+   },
+   {
+    "title": "LLM agents work for their parent companies, not for you",
+    "text": "338 points · 118 commentaires",
+    "ref": "news:5e57d423bc79"
+   },
+   {
+    "title": "Who in Washington owns and trades Nvidia stock",
+    "text": "163 points · 70 commentaires",
+    "ref": "news:04a9f8211995"
+   },
+   {
+    "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
+    "text": "65 points · 25 commentaires",
+    "ref": "news:fd5ebe6986a0"
+   },
+   {
+    "title": "Declare is a UI language for you and your AI",
+    "text": "77 points · 54 commentaires",
+    "ref": "news:9b8ffb980edd"
+   }
+  ],
+  "generated": false
+ },
+ "tldr_en": {
+  "headline": "Today's headlines",
+  "points": [
+   {
+    "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
+    "text": "114 points · 156 commentaires",
+    "ref": "news:bc9058b8abe3"
+   },
+   {
+    "title": "LLM agents work for their parent companies, not for you",
+    "text": "338 points · 118 commentaires",
+    "ref": "news:5e57d423bc79"
+   },
+   {
+    "title": "Who in Washington owns and trades Nvidia stock",
+    "text": "163 points · 70 commentaires",
+    "ref": "news:04a9f8211995"
+   },
+   {
+    "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
+    "text": "65 points · 25 commentaires",
+    "ref": "news:fd5ebe6986a0"
+   },
+   {
+    "title": "Declare is a UI language for you and your AI",
+    "text": "77 points · 54 commentaires",
+    "ref": "news:9b8ffb980edd"
+   }
+  ],
+  "generated": false
+ },
+ "news": [
+  {
+   "id": "bc9058b8abe3",
+   "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+   "source": "Hacker News",
+   "published": "2026-11-24T13:23:47+00:00",
+   "summary": "114 points · 156 commentaires",
+   "image": null,
+   "signal": 114,
+   "discussion": "https://news.ycombinator.com/item?id=50627836",
+   "score": 3.72,
+   "also": []
+  },
+  {
+   "id": "5e57d423bc79",
+   "title": "LLM agents work for their parent companies, not for you",
+   "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+   "source": "Hacker News",
+   "published": "2026-11-24T12:40:15+00:00",
+   "summary": "338 points · 118 commentaires",
+   "image": null,
+   "signal": 338,
+   "discussion": "https://news.ycombinator.com/item?id=50627340",
+   "score": 6.05,
+   "also": []
+  },
+  {
+   "id": "04a9f8211995",
+   "title": "Who in Washington owns and trades Nvidia stock",
+   "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
+   "source": "Hacker News",
+   "published": "2026-11-24T11:51:05+00:00",
+   "summary": "163 points · 70 commentaires",
+   "image": null,
+   "signal": 163,
+   "discussion": "https://news.ycombinator.com/item?id=50626861",
+   "score": 3.93,
+   "also": []
+  },
+  {
+   "id": "fd5ebe6986a0",
+   "title": "Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex",
+   "url": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
+   "source": "Hacker News",
+   "published": "2026-11-24T09:39:50+00:00",
+   "summary": "65 points · 25 commentaires",
+   "image": null,
+   "signal": 65,
+   "discussion": "https://news.ycombinator.com/item?id=50625888",
+   "score": 3.09,
+   "also": []
+  },
+  {
+   "id": "9b8ffb980edd",
+   "title": "Declare is a UI language for you and your AI",
+   "url": "https://davidtemkin.github.io/declarelang/",
+   "source": "Hacker News",
+   "published": "2026-11-24T02:36:56+00:00",
+   "summary": "77 points · 54 commentaires",
+   "image": null,
+   "signal": 77,
+   "discussion": "https://news.ycombinator.com/item?id=50622854",
+   "score": 2.87,
+   "also": []
+  },
+  {
+   "id": "8f20e5199f55",
+   "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+   "url": "https://arxiv.org/abs/2602.20031",
+   "source": "Hacker News",
+   "published": "2026-11-23T22:29:48+00:00",
+   "summary": "69 points · 6 commentaires",
+   "image": null,
+   "signal": 69,
+   "discussion": "https://news.ycombinator.com/item?id=50620328",
+   "score": 2.58,
+   "also": []
+  },
+  {
+   "id": "1d0c151fefed",
+   "title": "OpenAI and Cisco introduce Shirudo",
+   "url": "https://openai.com/index/introducing-shirudo",
+   "source": "OpenAI",
+   "published": "2026-11-23T21:20:00+00:00",
+   "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+   "image": null,
+   "signal": 0,
+   "score": 5.63,
+   "also": [
+    {
+     "source": "Hacker News",
+     "url": "https://openai.com/index/introducing-shirudo/"
+    }
+   ],
+   "discussion": "https://news.ycombinator.com/item?id=50619630"
+  },
+  {
+   "id": "e277391e1ad3",
+   "title": "Claude Ship",
+   "url": "https://claude.com/resources/articles/introducing-claude-ship",
+   "source": "Hacker News",
+   "published": "2026-11-23T20:14:18+00:00",
+   "summary": "73 points · 27 commentaires",
+   "image": null,
+   "signal": 73,
+   "discussion": "https://news.ycombinator.com/item?id=50618513",
+   "score": 2.51,
+   "also": []
+  },
+  {
+   "id": "9ec377e0288c",
+   "title": "Congress shreds Nvidia's 'outrageous' return of Huang: 'Failure of character'",
+   "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
+   "source": "Hacker News",
+   "published": "2026-11-23T20:13:18+00:00",
+   "summary": "69 points · 57 commentaires",
+   "image": null,
+   "signal": 69,
+   "discussion": "https://news.ycombinator.com/item?id=50618490",
+   "score": 2.47,
+   "also": []
+  },
+  {
+   "id": "3c69fd56490c",
+   "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+   "url": "https://twitter.com/ylecun/status/2124550037912920090",
+   "source": "Hacker News",
+   "published": "2026-11-23T17:07:26+00:00",
+   "summary": "1864 points · 1077 commentaires",
+   "image": null,
+   "signal": 1864,
+   "discussion": "https://news.ycombinator.com/item?id=50615308",
+   "score": 4.94,
+   "also": []
+  }
+ ],
+ "videos": [
+  {
+   "id": "1jPdehG3Hms",
+   "title": "Claude AI Solved The Secret Of Black Holes",
+   "url": "https://www.youtube.com/watch?v=1jPdehG3Hms",
+   "channel": "Two Minute Papers",
+   "published": "2026-11-23T07:37:52+00:00",
+   "thumbnail": "https://i2.ytimg.com/vi/1jPdehG3Hms/hqdefault.jpg",
+   "views": 212222,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://www.anthropic.com/research/claude-black-hole-physics https://hexagonmath.org/2611.00175v1 🙏 We…",
+   "relevance": 0
+  },
+  {
+   "id": "zqzk43bSdDI",
+   "title": "Since last year, we asked: “What if AI solved the Riemann Hypothesis?”",
+   "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+   "channel": "3Blue1Brown",
+   "published": "2026-11-22T02:02:12+00:00",
+   "thumbnail": "https://i3.ytimg.com/vi/zqzk43bSdDI/hqdefault.jpg",
+   "views": 2948332,
+   "description": "Hypothetical no more Announcement by Levent Alpöge: https://alpo.ge/remark.pdf Announcement by Alessandro Masullo on his (human) proof: https://sites.google.com/view/tmotp/home 0:00 - Kevin Buzzard 0:45 - Ken Ono 1:14 -…",
+   "relevance": 0
+  }
+ ],
+ "papers": [
+  {
+   "id": "2611.29897",
+   "title": "Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control",
+   "authors": "Yue Huang, Tianshan Zhang, Zeyu Zhang, Jayeon Kang et al.",
+   "abstract": "Long-horizon, real-time controllable motion generation is essential for interactive animation and humanoid robotics, where an agent must respond to changing instructions and spatial goals while moving. Existing autoregressive diffusion methods generate motion incrementally, but bounded attention caches limit access to distant history, while repeated denoising introduces substantial inference overhead. We present Motion Mamba 2.0, a Mamba-based root-body diffusion architecture that integrates local attention, resumable recurrent states, and persistent content memory (PCM) for long-horizon controllable motion generation. PCM transforms compressed motion history from Mamba recurrent states, together with state changes and text-conditioned features, into dynamically updated content slots accessible to local attention. To enable efficient inference, we further develop an execution scheme tailored to this architecture, combining CUDA Graph replay, fused kernels, and execution-flow simplification while preserving the canonical history update. Evaluations on retargeted HiPHI demonstrate…",
+   "published": "2026-11-23T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.29897",
+   "pdf": "https://arxiv.org/pdf/2611.29897",
+   "upvotes": 157,
+   "github": "https://github.com/AIGeeksGroup/MotionMamba2.0",
+   "origin": "hf",
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.27193",
+   "title": "cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction",
+   "authors": "Haowei He, Ziwen Zhao, Chenshuo Pan, Gang Lin et al.",
+   "abstract": "Manifold-constrained Hyper-Connections (mHC) extends residual connections to multiple streams and stabilizes residual propagation by constraining stream-mixing residual matrices to the Birkhoff polytope, the set of doubly stochastic matrices. In this work, we investigate how to effectively mix residual streams within the Birkhoff polytope. We reveal a mixing trade-off: when under-mixed residual matrices stay close to the vertices of the Birkhoff polytope, hyper-connections will degenerate into a set of nearly independent streams; when over-mixed residual matrices are concentrated around the uniform barycenter of the polytope, streams will become less distinguishable from each other. We theoretically validate our findings by bounding the cumulative residual mixing, stream difference and gradient difference of mixing coefficients across layers. Motivated by these findings, we propose Contraction for Manifold-Constrained Hyper-Connections (cmHC), an exact doubly stochastic method which geometrically contracts the Birkhoff polytope toward its interior. This contraction mitigates…",
+   "published": "2026-11-20T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.27193",
+   "pdf": "https://arxiv.org/pdf/2611.27193",
+   "upvotes": 94,
+   "github": "https://github.com/Newiz430/cmHC",
+   "origin": "hf",
+   "ai_summary": "Constraining residual stream mixing within the Birkhoff polytope via geometric contraction improves stability and scalability of hyper-connections in large-scale dense and mixture-of-experts model pretraining.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.31201",
+   "title": "Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness",
+   "authors": "Xiao-Ming Wu, Kang Liao, Yuexiao Ma, Taolin Zhang et al.",
+   "abstract": "Frontier multimodal models exhibit extraordinary generalization in generating robot actions from observations and instructions, enabling a new paradigm in which they serve directly as policies within closed-loop robotic harnesses. However, the design principles of such harnesses, and the capabilities underlying their strong performance, remain unclear. We present Embo-Harness, a framework for systematically studying frontier-model-as-policy harnesses. We investigate four components of the robotic agentic loop, namely, prompting, planning, action execution, and tool use, and distill six empirical findings into a practical recipe. This recipe prioritizes interfaces that exploit the model's native visual reasoning and tool-use capabilities over handcrafted plans, skills, or action priors, and identifies effective choices for action representation, chunking, reasoning effort, visual observations, short multi-action sequences, and policy refinement. On RoboLab-120, Embo-Harness achieves an 83.3\\% success rate, outperforming the strongest reported baseline by 26.2 percentage points. It…",
+   "published": "2026-11-23T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.31201",
+   "pdf": "https://arxiv.org/pdf/2611.31201",
+   "upvotes": 87,
+   "github": "https://github.com/DravenALG/Embo-Harness",
+   "origin": "hf",
+   "ai_summary": "A systematic framework shows that frontier multimodal models can serve as robot policies when harnessed with interfaces favoring native visual reasoning and tool use, achieving high success in simulated and real manipulation tasks.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.27963",
+   "title": "Non-penetrating World Models",
+   "authors": "Yuhang Dai, Yinwei Wu, Ziyue Lin, Han Ji et al.",
+   "abstract": "We study a new problem of preventing object penetration in interactive video world models. To understand how existing models handle this, we introduce NoPeBench, a benchmark that evaluates how world models respond to physical obstacles. Our evaluation reveals that none of the open-source models can reliably prevent such failures. Surprisingly, however, these models already encode the information needed to predict such violations. We find that the hidden states of diffusion transformers (DiTs) can predict whether a candidate action will penetrate an obstacle. Building on this, we introduce NoPeWorld, a lightweight framework that detects and prevents penetration. Specifically, we train a small prediction head on top of a frozen DiT's hidden states to read out if a candidate action is safe or not. Unsafe actions are then replaced with safe ones that best preserve the original intent. Despite its simplicity, NoPeWorld substantially reduces the physical violation rate, averaged over six video world models, from 74% to 16%. Remarkably, our method shows zero-shot generalization to…",
+   "published": "2026-11-20T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.27963",
+   "pdf": "https://arxiv.org/pdf/2611.27963",
+   "upvotes": 60,
+   "github": "https://github.com/yuhangdai427/NoPeWorld",
+   "origin": "hf",
+   "ai_summary": "A benchmark and lightweight framework leverage hidden states from frozen diffusion transformers to detect and prevent object penetration in interactive video world models, reducing physical violations and generalizing zero-shot.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.30989",
+   "title": "WorldLeague: Benchmarking Physical Agency",
+   "authors": "Xinyang Zhou, Qi Li, Xinchao Wang",
+   "abstract": "AI systems can now operate Blender, follow instructions in complex video games, and manipulate objects with robot arms. What range of physical goals can today's AI systems achieve autonomously? Answering this question requires testing systems on tasks that demand different combinations of perception, memory, planning, and action. We introduce WorldLeague, a benchmark that compares AI systems on a common set of 60 simulated robot tasks by measuring progress toward each task's physical goal from the robot's trajectory. Robots explore scenes to gather evidence in WorldSeek, rearrange objects in WorldShape, and adapt to changes in WorldShift. Tying these goals to a single control interface limits which AI systems can be compared. In WorldLeague, vision-language models (VLMs) choose targets and motions, while vision-language-action models (VLAs) and world-action models (WAMs) use their native controls. For each of six capability dimensions, we measure how much progress a system makes toward its goals (Interactive Score) and how often it achieves them (physical success rate). Together,…",
+   "published": "2026-11-23T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.30989",
+   "pdf": "https://arxiv.org/pdf/2611.30989",
+   "upvotes": 57,
+   "github": "https://github.com/xyangzhou/WorldLeague",
+   "origin": "hf",
+   "ai_summary": "WorldLeague benchmarks 13 AI systems on 60 simulated robot tasks spanning exploration, rearrangement, and adaptation, measuring progress and success to compare autonomous physical goal achievement.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.30013",
+   "title": "3AGameFactory-Motion: Agentic Rigging and Reliable Complex Motion Generation for Diverse 3D Assets",
+   "authors": "Bohan Zeng, Kaixin Zhu, Yifan Yang, Dongge Yu et al.",
+   "abstract": "Animating arbitrary 3D assets from instructions requires both structural inference and motion control, yet existing motion benchmarks mostly cover conventional human or animal skeletons with simple instructions. We introduce DivDynBench, which evaluates rigging and motion generation across six morphology categories, with instructions requiring multi-phase part coordination and explicit timing, angle, repetition, and trajectory constraints. With large language models, we systematically compare three common paradigms: specialized motion generation, video generation followed by motion recovery, and direct agent-driven generation. We analyze their control capabilities, cross-morphology adaptability, and generation costs. Guided by this comparison, we propose an Agentic Motion Framework in which an agent writes compact parametric skeleton and motion programs, and a deterministic executor performs rigging, kinematic solving, and geometric correction. Compact parameter control reduces generation overhead and improves rigging reliability and motion-control accuracy, providing practical…",
+   "published": "2026-11-23T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.30013",
+   "pdf": "https://arxiv.org/pdf/2611.30013",
+   "upvotes": 56,
+   "github": "https://github.com/OpenDCAI/GameFactory-3A",
+   "origin": "hf",
+   "ai_summary": "A new benchmark evaluates rigging and motion generation across six 3D morphology categories, compares specialized, video-based, and agent-driven paradigms, and proposes an agentic framework that writes compact parametric skeleton and motion programs executed deterministically for reliable control.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.30662",
+   "title": "WeMM-Ecom: Advancing Multimodal Content Understanding for WeChat E-Commerce",
+   "authors": "Binhui Xie, Jinmin Li, Haomiao Tang, Guangting Wang et al.",
+   "abstract": "We present WeMM-Ecom, a family of multimodal large language models that deliver frontier e-commerce capabilities while achieving state-of-the-art general-purpose performance at their respective scales. The family spans five sizes, from a 0.8B dense model to a 35B mixture-of-experts model with 3B active parameters. Our training pipeline begins with two-stage continued pre-training that progressively raises the proportion of e-commerce data within a diverse multimodal data mixture, followed by hybrid-thinking post-training that combines on-policy distillation and reinforcement learning to support both non-thinking and thinking modes. For evaluation, we construct a comprehensive suite of 28 e-commerce benchmarks (23 in-house and five open-source) covering eight business scenarios and complement it with 64 public general-purpose benchmarks. On the e-commerce suite, WeMM-Ecom-35B-A3B surpasses substantially larger open-source flagship models, including Qwen3.8-Flash-Next, HY4, and DeepSeek-V4.1-Flash. On the general-purpose suite, every WeMM-Ecom model surpasses its similarly sized…",
+   "published": "2026-11-23T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.30662",
+   "pdf": "https://arxiv.org/pdf/2611.30662",
+   "upvotes": 54,
+   "github": "https://github.com/Tencent/WeMM-Ecom",
+   "origin": "hf",
+   "ai_summary": "WeMM-Ecom, a family of multimodal large language models spanning dense and mixture-of-experts sizes, is trained with continued pre-training and hybrid-thinking post-training to achieve strong e-commerce and general-purpose results and is deployed in WeChat.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.12164",
+   "title": "Let the Fixer Decide: Training a Code Localizer from the Fixer's Likelihood",
+   "authors": "Khalil Hennara, Muhammad Hreden, Zeina Aldallal, Sara Chrouf et al.",
+   "abstract": "Code localizers are usually trained to predict the files a reference patch edits, but the code a fixer needs to read is not the same as the code it changes. We propose Fixer-Guided Localization (FGL): the localizer proposes several localizations, a frozen fixer scores each by how likely it makes a verified patch, and the localizer is trained on these scores with weighted supervised fine-tuning, without running tests and without reinforcement learning. We build the full pipeline on Gemma 4 E4B for the Kaggle Gemma-4 Developer Agent competition, from 1,629 test-verified Kimi K3 trajectories. The FGL target helps the fixer find the bug as often as the teacher's localization while using 27.5% less code. On the development set, one EM round moves the agent in the expected direction compared with a matched control: more tasks reach a patch (53 vs. 46), fewer tasks get stuck reading files that do not exist (43 vs. 54), and more tasks are solved (8 vs. 6). Training also changes how the agent works: trained agents explore about three times more than the base model and write far fewer wrong…",
+   "published": "2026-11-09T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.12164",
+   "pdf": "https://arxiv.org/pdf/2611.12164",
+   "upvotes": 47,
+   "github": "https://github.com/misraj-ai/locfix",
+   "origin": "hf",
+   "ai_summary": "A code localizer is trained with scores from a frozen fixer via weighted supervised fine-tuning, improving bug localization and patch success for a small coding agent without tests or reinforcement learning.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.26954",
+   "title": "Learning Video Foresight Reasoning from Unlabeled Videos via On-Policy Self-Distillation",
+   "authors": "Jingchen Sun, Jiaxing Zhang, Qingqiao Hu, Dingqiang Ye et al.",
+   "abstract": "Video foresight reasoning requires vision-language models to anticipate future events or next actions from currently observed videos. Existing methods fit future captions, rationales, or full visual states, but face two limitations. First, they rely on annotations or external large models for supervision, limiting scalability. We address this with an on-policy self-distillation framework that turns past-future video pairs into a natural self-supervised signal without extra annotations or LLM supervision. Second, they treat the whole future clip as equally valuable, although most of it is irrelevant context information. We address this by defining a foresight score, from which we obtain a contrastive privilege advantage that drives the model to learn the most valuable future information. Since the score is intractable, we optimize a tractable lower-bound surrogate that interpolates this advantage, computed between the true and a random reference future, with a teacher-student distillation advantage; together, they amplify decision-relevant content information and suppress irrelevant…",
+   "published": "2026-11-20T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.26954",
+   "pdf": "https://arxiv.org/pdf/2611.26954",
+   "upvotes": 43,
+   "github": "https://github.com/Jingchensun/future-opsd",
+   "origin": "hf",
+   "ai_summary": "Future-OPSD trains vision-language models via on-policy self-distillation and a contrastive privilege advantage derived from a foresight score, improving video foresight prediction and planning without extra annotations or LLM supervision.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.24636",
+   "title": "Clover-35B-A3B-Preview Technical Report",
+   "authors": "DiffuSpace Technical Team",
+   "abstract": "We introduce Clover-35B-A3B-Preview (Clover), a mixture-of-experts diffusion language model with 35 billion total parameters and 3 billion activated parameters, supporting thinking-mode generation. Clover adapts Gated Delta Networks to block diffusion by combining recurrent memory of previously generated context with bidirectional softmax attention inside the current block. Historical memory readout competes with current-block tokens in a shared softmax, with learnable block-size calibration and a separate, zero-initialized right-context convolution branch. Clover leads the seven evaluated agent metrics, including 73.6 on SWE-bench Verified and 51.7 on Terminal-Bench 2.1. On internal agent workloads, it reaches a reported generation speed of 680 tokens/s using one NVIDIA GB300 GPU at BF16 precision and batch size one. We organize the evaluation around model quality, drafting and verification costs, and deployment under constrained memory. We also describe a decision-model variant that generates answers to related questions in one denoising pass. On an internal set of 500 groups,…",
+   "published": "2026-11-18T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.24636",
+   "pdf": "https://arxiv.org/pdf/2611.24636",
+   "upvotes": 42,
+   "github": "https://github.com/DiffuSpace/Clover-35B-A3B-Preview",
+   "origin": "hf",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.31065",
+   "title": "Decoupling Solving from Abstention: Single-Rollout Conformal Risk Control for Hard-Budget LLM Reasoning",
+   "authors": "Qianyi Chen, Bo Li",
+   "abstract": "Hard token budgets often interrupt LLM reasoning before an answer is produced. Forcing reasoning to terminate recovers correct solutions but also increases confident errors, creating a joint challenge of solving within budget and deciding when to abstain. Existing remedies are costly or lack guarantees: supervised fine-tuning offers no error control, penalizing wrong answers during reinforcement learning (RL) can suppress exploration, and multi-sample conformal methods multiply inference cost. We propose Tail-CRC, a single-rollout framework that separates candidate generation from submission control. We first adapt the solver to budget forcing with pure binary correctness rewards; after freezing it, we apply conformal risk control to upper-tail token surprise in the answer span. Each rollout yields both an answer and an uncertainty score from token log probabilities, enabling finite-sample control of expected wrong submissions under exchangeability and recalibration across risk targets or domains without retraining. We show that wrong-answer penalties create failure-only comparisons…",
+   "published": "2026-11-23T17:21:32Z",
+   "url": "https://arxiv.org/abs/2611.31065",
+   "pdf": "https://arxiv.org/pdf/2611.31065",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.AI",
+    "stat.ME"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.31063",
+   "title": "From Local Errors to System Failures: Modeling and Benchmarking Error Propagation in Multi-Agent LLM Systems",
+   "authors": "Wenlong Yu, Bingxu Lu, Qilong Wang, Qinghua Hu et al.",
+   "abstract": "In multi-agent systems (MAS) built on large language models (LLMs), errors can propagate through intermediate messages and compromise final answers. However, outcome-based evaluation obscures how agents amplify, attenuate, or correct these errors. We propose Response-Aware Error Propagation among Agents (REPA), a structural model that connects measured local responses to system-level error propagation. REPA separately estimates input assembly and agent processing across multiple error channels, while theoretical analysis relates local modeling errors to endpoint prediction error. Experiments span three Qwen base models, six MAS workflows, and ten knowledge and reasoning settings in ErrPropBench-10. REPA achieves a mean condition-level Spearman correlation of 0.84 across base models, compared with 0.47 for direct regression. Controlled experiments also demonstrate its utility for targeted recovery. REPA-guided retrieval-augmented generation (RAG) improves accuracy over no retrieval by an average of 19 percentage points with 16% additional tokens. By linking local agent behavior to…",
+   "published": "2026-11-23T17:20:43Z",
+   "url": "https://arxiv.org/abs/2611.31063",
+   "pdf": "https://arxiv.org/pdf/2611.31063",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.MA",
+    "cs.AI"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.30879",
+   "title": "Learning the Next Best Move with Visual Diffusion Models",
+   "authors": "Amir Razlighi, Ali Mahdavi Amiri, Yiorgos Chrysanthou, Andrey Voynov et al.",
+   "abstract": "In this paper, we show that visual diffusion models can learn to predict the next best move (NBM) in tasks requiring sequential reasoning and lookahead, without explicitly exploring future steps or exhaustive searching at inference. Previous work demonstrated that these models can generate complete solutions to geometric and reasoning problems. Here, we show that simple fine-tuning on visual state--NBM pairs enables a pretrained model to select actions whose value depends on consequences several steps ahead. Each move is predicted directly in image space from the current state, without an explicit symbolic representation or search procedure. Repeated NBM predictions then construct a solution one decision at a time. We demonstrate this capability on chess puzzles and tile-based pathfinding, and show that it extends to Connect Four, Go and billiards. In chess, the model predicts legal moves and finds the best move far more often than by recalling similar training positions, including piece sacrifices whose benefit emerges only through later tactical continuations. In pathfinding, it…",
+   "published": "2026-11-23T15:46:19Z",
+   "url": "https://arxiv.org/abs/2611.30879",
+   "pdf": "https://arxiv.org/pdf/2611.30879",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.GR",
+    "cs.CV"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.31089",
+   "title": "Orthogonally Mixed Sign Coding with Progressive Residual Refinement for Transformer Weight Compression",
+   "authors": "Anindya Roy Chowdhury, Atanu Barai, Nandakishore Santhi",
+   "abstract": "LLM quantization reduces storage but often degrades predictive fidelity at low bit rates. We propose a training-free, CDF-free, Gaussian-CLT-motivated progressive residual-sign quantization framework that uses randomized orthogonal mixing to promote Gaussian-like residual distributions and improve sign based reconstruction of Transformer weights. Each stage independently normalizes residuals and analytically calibrates reconstruction, progressively recovering quantization errors. The framework enables flexible storage-fidelity trade-offs without learned codebooks, empirical CDFs, or trellis optimization. We evaluate GPT-2 Large and Llama-3-8B across attention and MLP projections. At five residual stages, joint quantization preserves near-baseline predictive fidelity, achieving perplexities of 32.16 and 12.73, compared with full-precision values of 29.89 and 11.07, respectively. Ablations further demonstrate that orthogonal mixing substantially improves reconstruction over identity-based sign coding, while activation-aware scaling improves output fidelity and reduced-precision…",
+   "published": "2026-11-23T17:36:37Z",
+   "url": "https://arxiv.org/abs/2611.31089",
+   "pdf": "https://arxiv.org/pdf/2611.31089",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.AI",
+    "cs.IR"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.30951",
+   "title": "Evaluable Language-Model Treatment Policies for Sepsis Resuscitation via Offline Value-Guided Selection",
+   "authors": "Yue Pei, Shining Bo, Yingying Zhang, Qinggang Ge et al.",
+   "abstract": "Offline treatment learning must balance imitation, which stays close to logged evidence but ignores outcomes, against value maximisation, which uses outcomes but drifts toward treatments the records cannot verify. Numerical reinforcement learning strikes this balance during training. For large language models (LLMs), directly using sparse retrospective outcomes for fine-tuning raises challenges of delayed credit assignment and limited evidence for alternative treatments. We present R-LLMC, which strikes the balance at inference for sepsis resuscitation. A behaviour-supervised LLM, decoded into an exact distribution over 25 vasopressor-fluid actions, proposes clinician-anchored candidates; an offline critic selects among them by estimated long-term value. The policy has a closed form for off-policy evaluation, and its rationale is written after selection, so explanation cannot steer treatment. In experiments on held-out MIMIC-III patients, R-LLMC exceeded the clinician reference in doubly robust value by +0.214 (95\\% CI 0.091-0.300), with fitted Q evaluation agreeing.",
+   "published": "2026-11-23T16:27:55Z",
+   "url": "https://arxiv.org/abs/2611.30951",
+   "pdf": "https://arxiv.org/pdf/2611.30951",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.LG"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "classics": [
+  {
+   "id": "2104.09864",
+   "title": "RoFormer: Enhanced Transformer with Rotary Position Embedding",
+   "year": 2021,
+   "authors": "Jian-Lin Su, Murtadha H. M. Ahmed, Yu Lu et al.",
+   "abstract": "Position encoding recently has shown effective in the transformer architecture. It enables valuable supervision for dependency modeling between elements at different positions of the sequence. In this paper, we first investigate various methods to integrate positional information into the learning process of transformer-based language models. Then, we propose a novel method named Rotary Position Embedding(RoPE) to effectively leverage the positional information. Specifically, the proposed RoPE encodes the absolute position with a rotation matrix and meanwhile incorporates the explicit relative position dependency in self-attention formulation. Notably, RoPE enables valuable properties,…",
+   "citations": 7370,
+   "url": "https://arxiv.org/abs/2104.09864",
+   "cited_by": [
+    "cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction",
+    "Clover-35B-A3B-Preview Technical Report"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2002.05202",
+   "title": "GLU Variants Improve Transformer",
+   "year": 2020,
+   "authors": "Noam Shazeer",
+   "abstract": "Gated Linear Units (arXiv:1612.08083) consist of the component-wise product of two linear projections, one of which is first passed through a sigmoid function. Variations on GLU are possible, using different nonlinear (or even linear) functions in place of sigmoid. We test these variants in the feed-forward sublayers of the Transformer (arXiv:1706.03762) sequence-to-sequence model, and find that some of them yield quality improvements over the typically-used ReLU or GELU activations.",
+   "citations": 2543,
+   "url": "https://arxiv.org/abs/2002.05202",
+   "cited_by": [
+    "cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction",
+    "Clover-35B-A3B-Preview Technical Report"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1910.07467",
+   "title": "Root Mean Square Layer Normalization",
+   "year": 2019,
+   "authors": "Biao Zhang, R. Sennrich",
+   "abstract": "Layer normalization (LayerNorm) has been successfully applied to various deep neural networks to help stabilize training and boost model convergence because of its capability in handling re-centering and re-scaling of both inputs and weight matrix. However, the computational overhead introduced by LayerNorm makes these improvements expensive and significantly slows the underlying network, e.g. RNN in particular. In this paper, we hypothesize that re-centering invariance in LayerNorm is dispensable and propose root mean square layer normalization, or RMSNorm. RMSNorm regularizes the summed inputs to a neuron in one layer according to root mean square (RMS), giving the model re-scaling…",
+   "citations": 2286,
+   "url": "https://arxiv.org/abs/1910.07467",
+   "cited_by": [
+    "cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction",
+    "Clover-35B-A3B-Preview Technical Report"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2005.11401",
+   "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+   "year": 2020,
+   "authors": "Patrick Lewis, Ethan Perez, Aleksandra Piktus et al.",
+   "abstract": "Large pre-trained language models have been shown to store factual knowledge in their parameters, and achieve state-of-the-art results when fine-tuned on downstream NLP tasks. However, their ability to access and precisely manipulate knowledge is still limited, and hence on knowledge-intensive tasks, their performance lags behind task-specific architectures. Additionally, providing provenance for their decisions and updating their world knowledge remain open research problems. Pre-trained models with a differentiable access mechanism to explicit non-parametric memory can overcome this issue, but have so far been only investigated for extractive downstream tasks. We explore a general-purpose…",
+   "citations": 21563,
+   "url": "https://arxiv.org/abs/2005.11401",
+   "cited_by": [
+    "Let the Fixer Decide: Training a Code Localizer from the Fixer's Likelihood"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1807.03748",
+   "title": "Representation Learning with Contrastive Predictive Coding",
+   "year": 2018,
+   "authors": "A. van den Oord, Ya-Zhe Li, O. Vinyals",
+   "abstract": "While supervised learning has enabled great progress in many applications, unsupervised learning has not seen such widespread adoption, and remains an important and challenging endeavor for artificial intelligence. In this work, we propose a universal unsupervised learning approach to extract useful representations from high-dimensional data, which we call Contrastive Predictive Coding. The key insight of our model is to learn such representations by predicting the future in latent space by using powerful autoregressive models. We use a probabilistic contrastive loss which induces the latent space to capture information that is maximally useful to predict future samples. It also makes the…",
+   "citations": 15465,
+   "url": "https://arxiv.org/abs/1807.03748",
+   "cited_by": [
+    "Learning Video Foresight Reasoning from Unlabeled Videos via On-Policy Self-Distillation"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1411.1792",
+   "title": "How transferable are features in deep neural networks?",
+   "year": 2014,
+   "authors": "J. Yosinski, J. Clune, Yoshua Bengio et al.",
+   "abstract": "Many deep neural networks trained on natural images exhibit a curious phenomenon in common: on the first layer they learn features similar to Gabor filters and color blobs. Such first-layer features appear not to be specific to a particular dataset or task, but general in that they are applicable to many datasets and tasks. Features must eventually transition from general to specific by the last layer of the network, but this transition has not been studied extensively. In this paper we experimentally quantify the generality versus specificity of neurons in each layer of a deep convolutional neural network and report a few surprising results. Transferability is negatively affected by two…",
+   "citations": 9891,
+   "url": "https://arxiv.org/abs/1411.1792",
+   "cited_by": [
+    "cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2103.03874",
+   "title": "Measuring Mathematical Problem Solving With the MATH Dataset",
+   "year": 2021,
+   "authors": "Dan Hendrycks, Collin Burns, Saurav Kadavath et al.",
+   "abstract": "Many intellectual endeavors require mathematical problem solving, but this skill remains beyond the capabilities of computers. To measure this ability in machine learning models, we introduce MATH, a new dataset of 12,500 challenging competition mathematics problems. Each problem in MATH has a full step-by-step solution which can be used to teach models to generate answer derivations and explanations. To facilitate future research and increase accuracy on MATH, we also contribute a large auxiliary pretraining dataset which helps teach models the fundamentals of mathematics. Even though we are able to increase accuracy on MATH, our results show that accuracy remains relatively low, even with…",
+   "citations": 7453,
+   "url": "https://arxiv.org/abs/2103.03874",
+   "cited_by": [
+    "Clover-35B-A3B-Preview Technical Report"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1701.06538",
+   "title": "Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer",
+   "year": 2017,
+   "authors": "Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz et al.",
+   "abstract": "The capacity of a neural network to absorb information is limited by its number of parameters. Conditional computation, where parts of the network are active on a per-example basis, has been proposed in theory as a way of dramatically increasing model capacity without a proportional increase in computation. In practice, however, there are significant algorithmic and performance challenges. In this work, we address these challenges and finally realize the promise of conditional computation, achieving greater than 1000x improvements in model capacity with only minor losses in computational efficiency on modern GPU clusters. We introduce a Sparsely-Gated Mixture-of-Experts layer (MoE),…",
+   "citations": 6404,
+   "url": "https://arxiv.org/abs/1701.06538",
+   "cited_by": [
+    "cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "stats": {
+  "raw_news": 43,
+  "stories": 10,
+  "videos": 2,
+  "papers": 15,
+  "classics": 8,
+  "seconds": 158
+ }
+}

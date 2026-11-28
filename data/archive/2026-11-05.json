@@ -1,0 +1,581 @@
+{
+ "generated_at": "2026-11-05T08:33:41.935594+00:00",
+ "date": "2026-11-05",
+ "tldr": {
+  "headline": "Les titres du jour",
+  "points": [
+   {
+    "title": "Everything is an AI scam now",
+    "text": "136 points · 53 commentaires",
+    "ref": "news:1926f981629d"
+   },
+   {
+    "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+    "text": "142 points · 54 commentaires",
+    "ref": "news:9082a853a58f"
+   },
+   {
+    "title": "Progress on provable inference for large language models",
+    "text": "213 points · 98 commentaires",
+    "ref": "news:d94c9f77ddaf"
+   },
+   {
+    "title": "Kimi K3.1 Pro model weights are out",
+    "text": "509 points · 142 commentaires",
+    "ref": "news:7838c87736f9"
+   },
+   {
+    "title": "Ask HN: What's your current AI agentic setup?",
+    "text": "298 points · 303 commentaires",
+    "ref": "news:793baf0e5454"
+   }
+  ],
+  "generated": false
+ },
+ "news": [
+  {
+   "id": "1926f981629d",
+   "title": "Everything is an AI scam now",
+   "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
+   "source": "Hacker News",
+   "published": "2026-11-04T21:05:19+00:00",
+   "summary": "136 points · 53 commentaires",
+   "image": null,
+   "signal": 136,
+   "discussion": "https://news.ycombinator.com/item?id=50371508",
+   "score": 3.37,
+   "also": []
+  },
+  {
+   "id": "9082a853a58f",
+   "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+   "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+   "source": "Hacker News",
+   "published": "2026-11-04T19:55:14+00:00",
+   "summary": "142 points · 54 commentaires",
+   "image": null,
+   "signal": 142,
+   "discussion": "https://news.ycombinator.com/item?id=50370654",
+   "score": 3.34,
+   "also": []
+  },
+  {
+   "id": "d94c9f77ddaf",
+   "title": "Progress on provable inference for large language models",
+   "url": "https://www.anthropic.com/research/provable-inference",
+   "source": "Hacker News",
+   "published": "2026-11-04T17:17:46+00:00",
+   "summary": "213 points · 98 commentaires",
+   "image": null,
+   "signal": 213,
+   "discussion": "https://news.ycombinator.com/item?id=50368626",
+   "score": 5.03,
+   "also": []
+  },
+  {
+   "id": "7838c87736f9",
+   "title": "Kimi K3.1 Pro model weights are out",
+   "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+   "source": "Hacker News",
+   "published": "2026-11-04T15:30:30+00:00",
+   "summary": "509 points · 142 commentaires",
+   "image": null,
+   "signal": 509,
+   "discussion": "https://news.ycombinator.com/item?id=50366999",
+   "score": 4.14,
+   "also": []
+  },
+  {
+   "id": "793baf0e5454",
+   "title": "Ask HN: What's your current AI agentic setup?",
+   "url": "https://news.ycombinator.com/item?id=50366117",
+   "source": "Hacker News",
+   "published": "2026-11-04T14:37:22+00:00",
+   "summary": "298 points · 303 commentaires",
+   "image": null,
+   "signal": 298,
+   "discussion": "https://news.ycombinator.com/item?id=50366117",
+   "score": 3.67,
+   "also": []
+  },
+  {
+   "id": "3a06f84c0f51",
+   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+   "url": "https://openai.com/index/openai-to-acquire-pierre",
+   "source": "OpenAI",
+   "published": "2026-11-04T14:30:00+00:00",
+   "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+   "image": null,
+   "signal": 0,
+   "score": 6.46,
+   "also": [
+    {
+     "source": "Hacker News",
+     "url": "https://openai.com/index/openai-to-acquire-pierre/"
+    }
+   ],
+   "discussion": "https://news.ycombinator.com/item?id=50366863"
+  },
+  {
+   "id": "68c44263a0af",
+   "title": "AI is forcing us to pay off 40 years of technical debt",
+   "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+   "source": "Hacker News",
+   "published": "2026-11-04T11:52:17+00:00",
+   "summary": "1167 points · 673 commentaires",
+   "image": null,
+   "signal": 1167,
+   "discussion": "https://news.ycombinator.com/item?id=50364336",
+   "score": 4.62,
+   "also": []
+  },
+  {
+   "id": "d9931a8b95de",
+   "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+   "source": "Hacker News",
+   "published": "2026-11-04T10:23:34+00:00",
+   "summary": "305 points · 303 commentaires",
+   "image": null,
+   "signal": 305,
+   "discussion": "https://news.ycombinator.com/item?id=50363554",
+   "score": 3.48,
+   "also": []
+  },
+  {
+   "id": "150a39b9eb9a",
+   "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+   "url": "https://news.ycombinator.com/item?id=50363461",
+   "source": "Hacker News",
+   "published": "2026-11-04T10:10:27+00:00",
+   "summary": "663 points · 171 commentaires",
+   "image": null,
+   "signal": 663,
+   "discussion": "https://news.ycombinator.com/item?id=50363461",
+   "score": 4.08,
+   "also": []
+  },
+  {
+   "id": "88c23216a431",
+   "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+   "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+   "source": "Hacker News",
+   "published": "2026-11-04T08:46:29+00:00",
+   "summary": "600 points · 278 commentaires",
+   "image": null,
+   "signal": 600,
+   "discussion": "https://news.ycombinator.com/item?id=50362905",
+   "score": 5.43,
+   "also": []
+  }
+ ],
+ "videos": [
+  {
+   "id": "0Kw6_DTZPrY",
+   "title": "‘We may release models we can’t control’: Amodei, Altman … and Gemini Carbon",
+   "url": "https://www.youtube.com/watch?v=0Kw6_DTZPrY",
+   "channel": "AI Explained",
+   "published": "2026-11-02T17:02:16+00:00",
+   "thumbnail": "https://i1.ytimg.com/vi/0Kw6_DTZPrY/hqdefault.jpg",
+   "views": 124309,
+   "description": "You know what, by AI standards, it might not have been the craziest week, but that doesn’t mean several headline-worthy things happened - from Altman and Anthropic implying they would release models they can’t control,…",
+   "relevance": 0
+  },
+  {
+   "id": "yW_ngvMFlYs",
+   "title": "Why Consciousness Might Not Be Hard At All (Joscha Bach)",
+   "url": "https://www.youtube.com/watch?v=yW_ngvMFlYs",
+   "channel": "Machine Learning Street Talk",
+   "published": "2026-11-02T03:04:11+00:00",
+   "thumbnail": "https://i2.ytimg.com/vi/yW_ngvMFlYs/hqdefault.jpg",
+   "views": 50764,
+   "description": "Joscha Bach is a cognitive scientist and the founder of the California Institute for Machine Consciousness. SPONSOR: --- Parallel is a single platform for all your agentic research: web search built for AI agents, with…",
+   "relevance": 0
+  }
+ ],
+ "papers": [
+  {
+   "id": "2611.01860",
+   "title": "Advances in Agentic Computer Graphics",
+   "authors": "Hengyu Liu, Jihyeon Je, Ruiqi Wang, Mingxuan Wu et al.",
+   "abstract": "Computer graphics is built on code. Large language model (LLM) agents can now generate graphics code and iteratively refine it through various feedback. This capability opens the door to a potentially new paradigm of computer graphics, with graphics algorithms increasingly built around agentic systems to automate progressively complex tasks. Over the past years, research on agentic graphics has expanded rapidly across a diverse range of tasks. This rapid growth makes it increasingly difficult for manual literature reviews to keep pace with new developments. At the same time, similar ideas are often described using different terminology across these tasks, further complicating efforts to develop a systematic understanding of the field. In this report, we address these challenges through two contributions. First, we introduce a unified taxonomy for characterizing agentic systems across diverse computer graphics tasks. Second, we develop an agentic literature system that can assist human researchers in analyzing existing and newly published papers at scale. Building on these…",
+   "published": "2026-11-01T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.01860",
+   "pdf": "https://arxiv.org/pdf/2611.01860",
+   "upvotes": 134,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "This report proposes a unified taxonomy and literature system for agentic computer graphics driven by large language models, analyzing trends and open challenges in human-agent collaboration and long-horizon planning.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.05275",
+   "title": "Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems",
+   "authors": "Pengfei Zhou, Yixing Ma, Hexin Wang, Weidong Tang et al.",
+   "abstract": "Artificial general intelligence (AGI) requires a method that can understand, generate, reason, and act across diverse domains and modalities. Rather than relying on a single model to master every capability, a promising path toward AGI now is to orchestrate a heterogeneous ecosystem of specialized models, tools, and policies (candidates) into a unified AI system. At the heart of this vision lies a fundamental question: how can an AI system dynamically select and coordinate the most capable candidate for each task while balancing performance and computational cost? In this work, we present Route Anything, a unified framework for studying model and policy routing across general-purpose AI systems. We develop a unified theoretical foundation that characterizes optimal routing under quality--cost trade-offs and establishes how the information available to a router determines its attainable performance. To systematically investigate routing across diverse capabilities, we first construct an omni-modal trajectory matrix spanning 25 benchmarks across language understanding, image, video,…",
+   "published": "2026-11-03T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.05275",
+   "pdf": "https://arxiv.org/pdf/2611.05275",
+   "upvotes": 88,
+   "github": "https://github.com/InfRec-Cardinal/route-anything",
+   "origin": "hf",
+   "ai_summary": "Route Anything is a framework for dynamically selecting and coordinating specialized AI models and policies across diverse tasks to improve performance and efficiency.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.00617",
+   "title": "Words Caught in the Heart: Simulating Person-Specific Expression for Self-Opaque Clients in Psychotherapy",
+   "authors": "Mengxi Xiao, Jingjing Chen, Ziyan Kuang, Jiarong Song et al.",
+   "abstract": "Psychotherapy clients may experience distress before they can coherently describe it, and their expression changes with emotion, perceived safety, and trust. Large language model-based client simulators often rely on clinically organized case descriptions, which can encourage responses explaining the client's difficulties more clearly than their current understanding warrants. We propose Pandora, a psychotherapy client simulation framework that models how psychological experience becomes situated, individual expression. Pandora updates psychological and relational states in response to therapist interventions, constructs subjective appraisals and attributions, and plans response content and strategy. A separate expression planner combines these decisions with language patterns distilled from the client's utterances to guide linguistic realization. We evaluate Pandora against five baselines on 115 cases from four counseling and motivational interviewing datasets. It achieves the highest expression similarity and overall disclosure-alignment score among the compared systems. In a…",
+   "published": "2026-10-31T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.00617",
+   "pdf": "https://arxiv.org/pdf/2611.00617",
+   "upvotes": 73,
+   "github": "https://github.com/whunextgen/Pandora",
+   "origin": "hf",
+   "ai_summary": "Pandora is a psychotherapy client simulation framework that models evolving psychological and relational states to generate more authentic, individually aligned expressions and reduce AI-like responses.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.04814",
+   "title": "Think Less, Locally: Local Preference Learning for Reasoning Compression",
+   "authors": "Muyao Yuan, Liyan Xu, Weizhan Zhang, Muyan Jiao et al.",
+   "abstract": "Large reasoning models achieve strong performance on challenging tasks, but their long chain-of-thought often incurs substantial inference costs by continuing to deliberate after sufficient information has been obtained. Existing reasoning compression methods primarily operate on reasoning trajectories, paying less attention to the local decision of whether further reasoning is necessary given the current state. We propose LoCo, a local preference learning method for reasoning compression. LoCo detects candidate overthinking states from the model's own traces, freezes the corresponding reasoning prefixes, regenerates shorter verified continuations from the same states, and trains on the resulting state-conditioned preference pairs with DPO. This formulation teaches the model when to continue reasoning and when to conclude, rather than simply encouraging shorter trajectories overall. We construct training data entirely from self-generated mathematical traces and evaluate LoCo on five mathematical and three code generation benchmarks. LoCo reduces completion length by 41.7\\%--45.4\\%…",
+   "published": "2026-11-03T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.04814",
+   "pdf": "https://arxiv.org/pdf/2611.04814",
+   "upvotes": 72,
+   "github": "https://github.com/MuyaoYuan/LoCo",
+   "origin": "hf",
+   "ai_summary": "LoCo uses local preference learning to teach reasoning models when to stop deliberating, reducing output length substantially while preserving or improving accuracy across math and code tasks.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.02737",
+   "title": "MoviEdit: Long-form Multi-Shot Video Editing Made Easy",
+   "authors": "Suhyeon Lee, Zhengang Li, Soo Ye Kim, Peihao Zhu et al.",
+   "abstract": "Long-form multi-shot video editing requires an intended edit to remain coherent across abrupt changes in scene, viewpoint, and subject appearance, while processing substantially longer visual context than conventional single-shot editors. We introduce MoviEdit, an end-to-end framework for scalable long-form multi-shot video editing that jointly addresses the challenges of data, modeling, and evaluation. To provide cross-shot supervision data at scale, we develop automatic data-generation pipelines spanning synchronized multi-view footage, real-world multi-shot videos, and generated multi-shot content, yielding 87K paired editing videos without manual annotation. Architecturally, MoviEdit employs a cascaded bidirectional-autoregressive design: a lightweight bidirectional stage first establishes a globally coherent editing draft over a spatiotemporally compressed representation, which is then autoregressively propagated and refined over the full video. We further introduce MoviEdit-Bench, a dedicated benchmark for systematic evaluation of long-form multi-shot video editing. Extensive…",
+   "published": "2026-11-02T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.02737",
+   "pdf": "https://arxiv.org/pdf/2611.02737",
+   "upvotes": 70,
+   "github": "https://github.com/adobe-research/MoviEdit-Bench",
+   "origin": "hf",
+   "ai_summary": "MoviEdit is an end-to-end framework for long-form multi-shot video editing that uses cascaded bidirectional-autoregressive modeling and a new benchmark to maintain coherence across scenes while reducing manual data annotation.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.04916",
+   "title": "Behind Video Generation: Observations and Insights on Multimodal Understanding from Kling",
+   "authors": "Kling Team, Dong Chen, Jialu Chen, Xinlong Chen et al.",
+   "abstract": "Video generation has progressed from isolated clips to coherent short-form audiovisual sequences, and the bottleneck is shifting from rendering to semantic control. This report summarizes the observations and insights on multimodal understanding gained from successive generations of Kling. We argue that generation quality is the projection of multimodal understanding through the entire data--conditioning--alignment--evaluation chain, and we examine this chain module by module. Kling-MLLM, a shared multimodal foundation model that unifies image, video, audio, synchronized audio--video, and interleaved inputs, is specialized for each downstream module. Because a DiT is trained on far fewer training samples than a language model, we treat captioning as a semantic contract that maximizes description density, and extend it to reference-grounded captioning that makes reference bindings explicit. Prompt enhancement translates user intent into this caption distribution: basic PE is derived from captions of compelling videos and refined with text-level and generator-in-the-loop reinforcement…",
+   "published": "2026-11-03T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.04916",
+   "pdf": "https://arxiv.org/pdf/2611.04916",
+   "upvotes": 59,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "Kling's multimodal understanding stack links caption density, perceptual text encoding, reward modeling, and evaluation protocols to improve controllable video generation.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.05377",
+   "title": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",
+   "authors": "Jisoo Kim, Chaehyun Kim, Junsu Kim, Jiho Park et al.",
+   "abstract": "Learning a universal action representation from video requires modeling dynamics that are consistent across different executions of the same action yet invariant to changes in embodiment and appearance. Existing latent action models infer actions from visual transitions, but their representations often entangle the underlying action with irrelevant visual variations, limiting transfer across embodiments. We introduce DreamX, which repurposes a pretrained video diffusion model as a universal latent action learner. Our approach extracts compact latent actions from the video model's rich spatiotemporal features, compressing each latent video frame by 300times (1{,200 rightarrow 4} tokens). In addition, by leveraging the video model's generative prior, these latent actions capture action-relevant dynamics disentangled from visual appearance. The resulting latent space serves as a shared action interface across embodiments (human and robot), environments, and action parameterizations. On LARY-Bench, DreamX achieves state-of-the-art performance among latent action models. Moreover,…",
+   "published": "2026-11-03T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.05377",
+   "pdf": "https://arxiv.org/pdf/2611.05377",
+   "upvotes": 53,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "DreamX leverages a pretrained video diffusion model to learn compact, appearance-invariant latent actions that enable cross-embodiment transfer and efficient policy learning.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.06728",
+   "title": "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit",
+   "authors": "Shuai Dong, Kanghui Tian, Linghan Chen, Wenqi Shao et al.",
+   "abstract": "Streaming video understanding requires models to repeatedly decide whether to respond or continue observing. Recently, Group Relative Policy Optimization (GRPO) has been applied to this setting, with existing approaches emphasizing reward design while retaining a single trajectory-level advantage across turns. Such shared credit can reinforce redundant replies after earlier successes and discourage useful follow-ups after earlier failures. We propose TurnWise, a turn-level GRPO framework that aligns learning with individual streaming decisions. TurnWise addresses the mismatch between trajectory-level feedback and turn-level interaction, promoting informative responses and reducing redundancy. Specifically, turn-level credit assignment uses silence-completed prefix scoring to construct group-relative advantages from each decision's remaining return, separating its learning signal from earlier rewards. Turn-mean policy optimization averages token losses within each turn and then across turns, giving response and waiting decisions equal weight regardless of output length. These…",
+   "published": "2026-11-04T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.06728",
+   "pdf": "https://arxiv.org/pdf/2611.06728",
+   "upvotes": 48,
+   "github": "https://github.com/XD111ds/turn-wise-rl",
+   "origin": "hf",
+   "ai_summary": "TurnWise improves streaming video understanding by assigning turn-level credit and balancing decision weights in group relative policy optimization.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.03424",
+   "title": "IdeaTaste: Do LLMs Share the Research Taste of Human Researchers?",
+   "authors": "Shanshan Zhong, Chen Xu, Jingjie Ning, Zhengzhong Liu et al.",
+   "abstract": "Research taste, the judgment of what to read, which problems to pursue, and which methods to try, increasingly shapes the work of AI scientists, yet it remains far less understood than their ability to execute research. We introduce IdeaTaste, a benchmark that scores an LLM by how closely the research proposals it writes from a literature snapshot frozen at 2025 match the work the same communities published in 2026. Our experiments span six contemporary language models and four research areas from established to emerging fields, covering more than 90{,}000 proposals in total. LLM agents fall well short of human communities in both the literature they cite and the ideas they state, reaching about 26\\% of the human level on citation matching and only 18\\% on idea matching. Their populations can cite as diversely as a community and take up its tasks and methods, yet rarely arrive at the concrete approaches and research plans it pursues. Neither richer field context nor larger populations substantially close this gap. In blinded expert review, AI proposals trail the 2026 papers least in…",
+   "published": "2026-11-02T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.03424",
+   "pdf": "https://arxiv.org/pdf/2611.03424",
+   "upvotes": 46,
+   "github": "https://github.com/cxcscmu/IdeaTaste",
+   "origin": "hf",
+   "ai_summary": "IdeaTaste benchmarks LLM research proposals against future publications, revealing that AI agents match human communities in broad directions but fall far behind in concrete approaches and expected success.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.05193",
+   "title": "Factorized MLLM Embeddings for Composed Image Retrieval",
+   "authors": "WonJun Moon, Seongchan Kim, Dahun Kim, Seungryong Kim",
+   "abstract": "Composed Image Retrieval (CIR) aims to retrieve a target image given a reference image and a modification text. Although recent approaches leveraging Multimodal Large Language Models (MLLMs) have shown significant progress, we argue that the MLLM's compositional understanding remains underutilized. This stems from directly mapping composed queries into a retrieval embedding via contrastive supervision alone, without explicitly resolving the intended visual modifications. In this work, we introduce Factorized MLLM Embeddings (FactEmbed), which decouples compositional query comprehension from building discriminative embeddings. Rather than directly projecting the composed query into a single embedding without internal reasoning, FactEmbed employs a set of factorized latents that simulate the intended visual modifications via an intermediate target imagination objective. This process encourages the latents to ground into target semantics before forming discriminative representations for retrieval. Subsequently, to propagate these factorized representations throughout the model for…",
+   "published": "2026-11-03T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.05193",
+   "pdf": "https://arxiv.org/pdf/2611.05193",
+   "upvotes": 45,
+   "github": "https://github.com/cvlab-kaist/FactEmbed",
+   "origin": "hf",
+   "ai_summary": "FactEmbed improves composed image retrieval by decoupling query understanding from embedding construction through factorized latents that simulate visual modifications before retrieval.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.06911",
+   "title": "BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories",
+   "authors": "Fei Lin, Tengchao Zhang, Ziyang Gong, Xiaotong Yu et al.",
+   "abstract": "Self-Driving Chemical Laboratories (SDCLs) are moving chemical experimentation toward embodied automation, where machines must perceive laboratory scenes, reason about experimental states, and act under physical, procedural, and safety constraints. Although Multimodal Large Language Models (MLLMs) are increasingly considered as embodied brains for such systems, existing laboratory benchmarks mainly focus on safety, anomaly detection, or general scientific understanding, leaving their execution-oriented embodied capabilities underexplored. To fill this gap, we introduce BEAKER, a Benchmark for evaluating Embodied Actionability, Knowledge, Experimentation, and Reasoning in SDCLs. BEAKER contains 1,000 expert-curated question-answer samples across 11 image and video task types, covering key judgments required for chemical laboratory execution, including affordance grounding, trajectory planning, equipment, state, and safety recognition, apparatus setup, operation and step reasoning, and temporal procedure reasoning. All questions and annotations are manually created and reviewed by…",
+   "published": "2026-11-04T18:57:17Z",
+   "url": "https://arxiv.org/abs/2611.06911",
+   "pdf": "https://arxiv.org/pdf/2611.06911",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.AI"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.06910",
+   "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+   "authors": "Bingran You, Wenjun Ke, Ria Rosenauer, Bo Liu et al.",
+   "abstract": "AI agents are playing an increasingly important role in physics research. However, existing physics benchmarks only evaluate fixed questions, isolated sub-tasks, or paper reproduction with given solutions, and rarely check research quality alongside correctness. We introduce FrontierPhysics, an end-to-end benchmark with 56 tasks made by 42 physicists based on their own research, covering nine domains across theoretical, computational, and experimental physics. Each task requires agents to review the literature, develop a research plan, conduct research and experiments, and produce structured outputs and scientific manuscripts. Combining deterministic verifiers with expert-authored rubrics, FrontierPhysics evaluates whether agents' research is correct and publishable. Across 22 models in 26 configurations, no configuration passes more than 46 of its 168 rollouts. Manual review of agent trajectories shows that frontier agents' main weaknesses are insufficiently rigorous reasoning and limited expert intuition, rather than gaps in physics knowledge or execution errors.",
+   "published": "2026-11-04T18:56:22Z",
+   "url": "https://arxiv.org/abs/2611.06910",
+   "pdf": "https://arxiv.org/pdf/2611.06910",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.AI"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.06868",
+   "title": "On Turn-Level Best-of-N Sampling for Scaling LLM Agents",
+   "authors": "Jalaj Bhandari, Dhawal Gupta, Hongli Zhan, Zhenting Wang et al.",
+   "abstract": "In this work, we evaluate a simple inference-time scaling approach based on \\textit{turn-level best-of-N sampling} (\\method) for large language model (LLM) agents on complex, long-horizon tasks. We instantiate this using a \\textit{generator-selector} framework with two LLMs; at each turn, a \\emph{generator} model generates $N$ candidate actions and a \\emph{selector} model selects one of them, which is then executed in the environment. This paper is closely related to the work of \\cite{zainullina2025guided} who used critic models for guided search at inference time. Different from their work, we evaluate if off-the-shelf, open-weight LLMs can be effective at comparing different candidate actions directly. Experiments on long-horizon terminal tasks show that \\method can lead to significant performance improvements, both in terms of accuracy (5--10\\%) and consistency across repeated attempts. Analysis of agent trajectories reveal a shift in agent behaviour towards desirable patterns such as reduction in number of attempts to solve the task, improved task instruction following,…",
+   "published": "2026-11-04T18:23:14Z",
+   "url": "https://arxiv.org/abs/2611.06868",
+   "pdf": "https://arxiv.org/pdf/2611.06868",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.AI"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.06859",
+   "title": "Balancing hierarchical representation and quantization: A performance trade-off in text embeddings",
+   "authors": "Kai Ponel, Marco Polignano, Erasmo Purificato, Aylin Julia Temizkan et al.",
+   "abstract": "Hierarchical text embedding models offer variable-length representations, while quantization reduces numerical precision; both aim to improve computational efficiency. This work is an empirical benchmark study of how these two orthogonal, already-established techniques interact. We evaluate 38 tasks from the Massive Text Embedding Benchmark (MTEB) using four transformer-based embedding models, covering 1D and 2D hierarchical representations combined with 32-bit, 8-bit, and binary quantization, for 168 configurations per task. We report each efficiency dimension separately: theoretical per-vector storage and end-to-end evaluation time. Under a Friedman test with Nemenyi post-hoc analysis, int8 quantization is statistically indistinguishable from float32 for pair classification and re-ranking and costs at most 1.5 percentage points overall, whereas binary quantization is significantly worse across every task category. Halving the embedding dimension once is not statistically detectable above $m=16$; two successive halvings always are. Combining an 8x dimensionality reduction with int8…",
+   "published": "2026-11-04T18:15:08Z",
+   "url": "https://arxiv.org/abs/2611.06859",
+   "pdf": "https://arxiv.org/pdf/2611.06859",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CL",
+    "cs.IR",
+    "cs.LG"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.06858",
+   "title": "CompressionBench: How can your coding agents compress LLMs?",
+   "authors": "Xinrui Zhong, Zhifeng Li, Zhiming Wang, Yongqi Liu et al.",
+   "abstract": "Recursive self-improvement requires AI systems to improve the models and infrastructure used by subsequent systems. LLM compression offers a concrete efficiency objective: retain a pretrained model's behavior within a smaller model storage budget. We study whether coding agents can carry out this step autonomously. We formulate compression as a terminal task in which an agent receives a source checkpoint, storage limit, inference environment, and time budget, then constructs compressed weights and executable inference code. The agent controls its algorithm and experiments; perplexity feedback guides search, and independent verification checks the final model. Across six agents and six model--size settings, 29 of 36 submissions pass verification. Selecting the lowest-perplexity agent design per task yields an average 3.4% perplexity increase over BF16 and 77.33% downstream accuracy, compared with 79.56% for BF16. Recorded experiments reveal how agents achieve these outcomes and where improvement breaks down. Agents lower PPL in 21 of 24 revisions at nearly fixed storage;…",
+   "published": "2026-11-04T18:14:50Z",
+   "url": "https://arxiv.org/abs/2611.06858",
+   "pdf": "https://arxiv.org/pdf/2611.06858",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.AI"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "classics": [
+  {
+   "id": "2002.05709",
+   "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+   "year": 2020,
+   "authors": "Ting Chen, Simon Kornblith, Mohammad Norouzi et al.",
+   "abstract": "This paper presents SimCLR: a simple framework for contrastive learning of visual representations. We simplify recently proposed contrastive self-supervised learning algorithms without requiring specialized architectures or a memory bank. In order to understand what enables the contrastive prediction tasks to learn useful representations, we systematically study the major components of our framework. We show that (1) composition of data augmentations plays a critical role in defining effective predictive tasks, (2) introducing a learnable nonlinear transformation between the representation and the contrastive loss substantially improves the quality of the learned representations, and (3)…",
+   "citations": 27269,
+   "url": "https://arxiv.org/abs/2002.05709",
+   "cited_by": [
+    "Factorized MLLM Embeddings for Composed Image Retrieval"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2005.12872",
+   "title": "End-to-End Object Detection with Transformers",
+   "year": 2020,
+   "authors": "Nicolas Carion, Francisco Massa, Gabriel Synnaeve et al.",
+   "abstract": "We present a new method that views object detection as a direct set prediction problem. Our approach streamlines the detection pipeline, effectively removing the need for many hand-designed components like a non-maximum suppression procedure or anchor generation that explicitly encode our prior knowledge about the task. The main ingredients of the new framework, called DEtection TRansformer or DETR, are a set-based global loss that forces unique predictions via bipartite matching, and a transformer encoder-decoder architecture. Given a fixed small set of learned object queries, DETR reasons about the relations of the objects and the global image context to directly output the final set of…",
+   "citations": 20931,
+   "url": "https://arxiv.org/abs/2005.12872",
+   "cited_by": [
+    "Factorized MLLM Embeddings for Composed Image Retrieval"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2306.05685",
+   "title": "Judging LLM-as-a-judge with MT-Bench and Chatbot Arena",
+   "year": 2023,
+   "authors": "Lian-Min Zheng, Wei-Lin Chiang, Ying Sheng et al.",
+   "abstract": "Evaluating large language model (LLM) based chat assistants is challenging due to their broad capabilities and the inadequacy of existing benchmarks in measuring human preferences. To address this, we explore using strong LLMs as judges to evaluate these models on more open-ended questions. We examine the usage and limitations of LLM-as-a-judge, including position, verbosity, and self-enhancement biases, as well as limited reasoning ability, and propose solutions to mitigate some of them. We then verify the agreement between LLM judges and human preferences by introducing two benchmarks: MT-bench, a multi-turn question set; and Chatbot Arena, a crowdsourced battle platform. Our results…",
+   "citations": 12922,
+   "url": "https://arxiv.org/abs/2306.05685",
+   "cited_by": [
+    "Behind Video Generation: Observations and Insights on Multimodal Understanding from Kling"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2305.18290",
+   "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+   "year": 2023,
+   "authors": "Rafael Rafailov, Archit Sharma, E. Mitchell et al.",
+   "abstract": "While large-scale unsupervised language models (LMs) learn broad world knowledge and some reasoning skills, achieving precise control of their behavior is difficult due to the completely unsupervised nature of their training. Existing methods for gaining such steerability collect human labels of the relative quality of model generations and fine-tune the unsupervised LM to align with these preferences, often with reinforcement learning from human feedback (RLHF). However, RLHF is a complex and often unstable procedure, first fitting a reward model that reflects the human preferences, and then fine-tuning the large unsupervised LM using reinforcement learning to maximize this estimated…",
+   "citations": 11520,
+   "url": "https://arxiv.org/abs/2305.18290",
+   "cited_by": [
+    "Behind Video Generation: Observations and Insights on Multimodal Understanding from Kling"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2301.12597",
+   "title": "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models",
+   "year": 2023,
+   "authors": "Junnan Li, Dongxu Li, S. Savarese et al.",
+   "abstract": "The cost of vision-and-language pre-training has become increasingly prohibitive due to end-to-end training of large-scale models. This paper proposes BLIP-2, a generic and efficient pre-training strategy that bootstraps vision-language pre-training from off-the-shelf frozen pre-trained image encoders and frozen large language models. BLIP-2 bridges the modality gap with a lightweight Querying Transformer, which is pre-trained in two stages. The first stage bootstraps vision-language representation learning from a frozen image encoder. The second stage bootstraps vision-to-language generative learning from a frozen language model. BLIP-2 achieves state-of-the-art performance on various…",
+   "citations": 9755,
+   "url": "https://arxiv.org/abs/2301.12597",
+   "cited_by": [
+    "Factorized MLLM Embeddings for Composed Image Retrieval"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2201.12086",
+   "title": "BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation",
+   "year": 2022,
+   "authors": "Junnan Li, Dongxu Li, Cai-Ming Xiong et al.",
+   "abstract": "Vision-Language Pre-training (VLP) has advanced the performance for many vision-language tasks. However, most existing pre-trained models only excel in either understanding-based tasks or generation-based tasks. Furthermore, performance improvement has been largely achieved by scaling up the dataset with noisy image-text pairs collected from the web, which is a suboptimal source of supervision. In this paper, we propose BLIP, a new VLP framework which transfers flexibly to both vision-language understanding and generation tasks. BLIP effectively utilizes the noisy web data by bootstrapping the captions, where a captioner generates synthetic captions and a filter removes the noisy ones. We…",
+   "citations": 7630,
+   "url": "https://arxiv.org/abs/2201.12086",
+   "cited_by": [
+    "Factorized MLLM Embeddings for Composed Image Retrieval"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2103.00020",
+   "title": "Learning Transferable Visual Models From Natural Language Supervision",
+   "year": 2021,
+   "authors": "A. Radford, Jong Wook Kim, Chris Hallacy et al.",
+   "abstract": "State-of-the-art computer vision systems are trained to predict a fixed set of predetermined object categories. This restricted form of supervision limits their generality and usability since additional labeled data is needed to specify any other visual concept. Learning directly from raw text about images is a promising alternative which leverages a much broader source of supervision. We demonstrate that the simple pre-training task of predicting which caption goes with which image is an efficient and scalable way to learn SOTA image representations from scratch on a dataset of 400 million (image, text) pairs collected from the internet. After pre-training, natural language is used to…",
+   "citations": 59490,
+   "url": "https://arxiv.org/abs/2103.00020",
+   "cited_by": [
+    "MoviEdit: Long-form Multi-Shot Video Editing Made Easy",
+    "Factorized MLLM Embeddings for Composed Image Retrieval"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2303.11366",
+   "title": "Reflexion: language agents with verbal reinforcement learning",
+   "year": 2023,
+   "authors": "Noah Shinn, Federico Cassano, Edward Berman et al.",
+   "abstract": "Large language models (LLMs) have been increasingly used to interact with external environments (e.g., games, compilers, APIs) as goal-driven agents. However, it remains challenging for these language agents to quickly and efficiently learn from trial-and-error as traditional reinforcement learning methods require extensive training samples and expensive model fine-tuning. We propose Reflexion, a novel framework to reinforce language agents not by updating weights, but instead through linguistic feedback. Concretely, Reflexion agents verbally reflect on task feedback signals, then maintain their own reflective text in an episodic memory buffer to induce better decision-making in subsequent…",
+   "citations": 6550,
+   "url": "https://arxiv.org/abs/2303.11366",
+   "cited_by": [
+    "Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "stats": {
+  "raw_news": 51,
+  "stories": 10,
+  "videos": 2,
+  "papers": 15,
+  "classics": 8,
+  "seconds": 355
+ }
+}

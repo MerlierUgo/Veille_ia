@@ -1,0 +1,606 @@
+{
+ "generated_at": "2026-11-28T13:06:42.620843+00:00",
+ "date": "2026-11-28",
+ "tldr": {
+  "headline": "Les titres du jour",
+  "points": [
+   {
+    "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+    "text": "191 points · 138 commentaires",
+    "ref": "news:4e825df2be8b"
+   },
+   {
+    "title": "datasette-charts 0.4a0",
+    "text": "Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet. I had Claude Opus 5.5 build an experimental plugins just to try out the hook and it came up with a bunch of friction points in the design. This release addresses those, which should make building additional chart…",
+    "ref": "news:c91c032e5231"
+   },
+   {
+    "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+    "text": "464 points · 170 commentaires",
+    "ref": "news:bcf32450cab1"
+   },
+   {
+    "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+    "text": "68 points · 27 commentaires",
+    "ref": "news:60fe99fe03e0"
+   },
+   {
+    "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+    "text": "81 points · 34 commentaires",
+    "ref": "news:42792ea1ec91"
+   }
+  ],
+  "generated": false
+ },
+ "tldr_en": {
+  "headline": "Today's headlines",
+  "points": [
+   {
+    "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+    "text": "191 points · 138 commentaires",
+    "ref": "news:4e825df2be8b"
+   },
+   {
+    "title": "datasette-charts 0.4a0",
+    "text": "Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet. I had Claude Opus 5.5 build an experimental plugins just to try out the hook and it came up with a bunch of friction points in the design. This release addresses those, which should make building additional chart…",
+    "ref": "news:c91c032e5231"
+   },
+   {
+    "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+    "text": "464 points · 170 commentaires",
+    "ref": "news:bcf32450cab1"
+   },
+   {
+    "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+    "text": "68 points · 27 commentaires",
+    "ref": "news:60fe99fe03e0"
+   },
+   {
+    "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+    "text": "81 points · 34 commentaires",
+    "ref": "news:42792ea1ec91"
+   }
+  ],
+  "generated": false
+ },
+ "news": [
+  {
+   "id": "4e825df2be8b",
+   "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+   "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+   "source": "Hacker News",
+   "published": "2026-11-28T01:32:56+00:00",
+   "summary": "191 points · 138 commentaires",
+   "image": null,
+   "signal": 191,
+   "discussion": "https://news.ycombinator.com/item?id=50673521",
+   "score": 3.63,
+   "also": []
+  },
+  {
+   "id": "c91c032e5231",
+   "title": "datasette-charts 0.4a0",
+   "url": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+   "source": "Simon Willison",
+   "published": "2026-11-27T23:57:17+00:00",
+   "summary": "Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anything yet. I had Claude Opus 5.5 build an experimental plugins just to try out the hook and it came up with a bunch of friction points in the design. This release addresses those, which should make building additional chart…",
+   "image": null,
+   "signal": 0,
+   "score": -0.65,
+   "also": []
+  },
+  {
+   "id": "bcf32450cab1",
+   "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+   "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+   "source": "Hacker News",
+   "published": "2026-11-27T23:06:29+00:00",
+   "summary": "464 points · 170 commentaires",
+   "image": null,
+   "signal": 464,
+   "discussion": "https://news.ycombinator.com/item?id=50672565",
+   "score": 4.22,
+   "also": []
+  },
+  {
+   "id": "60fe99fe03e0",
+   "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+   "url": "https://sessiongraph.ai/",
+   "source": "Hacker News",
+   "published": "2026-11-27T21:07:34+00:00",
+   "summary": "68 points · 27 commentaires",
+   "image": null,
+   "signal": 68,
+   "discussion": "https://news.ycombinator.com/item?id=50671651",
+   "score": 4.09,
+   "also": []
+  },
+  {
+   "id": "42792ea1ec91",
+   "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+   "url": "https://github.com/skeeto/prospero",
+   "source": "Hacker News",
+   "published": "2026-11-27T20:23:14+00:00",
+   "summary": "81 points · 34 commentaires",
+   "image": null,
+   "signal": 81,
+   "discussion": "https://news.ycombinator.com/item?id=50671275",
+   "score": 2.69,
+   "also": []
+  },
+  {
+   "id": "6acd918e3339",
+   "title": "Michael Nielsen took down his book on neural nets",
+   "url": "https://neuralnetworksanddeeplearning.com/",
+   "source": "Hacker News",
+   "published": "2026-11-27T19:31:01+00:00",
+   "summary": "578 points · 373 commentaires",
+   "image": null,
+   "signal": 578,
+   "discussion": "https://news.ycombinator.com/item?id=50670757",
+   "score": 4.21,
+   "also": []
+  },
+  {
+   "id": "f21d90605390",
+   "title": "I'm Scared of AI",
+   "url": "https://thesoapbox.email/archive/3",
+   "source": "Hacker News",
+   "published": "2026-11-27T17:45:31+00:00",
+   "summary": "216 points · 247 commentaires",
+   "image": null,
+   "signal": 216,
+   "discussion": "https://news.ycombinator.com/item?id=50669561",
+   "score": 3.34,
+   "also": []
+  },
+  {
+   "id": "01cdd83d3c55",
+   "title": "GPT 6.2 Astra solves a historical mystery",
+   "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+   "source": "Hacker News",
+   "published": "2026-11-27T15:03:17+00:00",
+   "summary": "167 points · 1 commentaires",
+   "image": null,
+   "signal": 167,
+   "discussion": "https://news.ycombinator.com/item?id=50667744",
+   "score": 3.0,
+   "also": []
+  },
+  {
+   "id": "24644713102c",
+   "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+   "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+   "source": "The Verge",
+   "published": "2026-11-27T14:00:00+00:00",
+   "summary": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and [&#8230;]",
+   "image": null,
+   "signal": 0,
+   "score": -1.15,
+   "also": []
+  }
+ ],
+ "videos": [
+  {
+   "id": "u6UYsl-KEoc",
+   "title": "DeepMind’s New AI Just Changed The AI Race",
+   "url": "https://www.youtube.com/watch?v=u6UYsl-KEoc",
+   "channel": "Two Minute Papers",
+   "published": "2026-11-27T08:42:30+00:00",
+   "thumbnail": "https://i2.ytimg.com/vi/u6UYsl-KEoc/hqdefault.jpg",
+   "views": 187498,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The security report is available here: https://storage.googleapis.com/deepmind-media/gemini/gemini_4_neon_safety_report.pdf Sources:…",
+   "relevance": 0
+  },
+  {
+   "id": "hwWlEuI359w",
+   "title": "Claude AI’s Biggest Math Breakthrough Has A Problem.",
+   "url": "https://www.youtube.com/watch?v=hwWlEuI359w",
+   "channel": "Two Minute Papers",
+   "published": "2026-11-25T09:54:23+00:00",
+   "thumbnail": "https://i1.ytimg.com/vi/hwWlEuI359w/hqdefault.jpg",
+   "views": 171040,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://nasqret.github.io/riemann-rev/guide/proof-guide.pdf https://alpo.ge/remark.pdf Compression and…",
+   "relevance": 0
+  },
+  {
+   "id": "K8rdrWQRd20",
+   "title": "How AI is finding the hidden rules of the human brain",
+   "url": "https://www.youtube.com/watch?v=K8rdrWQRd20",
+   "channel": "Google DeepMind",
+   "published": "2026-11-24T17:51:08+00:00",
+   "thumbnail": "https://i4.ytimg.com/vi/K8rdrWQRd20/hqdefault.jpg",
+   "views": 96986,
+   "description": "The human brain remains one of the greatest unsolved mysteries in science. We have roughly 86 billion neurons firing in a way that somehow produces intelligence, and yet the brain is still largely a black box. In the…",
+   "relevance": 0
+  }
+ ],
+ "papers": [
+  {
+   "id": "2611.34051",
+   "title": "Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability",
+   "authors": "Xichong Zhang, Xixuan Hao, Zhichen Liu, Le Zhou et al.",
+   "abstract": "Linear attention offers an efficient solution for long-sequence modeling via linear complexity and fixed-size recurrent states. Gated DeltaNet-2 (GDN-2) introduces independent channel-wise control over erasure and writing, enhancing state-update expressiveness and in-context retrieval, yet it suffers from training failures during long-context training. We trace these failures to the asymmetry between reading and modification directions during erasure, which yields non-normal erase operators whose directional gains accumulate across tokens, triggering exponential state growth even without new writes. To resolve this, we propose , employing symmetric erasure to ensure non-expansive state propagation and decay-regulated residual writing to preserve writing flexibility. Theoretically, we establish an O(T) upper bound on recurrent state growth while retaining chunkwise parallel computation. Experiments on ~1.6B parameter models show that achieves stable training alongside improved long-context retrieval. Compared to GDN-2, it boosts the 128K average RULER score by 6.80 points in the…",
+   "published": "2026-11-25T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.34051",
+   "pdf": "https://arxiv.org/pdf/2611.34051",
+   "upvotes": 134,
+   "github": null,
+   "origin": "hf",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.34232",
+   "title": "OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms",
+   "authors": "Hui Shen, Yunta Hsieh, Jianing Ma, Zhuoran Yin et al.",
+   "abstract": "Computer-using agents are increasingly expected to complete realistic user goals rather than isolated GUI actions. However, existing benchmarks typically isolate web, mobile, or desktop environments, leaving it unclear whether a single generalist agent can execute long-horizon workflows that span multiple operating systems and persistent application states. We introduce OS-Omni, a live cross-platform benchmark and execution environment for evaluating computer-using agents across Windows, Ubuntu, macOS, iOS, Android, and Web environments. OS-Omni is released in versioned waves of 300 tasks each; this paper focuses on the first release, v1, which contains 48 tasks per platform and 12 cross-platform workflows that pair a desktop with an Android phone. OS-Omni provides reproducible initialization, platform-specific adapters, trajectory logging, and executable final-state evaluators, and includes controlled service-backed applications for workflows involving account, cart, budget, calendar, message, and other persistent state. Human studies show that OS-Omni tasks require 67.54…",
+   "published": "2026-11-25T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.34232",
+   "pdf": "https://arxiv.org/pdf/2611.34232",
+   "upvotes": 111,
+   "github": "https://github.com/OS-Copilot/OS-Omni",
+   "origin": "hf",
+   "ai_summary": "A live cross-platform benchmark evaluates computer-using agents on long-horizon workflows across Windows, Ubuntu, macOS, iOS, Android, and Web, showing that current agents remain far from platform-robust computer use and trail humans on iOS and macOS.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.34575",
+   "title": "Sage-Med: Scaling Medical Multimodal Intelligence",
+   "authors": "Med Team, Ming Hu, Cheng Tang, Wei Li et al.",
+   "abstract": "Establishing effective scaling laws for medical multimodal large language models (MLLMs) remains a persistent and fundamental challenge. Our systematic evaluation shows that existing medical MLLMs tend to underperform frontier general-purpose MLLMs across a range of medical tasks, while scaling model size primarily improves text capabilities rather than multimodal perception, and enabling reasoning modes fails to close this visual gap. To investigate how medical multimodal intelligence scales in practice, we introduce Sage-Med-Preview, a 35B-parameter medical multimodal model with 3B activated parameters, built by combining stage-specific curation over 322.7 million candidate records with a progressive training curriculum spanning medical pretraining, staged supervised fine-tuning, and adaptive reinforcement learning. Across this curriculum, progressive supervised refinement and adaptive reinforcement learning yield consistent stage-wise gains, substantially advancing both specialized visual understanding and medical language capabilities. Evaluated against 77 competing models…",
+   "published": "2026-11-25T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.34575",
+   "pdf": "https://arxiv.org/pdf/2611.34575",
+   "upvotes": 82,
+   "github": "https://github.com/Sage-Med/Sage-Med-Preview",
+   "origin": "hf",
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.34923",
+   "title": "Mixture-of-Loops Transformer",
+   "authors": "Lianghui Zhu, Shijie Wang, Xinggang Wang, Jinze Bai et al.",
+   "abstract": "Looped Transformers boost expressivity by reusing shared layers across loops, yet at the cost of efficiency. Pushing their expressivity-efficiency frontier requires rethinking the core mechanism connecting adjacent loops: What should be passed as a Transformer loops? We introduce Mixture-of-Loops Transformer (MoLT), whose Mixture-of-Loops Attention (MoLA) uses keys and values (KV) as memory for selective reuse across depths and loops. Under loop residual, MoLT-R retains the residual stream and reads local KV across loops for expressivity. Under loop KV, MoLT-KV instead restarts from embeddings and reads current-loop local KV with preceding-loop memory KV at earlier positions for efficiency. MoLT-KV eliminates same-position cross-loop dependence and, paired with loop forcing for parallel training, unlocks single-traversal Mixture-of-Loops (MoL) decoding beyond the training loop horizon. To balance efficiency and quality, we introduce U-shaped MoLT (U-MoLT), which separates memory construction from prediction readout and skips unused decoder traversals without changing predictions. In…",
+   "published": "2026-11-25T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.34923",
+   "pdf": "https://arxiv.org/pdf/2611.34923",
+   "upvotes": 76,
+   "github": "https://github.com/hustvl/MoLT",
+   "origin": "hf",
+   "ai_summary": "A Mixture-of-Loops Transformer reuses key-value memory across loops and depths, and its U-shaped variant improves pretraining efficiency and inference latency.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.30844",
+   "title": "DyLoMo-DiT: Dynamic Looped Mixture-of-Experts Diffusion Transformers",
+   "authors": "Lernie Li, Yuanliu Liu, Pengfei Xiong, Wei Zhang",
+   "abstract": "Diffusion Transformers (DiTs) scale model capacity by increasing both parameter count and computation. Mixture-of-Experts (MoE) variants expand parameter capacity while keeping per-token computation roughly fixed, but still require substantial parameter storage. In this paper, we propose Dynamic Looped MoE DiT (DyLoMo-DiT), which reuses parameters rather than adding them: a weight-shared loop repeatedly applies the middle layers, while sparse experts allocate parameter capacity across tokens. This design deepens the network without adding parameters, freeing the parameter budget for other uses, such as more experts or more distinct layers. It also allocates compute dynamically, varying the number of passes across noise levels. Experiments show that DyLoMo-DiT makes more effective use of parameter and compute budgets, with further gains from assigning more passes to low-noise steps. On ImageNet 256times256, DyLoMo-DiT reduces FID by 11-24% relative to DiT and 36-56% relative to DiT-MoE at matched parameter and compute budgets. For text-to-image generation, a scaled DyLoMo-DiT…",
+   "published": "2026-11-23T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.30844",
+   "pdf": "https://arxiv.org/pdf/2611.30844",
+   "upvotes": 73,
+   "github": "https://github.com/OneBoxCream/DyLoMo-DiT",
+   "origin": "hf",
+   "ai_summary": "A dynamic looped mixture-of-experts diffusion transformer reuses shared parameters and varies compute across noise levels, improving image generation quality under matched budgets.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.34813",
+   "title": "Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models",
+   "authors": "Dezhi Luo, Fengyuan Yu, Haotian Zhang, Zehong Zhao et al.",
+   "abstract": "Video generation models are increasingly evaluated as visual reasoners: given a first frame and a natural-language prompt, can the model produce the video in which the specified task is carried out? The paradigm is considered advantageous because the reasoning is native to the visual medium, unfolding directly in the frames rather than through language or code. Whether this native route is in fact the more reliable path to visual reasoning has not been tested against a symbolic alternative under the same conditions. We therefore pose the same tasks, with identical inputs, output specification and evaluator, to both media: rather than denoising pixels, a coding agent writes a program that renders the answer video, which an unmodified rule-based evaluator scores. On VBVR-Pro-Bench (Xu et al., 2026), a 500-instance suite spanning five cognitive categories with symbolic ground truth, the agent receives the same first frame and prompt as the video model, with no access to ground truth, metadata or generation models, and one attempt per instance. Three closed-model agents (Codex with…",
+   "published": "2026-11-25T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.34813",
+   "pdf": "https://arxiv.org/pdf/2611.34813",
+   "upvotes": 61,
+   "github": null,
+   "origin": "hf",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.31619",
+   "title": "What a Forecasting Leaderboard Can Establish: Resolution Reporting for Zero-Shot Time-Series Models",
+   "authors": "Arya Sikder, Sriram Pillutla",
+   "abstract": "A foundation model for time series is pretrained once and then asked to forecast series it has never seen, so the evidence for it is its score on held-out datasets. Such datasets are scarce, and a few public leaderboards carry most comparisons, yet none of them states how small a difference its datasets can detect. We call that quantity the resolution of a board and introduce Vernier, a tool that computes it from the files a board already publishes. Vernier also reports which entries a board cannot separate from its leader and whether its order changes when unrelated parties submit. GIFT-Eval resolves 6.8 rank places, and its displayed neighbours sit 0.91 apart. The ten places of its top ten hold fewer than two resolvable steps. fev-bench, Chronos Benchmark II and TIME show the same pattern: their resolution is 3.6 to 19 times the gap between neighbours. With each of its 2,554 series as an independent source, BOOM is the one board that resolves its top ten. Below the resolution the order depends on who else submitted: across four boards, rules that rank against the pool reversed 43…",
+   "published": "2026-11-23T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.31619",
+   "pdf": "https://arxiv.org/pdf/2611.31619",
+   "upvotes": 58,
+   "github": "https://github.com/therealram18/vernier",
+   "origin": "hf",
+   "ai_summary": "A tool called Vernier measures the smallest score difference a time-series forecasting leaderboard can distinguish, showing that most boards cannot separate top entries and that ranking order can change with pool composition.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.34237",
+   "title": "VibeVideoAgent: Closing the Perceptual Loop for Code-Driven Video Generation",
+   "authors": "Xuanyu Zheng, Luoyuan Zhang, Yancheng Long, Haoyang Xu et al.",
+   "abstract": "Code-driven video generation asks a coding agent to write and run rendering programs. This gives exact control over typography, data visualizations, synchronized audio, and multi-shot scenes, and it leaves an editable project behind. A program that exits cleanly can still render overlapping labels, a camera aimed away from its subject, broken object interactions, or narration that drifts out of sync, and none of these raise a runtime error. Feeding rendered frames and audio back into the coding session bloats its long-horizon context, while critiquing only the finished full-resolution render turns early design mistakes into costly rewrites. We introduce VibeVideoAgent, a training-free framework that lets coding agents inspect their drafts throughout production. Multimodal perception runs in short-lived contexts kept apart from the coder and returns compact, grounded Findings. Seven primitives operate on a unified multi-clock representation of assets and drafts: they explore media from coarse to fine, verify quoted requirements with evidence from every required modality, compare a…",
+   "published": "2026-11-25T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.34237",
+   "pdf": "https://arxiv.org/pdf/2611.34237",
+   "upvotes": 58,
+   "github": "https://github.com/Kling-Keye/VibeVideoAgent",
+   "origin": "hf",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.31358",
+   "title": "Nemotron-Labs-VisualCreation: Pixel as Code for Agentic Visual Creation",
+   "authors": "Guo Chen, Fuxiao Liu, Haoqin Tu, Yiyang Zhou et al.",
+   "abstract": "Visual creation demands expressive imagery together with precise control over text, layout, and structure. We introduce Nemotron-Labs-VisualCreation, an agentic framework that connects these capabilities through Pixel as Code. Raster images are represented by learned discrete visual tokens, while structured artifacts use explicit programs. A shared generation-and-rendering interface connects these representations to visual feedback across images, vector graphics, webpages, and documents. A Nemotron-native harness coordinates planning and raster candidate selection, with targeted repair for editable structured and hybrid artifacts. To support this interface, we develop Nemotron-Labs-Image-Tokenizer, the autoregressive raster generator Nemotron-Labs-Image-30B-A3B, and the structured-code model family Nemotron-Labs-VisionCode. On approximately 178K images spanning six visual domains, our tokenizer improves reconstruction PSNR from 26.08 to 29.57 dB over Emu3.5 IBQ. It also provides 7.13x faster encoding and 10.93x faster decoding at batch size one on A100. In standalone evaluation, one…",
+   "published": "2026-11-23T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.31358",
+   "pdf": "https://arxiv.org/pdf/2611.31358",
+   "upvotes": 56,
+   "github": null,
+   "origin": "hf",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.34941",
+   "title": "Improving and Expanding Video Editing Capabilities Without Videos",
+   "authors": "Ji Xie, Yanhao Jia, Xiangpeng Yang, Martin Q. Ma et al.",
+   "abstract": "Image editing models can follow a wide range of instructions, but video editing models still lag behind, limited in part by the difficulty of collecting paired source and edited videos. Is it possible to transfer advanced image editing capabilities to video editors without new paired videos? We introduce Image-to-Video Transfer (I2VT), which improves pretrained video editors and expands them to new editing tasks using an image editor. It enables efficient post-training with no architectural changes and no new videos, using only individual images. Our key idea is to let the video editor role-play as an image editor: it edits an image as a one-frame video, with the image editor guiding the video editor's predictions at each denoising step. Although the video editor sees only single images during training, at test time it applies the improved and expanded capabilities to whole video clips while preserving temporal consistency. To push the boundaries of video editing, we introduce OpenVE++, an extension of OpenVE-Bench that adds four new editing tasks useful for video production,…",
+   "published": "2026-11-25T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.34941",
+   "pdf": "https://arxiv.org/pdf/2611.34941",
+   "upvotes": 47,
+   "github": "https://github.com/HorizonWind2004/i2v-transfer",
+   "origin": "hf",
+   "ai_summary": "Image-to-Video Transfer improves pretrained video editors by training them as image editors on single images, enabling new video editing tasks and state-of-the-art results on OpenVE-Bench and OpenVE++.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.34750",
+   "title": "SOLVE: Sparse, Ordered Keyposes Make LLM Agents Versatile and Efficient Robot Manipulator",
+   "authors": "Xiang Li, Hongyu Zhou, Ya-Li Li, Tao Li et al.",
+   "abstract": "LLM agents have made remarkable progress in robot manipulation, yet they suffer from expensive inference, dense step-by-step control, and tool bottlenecks. We introduce SOLVE, a training-free, versatile and efficient agent policy: a multimodal LLM agent writes a sparse, ordered sequence of 6-DoF end-effector keyposes per call, observes the result, and writes the next, while a motion planner interpolates between them. The agent decides the number and spacing of keyposes for both fast long-range motion and fine-grained manipulation. This granularity matches the sparsity of teleoperated manipulation: most demonstrations in DROID can be compressed into a few keyposes instead of dense actions. SOLVE grounds keyposes with sparse depth queries answered by noisy sources, such as multi-view triangulation, stereo, or monocular depth, and copes with that noise itself. It also improves from execution feedback, reflecting on its own rollouts and distilling a few rules per task. SOLVE reaches state-of-the-art performance of 74.5% on RoboDojo and 84.5% on RoboLab, with only $1.7 per episode on…",
+   "published": "2026-11-25T17:25:17Z",
+   "url": "https://arxiv.org/abs/2611.34750",
+   "pdf": "https://arxiv.org/pdf/2611.34750",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.RO",
+    "cs.CV"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.34943",
+   "title": "Tracking Any Point with Agentic Visual Reasoning",
+   "authors": "Xuweiyi Chen, Jin Yao, Linzhan Mou, Lei Gong et al.",
+   "abstract": "A general-purpose Vision-Language Model (VLM) has surpassed expert vision models in many domains such as object detection and video recognition. However, point correspondence is known to be challenging for VLMs since it goes beyond object-level recognition: it requires pixel-level localization of the same physical surface point across observations, even when appearance changes or the point disappears and later reappears. In this paper, we introduce AgenTAP, a VLM-based agent that directly predicts point coordinates and visibility and actively reasons over videos. Starting from its own estimate, the agent autonomously chooses what to inspect and uses the resulting evidence to verify point identity and refine its predictions. With GPT-6 Astra, it surpasses expert vision models in both point localization and visibility prediction, without correspondence-specific fine-tuning. We further use AgenTAP to re-identify physical points after disappearance and reconnect fragmented tracks, constructing EgoTAP-4D, a dataset of 3D point trajectories in long real-world egocentric videos. On sampled…",
+   "published": "2026-11-25T18:59:58Z",
+   "url": "https://arxiv.org/abs/2611.34943",
+   "pdf": "https://arxiv.org/pdf/2611.34943",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CV"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.34881",
+   "title": "Stranger Things: When Objects Appear Without Their Typical Neighbors",
+   "authors": "Siddhartha Gairola, Jiahao Xie, Anna Kukleva, Francesco Locatello et al.",
+   "abstract": "Visual context is a powerful cue for object recognition: scenes inform what, where, and at what scale objects are likely to appear. Yet over-reliance on context becomes a failure mode when models predict objects based on their typical neighbors rather than the objects' own visual features, which we call typicality bias. While extensively studied in the pre-Transformer era, it has often been assumed that architectural and scale improvements would naturally solve it, and a systematic diagnostic across the modern vision stack remains absent. We provide such a diagnostic framework. We measure typicality bias via normalized pointwise mutual information (NPMI) over object pairs, and introduce STRANGE-Bench (Synthetic Typicality-RANked Grounded Evaluation Benchmark): a photorealistic, layout-controlled benchmark spanning 17 sub-tiers from typical to never-co-occurring object pairs. Across five model families (specialist detectors, open-vocabulary detectors, self-supervised, vision-language, and multimodal large language models) and three recognition tasks (supervised detection,…",
+   "published": "2026-11-25T18:39:28Z",
+   "url": "https://arxiv.org/abs/2611.34881",
+   "pdf": "https://arxiv.org/pdf/2611.34881",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CV",
+    "cs.LG"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.34811",
+   "title": "HOG-WAM: Improving Visual Robustness through Future Gradient Prediction",
+   "authors": "Boxuan Dong, Yupeng Qian, Ying Wu, Heshuai Li et al.",
+   "abstract": "World-action models jointly predict future observations and actions, yet visual corruption can disrupt the resulting policies. We introduce HOG-WAM, which adds future Histograms of Oriented Gradients (HOG) as structural supervision derived directly from demonstration images. An auxiliary HOG diffusion transformer (DiT) module reads RGB features through asymmetric attention, allowing its objective to shape the visual representation used for control. The module is used only during training and removed at inference, preserving FastWAM's RGB-to-action architecture. We evaluate four controlled observation corruptions through a visual-corruption extension of RoboTwin, termed RoboTwin-Plus; HOG-WAM achieves the highest success among the compared policies under all four. Mixed-noise success increases from 78.86% to 82.86% relative to FastWAM, with comparable performance on clean scenes. On LIBERO Plus, overall success increases from 74.49% to 75.26%, with the largest gain under sensor noise, from 74.14% to 78.89%. Across four Franka tasks, average success increases from 40% to 59% under…",
+   "published": "2026-11-25T17:59:24Z",
+   "url": "https://arxiv.org/abs/2611.34811",
+   "pdf": "https://arxiv.org/pdf/2611.34811",
+   "upvotes": 0,
+   "github": "https://github.com/iPPLab/HOG-WAM",
+   "origin": "arxiv",
+   "categories": [
+    "cs.CV",
+    "cs.AI",
+    "cs.RO"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.34724",
+   "title": "LiDAR Intensity Reconstruction with Limited Real Data: An Architecture Benchmark under Fixed-Epoch Training",
+   "authors": "Christopher M. Coovrey, Aniruddha Bora",
+   "abstract": "Physics-derived simulation can supplement scarce real-world LiDAR intensity measurements, but its effectiveness depends on the learning architecture and the amount of real training data available. We benchmark nine neural architectures for LiDAR intensity reconstruction from depth, semantic labels, incidence angle, and material reflectance, using real SemanticKITTI and synthetic VoxelScape range-image data. All models follow a fixed 20-epoch protocol; this controls the number of training passes, not the computational cost across architectures. We report mean absolute error (MAE), mean squared error (MSE), peak signal-to-noise ratio (PSNR), structural similarity (SSIM), inference timing, and spectral-energy agreement. We also evaluate four selected architectures with fixed-size training mixtures containing 0\\%, 1\\%, 5\\%, 10\\%, 20\\%, 50\\%, or 100\\% real frames. With real-only training, UNet-V2 achieves the best reported reconstruction metrics (MAE 0.234, MSE 0.140, PSNR 8.64 dB, and SSIM 0.647), followed by a denoising diffusion model (DDPM). In several mixtures containing 1--10\\%…",
+   "published": "2026-11-25T17:10:43Z",
+   "url": "https://arxiv.org/abs/2611.34724",
+   "pdf": "https://arxiv.org/pdf/2611.34724",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CV",
+    "cs.LG"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "classics": [
+  {
+   "id": "2412.03603",
+   "title": "HunyuanVideo: A Systematic Framework For Large Video Generative Models",
+   "year": 2024,
+   "authors": "Wei-Jie Kong, Qi Tian, Zi-Jian Zhang et al.",
+   "abstract": "Recent advancements in video generation have significantly impacted daily life for both individuals and industries. However, the leading video generation models remain closed-source, resulting in a notable performance gap between industry capabilities and those available to the public. In this report, we introduce HunyuanVideo, an innovative open-source video foundation model that demonstrates performance in video generation comparable to, or even surpassing, that of leading closed-source models. HunyuanVideo encompasses a comprehensive framework that integrates several key elements, including data curation, advanced architectural design, progressive model scaling and training, and an…",
+   "citations": 1978,
+   "url": "https://arxiv.org/abs/2412.03603",
+   "cited_by": [
+    "Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models",
+    "VibeVideoAgent: Closing the Perceptual Loop for Code-Driven Video Generation",
+    "Improving and Expanding Video Editing Capabilities Without Videos"
+   ],
+   "why": "Cité par 3 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2408.06072",
+   "title": "CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer",
+   "year": 2024,
+   "authors": "Zhuo-Yi Yang, Jia-Yan Teng, Wen-Di Zheng et al.",
+   "abstract": "We present CogVideoX, a large-scale text-to-video generation model based on diffusion transformer, which can generate 10-second continuous videos aligned with text prompt, with a frame rate of 16 fps and resolution of 768 * 1360 pixels. Previous video generation models often had limited movement and short durations, and is difficult to generate videos with coherent narratives based on text. We propose several designs to address these issues. First, we propose a 3D Variational Autoencoder (VAE) to compress videos along both spatial and temporal dimensions, to improve both compression rate and video fidelity. Second, to improve the text-video alignment, we propose an expert transformer with…",
+   "citations": 2808,
+   "url": "https://arxiv.org/abs/2408.06072",
+   "cited_by": [
+    "VibeVideoAgent: Closing the Perceptual Loop for Code-Driven Video Generation",
+    "Improving and Expanding Video Editing Capabilities Without Videos"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2303.08128",
+   "title": "ViperGPT: Visual Inference via Python Execution for Reasoning",
+   "year": 2023,
+   "authors": "Dídac Surís, Sachit Menon, Carl Vondrick",
+   "abstract": "Answering visual queries is a complex task that requires both visual processing and reasoning. End-to-end models, the dominant approach for this task, do not explicitly differentiate between the two, limiting interpretability and generalization. Learning modular programs presents a promising alternative, but has proven challenging due to the difficulty of learning both the programs and modules simultaneously. We introduce ${\\color{green}{\\text{ViperGPT}}}$, a framework that leverages code-generation models to compose vision-and-language models into subroutines to produce a result for any query. ${\\color{green}{\\text{ViperGPT}}}$ utilizes a provided API to access the available modules, and…",
+   "citations": 1004,
+   "url": "https://arxiv.org/abs/2303.08128",
+   "cited_by": [
+    "Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models",
+    "VibeVideoAgent: Closing the Perceptual Loop for Code-Driven Video Generation"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2211.11559",
+   "title": "Visual Programming: Compositional visual reasoning without training",
+   "year": 2022,
+   "authors": "Tanmay Gupta, Aniruddha Kembhavi",
+   "abstract": "We present Visprog, a neuro-symbolic approach to solving complex and compositional visual tasks given natural language instructions. Visprog avoids the need for any task-specific training. Instead, it uses the incontext learning ability of large language models to generate python-like modular programs, which are then executed to get both the solution and a comprehensive and interpretable rationale. Each line of the generated program may invoke one of several off-the-shelf computer vision models, image processing subroutines, or python functions to produce intermediate outputs that may be consumed by subsequent parts of the program. We demonstrate the flexibility of VIsPROG on 4 diverse…",
+   "citations": 871,
+   "url": "https://arxiv.org/abs/2211.11559",
+   "cited_by": [
+    "Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models",
+    "VibeVideoAgent: Closing the Perceptual Loop for Code-Driven Video Generation"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2406.09403",
+   "title": "Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models",
+   "year": 2024,
+   "authors": "Yushi Hu, Weijia Shi, Xingyu Fu et al.",
+   "abstract": "Humans draw to facilitate reasoning: we draw auxiliary lines when solving geometry problems; we mark and circle when reasoning on maps; we use sketches to amplify our ideas and relieve our limited-capacity working memory. However, such actions are missing in current multimodal language models (LMs). Current chain-of-thought and tool-use paradigms only use text as intermediate reasoning steps. In this work, we introduce Sketchpad, a framework that gives multimodal LMs a visual sketchpad and tools to draw on the sketchpad. The LM conducts planning and reasoning according to the visual artifacts it has drawn. Different from prior work, which uses text-to-image models to enable LMs to draw,…",
+   "citations": 443,
+   "url": "https://arxiv.org/abs/2406.09403",
+   "cited_by": [
+    "Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models",
+    "VibeVideoAgent: Closing the Perceptual Loop for Code-Driven Video Generation"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1405.0312",
+   "title": "Microsoft COCO: Common Objects in Context",
+   "year": 2014,
+   "authors": "Tsung-Yi Lin, M. Maire, Serge J. Belongie et al.",
+   "abstract": "We present a new dataset with the goal of advancing the state-of-the-art in object recognition by placing the question of object recognition in the context of the broader question of scene understanding. This is achieved by gathering images of complex everyday scenes containing common objects in their natural context. Objects are labeled using per-instance segmentations to aid in precise object localization. Our dataset contains photos of 91 objects types that would be easily recognizable by a 4 year old. With a total of 2.5 million labeled instances in 328k images, the creation of our dataset drew upon extensive crowd worker involvement via novel user interfaces for category detection,…",
+   "citations": 58238,
+   "url": "https://arxiv.org/abs/1405.0312",
+   "cited_by": [
+    "DyLoMo-DiT: Dynamic Looped Mixture-of-Experts Diffusion Transformers"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1910.10683",
+   "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+   "year": 2019,
+   "authors": "Colin A. Raffel, Noam Shazeer, Adam Roberts et al.",
+   "abstract": "Transfer learning, where a model is first pre-trained on a data-rich task before being fine-tuned on a downstream task, has emerged as a powerful technique in natural language processing (NLP). The effectiveness of transfer learning has given rise to a diversity of approaches, methodology, and practice. In this paper, we explore the landscape of transfer learning techniques for NLP by introducing a unified framework that converts every language problem into a text-to-text format. Our systematic study compares pre-training objectives, architectures, unlabeled datasets, transfer approaches, and other factors on dozens of language understanding tasks. By combining the insights from our…",
+   "citations": 28627,
+   "url": "https://arxiv.org/abs/1910.10683",
+   "cited_by": [
+    "Mixture-of-Loops Transformer"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2106.09685",
+   "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+   "year": 2021,
+   "authors": "J. Hu, Ye-Long Shen, Phillip Wallis et al.",
+   "abstract": "An important paradigm of natural language processing consists of large-scale pre-training on general domain data and adaptation to particular tasks or domains. As we pre-train larger models, full fine-tuning, which retrains all model parameters, becomes less feasible. Using GPT-3 175B as an example -- deploying independent instances of fine-tuned models, each with 175B parameters, is prohibitively expensive. We propose Low-Rank Adaptation, or LoRA, which freezes the pre-trained model weights and injects trainable rank decomposition matrices into each layer of the Transformer architecture, greatly reducing the number of trainable parameters for downstream tasks. Compared to GPT-3 175B…",
+   "citations": 26609,
+   "url": "https://arxiv.org/abs/2106.09685",
+   "cited_by": [
+    "Improving and Expanding Video Editing Capabilities Without Videos"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "stats": {
+  "raw_news": 9,
+  "stories": 9,
+  "videos": 3,
+  "papers": 15,
+  "classics": 8,
+  "seconds": 351
+ }
+}

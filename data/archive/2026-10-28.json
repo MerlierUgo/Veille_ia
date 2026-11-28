@@ -1,0 +1,823 @@
+{
+ "generated_at": "2026-10-28T09:43:25.337524+00:00",
+ "date": "2026-10-28",
+ "tldr": {
+  "headline": "Les titres du jour",
+  "points": [
+   {
+    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+    "text": "339 points · 140 commentaires",
+    "ref": "news:62b1fcdba263"
+   },
+   {
+    "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+    "text": "523 points · 274 commentaires",
+    "ref": "news:022826ad38b2"
+   },
+   {
+    "title": "AI promised less work. I've never worked more",
+    "text": "639 points · 630 commentaires",
+    "ref": "news:fc1a2e358b91"
+   },
+   {
+    "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+    "text": "371 points · 288 commentaires",
+    "ref": "news:099c4912233a"
+   },
+   {
+    "title": "Wikipedia's Cleanup of AI-Generated Content",
+    "text": "478 points · 217 commentaires",
+    "ref": "news:acb3a24ef951"
+   }
+  ],
+  "generated": false
+ },
+ "news": [
+  {
+   "id": "62b1fcdba263",
+   "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+   "url": "https://www.brangus.io/survival-llm",
+   "source": "Hacker News",
+   "published": "2026-10-27T19:55:06+00:00",
+   "summary": "339 points · 140 commentaires",
+   "image": null,
+   "signal": 339,
+   "discussion": "https://news.ycombinator.com/item?id=50264853",
+   "score": 5.48,
+   "also": []
+  },
+  {
+   "id": "022826ad38b2",
+   "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+   "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+   "source": "Hacker News",
+   "published": "2026-10-27T15:28:26+00:00",
+   "summary": "523 points · 274 commentaires",
+   "image": null,
+   "signal": 523,
+   "discussion": "https://news.ycombinator.com/item?id=50260814",
+   "score": 4.1,
+   "also": []
+  },
+  {
+   "id": "fc1a2e358b91",
+   "title": "AI promised less work. I've never worked more",
+   "url": "https://oioannou.com/blog/ai-promised-less-work/",
+   "source": "Hacker News",
+   "published": "2026-10-27T11:08:14+00:00",
+   "summary": "639 points · 630 commentaires",
+   "image": null,
+   "signal": 639,
+   "discussion": "https://news.ycombinator.com/item?id=50257325",
+   "score": 4.05,
+   "also": []
+  },
+  {
+   "id": "099c4912233a",
+   "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+   "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+   "source": "Hacker News",
+   "published": "2026-10-27T16:40:15+00:00",
+   "summary": "371 points · 288 commentaires",
+   "image": null,
+   "signal": 371,
+   "discussion": "https://news.ycombinator.com/item?id=50261819",
+   "score": 3.89,
+   "also": []
+  },
+  {
+   "id": "acb3a24ef951",
+   "title": "Wikipedia's Cleanup of AI-Generated Content",
+   "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+   "source": "Hacker News",
+   "published": "2026-10-27T11:08:15+00:00",
+   "summary": "478 points · 217 commentaires",
+   "image": null,
+   "signal": 478,
+   "discussion": "https://news.ycombinator.com/item?id=50257326",
+   "score": 3.82,
+   "also": []
+  },
+  {
+   "id": "3203579cb639",
+   "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
+   "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+   "source": "Hacker News",
+   "published": "2026-10-27T10:27:50+00:00",
+   "summary": "470 points · 269 commentaires",
+   "image": null,
+   "signal": 470,
+   "discussion": "https://news.ycombinator.com/item?id=50256985",
+   "score": 3.77,
+   "also": []
+  },
+  {
+   "id": "a044912b52ff",
+   "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+   "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+   "source": "Hacker News",
+   "published": "2026-10-27T16:25:30+00:00",
+   "summary": "318 points · 245 commentaires",
+   "image": null,
+   "signal": 318,
+   "discussion": "https://news.ycombinator.com/item?id=50261589",
+   "score": 3.75,
+   "also": []
+  },
+  {
+   "id": "4cd4ee44e5c1",
+   "title": "There are now 5 inference providers for abliterated DeepSeek",
+   "url": "https://allmodels.io/llm/abliterated",
+   "source": "Hacker News",
+   "published": "2026-10-27T04:53:52+00:00",
+   "summary": "95 points · 119 commentaires",
+   "image": null,
+   "signal": 95,
+   "discussion": "https://news.ycombinator.com/item?id=50254836",
+   "score": 3.72,
+   "also": []
+  },
+  {
+   "id": "fdf27bf9960b",
+   "title": "Early progress on accelerating drug development with Claude",
+   "url": "https://www.anthropic.com/research/early-progress-drug-development",
+   "source": "Hacker News",
+   "published": "2026-10-27T20:50:42+00:00",
+   "summary": "223 points · 213 commentaires",
+   "image": null,
+   "signal": 223,
+   "discussion": "https://news.ycombinator.com/item?id=50265609",
+   "score": 3.69,
+   "also": []
+  },
+  {
+   "id": "eb967c2830c0",
+   "title": "The Mythical Man-Month in the Age of AI",
+   "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+   "source": "Hacker News",
+   "published": "2026-10-27T06:25:37+00:00",
+   "summary": "455 points · 330 commentaires",
+   "image": null,
+   "signal": 455,
+   "discussion": "https://news.ycombinator.com/item?id=50255298",
+   "score": 3.54,
+   "also": []
+  },
+  {
+   "id": "ca2621a1074d",
+   "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+   "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+   "source": "Hacker News",
+   "published": "2026-10-27T20:48:49+00:00",
+   "summary": "165 points · 87 commentaires",
+   "image": null,
+   "signal": 165,
+   "discussion": "https://news.ycombinator.com/item?id=50265594",
+   "score": 3.45,
+   "also": []
+  },
+  {
+   "id": "470e7f2ce2bd",
+   "title": "Is my data used for model training?",
+   "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
+   "source": "Hacker News",
+   "published": "2026-10-27T13:56:15+00:00",
+   "summary": "219 points · 105 commentaires",
+   "image": null,
+   "signal": 219,
+   "discussion": "https://news.ycombinator.com/item?id=50259406",
+   "score": 3.33,
+   "also": []
+  },
+  {
+   "id": "8af34d90d669",
+   "title": "Here be monsters: What do you still need to know when agents do the work?",
+   "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+   "source": "Hacker News",
+   "published": "2026-10-27T13:23:22+00:00",
+   "summary": "169 points · 94 commentaires",
+   "image": null,
+   "signal": 169,
+   "discussion": "https://news.ycombinator.com/item?id=50258868",
+   "score": 3.1,
+   "also": []
+  },
+  {
+   "id": "bfdba109b967",
+   "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+   "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+   "source": "Hacker News",
+   "published": "2026-10-26T22:41:48+00:00",
+   "summary": "179 points · 78 commentaires",
+   "image": null,
+   "signal": 179,
+   "discussion": "https://news.ycombinator.com/item?id=50252159",
+   "score": 2.41,
+   "also": []
+  },
+  {
+   "id": "0d6e34ee478c",
+   "title": "Exploring Next-Concept Modeling (NCM) & Transformer Interpretability: Repository of 20 Exploratory Studies & Controls [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xh3e7o/exploring_nextconcept_modeling_ncm_transformer/",
+   "source": "r/MachineLearning",
+   "published": "2026-10-27T20:13:07+00:00",
+   "summary": "Hi everyone, I wanted to share an open-source repo collecting 20 exploratory studies focused on Next-Concept Modeling (NCM), mechanistic interpretability (like IOI in GPT-2), and model controls. Link: https://github.com/Quantix-eng/ncm-experiment-notes This is an independent project documenting empirical experiments on how transformers process and edit internal features. No performance…",
+   "image": null,
+   "signal": 0,
+   "score": 2.33,
+   "also": []
+  },
+  {
+   "id": "d42fb1eb3362",
+   "title": "Retell uses OpenAI models to help power 100M monthly calls",
+   "url": "https://openai.com/index/retell-ai",
+   "source": "OpenAI",
+   "published": "2026-10-27T15:00:00+00:00",
+   "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+   "image": null,
+   "signal": 0,
+   "score": 2.07,
+   "also": []
+  },
+  {
+   "id": "4f0ceea9620b",
+   "title": "Understanding Transformer Autograd by Building It Manually in PyTorch [P]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xh1z1p/understanding_transformer_autograd_by_building_it/",
+   "source": "r/MachineLearning",
+   "published": "2026-10-27T19:20:08+00:00",
+   "summary": "I’ve uploaded a minimal, self-contained implementation of manual autograd for a transformer-based classifier in PyTorch. It can help build intuition for what autograd is doing under the hood and is a useful hands-on reference for low-level differentiation in Transformer models, such as writing custom backward passes and tracing how gradients flow through attention blocks. 🐙 GitHub:…",
+   "image": null,
+   "signal": 0,
+   "score": 0.79,
+   "also": []
+  },
+  {
+   "id": "db98bf59a6c7",
+   "title": "Build specialized multimodal models with LFM3",
+   "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+   "source": "Hugging Face",
+   "published": "2026-10-27T17:16:52+00:00",
+   "summary": "",
+   "image": null,
+   "signal": 0,
+   "score": 0.68,
+   "also": []
+  },
+  {
+   "id": "281b53dcfc89",
+   "title": "Ψ-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xgwq9u/ψ06_adaptive_streams_of_thought_in_a_unified/",
+   "source": "r/MachineLearning",
+   "published": "2026-10-27T16:09:42+00:00",
+   "summary": "Chain-of-thought transformed AI reasoning, but it is limited to words. What's the physical-world analogue? Introducing Ψ-0.6, one model that reasons in *streams of thought*: words, depth, motion, camera pose, and imagined scenes. And it learns when to use which! Ψ-0.6 surpasses leading open-weight models on complex spatial reasoning (MindCube, zero-shot). On FlowBench, it outperforms other world…",
+   "image": "https://preview.redd.it/r5eoct1ja1yh1.gif?width=640&crop=smart&s=c4c2a007ac44df57b60669b8df8c8b40f62568cc",
+   "signal": 0,
+   "score": 0.63,
+   "also": []
+  },
+  {
+   "id": "3b8b6d460b5a",
+   "title": "What to do with my paper, for MLsys conference? [R]",
+   "url": "https://www.reddit.com/r/MachineLearning/comments/1xguzyz/what_to_do_with_my_paper_for_mlsys_conference_r/",
+   "source": "r/MachineLearning",
+   "published": "2026-10-27T15:05:38+00:00",
+   "summary": "For my master’s thesis I built an accelerator for diffusion-based action generation in robotics policies. Offline, it looks great: the median absolute deviation between the accelerated output and the original model’s output is extremely small, so I concluded it reproduces the model’s behavior faithfully. When I deployed it on a real robot for a task (picking up a book and placing it on a shelf),…",
+   "image": null,
+   "signal": 0,
+   "score": 0.58,
+   "also": []
+  },
+  {
+   "id": "a878112837ec",
+   "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+   "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+   "source": "TechCrunch",
+   "published": "2026-10-27T13:00:00+00:00",
+   "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+   "image": null,
+   "signal": 0,
+   "score": 0.47,
+   "also": []
+  },
+  {
+   "id": "858bf7d244f3",
+   "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+   "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+   "source": "TechCrunch",
+   "published": "2026-10-27T02:00:00+00:00",
+   "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+   "image": null,
+   "signal": 0,
+   "score": -0.08,
+   "also": []
+  },
+  {
+   "id": "51b6dc021077",
+   "title": "GPT-6.1 Terra",
+   "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+   "source": "Simon Willison",
+   "published": "2026-10-26T23:53:07+00:00",
+   "summary": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6…",
+   "image": null,
+   "signal": 0,
+   "score": -0.18,
+   "also": []
+  },
+  {
+   "id": "0a7119608b55",
+   "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+   "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+   "source": "TechCrunch",
+   "published": "2026-10-28T01:15:28+00:00",
+   "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+   "image": null,
+   "signal": 0,
+   "score": -0.42,
+   "also": []
+  },
+  {
+   "id": "6210b5315dda",
+   "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+   "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+   "source": "TechCrunch",
+   "published": "2026-10-27T23:34:27+00:00",
+   "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+   "image": null,
+   "signal": 0,
+   "score": -0.5,
+   "also": []
+  },
+  {
+   "id": "1f592db8b086",
+   "title": "The data center boom has an upside: innovation for the US grid",
+   "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+   "source": "TechCrunch",
+   "published": "2026-10-27T22:55:41+00:00",
+   "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+   "image": null,
+   "signal": 0,
+   "score": -0.53,
+   "also": []
+  },
+  {
+   "id": "f45c20f72906",
+   "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+   "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+   "source": "TechCrunch",
+   "published": "2026-10-27T21:44:34+00:00",
+   "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+   "image": null,
+   "signal": 0,
+   "score": -0.59,
+   "also": []
+  },
+  {
+   "id": "6849d36ab61f",
+   "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+   "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+   "source": "Ars Technica",
+   "published": "2026-10-27T21:50:04+00:00",
+   "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg",
+   "signal": 0,
+   "score": -0.59,
+   "also": []
+  },
+  {
+   "id": "a9a2cf8c96fe",
+   "title": "Who’s really in charge at Anthropic after the IPO?",
+   "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+   "source": "TechCrunch",
+   "published": "2026-10-27T21:38:28+00:00",
+   "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+   "image": null,
+   "signal": 0,
+   "score": -0.6,
+   "also": []
+  },
+  {
+   "id": "78aca7aaafb2",
+   "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+   "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+   "source": "Ars Technica",
+   "published": "2026-10-27T21:31:14+00:00",
+   "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anthropic-crystal-ball-1152x648.jpg",
+   "signal": 0,
+   "score": -0.6,
+   "also": []
+  }
+ ],
+ "videos": [
+  {
+   "id": "sFfPkUJd_Jk",
+   "title": "Genie 4: A new generation of world simulation",
+   "url": "https://www.youtube.com/watch?v=sFfPkUJd_Jk",
+   "channel": "Google DeepMind",
+   "published": "2026-10-27T16:00:41+00:00",
+   "thumbnail": "https://i4.ytimg.com/vi/sFfPkUJd_Jk/hqdefault.jpg",
+   "views": 313960,
+   "description": "Meet Genie 4, Google DeepMind’s most realistic and interactive world model yet. Built on our Gemini models, Genie 4 lets you step inside dynamic worlds in real time, steer scenes on the fly with natural language, and…",
+   "relevance": 0
+  },
+  {
+   "id": "IRJDwtAreB4",
+   "title": "Mathematics Just Changed Forever — Kevin Hartnett",
+   "url": "https://www.youtube.com/watch?v=IRJDwtAreB4",
+   "channel": "Machine Learning Street Talk",
+   "published": "2026-10-26T14:23:14+00:00",
+   "thumbnail": "https://i2.ytimg.com/vi/IRJDwtAreB4/hqdefault.jpg",
+   "views": 12778,
+   "description": "Kevin Hartnett is the author of *The Proof in the Code*. SPONSOR: --- Cyber Fund built the Monastery to help founders ship products that were impossible a year ago. Applications for Batch 1 are now open. Apply now:…",
+   "relevance": 0
+  }
+ ],
+ "papers": [
+  {
+   "id": "2610.33568",
+   "title": "Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents",
+   "authors": "Yihao Hu, Zhihao Wen, Yitong Lin, Siyuan Lu et al.",
+   "abstract": "Successful tool-use trajectories are not necessarily useful supervision. Even successful interactions may underrepresent multi-step dependencies or contain actions that are unjustified by the information visible to the agent at decision time. We identify two coupled requirements for effective trajectory supervision: compositional coverage, so that important observation-action dependencies are represented, and decision grounding, so that each supervised action is supported by the learner-visible interaction history. We introduce Trajectory2Gym, which constructs executable interactions around under-supported compositional structures and derives supervision only from grounded decisions in their realized executions. Structural-support selection allocates the resulting experience, while parent-normalized supervised fine-tuning preserves the semantic interaction as the unit of training weight. This reframes trajectory generation as the deliberate construction of learnable interaction experience, rather than the collection of successful trajectories. Across five Qwen3 scales,…",
+   "published": "2026-10-24T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.33568",
+   "pdf": "https://arxiv.org/pdf/2610.33568",
+   "upvotes": 353,
+   "github": "https://github.com/yihaohu0118/Trajectory2Gym",
+   "origin": "hf",
+   "ai_summary": "Trajectory2Gym improves tool-use training by constructing interactions with compositional coverage and decision grounding rather than collecting successful trajectories.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.32285",
+   "title": "Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution",
+   "authors": "Zhiyong Cao, Hengjie Zhu, Yongxin Wang, Xuchen Li et al.",
+   "abstract": "LLM agents are increasingly used to solve real-world problems, and their effectiveness depends on both the underlying models and the harnesses that support their operation. However, most existing benchmarks focus on model capabilities and overall agent performance, with limited attention to the evaluation of agent harnesses. To address this gap, we introduce TraceTrial-Bench, which organizes harness reliability into seven components covering context, execution, governance, lifecycle, observability, tools, and verification. We construct 95 expert-level, mechanism-oriented tasks with executable or state-based ground truth to support semantically equivalent comparisons while preserving the native behavior of each harness. We design a Trajectory Tracing (TT) module to capture agent execution traces and introduce a two-layer evaluation framework that separately assesses agent performance and harness reliability. In addition, we design a Multi-source Evidence Acquisition (MEA) module to provide evidence from the agent context, harness, and execution environment for LLM-based evaluation,…",
+   "published": "2026-10-23T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.32285",
+   "pdf": "https://arxiv.org/pdf/2610.32285",
+   "upvotes": 283,
+   "github": "https://github.com/TraceLite-AI/TraceTrial-Bench",
+   "origin": "hf",
+   "ai_summary": "TraceTrial-Bench evaluates agent harness reliability across seven components using mechanism-oriented tasks, trajectory tracing, and failure attribution to compare harness designs and diagnose failures.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.34662",
+   "title": "StreamVibe: Proactive Video Agents for Evolving User Intent",
+   "authors": "Chengzhi Liu, Yuxiang Lai, Yuzhe Yang, Yanqing Liu et al.",
+   "abstract": "Vision-language models are shifting from offline passive understanding toward online proactive interaction. However, prevailing methods largely rely on explicit requests while miss the implicit user intent (e.g., \"where should I click next?\" while a user navigate a website), meanwhile fail to update the state simultaneously as user requests might update continuously. These limitations make them less suited to intent-aware interaction in practical. To address these challenges, we introduce StreamVibe-Bench, a new benchmark serving as testbed for user intent interaction, with 4.1K evaluation samples and 85K training samples spanning explicit, implicit, and dynamic intents. Building on this benchmark, we develop StreamVibe-VL, a streaming proactive model that infers implicit user intents from continuous observations and dynamically tailors its interactions as these intents evolve. We further introduce StreamVibe-Harness, which maintains user intents as persistent states with a fleixble lifecycles via a hierarchical memory to track the latest user intent and environmental state. Our…",
+   "published": "2026-10-26T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.34662",
+   "pdf": "https://arxiv.org/pdf/2610.34662",
+   "upvotes": 249,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "StreamVibe introduces a benchmark, streaming vision-language model, and hierarchical memory harness to enable proactive, intent-aware interaction with implicit and evolving user goals.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.34467",
+   "title": "DynaFlow: Learning Free-Form Multi-Agent Orchestration",
+   "authors": "Ruhao Liu, Qi Li, Shizun Wang, Xinchao Wang",
+   "abstract": "Multi-agent systems often rely on predefined collaboration structures, limiting their ability to adapt to diverse task requirements. We introduce DynaFlow, a framework that integrates free-form executable workflow synthesis into the action space of the main agent. The agent decides when collaboration is needed and generates task-specific programs that coordinate sub-agents through sequential or parallel execution, structured information exchange, and verification. Execution results and traces inform subsequent actions, enabling the agent to adapt collaboration as reasoning progresses. We train only the main agent through supervised fine-tuning on distilled trajectories, followed by refinement on examples filtered for unsupported premises, biased verification, and information-flow defects. All sub-agents remain fixed, separating orchestration learning from executor capability improvement. Across six benchmarks spanning mathematical reasoning, scientific question answering, and multi-hop retrieval, DynaFlow achieves 88.08% overall accuracy in Forced mode, outperforming the strongest…",
+   "published": "2026-10-25T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.34467",
+   "pdf": "https://arxiv.org/pdf/2610.34467",
+   "upvotes": 196,
+   "github": "https://github.com/amiya-special/Dynaflow",
+   "origin": "hf",
+   "ai_summary": "DynaFlow enables adaptive multi-agent collaboration by letting a main agent synthesize executable workflows that coordinate sub-agents through structured execution and verification.",
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.34283",
+   "title": "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence",
+   "authors": "Yihao Hu, Yitong Lin, Pan Wang, Zhihao Wen et al.",
+   "abstract": "Training a spatial VLM to answer which side an object lies on does not require it to preserve the metric displacement that determines that answer, while supervision for a distance estimate may leave categorical relations largely unconstrained. When post-training emphasizes one readout, improvements can therefore concentrate on that interface while transfer to others remains weak or even degrades; we call this observed specialization interface lock-in. ChronoReplay addresses it by replaying heterogeneous spatial supervision as chronologically ordered episodes, retaining source-native targets, and balancing supervision across families. Under the same observation access, a single ChronoReplay checkpoint improves OVO-S-Bench, OST-Bench, and UCS-Bench together, including a 13.41-point gain on OST-Bench, and achieves the highest three-benchmark mean among the supervision settings compared here. Same-data controls further separate the ingredients of this transfer: answer serialization redistributes gains across OST and UCS, family-balanced learning improves over ordinary joint SFT and…",
+   "published": "2026-10-25T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.34283",
+   "pdf": "https://arxiv.org/pdf/2610.34283",
+   "upvotes": 132,
+   "github": "https://github.com/yihaohu0118/ChronoReplay",
+   "origin": "hf",
+   "ai_summary": "ChronoReplay mitigates interface lock-in in spatial vision-language models by replaying heterogeneous spatial supervision chronologically, improving cross-task transfer and enabling efficient inference-time evidence selection.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.33966",
+   "title": "InteractiveWorld: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants",
+   "authors": "Qinsi Wang, Wei Wen, Chong Zhou, Saksham Suri et al.",
+   "abstract": "People have long dreamed of an assistant that is always there to guide them and remind what they forget, from new dishes to lost keys. Powered by multimodal large language models (MLLMs), egocentric AI assistants on wearable devices are bringing this dream within reach: they see what the user sees and give instructions for user's physical work when necessary. However, testing such assistance is challenging and usually requires real people. The expensive and rare real interaction data leaves a key question unanswered: Can today's MLLMs truly help people in physical world? To answer this question, we propose InteractiveWorld, the first verifiable environment for closed-loop interaction between human and AI assistant. Unlike existing robot-centric simulators, InteractiveWorld lets the assistant guide a human agent who observes the scene, understands instructions, and acts independently. It thus realistically simulates how AI assistant collaborates with human: the assistant instructs, the human acts, and the environment executes actions and updates what they see next. Building on it, we…",
+   "published": "2026-10-25T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.33966",
+   "pdf": "https://arxiv.org/pdf/2610.33966",
+   "upvotes": 120,
+   "github": "https://github.com/facebookresearch/InteractiveWorld",
+   "origin": "hf",
+   "ai_summary": "InteractiveWorld provides a verifiable simulation environment and benchmark to evaluate whether multimodal language models can reliably guide humans through physical tasks.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.35845",
+   "title": "Work Agents: Systems, Capabilities, and Optimization",
+   "authors": "Zishan Xu, Enjun Du, Mingqi Gao, Cheng Yang et al.",
+   "abstract": "As foundation models evolve from information generation to digital work execution, agents are increasingly capable of completing complex tasks across tools, applications, and workflows. However, existing research lacks a unified perspective on how agents reliably accomplish delegated work. To address this gap, we present a work-centric, system-level perspective that views work agents as systems combining foundation models and runtime harnesses to execute tasks in stateful workspaces and deliver verifiable outcomes. We introduce two complementary dimensions, work persistence and work openness, to characterize working conditions, and classify digital work into five forms according to task scope and organization. Building on this framework, we identify five core capability families required for reliable work execution and examine approaches to model optimization, harness optimization, and their joint optimization. We further analyze existing evaluation methods and metrics from the perspective of work outcomes. Finally, we discuss future research directions, including sustained work…",
+   "published": "2026-10-26T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.35845",
+   "pdf": "https://arxiv.org/pdf/2610.35845",
+   "upvotes": 112,
+   "github": "https://github.com/EnjunDu/awesome-working-agent",
+   "origin": "hf",
+   "ai_summary": "The paper proposes a unified framework for work agents that integrates foundation models with runtime harnesses to execute complex digital tasks reliably, introducing dimensions of persistence and openness alongside capability families and evaluation metrics.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.37381",
+   "title": "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations",
+   "authors": "Hanqing Wang, Zhaotian Cai, Ruichuan An, Bohan Zeng et al.",
+   "abstract": "Vision--Language--Action (VLA) models generate robot actions from visual observations and language instructions, but their understanding of physical dynamics remains limited. Video world models can capture scene dynamics, yet generating future videos introduces high latency into the control loop. We introduce PDRVLA, whose lightweight Physical Dynamics Module extracts physical tokens from vision--language features to condition action generation without online video generation. The module learns through direct prediction of future RGB, depth, and optical-flow features, with auxiliary supervision through a frozen pretrained video world model. Training relies entirely on publicly available data, expanded through human-to-robot synthesis, subtask annotation, and embodied chain-of-thought (ECoT) annotation. Across four simulation benchmarks, PDRVLA achieves success rates of 99.3% on LIBERO, 89.9% on LIBERO-Plus, 93.6% on RoboTwin~2.0, and 81.5% on SimplerEnv. Ablations show improved future prediction with world-model supervision and evaluate how subtask conditioning, future object-pose…",
+   "published": "2026-10-27T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.37381",
+   "pdf": "https://arxiv.org/pdf/2610.37381",
+   "upvotes": 108,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "PDRVLA improves robot action generation by integrating a lightweight physical dynamics module that predicts future visual features with world-model supervision, avoiding online video generation latency.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.36077",
+   "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+   "authors": "Weidong Tang, Ruiheng Wang, Jingxuan Zhang, Hexin Wang et al.",
+   "abstract": "Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verifiable environments is costly, and manual Harness iteration cannot keep pace with growing task diversity and complexity. A key insight is that tasks with different modalities and surface forms can share the same underlying capability requirements. We therefore introduce The Trinity, a recursive self-improvement framework coupling world generation with Harness evolution through three roles: Creator, Explorer, and Evolver. Drawing on verified execution trajectories, Evolver shifts the basis of task organization from surface categories to shared requirements, reorganizing the original task tree into a hierarchical capability tree. We introduce Capability-Driven Real2Sim2Real: for heterogeneous tasks at the same node, Creator abstracts their common requirements into simplified, verifiable simulated worlds for capability learning, while evaluation on original tasks measures transfer. Along…",
+   "published": "2026-10-26T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.36077",
+   "pdf": "https://arxiv.org/pdf/2610.36077",
+   "upvotes": 103,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "The Trinity framework recursively improves multimodal agents by organizing tasks into a capability tree, generating simulated training worlds, and routing specialized harness modules to boost performance on diverse benchmarks.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.36729",
+   "title": "Hy-Nomas: Towards Free-form Interactive World Generation",
+   "authors": "Qiaoling Chen, Jiaxiang Cheng, Xueqing Deng, Tiankai Hang et al.",
+   "abstract": "Interactive world generation requires models to follow successive commands while preserving relevant history and action consequences. We present Hy-Nomas, a video world model with an 8B diffusion backbone that supports free-form text instructions and continuous camera control across multiple interaction turns. It generates variable-length segments conditioned on current inputs and cached history. Our central design aligns structured video captions with action-aware causal attention: descriptive context remains accessible across segments, while action instructions are restricted to their intended temporal windows. A vision-language Prompt Enhancer (PE) translates user requests and multimodal interaction histories into structured conditions for the next segment. A multi-stage curriculum progressively introduces causal generation, text interaction, camera control, and training on model-generated histories, followed by diffusion distillation. In human evaluation, Hy-Nomas shows superior performance over existing world models. We release model weights, code and benchmarks, together with…",
+   "published": "2026-10-27T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.36729",
+   "pdf": "https://arxiv.org/pdf/2610.36729",
+   "upvotes": 90,
+   "github": "https://github.com/Tencent-Hunyuan/Hy-Nomas",
+   "origin": "hf",
+   "ai_summary": "Hy-Nomas is a video world model that uses causal attention and structured captions to follow multi-turn text and camera instructions while preserving interaction history.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.37375",
+   "title": "Agent-Conditioned Routing: Diverse Reasoning Paths Within One Frozen Model",
+   "authors": "Ananth Kalyanasundaram, Ankush Kadu, Athira Gopal, Aswanth Krishnan",
+   "abstract": "Generating several solutions can expose alternative methods, but additional trajectories often paraphrase one dominant approach. We investigate whether the conditional capacity of a frozen sparse mixture-of-experts (MoE) model can provide such diversity from one problem prompt, without user-assigned roles, prescribed methods, fine-tuning, or model copies. Agent-Conditioned Routing (ACR) assigns $m$ parallel trajectories persistent, untrained shared/private expert-eligibility masks while preserving the learned, input-dependent token router. On a screened 126-question multi-mode mathematics and physics benchmark, with model judges reading the reported derivations in full, we count the number of problems yielding at least two distinct primary methods among soft-correct solutions in four trajectories. ACR reaches approximately twice as many such problems as the strongest temperature setting under GLM 5.3 (37.3 versus 18.7), and 1.67 times as many under GPT-5.6 Sol (45.00 versus 27.00), at matched output budgets. A blinded four-expert audit on a stratified sample of 30 problems also…",
+   "published": "2026-10-27T15:06:29Z",
+   "url": "https://arxiv.org/abs/2610.37375",
+   "pdf": "https://arxiv.org/pdf/2610.37375",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.AI",
+    "cs.LG",
+    "cs.MA"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.37369",
+   "title": "Uncovering Why LLMs Fail: From Internal Mechanisms to Adversarial Reasoning Trajectories",
+   "authors": "Zirui Ding, Xinxin Fan, Hao Yuan, Shaoye Luo et al.",
+   "abstract": "Large language models (LLMs) are usually evaluated by final-output correctness or safety, yet an endpoint label does not reveal how a failure develops throughout the reasoning process. We therefore ask whether ordinary reasoning failures and adversarially induced failures can be characterized using the same internal coordinates. Towards this end, we in this paper study a white-box diagnostic framework CauTrace to disclose the root-cause of why LLM fails from three fundamental inspections: Functional States, Propagation of Representation, Temporal-State Coordination and Reasoning Trajectory. First, seven functional states are creatively defined to represent the support and constraint processing in LLMs. Second, the propagation of representation change measures how the changes among the seven states persist across subsequent Transformer blocks. Third, temporal-state coordination and trajectory topology characterize when the commitment and verification occur relative to the support, and how the dominant state sequence evolves over the full inference process. Finally, we evaluate…",
+   "published": "2026-10-27T15:02:04Z",
+   "url": "https://arxiv.org/abs/2610.37369",
+   "pdf": "https://arxiv.org/pdf/2610.37369",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.AI"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.37216",
+   "title": "Zhengrong-Spatial-Aware 1.0: Advancing 3D Multimodal Intelligence",
+   "authors": "Yu Zhang, Xiaogang Wang, Yuhang Cheng, Jingrui Li et al.",
+   "abstract": "This report presents the implementation and validation of two end-to-end multimodal adaptation pipelines for 3D-aware visual question answering on a custom spatial dataset. The first pipeline fine-tunes HiSpatial-3B, which augments RGB observations with metric-scale 3D point maps; the second adapts Qwen3-VL through memory-efficient QLoRA-based supervised fine-tuning. The completed engineering stack covers dataset conversion, image-annotation alignment, monocular geometry preprocessing, instruction construction, mixed-domain training, checkpoint management, batch inference, and automated evaluation. On the target spatial benchmark, HiSpatial adaptation increases overall accuracy from 1.73% before fine-tuning to 79.89% at 3,600 steps. On a separately collected styled split, accuracy improves from 14.9% to 55.1%, indicating transfer beyond the original training set. The Qwen3-VL pipeline is likewise implemented end-to-end for both 8B- and 32B-scale models using mixed-domain QLoRA adaptation. The resulting accuracy improves from 20.74% to 45.27% for Qwen3-VL-8B and from 30.79% to 47.60%…",
+   "published": "2026-10-27T13:28:34Z",
+   "url": "https://arxiv.org/abs/2610.37216",
+   "pdf": "https://arxiv.org/pdf/2610.37216",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CV"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.37642",
+   "title": "Metacognitive Decoding: Efficient Inference for Diffusion Language Agents",
+   "authors": "Mingyu Zhao, Shuhang Lin, Ligong Han, Xiaojing Yu et al.",
+   "abstract": "Diffusion language models offer a promising path to efficient agents through parallel token generation. However, efficient interaction requires adapting both where computation is spent and how much text is generated. We introduce a metacognitive controller that guides diffusion generation according to the needs of the current response and the agent's interaction with the environment. It learns when to finalize tokens and how far generation should extend, reducing overall computation within responses. Our controller, a lightweight plug-in for the diffusion backbone, is trained on agent trajectories to balance correctness and generation cost. This approach connects the agent's generation process to the interaction the agent serves. Experiments across five benchmarks demonstrate that our approach reduces inference FLOPs by 20.6% on average compared with the most efficient baseline, while maintaining competitive task accuracy. Ablation studies further validate the effectiveness of our approach.",
+   "published": "2026-10-27T17:55:24Z",
+   "url": "https://arxiv.org/abs/2610.37642",
+   "pdf": "https://arxiv.org/pdf/2610.37642",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CL"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.37598",
+   "title": "GAS-PFN: Graph-Aware Spatiotemporal Prior-Data Fitted Networks for Zero-Shot Traffic Forecasting",
+   "authors": "Joseph Natter, Long Vu, Yifan Zhang, Bobin Deng et al.",
+   "abstract": "Traffic forecasting requires modeling complex temporal dynamics and the spatial dependencies imposed by road topology. Supervised graph-based models achieve strong performance, but are often trained for a particular dataset and sensor graph, making deployment to new or evolving networks costly. Prior-Data Fitted Networks (PFNs) offer a zero-shot alternative by learning in-context inference from synthetic task priors, which provide an explicit mechanism for encoding domain-specific assumptions. Existing forecasting PFNs, however, do not explicitly represent the graph-structured dependencies governing traffic dynamics. To combine graph-aware traffic modeling with zero-shot adaptation, we introduce the Graph-Aware Spatiotemporal Prior-Data Fitted Network (GAS-PFN). GAS-PFN incorporates sampled road topology into its synthetic task prior through random-walk diffusion, teaching the model to learn graph-coupled dynamics during pretraining. Its co-designed inference architecture uses two mask-conditioned passes through a shared Transformer backbone to separately model sensor-specific…",
+   "published": "2026-10-27T17:31:26Z",
+   "url": "https://arxiv.org/abs/2610.37598",
+   "pdf": "https://arxiv.org/pdf/2610.37598",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.LG",
+    "cs.AI",
+    "cs.NE"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "classics": [
+  {
+   "id": "2109.01652",
+   "title": "Finetuned Language Models Are Zero-Shot Learners",
+   "year": 2021,
+   "authors": "Jason Wei, Maarten Bosma, Vincent Y. Zhao et al.",
+   "abstract": "This paper explores a simple method for improving the zero-shot learning abilities of language models. We show that instruction tuning -- finetuning language models on a collection of tasks described via instructions -- substantially improves zero-shot performance on unseen tasks. We take a 137B parameter pretrained language model and instruction-tune it on over 60 NLP tasks verbalized via natural language instruction templates. We evaluate this instruction-tuned model, which we call FLAN, on unseen task types. FLAN substantially improves the performance of its unmodified counterpart and surpasses zero-shot 175B GPT-3 on 20 of 25 tasks that we evaluate. FLAN even outperforms few-shot GPT-3…",
+   "citations": 5552,
+   "url": "https://arxiv.org/abs/2109.01652",
+   "cited_by": [
+    "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2303.17651",
+   "title": "Self-Refine: Iterative Refinement with Self-Feedback",
+   "year": 2023,
+   "authors": "Aman Madaan, Niket Tandon, Prakhar Gupta et al.",
+   "abstract": "Like humans, large language models (LLMs) do not always generate the best output on their first try. Motivated by how humans refine their written text, we introduce Self-Refine, an approach for improving initial outputs from LLMs through iterative feedback and refinement. The main idea is to generate an initial output using an LLMs; then, the same LLMs provides feedback for its output and uses it to refine itself, iteratively. Self-Refine does not require any supervised training data, additional training, or reinforcement learning, and instead uses a single LLM as the generator, refiner, and feedback provider. We evaluate Self-Refine across 7 diverse tasks, ranging from dialog response…",
+   "citations": 5335,
+   "url": "https://arxiv.org/abs/2303.17651",
+   "cited_by": [
+    "DynaFlow: Learning Free-Form Multi-Agent Orchestration"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1011.0686",
+   "title": "A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning",
+   "year": 2010,
+   "authors": "S. Ross, Geoffrey J. Gordon, J. Bagnell",
+   "abstract": "Sequential prediction problems such as imitation learning, where future observations depend on previous predictions (actions), violate the common i.i.d. assumptions made in statistical learning. This leads to poor performance in theory and often in practice. Some recent approaches provide stronger guarantees in this setting, but remain somewhat unsatisfactory as they train either non-stationary or stochastic policies and require a large number of iterations. In this paper, we propose a new iterative algorithm, which trains a stationary deterministic policy, that can be seen as a no regret algorithm in an online learning setting. We show that any such no regret algorithm, combined with…",
+   "citations": 4937,
+   "url": "https://arxiv.org/abs/1011.0686",
+   "cited_by": [
+    "Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1705.07115",
+   "title": "Multi-task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics",
+   "year": 2017,
+   "authors": "R. Cipolla, Yarin Gal, Alex Kendall",
+   "abstract": "Numerous deep learning applications benefit from multitask learning with multiple regression and classification objectives. In this paper we make the observation that the performance of such systems is strongly dependent on the relative weighting between each task's loss. Tuning these weights by hand is a difficult and expensive process, making multi-task learning prohibitive in practice. We propose a principled approach to multi-task deep learning which weighs multiple loss functions by considering the homoscedastic uncertainty of each task. This allows us to simultaneously learn various quantities with different units or scales in both classification and regression settings. We…",
+   "citations": 4628,
+   "url": "https://arxiv.org/abs/1705.07115",
+   "cited_by": [
+    "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2308.11432",
+   "title": "A survey on large language model based autonomous agents",
+   "year": 2023,
+   "authors": "Lei Wang, Chengbang Ma, Xue-Yang Feng et al.",
+   "abstract": "Autonomous agents have long been a research focus in academic and industry communities. Previous research often focuses on training agents with limited knowledge within isolated environments, which diverges significantly from human learning processes, and makes the agents hard to achieve human-like decisions. Recently, through the acquisition of vast amounts of Web knowledge, large language models (LLMs) have shown potential in human-level intelligence, leading to a surge in research on LLM-based autonomous agents. In this paper, we present a comprehensive survey of these studies, delivering a systematic review of LLM-based autonomous agents from a holistic perspective. We first discuss the…",
+   "citations": 4255,
+   "url": "https://arxiv.org/abs/2308.11432",
+   "cited_by": [
+    "Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2311.12022",
+   "title": "GPQA: A Graduate-Level Google-Proof Q&A Benchmark",
+   "year": 2023,
+   "authors": "David Rein, Betty Li Hou, Asa Cooper Stickland et al.",
+   "abstract": "We present GPQA, a challenging dataset of 448 multiple-choice questions written by domain experts in biology, physics, and chemistry. We ensure that the questions are high-quality and extremely difficult: experts who have or are pursuing PhDs in the corresponding domains reach 65% accuracy (74% when discounting clear mistakes the experts identified in retrospect), while highly skilled non-expert validators only reach 34% accuracy, despite spending on average over 30 minutes with unrestricted access to the web (i.e., the questions are\"Google-proof\"). The questions are also difficult for state-of-the-art AI systems, with our strongest GPT-4 based baseline achieving 39% accuracy. If we are to…",
+   "citations": 3814,
+   "url": "https://arxiv.org/abs/2311.12022",
+   "cited_by": [
+    "DynaFlow: Learning Free-Form Multi-Agent Orchestration"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2308.09126",
+   "title": "EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding",
+   "year": 2023,
+   "authors": "K. Mangalam, Raiymbek Akshulakov, J. Malik",
+   "abstract": "We introduce EgoSchema, a very long-form video question-answering dataset, and benchmark to evaluate long video understanding capabilities of modern vision and language systems. Derived from Ego4D, EgoSchema consists of over 5000 human curated multiple choice question answer pairs, spanning over 250 hours of real video data, covering a very broad range of natural human activity and behavior. For each question, EgoSchema requires the correct answer to be selected between five given options based on a three-minute-long video clip. While some prior works have proposed video datasets with long clip lengths, we posit that merely the length of the video clip does not truly capture the temporal…",
+   "citations": 900,
+   "url": "https://arxiv.org/abs/2308.09126",
+   "cited_by": [
+    "StreamVibe: Proactive Video Agents for Evolving User Intent",
+    "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence",
+    "InteractiveWorld: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants"
+   ],
+   "why": "Cité par 3 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1707.08114",
+   "title": "A Survey on Multi-Task Learning",
+   "year": 2017,
+   "authors": "Yu Zhang, Qiang Yang",
+   "abstract": "Multi-Task Learning (MTL) is a learning paradigm in machine learning and its aim is to leverage useful information contained in multiple related tasks to help improve the generalization performance of all the tasks. In this paper, we give a survey for MTL from the perspective of algorithmic modeling, applications and theoretical analyses. For algorithmic modeling, we give a definition of MTL and then classify different MTL algorithms into five categories, including feature learning approach, low-rank approach, task clustering approach, task relation learning approach and decomposition approach as well as discussing the characteristics of each approach. In order to improve the performance of…",
+   "citations": 3187,
+   "url": "https://arxiv.org/abs/1707.08114",
+   "cited_by": [
+    "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "stats": {
+  "raw_news": 65,
+  "stories": 30,
+  "videos": 2,
+  "papers": 15,
+  "classics": 8,
+  "seconds": 510
+ }
+}

@@ -1,0 +1,609 @@
+{
+ "generated_at": "2026-11-12T17:34:25.919470+00:00",
+ "date": "2026-11-12",
+ "tldr": {
+  "headline": "Les titres du jour",
+  "points": [
+   {
+    "title": "Nvidia CEO Jensen Huang resigns after reports of extramarital relationships",
+    "text": "72 points · 20 commentaires",
+    "ref": "news:73437c2bc5fb"
+   },
+   {
+    "title": "Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal",
+    "text": "167 points · 101 commentaires",
+    "ref": "news:60e059808c60"
+   },
+   {
+    "title": "Jensen Huang resigns as Nvidia CEO immediately",
+    "text": "373 points · 249 commentaires",
+    "ref": "news:5ead41993058"
+   },
+   {
+    "title": "NVIDIA Announces CEO Transition",
+    "text": "1448 points · 1195 commentaires",
+    "ref": "news:b8785a000ca8"
+   },
+   {
+    "title": "Anthropic IPO",
+    "text": "548 points · 575 commentaires",
+    "ref": "news:56c83c766ce1"
+   }
+  ],
+  "generated": false
+ },
+ "news": [
+  {
+   "id": "73437c2bc5fb",
+   "title": "Nvidia CEO Jensen Huang resigns after reports of extramarital relationships",
+   "url": "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-resigns-reports-extramarital-relationships-rcna608402",
+   "source": "Hacker News",
+   "published": "2026-11-12T14:00:54+00:00",
+   "summary": "72 points · 20 commentaires",
+   "image": null,
+   "signal": 72,
+   "discussion": "https://news.ycombinator.com/item?id=50467191",
+   "score": 3.26,
+   "also": [],
+   "ai_summary": "Jensen Huang a démissionné de son poste de CEO de Nvidia suite à des révélations sur des relations extraconjugales, laissant la direction par intérim à la CFO Colette Kress et la présidence du conseil à Harvey Jones. Ce départ soudain du dirigeant historique a provoqué une chute de l'action de plus de 11 % et entraîne une refonte de la gouvernance de l'entreprise. Pour les praticiens, cela soulève des incertitudes sur la direction stratégique et la feuille de route du principal fournisseur de matériel d'accélération IA."
+  },
+  {
+   "id": "60e059808c60",
+   "title": "Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal",
+   "url": "https://www.bbc.co.uk/news/live/c6zjry11v8w1t",
+   "source": "Hacker News",
+   "published": "2026-11-12T13:56:38+00:00",
+   "summary": "167 points · 101 commentaires",
+   "image": null,
+   "signal": 167,
+   "discussion": "https://news.ycombinator.com/item?id=50467139",
+   "score": 3.93,
+   "also": [],
+   "ai_summary": "La démission de Jensen Huang a conduit Nvidia à nommer pour la première fois un président du conseil d'administration afin de renforcer la supervision du futur CEO, tout en entraînant une baisse des valorisations de fournisseurs neocloud comme CoreWeave ou Nebius. L'événement met en lumière la forte concentration passée des décisions et l'interdépendance de la chaîne de valeur du hardware IA. Pour les data scientists, cette transition constitue un test de résilience pour l'écosystème d'infrastructure et d'accès au compute."
+  },
+  {
+   "id": "5ead41993058",
+   "title": "Jensen Huang resigns as Nvidia CEO immediately",
+   "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/",
+   "source": "Hacker News",
+   "published": "2026-11-12T13:56:11+00:00",
+   "summary": "373 points · 249 commentaires",
+   "image": null,
+   "signal": 373,
+   "discussion": "https://news.ycombinator.com/item?id=50467132",
+   "score": 4.57,
+   "also": [],
+   "ai_summary": "Jensen Huang a démissionné immédiatement de son poste de CEO de Nvidia."
+  },
+  {
+   "id": "b8785a000ca8",
+   "title": "NVIDIA Announces CEO Transition",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+   "source": "Hacker News",
+   "published": "2026-11-12T13:52:29+00:00",
+   "summary": "1448 points · 1195 commentaires",
+   "image": null,
+   "signal": 1448,
+   "discussion": "https://news.ycombinator.com/item?id=50467087",
+   "score": 5.65,
+   "also": [],
+   "ai_summary": "Nvidia a officialisé la démission immédiate de Jensen Huang, confiant le rôle de CEO par intérim à sa CFO Colette Kress et nommant Harvey C. Jones président du conseil d'administration. La direction a affirmé que les engagements clients, les opérations et la roadmap technologique dans le calcul accéléré se poursuivraient sans interruption. Pour les équipes techniques, cette annonce vise à rassurer sur la stabilité à court terme des livraisons matérielles et du support d'infrastructure."
+  },
+  {
+   "id": "56c83c766ce1",
+   "title": "Anthropic IPO",
+   "url": "https://ipo.anthropic.com/us/",
+   "source": "Hacker News",
+   "published": "2026-11-12T11:46:41+00:00",
+   "summary": "548 points · 575 commentaires",
+   "image": null,
+   "signal": 548,
+   "discussion": "https://news.ycombinator.com/item?id=50465829",
+   "score": 4.76,
+   "also": [],
+   "ai_summary": "Anthropic a lancé sa procédure d'introduction en bourse (IPO) sur le Nasdaq sous le ticker ANT, en publiant des résultats financiers affichant 17 milliards de dollars de revenus et des gains d'efficacité de calcul. Cette étape marque l'institutionnalisation financière majeure de l'un des principaux développeurs de modèles de fondation. Pour les praticiens, cette cotation implique une plus grande transparence financière sur les coûts d'entraînement et la rentabilité des architectures de modèles."
+  },
+  {
+   "id": "f82475629f27",
+   "title": "Nvidia prepares to fire CEO Jensen Huang, WSJ reports",
+   "url": "https://twitter.com/watcherguru/status/2120645607866188008",
+   "source": "Hacker News",
+   "published": "2026-11-11T22:36:35+00:00",
+   "summary": "225 points · 4 commentaires",
+   "image": null,
+   "signal": 225,
+   "discussion": "https://news.ycombinator.com/item?id=50459776",
+   "score": 3.4,
+   "also": [],
+   "ai_summary": "Selon des informations rapportées par le Wall Street Journal, Nvidia se préparait à révoquer son CEO Jensen Huang."
+  },
+  {
+   "id": "081caafcc522",
+   "title": "Nvidia is preparing to oust Jensen Huang",
+   "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+   "source": "Hacker News",
+   "published": "2026-11-11T22:31:06+00:00",
+   "summary": "1204 points · 1595 commentaires",
+   "image": null,
+   "signal": 1204,
+   "discussion": "https://news.ycombinator.com/item?id=50459703",
+   "score": 4.73,
+   "also": [],
+   "ai_summary": "Nvidia se préparerait à évincer son CEO Jensen Huang."
+  },
+  {
+   "id": "1399104b4951",
+   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+   "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+   "source": "Hacker News",
+   "published": "2026-11-11T21:24:35+00:00",
+   "summary": "638 points · 664 commentaires",
+   "image": null,
+   "signal": 638,
+   "discussion": "https://news.ycombinator.com/item?id=50458900",
+   "score": 4.17,
+   "also": [],
+   "ai_summary": "United Airlines a interdit l'utilisation d'agents IA autonomes pour la réservation de billets et l'enregistrement des passagers, invoquant des impératifs réglementaires et des risques de sécurité liés au partage d'identifiants. La compagnie cherche ainsi à empêcher l'émergence de nouveaux intermédiaires automatisés exploitant ses interfaces de recherche. Pour les développeurs d'agents IA, cela illustre la multiplication des barrières et restrictions imposées par les plateformes web aux workflows transactionnels automatisés."
+  },
+  {
+   "id": "418d10f93d4e",
+   "title": "Huawei releases MACaQ, its internal quantizer for local inference",
+   "url": "https://github.com/huawei-csl/MACaQ",
+   "source": "Hacker News",
+   "published": "2026-11-11T20:23:57+00:00",
+   "summary": "126 points · 31 commentaires",
+   "image": null,
+   "signal": 126,
+   "discussion": "https://news.ycombinator.com/item?id=50458166",
+   "score": 4.32,
+   "also": [],
+   "ai_summary": "Huawei a publié MACaQ, un outil de quantification agnostique capable de traiter des modèles texte, audio, vidéo et image vers des formats comme GGUF, Diffusers et vLLM en W4A4 ou 2/3/4-bit. La suite intègre également MACaQ-R pour affiner des modèles GGUF existants en réduisant la perplexité avec une vitesse de traitement accrue. Pour les data scientists, cette solution facilite le déploiement et l'inférence locale de modèles multimodaux volumineux sur des ressources mémoire restreintes."
+  },
+  {
+   "id": "8e4104a923ec",
+   "title": "Gemini Decisions API",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+   "source": "Hacker News",
+   "published": "2026-11-11T18:32:42+00:00",
+   "summary": "532 points · 154 commentaires",
+   "image": null,
+   "signal": 532,
+   "discussion": "https://news.ycombinator.com/item?id=50456791",
+   "score": 3.88,
+   "also": [],
+   "ai_summary": "Google a lancé l'API Gemini Decisions, exploitant le modèle gemini-decision-1 pour évaluer des choix fermés tels que le model routing, les vérifications de politiques ou la sélection d'outils. Le système traite des contextes multimodaux jusqu'à 256K tokens en une seule passe, renvoyant des probabilités calibrées en 150 à 250 ms sans facturation de tokens de sortie. Pour les ingénieurs IA, cette API offre une primitive performante et économique pour orchestrer des architectures agentiques sans dépendre d'une génération textuelle coûteuse."
+  }
+ ],
+ "videos": [
+  {
+   "id": "gPNiuyYirfw",
+   "title": "DeepMind’s AI Just Did The Impossible",
+   "url": "https://www.youtube.com/watch?v=gPNiuyYirfw",
+   "channel": "Two Minute Papers",
+   "published": "2026-11-12T13:41:41+00:00",
+   "thumbnail": "https://i4.ytimg.com/vi/gPNiuyYirfw/hqdefault.jpg",
+   "views": 32796,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The DeepMind paper AlphaProof Code is available here: https://deepmind.google/blog/introducing-alphaproof-code/…",
+   "relevance": 0
+  },
+  {
+   "id": "uND6iY2qp_c",
+   "title": "AlphaGenome 2: Teaching AI to read the entire human genome",
+   "url": "https://www.youtube.com/watch?v=uND6iY2qp_c",
+   "channel": "Google DeepMind",
+   "published": "2026-11-11T18:00:31+00:00",
+   "thumbnail": "https://i2.ytimg.com/vi/uND6iY2qp_c/hqdefault.jpg",
+   "views": 41968,
+   "description": "98% of human DNA doesn't build proteins—it controls how our cells work, and holds vital clues to why diseases happen and why 90% of new drugs fail in clinical trials. Understanding the genome at the molecular level is…",
+   "relevance": 0
+  },
+  {
+   "id": "583ThJIqQ7k",
+   "title": "Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)",
+   "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
+   "channel": "AI Explained",
+   "published": "2026-11-10T23:11:36+00:00",
+   "thumbnail": "https://i2.ytimg.com/vi/583ThJIqQ7k/hqdefault.jpg",
+   "views": 168554,
+   "description": "I’ve read the full Fable 5.2 report at 264 pages, the 30 page METR RSI report, and tested Gemini Carbon and Fable 5.2 hundreds of times. There’s too much to cover in one video, but let’s explore everything from how fast…",
+   "relevance": 0
+  },
+  {
+   "id": "vug73goPJaM",
+   "title": "Is Software Over?",
+   "url": "https://www.youtube.com/watch?v=vug73goPJaM",
+   "channel": "Two Minute Papers",
+   "published": "2026-11-10T10:15:57+00:00",
+   "thumbnail": "https://i3.ytimg.com/vi/vug73goPJaM/hqdefault.jpg",
+   "views": 177323,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The papers and sources are available here: MirrorCode: https://arxiv.org/abs/2606.30182 REMEND:…",
+   "relevance": 0
+  }
+ ],
+ "papers": [
+  {
+   "id": "2611.12806",
+   "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+   "authors": "Bing Han, Yichuan Peng, Haoyu Dong, Yuanmeng Hu et al.",
+   "abstract": "Tactile sensing is an indispensable modality for contact-rich dexterous manipulation, a capability that hints at the ultimate frontiers of embodied intelligence. However, commercially available tactile sensors are still at a relatively early stage of development, with each type of sensor offering irreplaceable strengths alongside its own drawbacks. A key challenge is thus to free tactile understanding from sensor-specific physics, so that embodied models can effectively leverage heterogeneous tactile data. To this end, we develop LingBot-Touch, a tactile foundation model characterized by the following properties. (i) Our model yields a unified representation across different tactile sensors (i.e., piezoresistive, magnetic, and visuotactile sensors), and is easily extensible to new sensor types. (ii) The resulting tactile tokens are plug-and-play: they can be seamlessly integrated into policy models across paradigms, from diffusion policy to vision-language-action (VLA) models such as π_{0.5} and LingBot-VLA, consistently enhancing manipulation dexterity. (iii) Extensive experiments,…",
+   "published": "2026-11-09T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.12806",
+   "pdf": "https://arxiv.org/pdf/2611.12806",
+   "upvotes": 102,
+   "github": "https://github.com/Robbyant/lingbot-touch",
+   "origin": "hf",
+   "ai_summary": "LingBot-Touch is a tactile foundation model that learns a unified, extensible representation across heterogeneous tactile sensors, yielding plug-and-play tactile tokens that consistently enhance manipulation policies such as diffusion policy and VLA models.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.14033",
+   "title": "Few-Step Streaming Video Generation via Condition Shifting",
+   "authors": "Deyuan Liu, Jungang Li, Kaiwen Zheng, Kai Jiang et al.",
+   "abstract": "Few-step sampling reduces the cost of streaming video generation. Distribution Matching Distillation (DMD) supervises few-step generators with a separate fake-score network, which adds training memory and computation and must track the evolving generator. We extend APEX to streaming video by using condition shifting to estimate the velocity field of the generated distribution within the generator. The original text condition selects generation, while a shifted condition selects fake estimation using the same parameters. This removes the independent fake network while retaining S2-Avatar's frozen reference teacher, Self-Replay Forcing, and perceptual regularization. We evaluate APEX on 180-second videos using three backbone evaluations per block and a one-step spatial Refiner, with a 70-case human study and a 320-case StreamAV-Bench comparison. Compared with S2-Avatar, APEX achieves higher video instruction fulfillment on the Progressive track (3.856 versus 3.831) and higher visual aesthetics across both tracks (0.641898 versus 0.632606). Human raters favor APEX most strongly on…",
+   "published": "2026-11-10T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.14033",
+   "pdf": "https://arxiv.org/pdf/2611.14033",
+   "upvotes": 85,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "APEX extends a streaming video generation method by replacing a separate fake-score network with condition shifting to estimate the generated distribution’s velocity field, improving instruction following and visual aesthetics while reducing memory and iteration time relative to DMD.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.14320",
+   "title": "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents",
+   "authors": "Yukyeong Lee, Yumin Choi, Jinheon Baek, Sung Ju Hwang",
+   "abstract": "External memory enables LLM agents to improve from experience by distilling trajectories of past tasks into concise lessons for new tasks. However, memory can also lead to memory-induced degradation, where an agent fails on tasks it would solve without memory, often because it follows a lesson that is incorrect, or misapplies or misreads a valid one. This is because lessons are inferred from trajectories labeled only with task success or failure, yet are typically provided without the trajectories they came from, leaving the agent no way to check them. To address this, we introduce WikiTrace, an evidence-linked memory system designed to let agents check each lesson against its original trajectory. Specifically, motivated by the finding that a trajectory often still holds the evidence needed to catch an erroneous lesson, WikiTrace stores each lesson as a concise insight linked to a summary of why its trajectory succeeded or failed and to the raw trajectory itself. Then, on a new task, the agent starts from all insights and, whenever one lacks details needed to act, conflicts with…",
+   "published": "2026-11-10T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.14320",
+   "pdf": "https://arxiv.org/pdf/2611.14320",
+   "upvotes": 64,
+   "github": "https://github.com/yukyeongleee/wikitrace",
+   "origin": "hf",
+   "ai_summary": "WikiTrace links each distilled lesson to its source trajectory and rationale, enabling LLM agents to verify and correct memories before acting, improving performance and reducing memory-induced degradation across agentic benchmarks.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.10771",
+   "title": "WorldFoundry: Towards Unified Infrastructure for World Intelligence",
+   "authors": "Juanxi Tian, Jiadong Hou, Baiang Li, Xin Lin et al.",
+   "abstract": "Visual generative models increasingly blur the line between synthesizing observations and simulating environments. Yet visual plausibility alone does not constitute successful world modeling: compelling outputs may lack persistent state, physical dynamics, or causally consistent responses to interactions. We define a generative world model as a predictive dynamical system that maintains a persistent, history-conditioned representation of an environment, updates that representation in response to actions or interventions, and generates temporally coherent trajectories that reflect outcomes under observed and counterfactual interventions. From this definition, we derive an intelligence-oriented framework spanning perceptual grounding, persistent state modeling, controllable transformation, dynamics-aware prediction, and closed-loop interaction. We present WorldFoundry, open-source infrastructure for reproducible inference and evaluation across video, 3D and 4D, embodied action, and interactive world systems. WorldFoundry unifies model and benchmark discovery, runtime and asset…",
+   "published": "2026-11-07T14:59:22.000Z",
+   "url": "https://arxiv.org/abs/2611.10771",
+   "pdf": "https://arxiv.org/pdf/2611.10771",
+   "upvotes": 57,
+   "github": "https://github.com/OpenEnvision/WorldFoundry",
+   "origin": "hf",
+   "ai_summary": "WorldFoundry offers open-source infrastructure for reproducible inference and evaluation of generative world models across video, 3D/4D, embodied action, and interactive systems, with traceable evidence and benchmarks.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.12885",
+   "title": "World In-Context Learning for Agentic Robot Manipulation",
+   "authors": "Heng Fang, Zehui Guo, Yuehan Zhang, Mingyang Du et al.",
+   "abstract": "Trained action policies write manipulation skill into network weights, tying what is learned to the distribution it is learned from. In-context learning (ICL) avoids this coupling but has not matched trained policies, because a demonstration recorded in another scene carries no feedback from the world the robot currently faces. We observe that what an agent learns in context is semantic, recording task steps and object roles rather than visual appearance, so experience gathered in one world transfers to another. Based on this insight, we propose World In-Context Learning (WICL), a paradigm in which a frozen model starts from a demonstration, rehearses the task in a world such as a simulator, and writes the feedback into its context rather than its weights. We build RoboScript, a modular infrastructure that implements WICL for agentic manipulation. From a single demonstration, RoboScript learns each task through rehearsal in simulation, freezes the learned knowledge as a Task Memory, and deploys the frozen memory on new scenes with data isolation that ensures every deployment input…",
+   "published": "2026-11-09T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.12885",
+   "pdf": "https://arxiv.org/pdf/2611.12885",
+   "upvotes": 55,
+   "github": "https://github.com/ArcheOne-AI/RoboScript",
+   "origin": "hf",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.12762",
+   "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
+   "authors": "Weida Wang, Benteng Chen, Yigeng Jiang, Shuchen Pu et al.",
+   "abstract": "We introduce Sage-Taiyi, a metacognition-inspired architecture that uses accumulated scientific understanding to guide what to investigate next and how to investigate it. Through explicit monitoring and control, the system revises its understanding of evidence, assumptions, and unresolved questions, then uses these assessments to adapt research targets and select reusable reasoning methods. On Taiyi-Bench, an AI co-scientist ideation benchmark comprising 265 tasks from 50 papers across ten disciplines, Sage-Taiyi ranks first on all eight metrics of historical rediscovery and open-ended ideation, achieving an Overall score of 54.0 compared with 47.9 for the strongest baseline, AI Scientist-v2. It also performs well on two external scientific ideation benchmarks. Five expert-guided collaborations further connect its proposals to experimental and computational validation across chemistry, materials science, and engineering. In chemistry, reaction-condition optimization raises the yield of cobalt-catalyzed carbonylation from trace amounts to 84% and photocatalytic allylic amination from…",
+   "published": "2026-11-09T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.12762",
+   "pdf": "https://arxiv.org/pdf/2611.12762",
+   "upvotes": 55,
+   "github": "https://github.com/Alpha-Innovator/Sage-Taiyi",
+   "origin": "hf",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.09124",
+   "title": "Toward the Era of Agentic Embodied Intelligence",
+   "authors": "Chao Liang, Ke Chen, Fengxiaoxiao Li, Shibo Huang et al.",
+   "abstract": "Foundation models increasingly guide robot actions, yet sustained autonomy requires efficient control and failure recovery. We introduce A2-MEAS, an embodied multi-agent framework built around code as a scaling interface. Learned correction codes combine corrective language, spatial evidence, execution history, and action proposals. MetaBrain provides training supervision and runtime guidance. A correction encoder and adapter absorb this knowledge into policy weights during training, while fresh codes adapt behavior with frozen weights at deployment. The action model, A2-WLA, adds motion-aware history and a latent world model to a vision-language-action policy. Surprisingly, this simple design with action pretraining and task specialization reaches 0.5755 Q-score on the 50-task BEHAVIOR 2026 public subset before online correction, 2.21x the 2025 winner's reported 0.2605 across different benchmark editions and training configurations. On all 100 BEHAVIOR 2026 public tasks, A2-MEAS achieves 0.6411 Q-score and 45.40% task success. On RoboTwin 2.0, A2-WLA achieves 93.98% average…",
+   "published": "2026-11-06T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.09124",
+   "pdf": "https://arxiv.org/pdf/2611.09124",
+   "upvotes": 53,
+   "github": "https://github.com/AutoLab-SAI-SJTU/A2MEAS",
+   "origin": "hf",
+   "ai_summary": "An embodied multi-agent framework uses learned correction codes and a vision-language-action model with motion-aware history and latent world modeling to improve robot control, failure recovery, and training efficiency.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.14210",
+   "title": "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits",
+   "authors": "Hadi Salloum, Ammar Ali",
+   "abstract": "Weight-space programming, introduced in recent MIT work by Takehi et al., enables a frontier LLM agent to read a network's weights and write a repair. Their GPT-6 Astra agent corrected the reasoning loops of Qwen3.5-0.8B without gradients, using 158 agent turns, 89.7 million tokens, and 50 forward-pass requests. Our method, Tree-Ising, casts this repair as a sparse discrete optimization problem over the model's own BF16 weights. Forward statistics define an objective that weakens a loop direction, strengthens a concluding direction, and preserves the layer's output on productive tokens. Within a state-tree representation, where lossless BF16 storage acts as a special case, the admissible edits are sign flips and exponent shifts that preserve all shared group exponents and mantissas. We decompose this objective exactly into independent QUBO (Ising) problems, one per output row, which we solve on a GPU using simulated annealing or quantum-inspired simulated bifurcation. On the agent's two layers, Tree-Ising achieves 54.6% on MATH-500, outperforming the agent's edit (51.7%) under the…",
+   "published": "2026-11-10T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.14210",
+   "pdf": "https://arxiv.org/pdf/2611.14210",
+   "upvotes": 51,
+   "github": "https://github.com/TheQuantumGOAT/Tree-Ising",
+   "origin": "hf",
+   "ai_summary": "Tree-Ising repairs reasoning loops in LLM weights by solving sparse Ising/QUBO problems over BF16 parameters, improving math benchmark accuracy with fewer weight edits and no gradient or LLM-token cost.",
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.12886",
+   "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
+   "authors": "Haozhi Yuan, Handong Li, Yifan Zhang, Qianshan Wei",
+   "abstract": "Agentic reinforcement learning (RL) and multi-teacher on-policy distillation (MOPD) offer complementary routes to post-training. For visual agents, however, tool use presents two related challenges. Models may overlook useful tool-returned observations, while poorly grounded actions can limit the evidence available for subsequent distillation. We introduce Reframe, a post-training framework that treats the observation state, rather than only the output distribution, as an object of alignment. First, Ground-Drop-GRPO (GD-GRPO) trains spatial and temporal specialists with evidence-aware rewards and stochastic removal of the original visual input, encouraging them to acquire grounded evidence and use the returned observations. Second, Observation-Gated-MOPD (OG-MOPD) replaces deficient tool actions with canonical ones mid-rollout and resumes distillation from the repaired observation. The two stages complement each other, as learning to rely on tool-returned observations can help the policy benefit from observation repair. Neither stage requires a task-specific SFT cold start.…",
+   "published": "2026-11-09T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.12886",
+   "pdf": "https://arxiv.org/pdf/2611.12886",
+   "upvotes": 39,
+   "github": "https://github.com/EliYuan30/Reframe",
+   "origin": "hf",
+   "ai_summary": "Reframe is a two-stage post-training framework that aligns visual agents’ observation states through evidence-aware reinforcement learning and observation-gated on-policy distillation, improving tool use and outperforming Mix-RL and vanilla MOPD across image and video benchmarks.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.13001",
+   "title": "One Table, Many Queries: Benchmarking Generalist Tabular Models Across Generation, Imputation, and Prediction",
+   "authors": "Yuanrui Wang, Kaifang Li, Xuanyue Li, Ziyun Li et al.",
+   "abstract": "Generation, imputation, and prediction query different aspects of the same tabular distribution, but are usually evaluated separately. This leaves unclear which capabilities they share, how their training objectives interact, and whether one model can perform all three well. We introduce the One Table Benchmark (), spanning 56 datasets, 46 registered methods, and 20 capability axes under aligned data splits and explicit task contracts. We compare task ranks on aligned support, train five backbones under all seven non-empty objective combinations on five datasets with three seeds, and contrast fixed-model profiles with specialist portfolios. Rank comparisons connect imputation and prediction through numerical recovery and dependence preservation, and link generation to both through predictive utility; distributional fidelity follows different, sometimes opposing, rankings. Objective interventions show the largest pooled gains from including the recipient's own objective. Generation has the broadest coverage of positive pooled auxiliary effects, while prediction shows potential to…",
+   "published": "2026-11-08T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.13001",
+   "pdf": "https://arxiv.org/pdf/2611.13001",
+   "upvotes": 37,
+   "github": "https://github.com/limix-ldm-ai/OTBench",
+   "origin": "hf",
+   "ai_summary": "A large aligned benchmark reveals that tabular generation, imputation, and prediction share useful conditional information but show distinct fidelity rankings and objective interactions, motivating unified models that improve categorical reconstruction and joint sampling.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.14419",
+   "title": "Evaluating LLM-Generated World Models for Neuro-Symbolic Reasoning",
+   "authors": "Souhaila Djaffal, Amna Jamal, Gagana Madhugiri Devaraja, Anidipta Pal et al.",
+   "abstract": "Formal world models can support planning, verification, and safety reasoning, but constructing them from open-ended natural-language situations is difficult, particularly in multi-agent settings where several formalizations may be plausible. We study whether five LLMs can generate such world models as partially observable stochastic games and whether mechanical validity is sufficient to establish that the resulting model faithfully represents the intended decision problem. We introduce a benchmark of 44 scenarios spanning game, situational, and cultural settings and evaluate generated world models along three dimensions: mechanical validity, reference-relative structural agreement, and semantic criteria. Across three empirical tracks, we analyze 410 first-pass generations. In the reference-backed game track, 134/135 generated world models pass a strict mechanical audit, yet mean permutation-invariant structural F1 is only 0.366, with just 28/134 mechanically valid models exactly matching the authored reference. In the cultural track, explicitly naming the country changes the…",
+   "published": "2026-11-10T17:58:12Z",
+   "url": "https://arxiv.org/abs/2611.14419",
+   "pdf": "https://arxiv.org/pdf/2611.14419",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.AI"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.14122",
+   "title": "Hx2Dx: From Anamnesis to Diagnosis - A Multimodal Arena for Conversational Clinical Reasoning in LLMs",
+   "authors": "Federico Ravenda, Mirko Cesarini, Daniele Montagnani, Volodymyr Karpenko et al.",
+   "abstract": "Large language models (LLMs) achieve expert-level diagnostic accuracy in static evaluations, where the model receives a curated vignette or case report that already condenses the diagnostically relevant findings. Such evaluations measure inference over already selected evidence; the evaluations do not account for the inquiry used to obtain it. In clinical practice, however, diagnosis is an iterative process of inquiry. Clinicians take the patient's history, or anamnesis (Hx), through targeted questioning, examine the patient, and request and interpret tests, progressively narrowing the differential until they reach a final diagnosis (Dx). We introduce Hx2Dx ARENA, an interactive benchmark of 1'000 clinical cases from the New England Journal of Medicine (NEJM). Each case is a simulated encounter that proceeds from initial presentation through history taking and physical examination to diagnostic workup. We evaluate open- and closed-source LLMs under multiple configurations. Performance varies considerably across models in the interactive setting, and every model loses diagnostic…",
+   "published": "2026-11-10T14:09:33Z",
+   "url": "https://arxiv.org/abs/2611.14122",
+   "pdf": "https://arxiv.org/pdf/2611.14122",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.AI"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.14511",
+   "title": "Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
+   "authors": "Megha Srivastava, Michael H. Lim, Allison M. Keys, Pranav Murugan et al.",
+   "abstract": "Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains challenging. We introduce Pyrite, a pairwise pose-ranking benchmark comprising 1,500 pose pairs across diverse protein-ligand complexes. Expert chemists equipped with 3D visualization tools and physics-based scores perform near chance, highlighting the difficulty of interpreting available chemical signals. To investigate automated ranking, we introduce PyriteRep, a structured representation of molecular geometry, protein-ligand interactions, and physicochemical scores, and develop two LLM-based agents: PyriteReasoner, which directly compares poses through text-based reasoning, and PyriteFeaturizer, which generates executable code to construct features for logistic regression, optionally incorporating features derived from LLM subcalls. These agents achieve up to 67% and 74% accuracy, respectively, exceeding observed expert performance. LLM-guided feature discovery generally outperforms…",
+   "published": "2026-11-10T18:56:32Z",
+   "url": "https://arxiv.org/abs/2611.14511",
+   "pdf": "https://arxiv.org/pdf/2611.14511",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.LG",
+    "q-bio.QM"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.14492",
+   "title": "ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows",
+   "authors": "Kaiyuan Hou, Yang Ping Kuo, Indranil Bhattacharya, Rohith Nama et al.",
+   "abstract": "Business process automation runs the same Standard Operating Procedure (SOP) again and again on new inputs. Large Language Model (LLM) agents can follow an SOP written in natural language, but they call an LLM to choose every step of every run, which adds latency and cost at scale. We present ReTrace, which turns an SOP and a few logged agent runs into a reusable workflow in which code, not an LLM, selects the next step. The agent's reasoning, the explanation it writes with each tool call, often states why it took an action; the tool calls alone do not. ReTrace extracts the condition behind each step, merges these conditions across runs into a compact rule document, and generates an executable workflow from it. Only this last stage depends on the platform, so rule documents can be compiled for different orchestration platforms. On $79$ procedures from our production platform, ReTrace workflows reach $93.8\\%$ completion, against $96.8\\%$ for the agent, at $24\\%$ lower cost per task. On $τ^2$-Bench, they reach $75.8\\%$ task success (agent: $80.6\\%$) and run in $1.3$s instead of…",
+   "published": "2026-11-10T18:49:47Z",
+   "url": "https://arxiv.org/abs/2611.14492",
+   "pdf": "https://arxiv.org/pdf/2611.14492",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.AI",
+    "cs.LG",
+    "cs.MA"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.14309",
+   "title": "MMDM: Measuring Massive Multitask Decision Making",
+   "authors": "Junhao Shen, Qing Zong, Yue Guo, Zhanqiu Zhang et al.",
+   "abstract": "System-1 Decision Models directly make structured probabilistic decisions over query-specified options given a state in a single forward pass, without autoregressively generating reasoning trajectories or textual responses. Recent evaluations cover diverse tasks but often rely on existing benchmarks, where prior exposure to test material can obscure generalization. Moreover, real-world decision making often involves long contexts, large option spaces, and complex logical dependencies, challenges that existing benchmarks do not adequately capture together. Thus, we introduce MMDM (Massive Multitask Decision Making), a benchmark of 5,448 high-quality questions across 16 task categories, combining newly constructed tasks with source-grounded recompositions and rewrites for single-select, multi-select, and soft-label decision making in fresh contexts. It covers realistic scenarios such as agent state tracking, tool and skill selection, preference judgments, and rubric scoring, with option spaces ranging from 2 to 1,024 and inputs extending to 64,817 tokens. With MMDM, we conduct a…",
+   "published": "2026-11-10T16:40:50Z",
+   "url": "https://arxiv.org/abs/2611.14309",
+   "pdf": "https://arxiv.org/pdf/2611.14309",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.LG",
+    "cs.CL"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "classics": [
+  {
+   "id": "2406.09246",
+   "title": "OpenVLA: An Open-Source Vision-Language-Action Model",
+   "year": 2024,
+   "authors": "Moo Jin Kim, Karl Pertsch, Siddharth Karamcheti et al.",
+   "abstract": "Large policies pretrained on a combination of Internet-scale vision-language data and diverse robot demonstrations have the potential to change how we teach robots new skills: rather than training new behaviors from scratch, we can fine-tune such vision-language-action (VLA) models to obtain robust, generalizable policies for visuomotor control. Yet, widespread adoption of VLAs for robotics has been challenging as 1) existing VLAs are largely closed and inaccessible to the public, and 2) prior work fails to explore methods for efficiently fine-tuning VLAs for new tasks, a key component for adoption. Addressing these challenges, we introduce OpenVLA, a 7B-parameter open-source VLA trained on…",
+   "citations": 4422,
+   "url": "https://arxiv.org/abs/2406.09246",
+   "cited_by": [
+    "WorldFoundry: Towards Unified Infrastructure for World Intelligence",
+    "World In-Context Learning for Agentic Robot Manipulation",
+    "Toward the Era of Agentic Embodied Intelligence"
+   ],
+   "why": "Cité par 3 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2011.13456",
+   "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+   "year": 2020,
+   "authors": "Yang Song, Jascha Narain Sohl-Dickstein, Diederik P. Kingma et al.",
+   "abstract": "Creating noise from data is easy; creating data from noise is generative modeling. We present a stochastic differential equation (SDE) that smoothly transforms a complex data distribution to a known prior distribution by slowly injecting noise, and a corresponding reverse-time SDE that transforms the prior distribution back into the data distribution by slowly removing the noise. Crucially, the reverse-time SDE depends only on the time-dependent gradient field (\\aka, score) of the perturbed data distribution. By leveraging advances in score-based generative modeling, we can accurately estimate these scores with neural networks, and use numerical SDE solvers to generate samples. We show that…",
+   "citations": 13088,
+   "url": "https://arxiv.org/abs/2011.13456",
+   "cited_by": [
+    "Few-Step Streaming Video Generation via Condition Shifting"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2110.14168",
+   "title": "Training Verifiers to Solve Math Word Problems",
+   "year": 2021,
+   "authors": "K. Cobbe, V. Kosaraju, Mo Bavarian et al.",
+   "abstract": "State-of-the-art language models can match human performance on many tasks, but they still struggle to robustly perform multi-step mathematical reasoning. To diagnose the failures of current models and support research, we introduce GSM8K, a dataset of 8.5K high quality linguistically diverse grade school math word problems. We find that even the largest transformer models fail to achieve high test performance, despite the conceptual simplicity of this problem distribution. To increase performance, we propose training verifiers to judge the correctness of model completions. At test time, we generate many candidate solutions and select the one ranked highest by the verifier. We demonstrate…",
+   "citations": 12139,
+   "url": "https://arxiv.org/abs/2110.14168",
+   "cited_by": [
+    "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2309.06180",
+   "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+   "year": 2023,
+   "authors": "Woosuk Kwon, Zhuo-Han Li, Si-Yuan Zhuang et al.",
+   "abstract": "High throughput serving of large language models (LLMs) requires batching sufficiently many requests at a time. However, existing systems struggle because the key-value cache (KV cache) memory for each request is huge and grows and shrinks dynamically. When managed inefficiently, this memory can be significantly wasted by fragmentation and redundant duplication, limiting the batch size. To address this problem, we propose PagedAttention, an attention algorithm inspired by the classical virtual memory and paging techniques in operating systems. On top of it, we build vLLM, an LLM serving system that achieves (1) near-zero waste in KV cache memory and (2) flexible sharing of KV cache within…",
+   "citations": 10127,
+   "url": "https://arxiv.org/abs/2309.06180",
+   "cited_by": [
+    "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2103.03874",
+   "title": "Measuring Mathematical Problem Solving With the MATH Dataset",
+   "year": 2021,
+   "authors": "Dan Hendrycks, Collin Burns, Saurav Kadavath et al.",
+   "abstract": "Many intellectual endeavors require mathematical problem solving, but this skill remains beyond the capabilities of computers. To measure this ability in machine learning models, we introduce MATH, a new dataset of 12,500 challenging competition mathematics problems. Each problem in MATH has a full step-by-step solution which can be used to teach models to generate answer derivations and explanations. To facilitate future research and increase accuracy on MATH, we also contribute a large auxiliary pretraining dataset which helps teach models the fundamentals of mathematics. Even though we are able to increase accuracy on MATH, our results show that accuracy remains relatively low, even with…",
+   "citations": 7338,
+   "url": "https://arxiv.org/abs/2103.03874",
+   "cited_by": [
+    "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2303.04137",
+   "title": "Diffusion policy: Visuomotor policy learning via action diffusion",
+   "year": 2023,
+   "authors": "Cheng Chi, Zhen-Jia Xu, Si-Yuan Feng et al.",
+   "abstract": "This paper introduces Diffusion Policy, a new way of generating robot behavior by representing a robot’s visuomotor policy as a conditional denoising diffusion process. We benchmark Diffusion Policy across 15 different tasks from 4 different robot manipulation benchmarks and find that it consistently outperforms existing state-of-the-art robot learning methods with an average improvement of 46.9%. Diffusion Policy learns the gradient of the action-distribution score function and iteratively optimizes with respect to this gradient field during inference via a series of stochastic Langevin dynamics steps. We find that the diffusion formulation yields powerful advantages when used for robot…",
+   "citations": 5146,
+   "url": "https://arxiv.org/abs/2303.04137",
+   "cited_by": [
+    "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1411.4028",
+   "title": "A Quantum Approximate Optimization Algorithm",
+   "year": 2014,
+   "authors": "E. Farhi, J. Goldstone, S. Gutmann",
+   "abstract": "We introduce a quantum algorithm that produces approximate solutions for combinatorial optimization problems. The algorithm depends on a positive integer p and the quality of the approximation improves as p is increased. The quantum circuit that implements the algorithm consists of unitary gates whose locality is at most the locality of the objective function whose optimum is sought. The depth of the circuit grows linearly with p times (at worst) the number of constraints. If p is fixed, that is, independent of the input size, the algorithm makes use of efficient classical preprocessing. If p grows with the input size a different strategy is proposed. We study the algorithm as applied to…",
+   "citations": 4844,
+   "url": "https://arxiv.org/abs/1411.4028",
+   "cited_by": [
+    "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1904.09751",
+   "title": "The Curious Case of Neural Text Degeneration",
+   "year": 2019,
+   "authors": "Ari Holtzman, Jan Buys, Li Du et al.",
+   "abstract": "Despite considerable advancements with deep neural language models, the enigma of neural text degeneration persists when these models are tested as text generators. The counter-intuitive empirical observation is that even though the use of likelihood as training objective leads to high quality models for a broad range of language understanding tasks, using likelihood as a decoding objective leads to text that is bland and strangely repetitive. In this paper, we reveal surprising distributional differences between human text and machine text. In addition, we find that decoding strategies alone can dramatically effect the quality of machine text, even when generated from exactly the same…",
+   "citations": 4779,
+   "url": "https://arxiv.org/abs/1904.09751",
+   "cited_by": [
+    "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "stats": {
+  "raw_news": 69,
+  "stories": 10,
+  "videos": 4,
+  "papers": 15,
+  "classics": 8,
+  "seconds": 601
+ }
+}

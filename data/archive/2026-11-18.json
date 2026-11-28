@@ -1,0 +1,612 @@
+{
+ "generated_at": "2026-11-18T13:07:41.698834+00:00",
+ "date": "2026-11-18",
+ "tldr": {
+  "headline": "Les titres du jour",
+  "points": [
+   {
+    "title": "Energy-Based Reasoners: 385x more efficient inference",
+    "text": "100 points · 14 commentaires",
+    "ref": "news:23a6e8d38fa0"
+   },
+   {
+    "title": "AI is killing All About Berlin",
+    "text": "471 points · 438 commentaires",
+    "ref": "news:f1feb2e4bb48"
+   },
+   {
+    "title": "Cerebras Disaggregated Inference",
+    "text": "89 points · 23 commentaires",
+    "ref": "news:2d0ef2ca9868"
+   },
+   {
+    "title": "Google's AI answers reducing search traffic by 40%",
+    "text": "497 points · 367 commentaires",
+    "ref": "news:f2df59b272b9"
+   },
+   {
+    "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+    "text": "84 points · 40 commentaires",
+    "ref": "news:3e72391ba79d"
+   }
+  ],
+  "generated": false
+ },
+ "tldr_en": {
+  "headline": "Today's headlines",
+  "points": [
+   {
+    "title": "Energy-Based Reasoners: 385x more efficient inference",
+    "text": "100 points · 14 commentaires",
+    "ref": "news:23a6e8d38fa0"
+   },
+   {
+    "title": "AI is killing All About Berlin",
+    "text": "471 points · 438 commentaires",
+    "ref": "news:f1feb2e4bb48"
+   },
+   {
+    "title": "Cerebras Disaggregated Inference",
+    "text": "89 points · 23 commentaires",
+    "ref": "news:2d0ef2ca9868"
+   },
+   {
+    "title": "Google's AI answers reducing search traffic by 40%",
+    "text": "497 points · 367 commentaires",
+    "ref": "news:f2df59b272b9"
+   },
+   {
+    "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+    "text": "84 points · 40 commentaires",
+    "ref": "news:3e72391ba79d"
+   }
+  ],
+  "generated": false
+ },
+ "news": [
+  {
+   "id": "23a6e8d38fa0",
+   "title": "Energy-Based Reasoners: 385x more efficient inference",
+   "url": "https://energy-based-reasoners.github.io/",
+   "source": "Hacker News",
+   "published": "2026-11-18T09:29:32+00:00",
+   "summary": "100 points · 14 commentaires",
+   "image": null,
+   "signal": 100,
+   "discussion": "https://news.ycombinator.com/item?id=50543989",
+   "score": 5.01,
+   "also": []
+  },
+  {
+   "id": "f1feb2e4bb48",
+   "title": "AI is killing All About Berlin",
+   "url": "https://nicolasbouliane.com/blog/death-by-ai",
+   "source": "Hacker News",
+   "published": "2026-11-18T06:47:26+00:00",
+   "summary": "471 points · 438 commentaires",
+   "image": null,
+   "signal": 471,
+   "discussion": "https://news.ycombinator.com/item?id=50542705",
+   "score": 4.61,
+   "also": []
+  },
+  {
+   "id": "2d0ef2ca9868",
+   "title": "Cerebras Disaggregated Inference",
+   "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+   "source": "Hacker News",
+   "published": "2026-11-18T00:56:23+00:00",
+   "summary": "89 points · 23 commentaires",
+   "image": null,
+   "signal": 89,
+   "discussion": "https://news.ycombinator.com/item?id=50540472",
+   "score": 4.49,
+   "also": []
+  },
+  {
+   "id": "f2df59b272b9",
+   "title": "Google's AI answers reducing search traffic by 40%",
+   "url": "https://revscope.co/blog/search-seo-geo-2026/",
+   "source": "Hacker News",
+   "published": "2026-11-18T00:17:58+00:00",
+   "summary": "497 points · 367 commentaires",
+   "image": null,
+   "signal": 497,
+   "discussion": "https://news.ycombinator.com/item?id=50540178",
+   "score": 4.33,
+   "also": []
+  },
+  {
+   "id": "3e72391ba79d",
+   "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+   "url": "https://news.ycombinator.com/item?id=50536468",
+   "source": "Hacker News",
+   "published": "2026-11-17T19:01:43+00:00",
+   "summary": "84 points · 40 commentaires",
+   "image": null,
+   "signal": 84,
+   "discussion": "https://news.ycombinator.com/item?id=50536468",
+   "score": 4.15,
+   "also": []
+  },
+  {
+   "id": "b8930a9a56df",
+   "title": "Not Everything Needs an LLM",
+   "url": "https://newsletter.posthog.com/p/decision-models",
+   "source": "Hacker News",
+   "published": "2026-11-17T18:16:18+00:00",
+   "summary": "164 points · 71 commentaires",
+   "image": null,
+   "signal": 164,
+   "discussion": "https://news.ycombinator.com/item?id=50535740",
+   "score": 4.64,
+   "also": []
+  },
+  {
+   "id": "549a77347d5e",
+   "title": "Introducing GPT-6.2 Astra and Sol",
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+   "source": "OpenAI",
+   "published": "2026-11-17T17:45:00+00:00",
+   "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+   "image": null,
+   "signal": 0,
+   "score": 7.77,
+   "also": [
+    {
+     "source": "Hacker News",
+     "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+    }
+   ],
+   "discussion": "https://news.ycombinator.com/item?id=50535230"
+  },
+  {
+   "id": "851193cad36b",
+   "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+   "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+   "source": "Hacker News",
+   "published": "2026-11-17T17:12:06+00:00",
+   "summary": "591 points · 267 commentaires",
+   "image": null,
+   "signal": 591,
+   "discussion": "https://news.ycombinator.com/item?id=50534631",
+   "score": 4.11,
+   "also": []
+  },
+  {
+   "id": "b563d314a26c",
+   "title": "What is the best harness for each model?",
+   "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+   "source": "Hacker News",
+   "published": "2026-11-17T14:53:43+00:00",
+   "summary": "390 points · 128 commentaires",
+   "image": null,
+   "signal": 390,
+   "discussion": "https://news.ycombinator.com/item?id=50532191",
+   "score": 3.67,
+   "also": []
+  },
+  {
+   "id": "91103a513ae5",
+   "title": "We don't need more apps, we need better open source",
+   "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
+   "source": "Hacker News",
+   "published": "2026-11-17T14:45:36+00:00",
+   "summary": "351 points · 243 commentaires",
+   "image": null,
+   "signal": 351,
+   "discussion": "https://news.ycombinator.com/item?id=50532086",
+   "score": 5.08,
+   "also": []
+  }
+ ],
+ "videos": [
+  {
+   "id": "qbsb9DpdZ6s",
+   "title": "How to compress text to 1 bit per character | Information theory, part 3",
+   "url": "https://www.youtube.com/watch?v=qbsb9DpdZ6s",
+   "channel": "3Blue1Brown",
+   "published": "2026-11-17T16:43:16+00:00",
+   "thumbnail": "https://i2.ytimg.com/vi/qbsb9DpdZ6s/hqdefault.jpg",
+   "views": 477125,
+   "description": "Arithmetic codes and how they elucidate this trilogy's title Channel career fair: https://3b1b.com/talent New store items! https://3b1b.com/store Early views for supporters: https://3b1b.com/support Other resources you…",
+   "relevance": 0
+  },
+  {
+   "id": "gl2U4fGTr6g",
+   "title": "OpenAI's New Breakthrough Is... Utter Chaos",
+   "url": "https://www.youtube.com/watch?v=gl2U4fGTr6g",
+   "channel": "Two Minute Papers",
+   "published": "2026-11-17T12:46:24+00:00",
+   "thumbnail": "https://i4.ytimg.com/vi/gl2U4fGTr6g/hqdefault.jpg",
+   "views": 180407,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://www.kitp.ucsb.edu/sites/default/files/YM_working_group.pdf…",
+   "relevance": 0
+  }
+ ],
+ "papers": [
+  {
+   "id": "2611.22115",
+   "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
+   "authors": "Xingchen AGI Lab, Baotian Hu, Bingkai Yang, Boyang Wang et al.",
+   "abstract": "We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes the design principles and systems engineering behind the series, spanning architecture selection, large-scale pretraining, and reasoning and agentic post-training. We study how sparse activation, attention design, model depth and width, and speculative decoding balance model capacity with computation, memory access, and execution overhead. Our pretraining infrastructure builds on MindSpore HyperParallel, combining topology-aware hybrid sharding, efficient distributed optimizer execution, and coordinated management of long-sequence workloads and activation memory. CPU affinity and core isolation further reduce host scheduling interference. Together, these mechanisms support the pretraining of a 285B-parameter model on 8,192 Ascend 910C cards, providing a concrete setting for the architectural and systems studies. For post-training, we introduce TeleGym, a unified agent execution platform…",
+   "published": "2026-11-17T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.22115",
+   "pdf": "https://arxiv.org/pdf/2611.22115",
+   "upvotes": 144,
+   "github": null,
+   "origin": "hf",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.21072",
+   "title": "Sage S2.1 Flash Technical Report",
+   "authors": "Kun Cai, Haodong Chen, Guangran Cheng, Qingxiu Cheng et al.",
+   "abstract": "We introduce Sage S1.5 Flash, a 320-billion-parameter general-purpose mixture-of-experts model designed to reason over scientific evidence and act in interactive environments. Sage Sci-Perception uses dedicated encoders for molecular graphs and biological sequences and represents spectra as ordered patches of measurements. Modality-specific projectors map these representations into the input space of a shared backbone, which processes them alongside text and images. To develop the model's agent capabilities, we construct verifiable environments for tool use, search, and coding, as well as specialized workflows involving machine learning experiments and scientific software. Task completion is checked against execution results, changes in environment state, or submitted artifacts. We evaluate Sage S1.5 Flash on 33 benchmarks across seven domains. In the primary comparison against five baselines, it ranks first on OfficeQA Pro (72.2), MLE-bench Lite (90.3 HumanRank), Harvey LAB, and SpreadsheetBench~2, and second on OSWorld-Verified (85.2), WebArena-Verified (67.6), and DeepResearch…",
+   "published": "2026-11-16T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.21072",
+   "pdf": "https://arxiv.org/pdf/2611.21072",
+   "upvotes": 95,
+   "github": "https://github.com/InternLM/Sage-S2.1-Flash",
+   "origin": "hf",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.21218",
+   "title": "InclusionMed: Benchmarking AI for Inclusive Healthcare",
+   "authors": "The InclusionMed Collaboration",
+   "abstract": "Advancing medical AI for inclusive healthcare requires evaluation across diverse healthcare roles, tasks, and care settings, but benchmark coverage remains uneven. We introduce InclusionMed, an open medical AI evaluation initiative for inclusive healthcare. The InclusionMed Atlas organizes benchmarks across three healthcare roles and three AI capabilities. For the first release, we selected four public benchmarks from 388 candidates through structured audits and independent reproduction. With InclusionMed-DxFiles, our private diagnostic reasoning benchmark, the Atlas contains five benchmarks covering three of its nine role--capability cells. We evaluated frontier large language models on the Atlas and aggregated their results into the InclusionMed Index, with overall scores ranging from 17.5 to 49.1 out of 100. The Index also reports scores by healthcare role and AI capability, showing that a model's rank varied with the role or capability considered. A within-benchmark analysis using task-level tags showed that the ten highest-ranked models in the Index all scored higher on patient…",
+   "published": "2026-11-16T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.21218",
+   "pdf": "https://arxiv.org/pdf/2611.21218",
+   "upvotes": 94,
+   "github": "https://github.com/panuvi/inclusionmed",
+   "origin": "hf",
+   "ai_summary": "InclusionMed is an open medical AI evaluation initiative that audits and reproduces benchmarks across healthcare roles and capabilities, revealing that model rankings and inference costs vary by context and motivating broader, context-specific evaluation.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.17621",
+   "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
+   "authors": "AI Training Platform Team, Bingwei Zhang, Jing Li, Amir Abdullin et al.",
+   "abstract": "Kernel optimization is essential for efficient large language model (LLM) training and inference on Ascend NPUs. Existing Ascend kernel benchmarks primarily focus on kernel generation, with less emphasis on the ability of agents to optimize existing implementations under input configurations drawn from real workloads. To address this requirement, we introduce AscendGYM, a benchmark whose initial suite comprises 48 kernels across three difficulty levels. Each kernel is paired with test cases whose data types and tensor shapes are collected from real-world training and inference tasks. Consequently, performance improvements on AscendGYM map directly to the corresponding workloads. In terms of usability, two evaluation modes are supported in AscendGYM: model evaluation and model-harness evaluation. The kernel optimization capabilities of both trained models and custom agents are allowed to be measured. It provides a complete execution environment that closely reproduces how Ascend kernels are invoked in practical pipelines. For model evaluation, it additionally includes a built-in…",
+   "published": "2026-11-13T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.17621",
+   "pdf": "https://arxiv.org/pdf/2611.17621",
+   "upvotes": 90,
+   "github": "https://github.com/SLAI-AITP/AscendGYM",
+   "origin": "hf",
+   "ai_summary": "AscendGYM provides a benchmark for assessing kernel optimization capabilities on Ascend NPUs using real-workload test cases, two evaluation modes, and a Speedup-Token Score that balances speedup against token cost.",
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.15789",
+   "title": "VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender",
+   "authors": "Yuzhe Chen, Muxi Diao, Lele Yang, Wenbin Xu et al.",
+   "abstract": "Controllable real-world video generation models can condition on a rendered graybox proxy video, which fixes layout, motion and camera. Coding agents can build such videos by reconstructing a 4D scene in Blender, yet no benchmark checks both these videos and the long, multi-shot scenes behind them. We introduce VibePrevisBench, a benchmark for 4D scene reconstruction: an agent turns a brief into an executable 4D scene and renders its proxy video. Its 242 tasks span four input kinds, including scripts, photos, continuations, and reference videos. Each delivery is scored along two evaluation dimensions. Rule-based Scene Check re-runs the code and compares the exported 4D scene with hidden ground truth facts in nine dimensions. VLM-based Screen Check asks a VLM judge whether the facts that pass can be recognized in the proxy video. We analyze the evaluation results and trajectories of 11 frontier coding agents and identify three key observations. First, multimodal understanding separates the agents, especially in understanding space and camera motion. Second, all agents seem to already…",
+   "published": "2026-11-11T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.15789",
+   "pdf": "https://arxiv.org/pdf/2611.15789",
+   "upvotes": 85,
+   "github": "https://github.com/vibeprevisbench/vibeprevisbench",
+   "origin": "hf",
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.21003",
+   "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
+   "authors": "K2 Team, Zhengzhong Liu, Haonan Li, Xuezhe Ma et al.",
+   "abstract": "We present K2-Horizon, a fleet of six fully open language models, from a 0.9B dense model to a 375B-A23B MoE, built for general-purpose reasoning and agentic work across math and science, software engineering, deep research, office automation, and beyond. The models lead or are competitive with strong open models of their size on agentic and coding benchmarks. On the modeling side, to strengthen reasoning, we introduce Mixture-of-Value Attention (MoVA), applying MoE to attention value projections, and softplus attention gating, a more flexible, theoretically motivated gate. Our 36B-A4B model uses both and nearly matches a 32B dense model trained on the same data, with one-seventh the active parameters. We also introduce Uno, lossless diffusion adapters that speed up decoding by up to 2.2x without a separate draft model. Our release follows the LLM360 definition of open source for transparency and reproducibility: the full development history, including intermediate checkpoints from every training stage, pre-training data, training logs, and all training, evaluation, and…",
+   "published": "2026-11-16T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.21003",
+   "pdf": "https://arxiv.org/pdf/2611.21003",
+   "upvotes": 79,
+   "github": null,
+   "origin": "hf",
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.19937",
+   "title": "AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data",
+   "authors": "Annan Wang, Yuchen Xie, Yu Cen, Leon Liangyu Chen et al.",
+   "abstract": "Real-world portfolio management requires converting noisy market observations into coordinated, simultaneous allocations across multiple assets under shared capital constraints. Advances in forecasting models and alpha discovery help identify opportunities. However, traditional pipelines often decouple signal forecasting from portfolio construction, potentially misaligning learning with allocation and execution objectives. We present AllocFlow, an end-to-end flow-matching framework that directly generates joint portfolio allocations from raw multi-asset market histories. To capture dependencies among portfolio positions, AllocFlow employs a cross-asset flow Transformer conditioned on temporal market representations to generate continuous, signed position weights across all instruments jointly. To address the sample inefficiency and instability of learning continuous allocation policies from scratch, we establish a two-stage training scheme: strategy-supervised imitation shapes a structured distribution of candidate portfolios, followed by group-relative reinforcement learning (RL)…",
+   "published": "2026-11-15T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.19937",
+   "pdf": "https://arxiv.org/pdf/2611.19937",
+   "upvotes": 71,
+   "github": "https://github.com/allocflow/AllocFlow",
+   "origin": "hf",
+   "ai_summary": "An end-to-end flow-matching framework generates joint portfolio allocations from raw multi-asset market histories via a cross-asset flow Transformer and a two-stage imitation and group-relative reinforcement learning procedure, improving risk-adjusted returns on cryptocurrency perpetual futures.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.12068",
+   "title": "MIRIX-2.0: Multi-Agent Memory System",
+   "authors": "Wei-Chieh Huang, Weizhi Zhang, Jiayan Nan, Peng Xia et al.",
+   "abstract": "Long-term memory lets LLM agents personalize, stay consistent, and reuse what worked before. Parametric memories need training, consolidation can lose details for good, and keeping every record leaves a growing store to search. We present MIRIX-2.0, a multi-agent memory system designed to be practical, accurate, and efficient at once. It is the most accurate of the compared systems on four of five QA benchmarks. It reaches 91.4% on LoCoMo and 72.6% on LongMemEval-S, where it leads the strongest baseline by 14.3 points, and with AutoDream disabled it gains 31.0 and 22.0 points over HyperMem on single-hop and multi-hop document QA. As procedural memory, it yields the highest mean success among the compared memory methods on ALFWorld and WebShop and reaches 49.2% on MetaClaw-Bench, against 44.0% for MetaClaw's skill library. Six typed memory agents keep complete records as the system of record, and a provenance hypergraph indexes episodic and semantic records with n-ary frames that cite their rows. Retrieval runs under explicit budgets, so the evidence a question inspects does not grow…",
+   "published": "2026-11-09T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.12068",
+   "pdf": "https://arxiv.org/pdf/2611.12068",
+   "upvotes": 53,
+   "github": "https://github.com/Mirix-AI/MIRIX",
+   "origin": "hf",
+   "ai_summary": "MIRIX-2.0 is a multi-agent memory system for LLM agents that achieves high accuracy and efficiency across QA and procedural benchmarks without fine-tuning.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.20218",
+   "title": "SWE-CoWork: Benchmarking Coding Agents as Digital Employees in Organizations",
+   "authors": "Xinping Lei, Minghao Liu, Ruijie Zhu, Xiaohui Hu et al.",
+   "abstract": "A coding agent working within a software organization must establish what to build, collaborate with colleagues, and verify what it delivers. We introduce SWE-CoWork, a benchmark comprising 101 development assignments across 101 real repositories, 11 programming languages, and 12 application domains. Each assignment places an agent in a simulated engineering organization with 26 colleagues who have distinct responsibilities, bounded knowledge, and controlled collaboration behavior. Starting from a brief handoff, agents must recover requirements distributed across colleagues and workplace records, reconcile conflicting evidence, and implement changes evaluated by private executable tests. We evaluate eleven models and find a substantial gap between partial implementation and complete task delivery. The two leading models satisfy approximately 63% of fail-to-pass (F2P) tests but complete fewer than 8% of assignments. Providing complete requirements upfront improves F2P by approximately 16 percentage points for Seed Evolving and GPT-6 Astra, yet leaves complete task success unchanged.…",
+   "published": "2026-11-15T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.20218",
+   "pdf": "https://arxiv.org/pdf/2611.20218",
+   "upvotes": 51,
+   "github": "https://github.com/TokenWave-AI/swe-cowork-bench",
+   "origin": "hf",
+   "ai_summary": "A benchmark of realistic software engineering assignments reveals that current coding agents struggle to track requirements from clarification through implementation, verification, and handoff, completing few tasks despite partial test success.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.07222",
+   "title": "SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection",
+   "authors": "Woosang Lim, Yeseul Chang, Jaewoo Lee",
+   "abstract": "Tool-using agents act on email, files, and payments, so an instruction hidden in a web page or a shared document can make an agent send data or money to an attacker. Many runtime defenses put a language model on the decision that lets an action through, so the decision depends on a model that may read the attacker's text and adds model calls to every step. Provenance defenses keep the model off the final check but need a model to plan or route each task first. Where an action goes can instead be read from the tools' typed returns: an email's sender or a payment's account arrives in a typed field, while injected instructions arrive as free text. SPILLWAY turns this observation into a deterministic floor with no per-task plan. The check admits a call when each target value that appears in tool output but not in the user's task was returned by a read-only tool in a typed field or is covered by a fixed delegation rule. A deterministic sanitizer removes instruction-like regions its fixed rules match before the model reads them and retains the removed spans as evidence, and a local judge…",
+   "published": "2026-11-04T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2611.07222",
+   "pdf": "https://arxiv.org/pdf/2611.07222",
+   "upvotes": 41,
+   "github": "https://github.com/saintmachines/spillway",
+   "origin": "hf",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.23010",
+   "title": "PhysScope: Agentic Multimodal Physics Reasoning with Grounded Visual Memory",
+   "authors": "Haoyang Liu, Kecheng Liang, Xinyu Li, Weixing Chen et al.",
+   "abstract": "Vision-language models (VLMs) can correctly interpret physics diagrams yet apply constraints outside the states or conditions in which they hold, causing premise errors to propagate through subsequent calculations. We introduce PhysScope, an inference-time visual harness that supports self-correction of these scope mismatches without updating model weights. PhysScope enables the model to link physical scopes directly to its visual observations and explicitly constructs derived views to support reasoning. The harness imposes explicit constraints on state distinctions, conditions, and physical scopes during model reasoning, and checks agent-proposed revisions against sources and scopes. Accepted revisions invalidate registered dependents, thereby maintaining scope-aware working memory. On PhysAlign, PhysScope achieves higher solving scores than direct solving across all six evaluated VLMs. With Gemini-3.8-flash, it outperforms Canvas-CoT by 9.34 percentage points and substantially improves solving accuracy on the out-of-distribution (OOD) PhysUniBench benchmark. Ablation studies…",
+   "published": "2026-11-17T16:22:21Z",
+   "url": "https://arxiv.org/abs/2611.23010",
+   "pdf": "https://arxiv.org/pdf/2611.23010",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.AI"
+   ],
+   "relevance": 5,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.23211",
+   "title": "Multimodal Masked Diffusion Autoencoder for Modeling Impaired Driving",
+   "authors": "John Gideon, Anshul Gupta, Megan Applegate-Kenton, Kayli Battel et al.",
+   "abstract": "Human cognitive state (e.g., distraction, stress), gaze, and behavior interact with the driving environment in subtle ways that AI could use to assist drivers, but ground-truth labels for human cognitive state levels are costly to obtain at scale. We propose a multimodal masked-diffusion autoencoder, ID-MAE, that adds a self-supervised objective to impairment prediction: alongside predicting the impairment label as a masked token, it reconstructs masked gaze and trajectory. To probe the effects of different modalities and types of impairments on model inference, we introduce DIVERT, a driving-simulator dataset containing 103 hours of driving data (n = 109) with ten impairment inductions spanning cognitive, visual, and emotional states, recorded with gaze, vehicle state, and scene video. We demonstrate how ID-MAE affords significant improvements in impairment inference results on both the DIVERT dataset and existing datasets, and enables strong results in additional tasks, such as trajectory and gaze prediction. For location-matched pairs, our model achieves a paired AUC of 0.706 for…",
+   "published": "2026-11-17T18:50:22Z",
+   "url": "https://arxiv.org/abs/2611.23211",
+   "pdf": "https://arxiv.org/pdf/2611.23211",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CV",
+    "cs.LG",
+    "cs.RO"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.23192",
+   "title": "WoRD: Diffusion-Based Posterior Inference for Online Goal Recognition",
+   "authors": "Almog Anschel, Sarah Keren",
+   "abstract": "Goal recognition is the task of inferring an agent's intended goal from its observed behavior. Most existing work focuses on high-level symbolic recognition, abstracting away the continuous motion through which agents reach their goal. Methods that do reason over continuous trajectories rely on an explicit dynamics model that is hard to acquire and rarely transfers across settings. Neither approach explicitly learns how agents move toward each candidate goal, limiting accuracy on ambiguous trajectory prefixes where such knowledge is most needed. We present WoRD (Waypoint Recognition with Diffusion), which uses a learned trajectory prior to infer the agent's goal from partial observations. At each step, WoRD runs one warm-started denoising chain per candidate goal, steers each chain toward the observed trajectory through a closed-form log-likelihood gradient, and reweights the resulting samples by Bayes' rule into a calibrated posterior over goals. We evaluate WoRD on simulated robot settings, pedestrian trajectories, and vehicle trajectories using four metrics targeting distinct…",
+   "published": "2026-11-17T18:35:53Z",
+   "url": "https://arxiv.org/abs/2611.23192",
+   "pdf": "https://arxiv.org/pdf/2611.23192",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.AI",
+    "cs.LG",
+    "cs.RO"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.23045",
+   "title": "ForecastGym: A Live, Controlled, and Replayable Benchmark for Forecasting Agents",
+   "authors": "Yicheng Tao, Yuante Li, Zipei Fan",
+   "abstract": "Agents built on large language models (LLMs) increasingly forecast real-world events by searching the Web and reasoning over what they find. How well such an agent forecasts depends on both the retrieved evidence and the model, making control over that evidence essential for evaluation. Live evaluations can mix retrieval with reasoning when each system searches on its own, while retrospective search can leak later information through date filters or today's ranking of historical pages. Comparing models, search sources, and memory strategies requires both fixed evidence and a record of how it evolved before resolution. We introduce ForecastGym, which records what four commercial web search APIs return for open prediction-market questions every two days and replays this frozen evidence offline once outcomes are known, comparing models, memory, and captured search sources under a fixed evidence-acquisition policy. Its first release covers 150 questions, 614 evidence states, one per question and collection time, and 131k search results. Rerunning the same queries after settlement…",
+   "published": "2026-11-17T16:44:38Z",
+   "url": "https://arxiv.org/abs/2611.23045",
+   "pdf": "https://arxiv.org/pdf/2611.23045",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.AI",
+    "cs.CL"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2611.23034",
+   "title": "M3OPD-Reasoner: An Open Recipe for Post-Training Multimodal Reasoning with Multi-Teacher On-Policy Distillation",
+   "authors": "Nguyen Quang Trung, Hoang Phan, Shuo Sun, Longyin Zhang et al.",
+   "abstract": "Multi-Teacher On-Policy Distillation (MOPD) enables a single student to absorb the skills of several domain teachers by learning from its own generated responses. We present Multimodal Model Multi-Teacher On-Policy Distillation Reasoner (M3OPD-Reasoner), a fully open recipe for post-training vision-language models (VLMs) over three reasoning domains: image STEM, image perception, and video. We curate two datasets, M3OPD-SFT-1.35M for supervised fine-tuning (SFT) and M3OPD-RL-193K for reinforcement learning (RL) with verifiable rewards. On these data, we compare post-training recipes that start from Qwen3.5-9B: training one model on the mixed data of all domains (MixSFT and MixRL), and training one teacher per domain with Group Sequence Policy Optimization (GSPO), directly or after an SFT warm-up, and distilling the teachers into one student with MOPD. We evaluate on 21 image STEM, image perception, and video reasoning benchmarks after we decontaminate the training data against them. The comparison establishes MOPD of teachers trained with GSPO directly from Qwen3.5-9B as the best…",
+   "published": "2026-11-17T16:36:16Z",
+   "url": "https://arxiv.org/abs/2611.23034",
+   "pdf": "https://arxiv.org/pdf/2611.23034",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CV"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "classics": [
+  {
+   "id": "2304.08485",
+   "title": "Visual Instruction Tuning",
+   "year": 2023,
+   "authors": "Haotian Liu, Chun-Yuan Li, Qingyang Wu et al.",
+   "abstract": "Instruction tuning large language models (LLMs) using machine-generated instruction-following data has improved zero-shot capabilities on new tasks, but the idea is less explored in the multimodal field. In this paper, we present the first attempt to use language-only GPT-4 to generate multimodal language-image instruction-following data. By instruction tuning on such generated data, we introduce LLaVA: Large Language and Vision Assistant, an end-to-end trained large multimodal model that connects a vision encoder and LLM for general-purpose visual and language understanding.Our early experiments show that LLaVA demonstrates impressive multimodel chat abilities, sometimes exhibiting the…",
+   "citations": 12068,
+   "url": "https://arxiv.org/abs/2304.08485",
+   "cited_by": [
+    "Sage S2.1 Flash Technical Report",
+    "AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2402.03300",
+   "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models",
+   "year": 2024,
+   "authors": "Zhihong Shao, Peiyi Wang, Qi-Hao Zhu et al.",
+   "abstract": "Mathematical reasoning poses a significant challenge for language models due to its complex and structured nature. In this paper, we introduce DeepSeekMath 7B, which continues pre-training DeepSeek-Coder-Base-v1.5 7B with 120B math-related tokens sourced from Common Crawl, together with natural language and code data. DeepSeekMath 7B has achieved an impressive score of 51.7% on the competition-level MATH benchmark without relying on external toolkits and voting techniques, approaching the performance level of Gemini-Ultra and GPT-4. Self-consistency over 64 samples from DeepSeekMath 7B achieves 60.9% on MATH. The mathematical reasoning capability of DeepSeekMath is attributed to two key…",
+   "citations": 11068,
+   "url": "https://arxiv.org/abs/2402.03300",
+   "cited_by": [
+    "Sage S2.1 Flash Technical Report",
+    "AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2405.15793",
+   "title": "SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering",
+   "year": 2024,
+   "authors": "John Yang, Carlos E. Jimenez, Alexander Wettig et al.",
+   "abstract": "Language model (LM) agents are increasingly being used to automate complicated tasks in digital environments. Just as humans benefit from powerful software applications, such as integrated development environments, for complex tasks like software engineering, we posit that LM agents represent a new category of end users with their own needs and abilities, and would benefit from specially-built interfaces to the software they use. We investigate how interface design affects the performance of language model agents. As a result of this exploration, we introduce SWE-agent: a system that facilitates LM agents to autonomously use computers to solve software engineering tasks. SWE-agent's custom…",
+   "citations": 2541,
+   "url": "https://arxiv.org/abs/2405.15793",
+   "cited_by": [
+    "Sage S2.1 Flash Technical Report",
+    "SWE-CoWork: Benchmarking Coding Agents as Digital Employees in Organizations"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2106.01946",
+   "title": "Convex optimization",
+   "year": 2010,
+   "authors": "E. Vorontsova, R. Hildebrand, A. Gasnikov et al.",
+   "abstract": "This textbook is based on lectures given by the authors at MIPT (Moscow), HSE (Moscow), FEFU (Vladivostok), V.I. Vernadsky KFU (Simferopol), ASU (Republic of Adygea), and the University of Grenoble-Alpes (Grenoble, France). First of all, the authors focused on the program of a two-semester course of lectures on convex optimization, which is given to students of MIPT. The first chapter of this book contains the materials of the first semester (\"Fundamentals of convex analysis and optimization\"), the second and third chapters contain the materials of the second semester (\"Numerical methods of convex optimization\"). The textbook has a number of features. First, in contrast to the classic…",
+   "citations": 39289,
+   "url": "https://arxiv.org/abs/2106.01946",
+   "cited_by": [
+    "InclusionMed: Benchmarking AI for Inclusive Healthcare"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1707.06347",
+   "title": "Proximal Policy Optimization Algorithms",
+   "year": 2017,
+   "authors": "John D. Schulman, F. Wolski, Prafulla Dhariwal et al.",
+   "abstract": "We propose a new family of policy gradient methods for reinforcement learning, which alternate between sampling data through interaction with the environment, and optimizing a \"surrogate\" objective function using stochastic gradient ascent. Whereas standard policy gradient methods perform one gradient update per data sample, we propose a novel objective function that enables multiple epochs of minibatch updates. The new methods, which we call proximal policy optimization (PPO), have some of the benefits of trust region policy optimization (TRPO), but they are much simpler to implement, more general, and have better sample complexity (empirically). Our experiments test PPO on a collection of…",
+   "citations": 33671,
+   "url": "https://arxiv.org/abs/1707.06347",
+   "cited_by": [
+    "AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1509.02971",
+   "title": "Continuous control with deep reinforcement learning",
+   "year": 2015,
+   "authors": "T. Lillicrap, Jonathan J. Hunt, Alexander Pritzel et al.",
+   "abstract": "We adapt the ideas underlying the success of Deep Q-Learning to the continuous action domain. We present an actor-critic, model-free algorithm based on the deterministic policy gradient that can operate over continuous action spaces. Using the same learning algorithm, network architecture and hyper-parameters, our algorithm robustly solves more than 20 simulated physics tasks, including classic problems such as cartpole swing-up, dexterous manipulation, legged locomotion and car driving. Our algorithm is able to find policies whose performance is competitive with those found by a planning algorithm with full access to the dynamics of the domain and its derivatives. We further demonstrate…",
+   "citations": 16490,
+   "url": "https://arxiv.org/abs/1509.02971",
+   "cited_by": [
+    "AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1801.01290",
+   "title": "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor",
+   "year": 2018,
+   "authors": "Tuomas Haarnoja, Aurick Zhou, P. Abbeel et al.",
+   "abstract": "Model-free deep reinforcement learning (RL) algorithms have been demonstrated on a range of challenging decision making and control tasks. However, these methods typically suffer from two major challenges: very high sample complexity and brittle convergence properties, which necessitate meticulous hyperparameter tuning. Both of these challenges severely limit the applicability of such methods to complex, real-world domains. In this paper, we propose soft actor-critic, an off-policy actor-critic deep RL algorithm based on the maximum entropy reinforcement learning framework. In this framework, the actor aims to maximize expected reward while also maximizing entropy. That is, to succeed at…",
+   "citations": 13139,
+   "url": "https://arxiv.org/abs/1801.01290",
+   "cited_by": [
+    "AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "1602.01783",
+   "title": "Asynchronous Methods for Deep Reinforcement Learning",
+   "year": 2016,
+   "authors": "Volodymyr Mnih, A. Badia, Mehdi Mirza et al.",
+   "abstract": "We propose a conceptually simple and lightweight framework for deep reinforcement learning that uses asynchronous gradient descent for optimization of deep neural network controllers. We present asynchronous variants of four standard reinforcement learning algorithms and show that parallel actor-learners have a stabilizing effect on training allowing all four methods to successfully train neural network controllers. The best performing method, an asynchronous variant of actor-critic, surpasses the current state-of-the-art on the Atari domain while training for half the time on a single multi-core CPU instead of a GPU. Furthermore, we show that asynchronous actor-critic succeeds on a wide…",
+   "citations": 10706,
+   "url": "https://arxiv.org/abs/1602.01783",
+   "cited_by": [
+    "AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data"
+   ],
+   "why": "Cité par 1 papier tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "stats": {
+  "raw_news": 56,
+  "stories": 10,
+  "videos": 2,
+  "papers": 15,
+  "classics": 8,
+  "seconds": 196
+ }
+}

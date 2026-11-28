@@ -1,0 +1,593 @@
+{
+ "generated_at": "2026-11-01T11:28:45.961090+00:00",
+ "date": "2026-11-01",
+ "tldr": {
+  "headline": "Les titres du jour",
+  "points": [
+   {
+    "title": "The AI cost of JavaScript frameworks",
+    "text": "86 points · 50 commentaires",
+    "ref": "news:fe548f549737"
+   },
+   {
+    "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+    "text": "254 points · 117 commentaires",
+    "ref": "news:f9b8a9efbf26"
+   },
+   {
+    "title": "datasette-llm 0.1a9",
+    "text": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM , which means you can start using Datasette Agent without needing to explicitly configure a default model: uvx --with datasette-agent datasette content.db…",
+    "ref": "news:bc9463905bbd"
+   },
+   {
+    "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
+    "text": "149 points · 95 commentaires",
+    "ref": "news:71145972f162"
+   },
+   {
+    "title": "Anthropic blocks users for anything touching training larger models",
+    "text": "372 points · 214 commentaires",
+    "ref": "news:e07ec5d69c95"
+   }
+  ],
+  "generated": false
+ },
+ "news": [
+  {
+   "id": "fe548f549737",
+   "title": "The AI cost of JavaScript frameworks",
+   "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+   "source": "Hacker News",
+   "published": "2026-11-01T06:06:19+00:00",
+   "summary": "86 points · 50 commentaires",
+   "image": null,
+   "signal": 86,
+   "discussion": "https://news.ycombinator.com/item?id=50323088",
+   "score": 3.31,
+   "also": [],
+   "ai_summary": "L'auteur a conçu un benchmark mesurant l'efficacité d'agents de code pour générer une application web selon le framework JavaScript employé (Next.js, Nuxt, SvelteKit), via des MCP officiels. L'évaluation prend en compte le temps de développement, les tokens consommés, les lignes produites et les scores Lighthouse finaux. Pour un praticien, cette démarche offre une méthode empirique pour évaluer le coût réel en tokens et la compatibilité des frameworks avec le code generation autonome."
+  },
+  {
+   "id": "f9b8a9efbf26",
+   "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+   "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+   "source": "Hacker News",
+   "published": "2026-10-31T22:46:12+00:00",
+   "summary": "254 points · 117 commentaires",
+   "image": null,
+   "signal": 254,
+   "discussion": "https://news.ycombinator.com/item?id=50320995",
+   "score": 3.81,
+   "also": [],
+   "ai_summary": "Le projet Memdoor montre qu'une équipe orchestrée de cinq modèles Qwen3.8-27B spécialisés communiquant via des fichiers peut égaler de grands modèles sur des problèmes de LiveCodeBench Hard. L'approche s'appuie sur une séparation stricte des contextes et une validation par tests unitaires pour un coût d'environ 0,39 $ par exécution. Pour un praticien, cela démontre l'intérêt des architectures multi-agents spécialisées pour résoudre des tâches de code complexes avec des modèles ouverts économiques."
+  },
+  {
+   "id": "bc9463905bbd",
+   "title": "datasette-llm 0.1a9",
+   "url": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+   "source": "Simon Willison",
+   "published": "2026-10-31T22:10:01+00:00",
+   "summary": "Release: datasette-llm 0.1a9 I have some big upgrades to Datasette Agent in the pipeline, but in the meantime here's a tiny user experience improvement to the underlying datasette-llm plugin. It now picks up the default model used by LLM , which means you can start using Datasette Agent without needing to explicitly configure a default model: uvx --with datasette-agent datasette content.db…",
+   "image": null,
+   "signal": 0,
+   "score": 2.34,
+   "also": [],
+   "ai_summary": "La version 0.1a9 du plugin datasette-llm hérite désormais automatiquement du modèle par défaut configuré dans la bibliothèque LLM, évitant d'avoir à le spécifier manuellement lors du lancement de Datasette Agent. Pour un praticien utilisant l'écosystème Datasette, cette mise à jour simplifie la configuration des agents et accélère le démarrage des sessions d'analyse de données assistées par LLM."
+  },
+  {
+   "id": "71145972f162",
+   "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
+   "url": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
+   "source": "Hacker News",
+   "published": "2026-10-31T21:07:58+00:00",
+   "summary": "149 points · 95 commentaires",
+   "image": null,
+   "signal": 149,
+   "discussion": "https://news.ycombinator.com/item?id=50320255",
+   "score": 3.3,
+   "also": [],
+   "ai_summary": "Anthropic a restreint l'usage de Claude pour les activités de modding, de décompilation et de reverse-engineering de jeux vidéo, à la suite de jailbreaks de consoles et de portages non autorisés générés par IA. Pour un praticien, cela met en évidence le durcissement des guardrails sur les tâches d'ingénierie logicielle bas niveau. Cela souligne également la nécessité d'utiliser des modèles ouverts ou auto-hébergés pour des cas d'usage légitimes d'analyse binaire et de sécurité."
+  },
+  {
+   "id": "e07ec5d69c95",
+   "title": "Anthropic blocks users for anything touching training larger models",
+   "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+   "source": "Hacker News",
+   "published": "2026-10-31T19:39:19+00:00",
+   "summary": "372 points · 214 commentaires",
+   "image": null,
+   "signal": 372,
+   "discussion": "https://news.ycombinator.com/item?id=50319358",
+   "score": 3.96,
+   "also": [],
+   "ai_summary": "Un chercheur signale qu'Anthropic bloque ou dégrade les accès des utilisateurs dont les requêtes touchent au SFT, au RFT ou à l'entraînement de modèles, assimilant l'automatisation de scripts d'expérimentation à de la distillation non autorisée. Pour un praticien, cela souligne le risque opérationnel lié à l'intégration d'API propriétaires dans des pipelines de ML engineering. Ces politiques de détection anti-distillation peuvent en effet impacter des workflows de recherche légitimes."
+  },
+  {
+   "id": "b9de5465dae2",
+   "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+   "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+   "source": "Hacker News",
+   "published": "2026-10-31T18:50:34+00:00",
+   "summary": "171 points · 184 commentaires",
+   "image": null,
+   "signal": 171,
+   "discussion": "https://news.ycombinator.com/item?id=50318871",
+   "score": 3.3,
+   "also": [],
+   "ai_summary": "Un agent basé sur GPT-5.6 Sol a terminé une partie complète du jeu Factorio en mode pacifique en 13,5 heures via une interface Python respectant les contraintes d'un joueur humain. Bien que le modèle ait réussi à automatiser les jalons de recherche, il a rencontré des limites en fin de partie pour gérer le scaling de la production, recourant à des actions de transport répétitives. Pour un praticien, cet environnement fournit un benchmark représentatif pour analyser la planification long terme et la résolution autonome de dépendances complexes."
+  },
+  {
+   "id": "aa4997f9eba1",
+   "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+   "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+   "source": "Hacker News",
+   "published": "2026-10-31T18:02:29+00:00",
+   "summary": "78 points · 53 commentaires",
+   "image": null,
+   "signal": 78,
+   "discussion": "https://news.ycombinator.com/item?id=50318401",
+   "score": 2.63,
+   "also": [],
+   "ai_summary": "Cet article analyse l'impact de l'IA générative sur l'esprit critique à partir d'évaluations auto-déclarées par les utilisateurs."
+  },
+  {
+   "id": "5be14df72cef",
+   "title": "Malware uses LLMs to rank victims by how much they're worth",
+   "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+   "source": "Hacker News",
+   "published": "2026-10-31T14:29:03+00:00",
+   "summary": "248 points · 131 commentaires",
+   "image": null,
+   "signal": 248,
+   "discussion": "https://news.ycombinator.com/item?id=50316531",
+   "score": 3.37,
+   "also": [],
+   "ai_summary": "Le malware d'infostealing VOLTA utilise des LLM via OpenRouter pour analyser les données volées et classer automatiquement la valeur financière de ses victimes et leur niveau de sécurité. L'outil intègre un système de repli sur plusieurs modèles successifs pour contourner les guardrails de refus. Pour un data scientist, cela montre comment des pipelines d'extraction d'entités et de raisonnement par LLM sont opérationnalisés pour automatiser le tri de données hétérogènes non structurées."
+  },
+  {
+   "id": "17eb77de1744",
+   "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+   "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+   "source": "Hacker News",
+   "published": "2026-10-31T13:25:10+00:00",
+   "summary": "74 points · 18 commentaires",
+   "image": null,
+   "signal": 74,
+   "discussion": "https://news.ycombinator.com/item?id=50315990",
+   "score": 2.36,
+   "also": [],
+   "ai_summary": "La startup de cybersécurité Cathedral a accédé en moins de 12 heures à des systèmes internes de vente et RH d'Anthropic en utilisant des agents IA, exposant des messages Slack et des données d'employés. Anthropic a confirmé l'accès à ces logiciels tiers, tout en précisant que les poids de modèles, le code source et les conversations des clients restent intacts. Pour un praticien, cet incident montre que l'automatisation offensive par agents IA accélère la découverte de failles, rendant critique la sécurité des outils tiers connectés aux organisations."
+  },
+  {
+   "id": "14074b4203bb",
+   "title": "Show HN: A language model that lives in a boot sector",
+   "url": "https://github.com/kerlenton/bootgpt",
+   "source": "Hacker News",
+   "published": "2026-10-31T12:58:29+00:00",
+   "summary": "85 points · 5 commentaires",
+   "image": null,
+   "signal": 85,
+   "discussion": "https://news.ycombinator.com/item?id=50315782",
+   "score": 2.45,
+   "also": [],
+   "ai_summary": "Un développeur a implémenté un modèle de langage au niveau caractère de 11,5 Ko en int8 capable de s'exécuter dans un secteur de boot (MBR) de 510 octets en mode réel 16 bits, sans aucun OS. Le réseau génère séquentiellement un faux journal de démarrage Linux en utilisant des opérations arithmétiques entières minimalistes. Pour un praticien, ce projet illustre les limites de la miniaturisation de l'inférence via une quantification poussée et une exécution sans runtime externe sur matériel ultra-contraint."
+  }
+ ],
+ "videos": [
+  {
+   "id": "CWdTBLsbaQs",
+   "title": "OpenAI Claims It Just Did The Impossible",
+   "url": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
+   "channel": "Two Minute Papers",
+   "published": "2026-10-30T15:57:16+00:00",
+   "thumbnail": "https://i4.ytimg.com/vi/CWdTBLsbaQs/hqdefault.jpg",
+   "views": 419588,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 OpenAI's paper is available here:…",
+   "relevance": 0
+  },
+  {
+   "id": "pryCaGv8wuo",
+   "title": "DeepSeek's New AI Is An Absolute Monster",
+   "url": "https://www.youtube.com/watch?v=pryCaGv8wuo",
+   "channel": "Two Minute Papers",
+   "published": "2026-10-28T17:32:40+00:00",
+   "thumbnail": "https://i1.ytimg.com/vi/pryCaGv8wuo/hqdefault.jpg",
+   "views": 176103,
+   "description": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 DeepSeek v4.1 Flash 1017 is available here: https://api-docs.deepseek.com/news/news261017/ Sources:…",
+   "relevance": 0
+  }
+ ],
+ "papers": [
+  {
+   "id": "2610.37381",
+   "title": "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations",
+   "authors": "Hanqing Wang, Zhaotian Cai, Ruichuan An, Bohan Zeng et al.",
+   "abstract": "Vision--Language--Action (VLA) models generate robot actions from visual observations and language instructions, but their understanding of physical dynamics remains limited. Video world models can capture scene dynamics, yet generating future videos introduces high latency into the control loop. We introduce PDRVLA, whose lightweight Physical Dynamics Module extracts physical tokens from vision--language features to condition action generation without online video generation. The module learns through direct prediction of future RGB, depth, and optical-flow features, with auxiliary supervision through a frozen pretrained video world model. Training relies entirely on publicly available data, expanded through human-to-robot synthesis, subtask annotation, and embodied chain-of-thought (ECoT) annotation. Across four simulation benchmarks, PDRVLA achieves success rates of 99.3% on LIBERO, 89.9% on LIBERO-Plus, 93.6% on RoboTwin~2.0, and 81.5% on SimplerEnv. Ablations show improved future prediction with world-model supervision and evaluate how subtask conditioning, future object-pose…",
+   "published": "2026-10-27T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.37381",
+   "pdf": "https://arxiv.org/pdf/2610.37381",
+   "upvotes": 154,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "PDRVLA improves robot action generation by integrating a lightweight physical dynamics module that predicts future visual features with world-model supervision, avoiding online video generation latency.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.36729",
+   "title": "Hy-Nomas: Towards Free-form Interactive World Generation",
+   "authors": "Qiaoling Chen, Jiaxiang Cheng, Xueqing Deng, Tiankai Hang et al.",
+   "abstract": "Interactive world generation requires models to follow successive commands while preserving relevant history and action consequences. We present Hy-Nomas, a video world model with an 8B diffusion backbone that supports free-form text instructions and continuous camera control across multiple interaction turns. It generates variable-length segments conditioned on current inputs and cached history. Our central design aligns structured video captions with action-aware causal attention: descriptive context remains accessible across segments, while action instructions are restricted to their intended temporal windows. A vision-language Prompt Enhancer (PE) translates user requests and multimodal interaction histories into structured conditions for the next segment. A multi-stage curriculum progressively introduces causal generation, text interaction, camera control, and training on model-generated histories, followed by diffusion distillation. In human evaluation, Hy-Nomas shows superior performance over existing world models. We release model weights, code and benchmarks, together with…",
+   "published": "2026-10-27T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.36729",
+   "pdf": "https://arxiv.org/pdf/2610.36729",
+   "upvotes": 122,
+   "github": "https://github.com/Tencent-Hunyuan/Hy-Nomas",
+   "origin": "hf",
+   "ai_summary": "Hy-Nomas is a video world model that uses causal attention and structured conditioning to generate interactive, multi-turn video segments with text and camera control.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.35684",
+   "title": "OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images",
+   "authors": "Junyeong Ahn, Geonwoo Kim, Kinam Kim, Gihwi Kim et al.",
+   "abstract": "Generating videos of a specific subject from a few reference images remains challenging when the camera reveals surfaces that are not visible in the input. Early subject-to-video (S2V) methods condition on a single reference image and must therefore infer the subject's unseen appearance and geometry as the viewpoint changes. To address this limitation, recent methods extend S2V to multiple reference views, providing more information about the subject from different viewpoints. However, they do not explicitly specify the 3D structure that connects these observations. In addition, existing training data do not guarantee that viewpoint changes preserve the same underlying 3D subject. We present OmniShowcase, built on two components: (i) a fully automated data synthesis pipeline that produces training videos along diverse camera trajectories, with viewpoint variation driven by underlying subject geometry, even spanning full 360-degree orbits; and (ii) a geometry-conditioning method that provides the video model with a turntable of surface-normal maps reconstructed from the reference…",
+   "published": "2026-10-26T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.35684",
+   "pdf": "https://arxiv.org/pdf/2610.35684",
+   "upvotes": 117,
+   "github": "https://github.com/justin4ai/OmniShowcase",
+   "origin": "hf",
+   "ai_summary": "OmniShowcase improves subject-to-video generation by using geometry-driven training data and surface-normal conditioning to maintain 3D consistency across novel viewpoints.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.32749",
+   "title": "Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes",
+   "authors": "Wendi Sang, Kai Li, Yifan Li, Jianqiang Huang et al.",
+   "abstract": "Streaming audio-visual target speaker extraction (AVTSE) is essential for latency-sensitive applications. However, current causal systems face two coupled gaps. First, standard benchmarks fix the number of speakers at two and ignore the near-/far-field interference, reverberation, and sudden noise of real scenes. Second, high-performance causal architectures are too heavy for edge deployment. Lightweight alternatives try to reclaim capacity by repeatedly invoking a small separator, which offsets the savings. To address the first gap, we release RealSSA, a realistic AVTSE benchmark consisting of RealSSA-Sim and RealSSA-Real. RealSSA-Sim provides controllable simulated scenes with 1--5 dynamic near-field interfering speakers; scenes with far-field interference additionally include 10--15 far-field interfering speakers. RealSSA-Real provides a held-out real-recorded evaluation set. To address the second gap, we propose Falcon, a causal AVTSE method. Its Separator performs multi-scale time-frequency separation in a single encoder--decoder pass. We train Falcon with an encoder-space…",
+   "published": "2026-10-23T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.32749",
+   "pdf": "https://arxiv.org/pdf/2610.32749",
+   "upvotes": 116,
+   "github": "https://github.com/JusperLee/Falcon",
+   "origin": "hf",
+   "ai_summary": "Falcon is a lightweight causal audio-visual target speaker extraction method that achieves high quality with drastically reduced parameters and latency, supported by the realistic RealSSA benchmark.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.36671",
+   "title": "Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs",
+   "authors": "Donghyeon Cho, Joowon Kim, Seungho Shin, Eunho Yang",
+   "abstract": "Diffusion vision-language models (DVLMs) process their entire input at every denoising step. Since visual tokens make up 89-97% of this input on the benchmarks we study, most of the decoding computation is spent repeatedly processing the same image. Visual token pruning methods partially relieve this burden by removing part of the visual tokens, but they lose the removed information and still process the remaining image at every step. To measure how often the image is actually needed, we compare LLaDA-V's predictions with and without the image at every decoding step and find that removing the image changes a token being unmasked at only 22.8% of steps on average and at as few as 7.9%. We therefore propose LOWN, a decoding method that decides at every step whether to process the image and how many tokens to unmask. LOWN predicts the masked tokens without the image and processes the image only when this prediction disagrees with the last image-conditioned prediction. Agreement certifies the earlier prediction for reuse, and the number of certified tokens sets how many are unmasked in…",
+   "published": "2026-10-27T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.36671",
+   "pdf": "https://arxiv.org/pdf/2610.36671",
+   "upvotes": 100,
+   "github": "https://github.com/hyeon9698/LOWN",
+   "origin": "hf",
+   "ai_summary": "LOWN adaptively skips image processing during diffusion vision-language model decoding when predictions agree, reducing computation while preserving accuracy.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.37230",
+   "title": "TAO: Tool-Aware Joint Scheduling for LLM-Based Agentic Serving",
+   "authors": "Shuhuai Li, Shengdong Ye, Dongdong Ge, Yinyu Ye et al.",
+   "abstract": "Agentic services alternate between model inference on clustered GPUs and external tools on distributed CPUs. In this scenario, existing systems (1) overlook tool-return readiness in service evaluation, wasting limited resources, and (2) use heuristic strategies to decide admission and placement on GPUs, resulting in suboptimal scheduling decisions. To bridge this gap, we present TAO, a tool-aware joint scheduling framework for LLM-based agentic serving. Its value interface combines near-term tool readiness, node-specific cache credit with time-aware decay, and token footprint; a dynamic program jointly selects and places waiting sessions under capacity constraints. Across the 12 reported model-workload-concurrency settings, TAO reduces latency by up to 26.8%, reduces mean time to first token (TTFT) by up to 36.3%, and increases decode throughput by up to 29.5% relative to the best evaluated state-of-the-art baseline for each metric.",
+   "published": "2026-10-27T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.37230",
+   "pdf": "https://arxiv.org/pdf/2610.37230",
+   "upvotes": 73,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "TAO improves scheduling for LLM agent services by considering tool readiness and using dynamic programming to place sessions, reducing latency and increasing throughput.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.38568",
+   "title": "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement",
+   "authors": "Yu Liu, Youxing Li, Yuedong Tan, Zhiwei Yang et al.",
+   "abstract": "Recursive self-improvement requires models not only to acquire useful training experience, but also to decide when their current experience has ceased to be useful. Existing methods often focus on what experience to generate next, while paying less attention to when fresh experience should be introduced. Many also construct training targets through self-consistency or majority voting, making supervision depend on the model's own uncertain predictions. We address these two questions separately: training dynamics determine when to acquire new experience, while the answers to new tasks remain independently checkable. A-RSI monitors reward variation and accuracy in training logs to refresh a task pool when its learning signal declines, without consulting validation or test scores. A static library of model-authored programs produces multimodal questions and derives their reference answers; we specify the task-generation contract, automatically verify chosen properties of the reward and refresh rules, and separately audit the generated answers. The training loop uses no external training…",
+   "published": "2026-10-28T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.38568",
+   "pdf": "https://arxiv.org/pdf/2610.38568",
+   "upvotes": 67,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "A-RSI improves recursive self-improvement by refreshing training tasks based on declining learning signals and using independently verifiable program-generated answers, raising benchmark performance without external labels.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.37666",
+   "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+   "authors": "Chaehyun Kim, Chi-Pin Huang, Jisoo Kim, Min-Hung Chen et al.",
+   "abstract": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations. Human videos provide much broader behavioral and environmental experience, while learning from them faces a fundamental trade-off between scalable data and explicit action grounding. We introduce ThinkWorld, a VLA learning framework that grounds action reasoning in world dynamics and strengthens it through reinforcement learning with world imagination. ThinkWorld represents each action thought as a Chain-of-Dynamics (CoD), a sequence of discrete motion tokens that captures the intermediate dynamics connecting the current world to a future state and serves as a common action representation across embodiments. We first initialize CoD with action-labeled demonstrations, then predict the future induced by each CoD and reinforce those whose predictions better match the observed outcome. This enables videos without action annotations to provide direct supervision from observed state…",
+   "published": "2026-10-27T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.37666",
+   "pdf": "https://arxiv.org/pdf/2610.37666",
+   "upvotes": 64,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "ThinkWorld improves robotic generalization by representing actions as dynamics chains and using world imagination to learn from unlabeled human videos.",
+   "relevance": 1,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.39302",
+   "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+   "authors": "Randall Balestriero, Yann LeCun",
+   "abstract": "Whether models trained on different modalities converge to the same representation of the world is central to AI. The Platonic Representation Hypothesis (PRH) conjectures that they do as they scale, but without a proof it offers neither a guarantee nor a recipe. We turn the hypothesis into a theorem. First, we prove a Platonic Representation Theorem: Joint-Embedding Predictive Architectures (JEPAs) trained separately on any number of modalities learn the same representation up to one rotation whenever their positive pairs are two observations of one scene--good views--and their misalignment is bounded otherwise. Second, we show that next-token prediction is a JEPA with bad views, parts of a single document, which explains why language models align with vision only through scale. Third, we validate the theory from 145k captions to the texts of 940M web images, and uncover a scaling law of alignment that predicts unseen runs within seed noise. Good views need 42 times fewer training samples than next-token prediction on the same corpus to reach the same alignment, and a 109M-parameter…",
+   "published": "2026-10-29T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.39302",
+   "pdf": "https://arxiv.org/pdf/2610.39302",
+   "upvotes": 60,
+   "github": "https://github.com/galilai-group/prh-proof",
+   "origin": "hf",
+   "ai_summary": "Joint-embedding predictive architectures trained on aligned multi-modal observations converge to shared representations with far greater efficiency than next-token prediction, demonstrating that positive view design—not scale alone—drives cross-modal alignment.",
+   "relevance": 0,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.37341",
+   "title": "CodeCap-Bench: Can Code Serve as a Good Video Caption?",
+   "authors": "Jiafu Tang, Yifan Xu, Eric Tang, Junjie Zhao et al.",
+   "abstract": "Video captioning aims to preserve visual information through compact descriptions, predominantly using natural language. However, precisely expressing fine-grained spatial structures and temporal dynamics in natural language often leads to lengthy and potentially ambiguous descriptions. In this work, we explore Code as Video Caption, a paradigm where executable programs serve as a complementary representation of visual content through graphical primitives, layout rules, and functions of time. To examine whether code captions effectively preserve video information, we compare them with natural language captions on downstream question answering and video reconstruction tasks. Our results show that code captions achieve superior reasoning accuracy and reconstruction fidelity. Despite these advantages, realizing the potential of code captioning depends on whether current multimodal large language models (MLLMs) can generate faithful code captions. To systematically assess this capability, we introduce CodeCap-Bench, which comprises 323 videos spanning five categories of structured 2D…",
+   "published": "2026-10-27T00:00:00.000Z",
+   "url": "https://arxiv.org/abs/2610.37341",
+   "pdf": "https://arxiv.org/pdf/2610.37341",
+   "upvotes": 53,
+   "github": null,
+   "origin": "hf",
+   "ai_summary": "Executable code representations of video content improve reasoning and reconstruction over natural language, yet current multimodal models still struggle to generate faithful code captions for complex temporal dynamics.",
+   "relevance": 2,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.40379",
+   "title": "Agentic LLM reasoning in pediatric diabetes outcome prediction from multimodal medical records",
+   "authors": "Daniel Palacios, Guantong Qi, Anna Kadi, Natali Borrego et al.",
+   "abstract": "Large language model (LLM) agents are proposed for clinical prediction but are untested in pediatrics, where cohorts are small and outcomes are uncommon. Using records from 2,489 youth with type 2 diabetes (T2D) and 4,018 with type 1 diabetes (T1D), spanning structured data, note-derived social determinants and, in T1D, continuous glucose monitoring data, we predicted seven T2D outcomes, four also in T1D, at 24 months from 18 months of follow-up. CEDAR (Clinical Evidence-Driven Agent for Risk-prediction), an evidence-citing, self-auditing LLM pipeline, outperformed trained machine learning in both cohorts (pooled area under the receiver operating characteristic curve 0.815 versus 0.656 to 0.700 in T2D and 0.756 versus 0.603 to 0.631 in T1D), most on the sparsely screened outcomes. Only 4 of 70,246 values it cited did not match the chart. Reading only the evidence and reasoning cited by CEDAR, two pediatric endocrinologists reached the same prediction as CEDAR in about nine of ten cases, agreeing with each other on 90.5%.",
+   "published": "2026-10-29T16:23:47Z",
+   "url": "https://arxiv.org/abs/2610.40379",
+   "pdf": "https://arxiv.org/pdf/2610.40379",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "q-bio.QM",
+    "cs.CL"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.40350",
+   "title": "Don't Lose the Thread: Empowering Long-Horizon LLM Agents with Cognitive Resource Self-Allocation",
+   "authors": "Zheng Zhu, Xiaozhuan Liang, Xi Chen, Bei Yu et al.",
+   "abstract": "Agents powered by large language models (LLMs) have demonstrated remarkable progress in solving complex reasoning tasks. However, LLM agents often falter on long-horizon tasks due to cognitive overload, as their working memory becomes cluttered with expanding and irrelevant information, which dilutes their attention and hinders effective planning and reasoning. To mitigate this challenge, we introduce Cognitive Resource Self-Allocation (CORAL), a novel reasoning paradigm that empowers agents to proactively optimize their context. Implemented as an agent-callable working memory management toolset, CORAL allows an agent to checkpoint its task progress and verified facts, and adaptively initiate a new problem-solving episode by resetting cluttered context while preserving only the checkpointed information, enabling it to resume reasoning from a clean state. We further enhance the agent's checkpointing capabilities using a Multi-episode Agentic Reinforced Policy Optimization algorithm. On the GAIA benchmark, CORAL with an 8B model achieves 42.8% average accuracy, with particularly…",
+   "published": "2026-10-29T16:07:10Z",
+   "url": "https://arxiv.org/abs/2610.40350",
+   "pdf": "https://arxiv.org/pdf/2610.40350",
+   "upvotes": 0,
+   "github": "https://github.com/JIA-Lab-research/CORAL",
+   "origin": "arxiv",
+   "categories": [
+    "cs.CL"
+   ],
+   "relevance": 4,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.40532",
+   "title": "BURGER: Benchmarking and Understanding Robotic Generalization via Embodied Drawing",
+   "authors": "Xiangyu Xu, Bangshuai Peng, Ziyi Liu, Mengjie Zhao et al.",
+   "abstract": "How effectively can vision-language-action (VLA) models learn diverse language-conditioned behaviors as training data scales? Investigating this question requires large and varied robot datasets, whose collection on physical robots remains costly. We introduce BURGER, a language-conditioned robotic drawing benchmark with a scalable, prompt-driven pipeline for generating continuous drawing trajectories, both in simulation and the real world. In BURGER, an agent starts from the same blank canvas and controls a robot arm to draw the object or spatial composition specified by language, while each instruction allows an open-ended variety of valid drawings and stroke orders. Using 28,200 simulated demonstrations spanning 282 drawing tasks, we evaluate five representative VLA models across data scales, language grounding, and multimodal behavior. BURGER supports fine-grained analysis of language grounding, spatial composition, and action generation, revealing distinct failure patterns across VLA models. Our experiments suggest that some VLA models can benefit from greater task diversity…",
+   "published": "2026-10-29T17:34:04Z",
+   "url": "https://arxiv.org/abs/2610.40532",
+   "pdf": "https://arxiv.org/pdf/2610.40532",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.RO",
+    "cs.AI"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.40370",
+   "title": "The Athlete as a Scientist of One: Agentic Bayesian Experimental Design for Individualized Physiology from Consumer Wearables",
+   "authors": "Behnam Moradi",
+   "abstract": "Large language model (LLM) agents for personal health read wearable data and recommend, but do not learn about the individual in a way that can be audited or falsified. We present EpiCoach, an agentic system that treats one athlete, a cross-country mountain biker, as the subject of accountable N-of-1 science. Claims about the athlete live in an evidence-gated hypothesis registry: each must issue a probabilistic prediction about a future session before it occurs, and its belief moves only through computed evidence from a logged statistical fit. Predictions come from a mechanistic digital twin inferred from heart rate, GPS and barometric altitude: a lagged heart-rate response model, a fitness-fatigue model with learned time constants, and a latent technical-descending skill state, measured on discovered trail segments. The agent prescribes the next training week as a constrained experiment maximizing information gain subject to load and safety constraints, around two instrument rides. We evaluate the system two ways over eighteen months of data. A rolling-origin replay benchmark shows…",
+   "published": "2026-10-29T16:20:24Z",
+   "url": "https://arxiv.org/abs/2610.40370",
+   "pdf": "https://arxiv.org/pdf/2610.40370",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.RO",
+    "cs.AI"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2610.40238",
+   "title": "ScienceJudge: Pattern Perturbation Augmentation for Sentence-Level Scientific Claim Verification",
+   "authors": "Chuhai Cai, Xin Chen, Min Yang, Feng Jiang",
+   "abstract": "Sentence-level scientific claim verification determines whether each sentence in an AI-generated scientific paragraph is supported by a given multimodal evidence bundle. Fine-grained reporting errors often preserve fluent and plausible statements while introducing subtle evidence-claim deviations, making them difficult to detect under sparse and imbalanced supervision. We propose Pattern Perturbation Augmentation (PPA), which models reporting errors as label-specific faithfulness breaking transformations and induces reusable error patterns from labeled examples. PPA applies these patterns to supported claims to construct controlled hard negatives and expands their coverage through pattern-level, operation-level, and cross-domain augmentation. Based on these augmented views, we develop ScienceJudge, which integrates PPA-trained vision-language predictors and instruction-guided LLM predictors through class-weighted ensemble inference. On the local development set, ScienceJudge improves the average score from 0.8124 to 0.8692, achieving a Macro-F1 of 0.8466 and a Paragraph Exact Match…",
+   "published": "2026-10-29T15:12:35Z",
+   "url": "https://arxiv.org/abs/2610.40238",
+   "pdf": "https://arxiv.org/pdf/2610.40238",
+   "upvotes": 0,
+   "github": null,
+   "origin": "arxiv",
+   "categories": [
+    "cs.CL"
+   ],
+   "relevance": 3,
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "classics": [
+  {
+   "id": "2304.07193",
+   "title": "DINOv2: Learning Robust Visual Features without Supervision",
+   "year": 2023,
+   "authors": "M. Oquab, Timothée Darcet, Théo Moutakanni et al.",
+   "abstract": "The recent breakthroughs in natural language processing for model pretraining on large quantities of data have opened the way for similar foundation models in computer vision. These models could greatly simplify the use of images in any system by producing all-purpose visual features, i.e., features that work across image distributions and tasks without finetuning. This work shows that existing pretraining methods, especially self-supervised methods, can produce such features if trained on enough curated data from diverse sources. We revisit existing approaches and combine different techniques to scale our pretraining in terms of data and model size. Most of the technical contributions aim…",
+   "citations": 11793,
+   "url": "https://arxiv.org/abs/2304.07193",
+   "cited_by": [
+    "OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images",
+    "Proving and Improving the Platonic Representation Hypothesis with JEPAs"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2403.03206",
+   "title": "Scaling Rectified Flow Transformers for High-Resolution Image Synthesis",
+   "year": 2024,
+   "authors": "Patrick Esser, S. Kulal, A. Blattmann et al.",
+   "abstract": "Diffusion models create data from noise by inverting the forward paths of data towards noise and have emerged as a powerful generative modeling technique for high-dimensional, perceptual data such as images and videos. Rectified flow is a recent generative model formulation that connects data and noise in a straight line. Despite its better theoretical properties and conceptual simplicity, it is not yet decisively established as standard practice. In this work, we improve existing noise sampling techniques for training rectified flow models by biasing them towards perceptually relevant scales. Through a large-scale study, we demonstrate the superior performance of this approach compared to…",
+   "citations": 5151,
+   "url": "https://arxiv.org/abs/2403.03206",
+   "cited_by": [
+    "Hy-Nomas: Towards Free-form Interactive World Generation",
+    "OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2410.24164",
+   "title": "π0: A Vision-Language-Action Flow Model for General Robot Control",
+   "year": 2024,
+   "authors": "Kevin Black, Noah Brown, Danny Driess et al.",
+   "abstract": "Robot learning holds tremendous promise to unlock the full potential of flexible, general, and dexterous robot systems, as well as to address some of the deepest questions in artificial intelligence. However, bringing robot learning to the level of generality required for effective real-world systems faces major obstacles in terms of data, generalization, and robustness. In this paper, we discuss how generalist robot policies (i.e., robot foundation models) can address these challenges, and how we can design effective generalist robot policies for complex and highly dexterous tasks. We propose a novel flow matching architecture built on top of a pre-trained vision-language model (VLM) to…",
+   "citations": 3420,
+   "url": "https://arxiv.org/abs/2410.24164",
+   "cited_by": [
+    "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations",
+    "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2311.15127",
+   "title": "Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets",
+   "year": 2023,
+   "authors": "A. Blattmann, Tim Dockhorn, S. Kulal et al.",
+   "abstract": "We present Stable Video Diffusion - a latent video diffusion model for high-resolution, state-of-the-art text-to-video and image-to-video generation. Recently, latent diffusion models trained for 2D image synthesis have been turned into generative video models by inserting temporal layers and finetuning them on small, high-quality video datasets. However, training methods in the literature vary widely, and the field has yet to agree on a unified strategy for curating video data. In this paper, we identify and evaluate three different stages for successful training of video LDMs: text-to-image pretraining, video pretraining, and high-quality video finetuning. Furthermore, we demonstrate the…",
+   "citations": 3100,
+   "url": "https://arxiv.org/abs/2311.15127",
+   "cited_by": [
+    "Hy-Nomas: Towards Free-form Interactive World Generation",
+    "OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2306.03310",
+   "title": "LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning",
+   "year": 2023,
+   "authors": "Bo Liu, Yi-Feng Zhu, Chongkai Gao et al.",
+   "abstract": "Lifelong learning offers a promising paradigm of building a generalist agent that learns and adapts over its lifespan. Unlike traditional lifelong learning problems in image and text domains, which primarily involve the transfer of declarative knowledge of entities and concepts, lifelong learning in decision-making (LLDM) also necessitates the transfer of procedural knowledge, such as actions and behaviors. To advance research in LLDM, we introduce LIBERO, a novel benchmark of lifelong learning for robot manipulation. Specifically, LIBERO highlights five key research topics in LLDM: 1) how to efficiently transfer declarative knowledge, procedural knowledge, or the mixture of both; 2) how to…",
+   "citations": 2126,
+   "url": "https://arxiv.org/abs/2306.03310",
+   "cited_by": [
+    "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations",
+    "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2310.02255",
+   "title": "MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts",
+   "year": 2023,
+   "authors": "Pan Lu, Hritik Bansal, Tony Xia et al.",
+   "abstract": "Large Language Models (LLMs) and Large Multimodal Models (LMMs) exhibit impressive problem-solving skills in many tasks and domains, but their ability in mathematical reasoning in visual contexts has not been systematically studied. To bridge this gap, we present MathVista, a benchmark designed to combine challenges from diverse mathematical and visual tasks. It consists of 6,141 examples, derived from 28 existing multimodal datasets involving mathematics and 3 newly created datasets (i.e., IQTest, FunctionQA, and PaperQA). Completing these tasks requires fine-grained, deep visual understanding and compositional reasoning, which all state-of-the-art foundation models find challenging. With…",
+   "citations": 2048,
+   "url": "https://arxiv.org/abs/2310.02255",
+   "cited_by": [
+    "Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs",
+    "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2203.10244",
+   "title": "ChartQA: A Benchmark for Question Answering about Charts with Visual and Logical Reasoning",
+   "year": 2022,
+   "authors": "Ahmed Masry, Do Xuan Long, J. Tan et al.",
+   "abstract": "Charts are very popular for analyzing data. When exploring charts, people often ask a variety of complex reasoning questions that involve several logical and arithmetic operations. They also commonly refer to visual features of a chart in their questions. However, most existing datasets do not focus on such complex reasoning questions as their questions are template-based and answers come from a fixed-vocabulary. In this work, we present a large-scale benchmark covering 9.6K human-written questions as well as 23.1K questions generated from human-written chart summaries. To address the unique challenges in our benchmark involving visual and logical reasoning over charts, we present two…",
+   "citations": 2010,
+   "url": "https://arxiv.org/abs/2203.10244",
+   "cited_by": [
+    "Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs",
+    "A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  },
+  {
+   "id": "2410.18072",
+   "title": "WorldSimBench: Towards Video Generation Models as World Simulators",
+   "year": 2024,
+   "authors": "Yi-Ran Qin, Zhelun Shi, Ji-Wen Yu et al.",
+   "abstract": "Recent advancements in predictive models have demonstrated exceptional capabilities in predicting the future state of objects and scenes. However, the lack of categorization based on inherent characteristics continues to hinder the progress of predictive model development. Additionally, existing benchmarks are unable to effectively evaluate higher-capability, highly embodied predictive models from an embodied perspective. In this work, we classify the functionalities of predictive models into a hierarchy and take the first step in evaluating World Simulators by proposing a dual evaluation framework called WorldSimBench. WorldSimBench includes Explicit Perceptual Evaluation and Implicit…",
+   "citations": 1392,
+   "url": "https://arxiv.org/abs/2410.18072",
+   "cited_by": [
+    "Hy-Nomas: Towards Free-form Interactive World Generation",
+    "OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images"
+   ],
+   "why": "Cité par 2 papiers tendance du jour",
+   "fulltext": true,
+   "notebook": false
+  }
+ ],
+ "stats": {
+  "raw_news": 23,
+  "stories": 10,
+  "videos": 2,
+  "papers": 15,
+  "classics": 8,
+  "seconds": 685
+ }
+}
